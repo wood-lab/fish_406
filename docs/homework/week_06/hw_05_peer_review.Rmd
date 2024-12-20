@@ -2,7 +2,7 @@
 title: "Reviewing a manuscript"
 subtitle: "Homework #5"
 author: "FISH 521 - Proposal Writing and Professional Development"
-date: "12 February 2024"
+date: "10 February 2024"
 output:
   html_document:
     theme: cerulean
@@ -20,14 +20,14 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Instructions
 
-Write a peer review of the preprint article by Purgar et al. titled *Identify, quantify, act: tackling the unused potential of ecological research*, which has been posted to the EcoEvoRxiv Preprint server and you can download  [here](Purgar_preprint_unused_research.pdf). This paper is written in more of an essay format, but it is general enough that everyone in class should be able to read, undertand, and comment on it.
+Write a peer review of the preprint article by Purgar et al. titled *Identify, quantify, act: Tackling the unused potential of ecological research*, which has been posted to the EcoEvoRxiv Preprint server and you can download  [here](Purgar_preprint_unused_research.pdf). This paper is written in more of an essay format, but it is general enough that everyone in class should be able to read, understand, and comment on it.
 
 Your review should follow the template provided below.
 
 
 ## Submission
 
-When you are finished, attach your Word document to an email or provide a link to a Google document, such that Mark will be able to provide comments directly on the draft itself (ie, do not paste it into the body of an email)
+When you are finished, submit a Word document or a link to a Google doc via Canvas, such that Chelsea will be able to provide comments directly on the draft itself
 
 
 ***

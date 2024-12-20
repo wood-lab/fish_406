@@ -1,8 +1,8 @@
 ---
-title: "Student presentations"
-subtitle: "Homework #7"
+title: "Proposal presentation"
+subtitle: "Homework #6"
 author: "FISH 521 - Proposal Writing and Professional Development"
-date: "26 February 2024"
+date: "24 February 2024"
 output:
   html_document:
     theme: cerulean
@@ -20,7 +20,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Background
 
-Your assignment this week is to give a live presentation of your proposal idea **in class** on March 4. Your presentation should cover the following elements:
+Your assignment this week is to give a live presentation of your proposal idea **in class** on 3 March. Your presentation should cover the following elements:
 
 * Background and rationale for your proposed research
 
@@ -35,13 +35,13 @@ Your assignment this week is to give a live presentation of your proposal idea *
 
 ## Evaluation rubric
 
-Mark will evaluate the quality of your presentation based on the following criteria:
+Chelsea will evaluate the quality of your presentation based on the following criteria:
 
 * Title slide with name, affiliation, and contact info
 
 * Acknowledgment of collaborators and funders
 
-* Layout/design of the slides (eg, good color contrast, appropriate font size)
+* Layout/design of the slides (e.g., good color contrast, appropriate font size)
 
 * Speaking clearly and addressing the audience rather than the computer or slides
 
@@ -58,12 +58,12 @@ Mark will evaluate the quality of your presentation based on the following crite
 
 ## Presentation upload
 
-Please note that due to our tight time frame in class, **you are required to upload your presentation no later than 12:30 PM Pacific Standard Time on March 4** using [this link](https://forms.gle/st4cSc3Z9htH4FyG8). Also note that **presentations will only be accepted in either presentation** (`.ppt`, `.pptx`) **or PDF** (`.pdf`) **formats**. If you use an `.html` format (eg, ioslides, Xaringan), you will need to print your slide deck to a `.pdf` format using your browser's print function.
+Please note that due to our tight time frame in class, **you are required to upload your presentation no later than 12:30 PM Pacific Standard Time on 3 March** using [this link](https://forms.gle/Buus7mn2sv6bqynP8). Also note that **presentations will only be accepted in either presentation** (`.ppt`, `.pptx`) **or PDF** (`.pdf`) **formats**. If you use an `.html` format (eg, ioslides, Xaringan), you will need to print your slide deck to a `.pdf` format using your browser's print function.
 
 
 ## Schedule
 
-Here is the schedule for the day. **Note that everyone has a total of 8 minutes for their presentation**. This includes Mark's introduction of you and any Q&A.
+Here is the schedule for the day. **Note that everyone has a total of 8 minutes for their presentation**. This includes Chelsea's introduction of you and any Q&A.
 
 ```{r schedule, echo = FALSE}
 library(magrittr)

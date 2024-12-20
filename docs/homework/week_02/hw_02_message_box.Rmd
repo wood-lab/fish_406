@@ -1,5 +1,5 @@
 ---
-title: "Using a Message Box"
+title: "Using a message box"
 subtitle: "Homework #2"
 author: "FISH 521 - Proposal Writing and Professional Development"
 date: "13 January 2024"

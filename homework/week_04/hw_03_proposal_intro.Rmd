@@ -1,8 +1,8 @@
 ---
-title: "Proposal introduction & rationale"
+title: "Draft proposal introduction"
 subtitle: "Homework #3"
 author: "FISH 521 - Proposal Writing and Professional Development"
-date: "29 January 2024"
+date: "27 January 2024"
 output:
   html_document:
     theme: cerulean
@@ -20,11 +20,11 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Background
 
-Your assignment this week is to draft the introduction and rationale for a research proposal based on your area of research. As we discussed in class, this is an important part of every proposal because it sets the stage by providing background information and justification for the proposed research (ie, "Why is this topic important?").
+Your assignment this week is to draft the introduction and rationale for a research proposal based on your area of research. As we discussed in class, this is an important part of every proposal because it sets the stage by providing background information and justification for the proposed research (i.e., "Why is this topic important?").
 
 ## Instructions
 
-Write a draft consisting of 3 paragraphs with the following general structure:
+Write a draft consisting of at least 3 paragraphs with the following general structure:
 
 1) What is the problem/question and why is it important?
 
@@ -36,4 +36,4 @@ Make sure to cite all relevant references and include them in a section labeled 
 
 ## Submission
 
-When you are finished, attach your Word document to an email or provide a link to a Google document, such that Mark will be able to provide comments directly on the draft itself (ie, do not paste it into the body of an email)
+When you are finished, submit via Canvas as a Word document or provide a link to a Google document, such that Chelsea will be able to provide comments directly on the draft itself.

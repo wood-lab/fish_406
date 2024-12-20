@@ -2,7 +2,7 @@
 title: "Writing a cover letter"
 subtitle: "Homework #4"
 author: "FISH 521 - Proposal Writing and Professional Development"
-date: "5 February 2024"
+date: "3 February 2024"
 output:
   html_document:
     theme: cerulean
@@ -20,12 +20,12 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Instructions
 
-Write a cover letter for a submission to a journal using the template below. Base your letter upon the paper you chose for HW #1 as though it were your own original manuscript. Alternatively, you may choose to base your letter upon a paper you are currently getting ready to submit.
+Write a cover letter for a submission to a journal using the template below. Base your letter upon the paper you chose for HW #1, as though it were your own original manuscript. Alternatively, you may choose to base your letter upon a paper you are currently getting ready to submit.
 
 
 ## Submission
 
-When you are finished, attach your Word document to an email or provide a link to a Google document, such that Mark will be able to provide comments directly on the draft itself (ie, do not paste it into the body of an email)
+When you are finished, submit a Word document or Google Docs link to Canvas, such that Chelsea will be able to provide comments directly on the draft itself.
 
 
 ***
@@ -40,7 +40,7 @@ When you are finished, attach your Word document to an email or provide a link t
 
 Dear Dr. [Editor's last name]:
 
-[Paragraph 1: 2–3 sentences] Begin with a sentence that mentions the paper's title and the journal to which you are submitting. Then include 1-2 sentences that summarizes the study design, your research question, your major findings, and the conclusion.
+[Paragraph 1: 2–3 sentences] Begin with a sentence that mentions the paper's title and the journal to which you are submitting. Then include 1-2 sentences that summarize the study design, your research question, your major findings, and the conclusion.
 
 [Paragraph 2: 2–5 sentences] Describe the context that prompted your research and state why the paper will appeal to the journal's readership. Include information that connects your submission to aspects of the journal's *Aim and Scope*. Here are some tips:
 

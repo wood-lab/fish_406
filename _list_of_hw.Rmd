@@ -11,7 +11,7 @@ knitr::opts_chunk$set(echo = FALSE)
 ## week 1
 focal_paper <- list(
   title = "",
-  topics = c("Focal paper & relevant references"),
+  topics = c("Finding an interesting paper"),
   pdf = "",
   rmd = "",
   html = "homework/week_01/hw_01_references.html",
@@ -21,7 +21,7 @@ focal_paper <- list(
 ## week 2
 message_box <- list(
   title = "",
-  topics = c("Message boxes"),
+  topics = c("Using a message box"),
   pdf = "",
   rmd = "",
   html = "homework/week_02/hw_02_message_box.html",
@@ -51,7 +51,7 @@ proposal_draft <- list(
 ## week 5
 cover_letter <- list(
   title = "",
-  topics = c("Cover letter to journal"),
+  topics = c("Writing a cover letter"),
   pdf = "",
   rmd = "",
   html = "homework/week_05/hw_04_cover_letter.html",
@@ -61,7 +61,7 @@ cover_letter <- list(
 ## week 6
 review_draft <- list(
   title = "",
-  topics = c("Peer review of paper"),
+  topics = c("Reviewing a manuscript"),
   pdf = "",
   rmd = "",
   html = "homework/week_06/hw_05_peer_review.html",
