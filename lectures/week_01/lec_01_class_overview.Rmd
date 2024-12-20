@@ -1,8 +1,8 @@
 ---
 title: "Course overview"
 subtitle: "Proposal writing & professional development<br>FISH 521"
-author: "Mark Scheuerell"
-date: "8 January 2024"
+author: "Chelsea Wood"
+date: "6 January 2024"
 output:
   ioslides_presentation:
     css: lecture_slides.css
@@ -19,30 +19,33 @@ WHO AM I?
 </font>
 
 
-## Mark Scheuerell
+## Chelsea Wood
 
-* Assistant Unit Leader, USGS WACFWRU (2019-present)
+* Assistant Professor, SAFS (2016-2021)
 
-* Associate Professor, SAFS (2019-present)
+* Associate Professor, SAFS (2021-present)
 
-* Research Fisheries Biologist, NOAA Fisheries (2003-2019)
+* Graduate Program Coordinator, SAFS (2023-present)
+
+* Associate Director, SAFS (2023-present)
 
 
-## Mark Scheuerell
 
-* Assistant Unit Leader, USGS WACFWRU (2019-present)
+## Chelsea Wood
 
-* Associate Professor, SAFS (2019-present)
+* Assistant Professor, SAFS (2016-2021)
 
-* Research Fisheries Biologist, NOAA (2003-2019)
+* Associate Professor, SAFS (2021-present)
 
-* Grew up in Sartell, MN
+* Graduate Program Coordinator, SAFS (2023-present)
 
-* BS from Univ of Wisconsin - Madison
+* Associate Director, SAFS (2023-present)
 
-* MS from Cornell University
+* Grew up on Long Island, NY
 
-* PhD from UW (advisor: Daniel Schindler)
+* BS from Dartmouth (advisor: Kathy Cottingham)
+
+* PhD from Stanford (advisor: Fio Micheli)
 
 
 ## {.flexbox .vcenter .bigger}
@@ -52,48 +55,33 @@ MY QUALIFICATIONS?
 </font>
 
 
-## Mark Scheuerell
+## Chelsea Wood
 
 * Author of 70+ peer-reviewed papers
 
 
-## Mark Scheuerell
+## Chelsea Wood
 
 * Author of 70+ peer-reviewed papers
 
-* Associate Editor, *Limnology and Oceanography Letters* (2016-present)
+* Assistant Editor, *Frontiers in Ecology and the Environment* (2006-2008)
 
-* Special Issue Editor, *Limnology and Oceanography* (2017-2018)
+* Subject Matter Editor, *Ecology* (2021-present)
 
-* Associate Editor, *Ecological Research* (2007-2017)
+* Associate Editor, *Proceedings B* (2018-present)
 
-* Manuscript reviewer for 30+ journals
+* Associate Editor, *Journal of Animal Ecology* (2021-present)
 
-* Outstanding Reviewer, *Canadian Journal of Fisheries and Aquatic Sciences* (2017) 
+* Manuscript reviewer for 40+ journals
 
-
-## Mark Scheuerell
-
-* Author of 70+ peer-reviewed papers
-
-* Associate Editor, *Limnology and Oceanography Letters* (2016-present)
-
-* Special Issue Editor, *Limnology and Oceanography* (2017-2018)
-
-* Associate Editor, *Ecological Research* (2007-2017)
-
-* Manuscript reviewer for 30+ journals
-
-* Outstanding Reviewer, *Canadian Journal of Fisheries and Aquatic Sciences* (2017) 
-
-* Panel reviewer for NSF
+* Proposal reviewer for US National Science Foundation and the national science foundations of 7 other countries
 
 
 ## My role as course instructor
 
 > - Help you learn the material
 
-> - Be a future resource
+> - Be a resource for you into the future
 
 
 ## {.flexbox .vcenter .bigger}
@@ -141,7 +129,7 @@ Course logistics
 ## {.flexbox .vcenter .bigger}
 
 <font size="10">
-[__Course information__](https://uw-fish521.github.io/website/index.html)
+[__Course information__](https://wood-lab.github.io/fish_521/)
 </font>
 
 

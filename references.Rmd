@@ -7,13 +7,15 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-Students are not required to purchase any materials for the course, as we will rely upon freely available information sources. As the course progresses, more references will be added to this page.
+Students are not required to purchase any materials for the course, as we will rely upon freely available information sources. But here are some useful resources that you might consult during and after the course.
 
 <br>
 
 ## Books
 
-Heard SB. 2016. [*The Scientist’s Guide to Writing*](https://scientistseessquirrel.wordpress.com/the-scientists-guide-to-writing/). Princeton University Press. 301 pp.
+Heard SB. 2016. [*The Scientist’s Guide to Writing*](https://scientistseessquirrel.wordpress.com/the-scientists-guide-to-writing/). Princeton University Press.
+
+Zinsser W. 2016. [*On Writing Well*](https://www.harpercollins.com/products/on-writing-well-william-zinsser?variant=32118081159202). HarperCollins.
 
 
 <br>
@@ -21,6 +23,7 @@ Heard SB. 2016. [*The Scientist’s Guide to Writing*](https://scientistseessqui
 ## Papers
 
 Sand-Jensen K. 2007. [How to write consistently boring scientific literature](references/Sand‐Jensen_2007_How_to_write_consistently_boring_scientific_literature.pdf). Oikos 116:723-727
+
 
 <br>
 
