@@ -12,7 +12,7 @@ navbar:
       href: references.html
     - text: ""
       icon: fab fa-github
-      href: https://github.com/UW-FISH521
+      href: https://wood-lab.github.io/fish_521/
 output_dir: "docs"
 output:
   html_document:

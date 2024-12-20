@@ -1,8 +1,8 @@
 ---
-title: "Using a Message Box"
+title: "Using a message box"
 subtitle: "Homework #2"
 author: "FISH 521 - Proposal Writing and Professional Development"
-date: "22 January 2024"
+date: "13 January 2024"
 output:
   html_document:
     theme: cerulean
@@ -20,18 +20,18 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Task 1
 
-Complete a message box for *any* issue aimed at *any* audience. This could be something related to your (intended) research, a hobby, a socio-political issue you're passionate about, etc. 
+Complete a message box for *any* issue aimed at *any* audience. This could be something related to your (intended) research, a hobby, an issue you're passionate about, etc. 
 
 
 ## Task 2
 
-Complete a message box with the intention of targeting a granting agency (ie, the "audience") for funding to support *any* aspect of your graduate studies. If the specifics of your project are still uncertain, feel free to address another issue you find particularly interesting or important.
+Complete a message box with the intention of targeting a granting agency (i.e., the "audience") for funding to support *any* aspect of your graduate studies. If the specifics of your project are still uncertain, feel free to address another scientific question you find interesting or important.
 
 
 ### Submitting your assignment
 
 You have 2 options for submitting this assignment:
 
-* print a message box, fill it out in pencil/ink, scan it or take a picture of it, and then email it to Mark
+* print a message box, fill it out in pencil/ink, scan it or take a picture of it, and then submit it via Canvas as a pdf
 
-* write out each of the sections in a Word or Google doc, and then send the doc (or link) to Mark
+* write out each of the sections in a Word or Google doc, and then submit it via Canvas as a pdf

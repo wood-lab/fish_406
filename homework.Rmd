@@ -15,7 +15,7 @@ library(magrittr)
 library(kableExtra)
 ```
 
-All homework assignments should be emailed to the instructor at `scheuerl@uw.edu` with the subject line `FISH 521 - HW?` where `?` is the assignment number.
+All homework assignments should be submitted via Canvas.
 
 ```{r week_hw, include = FALSE}
 ## empty list for labs
@@ -23,8 +23,8 @@ week_hw <- vector("list", 9)
 names(week_hw) <- paste0("L", seq(9))
 ## hw topics
 week_hw$L1 <- focal_paper
-week_hw$L2 <- holiday_1
-week_hw$L3 <- message_box
+week_hw$L2 <- message_box
+week_hw$L3 <- holiday_1
 week_hw$L4 <- proposal_draft
 week_hw$L5 <- cover_letter
 week_hw$L6 <- review_draft
@@ -125,8 +125,8 @@ names(percents_html) <- NULL
 ```{r generate_table, echo=FALSE}
 ## due dates
 due_date <- sub("0(\\d)", "\\1", format(mon[1:9] + 7, "%d %b"))
-due_date[c(2,7)] <- " "
-due_date[9] <- "13 Mar"
+due_date[c(3,7)] <- " "
+due_date[9] <- "17 Mar"
 ## data frame with dates & topics
 syl_txt <- data.frame(
   assign_date = qtr,
