@@ -1,8 +1,8 @@
 ---
 title: "Publishing a scientific paper"
 subtitle: "Proposal writing & professional development<br>FISH 521"
-author: "Mark Scheuerell"
-date: "29 January 2024"
+author: "Chelsea Wood"
+date: "27 January 2025"
 output:
   ioslides_presentation:
     css: lecture_slides.css
@@ -35,7 +35,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 > - consult journal guidelines
 
-> - Err on the side of inclusion
+> - err on the side of inclusion
 
 > - value diversity
 
@@ -57,7 +57,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## Process of publishing | D. Collaboration platform is agreed upon
 
-> - eg, Google Doc, Dropbox, GitHub, email
+> - e.g., Google Doc, Dropbox, GitHub, email
 
 > - **think hard** about the pros & cons
 
@@ -112,11 +112,11 @@ knitr::opts_chunk$set(echo = FALSE)
 
 > - "desk rejection" may owe to wrong scope or poor scholarship; following journal guidelines reduces the odds of this
 
-> - paper assigned to associate editor who finds reviewers
+> - paper assigned to Associate Editor (AE) or Subject Matter Editor (SME) who finds reviewers
 
 > - reviewers are often neglected, overdue & rushed (this can take months)
 
-> - associate editor summarizes reviews, adds their own comments & makes recommendation to EIC
+> - AE summarizes reviews, adds their own comments & makes recommendation to EIC
 
 > - EIC makes final decision
 
@@ -129,7 +129,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 > - reject
 
-> - **BEWARE**: reviewer comments can be blunt, unnecessarily degrading & utterly demoralizing
+> - **BEWARE the double-edged sword of peer review**: it's magical that seasoned professionals donate their time to improve your paper, with no reward in it for themselves. Most reviews are generous and constructive, but there can be the occasional dragon: a minority of reviewers may be blunt, even rude. Don't be that guy, and don't let that guy grind you down.
 
 > - ask your advisor about their approach / policy
 
@@ -158,7 +158,7 @@ Example
 
 *P 13 L 11-12: It's simply absurd to think that an increase in water temperature of 1.9 degrees C could elicit the change in growth you observed.*
 
-Our findings are very much in line with previous studies showing the effect of temperatuure on growth. For example, the reference we cited (Smith 2020) presents rather compelling evidence that a difference of only 1.5 degrees C increased growth by 20%.
+Our findings are very much in line with previous studies showing the effect of temperature on growth. For example, the reference we cited (Smith 2020) presents rather compelling evidence that a difference of only 1.5 degrees C increased growth by 20%.
 
 
 ## Process of publishing | J. Revising & resubmitting
@@ -361,9 +361,9 @@ specific
 
 > - provide important details but omit irrelevant ones; relevance depends on the objectives
 
-> - avoid a step by step description (eg, "First we drove to the river, then we were given instructions, and then..."
+> - avoid a step by step description (e.g., "First we drove to the river, then we were given instructions, and then..."
 
-> - sub-headings can be useful (eg, Study site, Species, Statistical models)
+> - sub-headings can be useful (e.g., Study site, Species, Statistical models)
 
 > - figures (schematics) can be useful for showing process(es)
 
@@ -417,7 +417,7 @@ versus
 
 * tables are meant to provide detailed summaries of findings
 
-> - eg, statistical analyses, sample collections
+> - e.g., statistical analyses, sample collections
 
 > - captions should describe columns & rows with sufficient detail
 
