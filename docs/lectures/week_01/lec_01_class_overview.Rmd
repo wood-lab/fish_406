@@ -23,29 +23,17 @@ WHO AM I?
 
 * Assistant Professor, SAFS (2016-2021)
 
-* Associate Professor, SAFS (2021-present)
+> - Associate Professor, SAFS (2021-present)
 
-* Graduate Program Coordinator, SAFS (2023-present)
+> - Graduate Program Coordinator, SAFS (2023-present)
 
-* Associate Director, SAFS (2023-present)
+> - Associate Director, SAFS (2023-present)
 
+> - Grew up on Long Island, NY
 
+> - BS from Dartmouth (advisor: Kathy Cottingham)
 
-## Chelsea Wood
-
-* Assistant Professor, SAFS (2016-2021)
-
-* Associate Professor, SAFS (2021-present)
-
-* Graduate Program Coordinator, SAFS (2023-present)
-
-* Associate Director, SAFS (2023-present)
-
-* Grew up on Long Island, NY
-
-* BS from Dartmouth (advisor: Kathy Cottingham)
-
-* PhD from Stanford (advisor: Fio Micheli)
+> - PhD from Stanford (advisor: Fio Micheli)
 
 
 ## {.flexbox .vcenter .bigger}
@@ -57,24 +45,19 @@ MY QUALIFICATIONS?
 
 ## Chelsea Wood
 
-* Author of 70+ peer-reviewed papers
+* Author of 70+ peer-reviewed papers, one published book, and one in-prep book
 
+> - Assistant Editor, *Frontiers in Ecology and the Environment* (2006-2008)
 
-## Chelsea Wood
+> - Subject Matter Editor, *Ecology* (2021-present)
 
-* Author of 70+ peer-reviewed papers
+> - Associate Editor, *Proceedings B* (2018-present)
 
-* Assistant Editor, *Frontiers in Ecology and the Environment* (2006-2008)
+> - Associate Editor, *Journal of Animal Ecology* (2021-present)
 
-* Subject Matter Editor, *Ecology* (2021-present)
+> - Peer reviewer for 40+ journals
 
-* Associate Editor, *Proceedings B* (2018-present)
-
-* Associate Editor, *Journal of Animal Ecology* (2021-present)
-
-* Manuscript reviewer for 40+ journals
-
-* Proposal reviewer for US National Science Foundation and the national science foundations of 7 other countries
+> - Proposal reviewer for US National Science Foundation and the national science foundations of 7 other countries
 
 
 ## My role as course instructor
@@ -140,18 +123,57 @@ Becoming a good writer
 </font>
 
 
-## Good writing resource
+## Resources
 
-[Heard SB. 2016. *The Scientist’s Guide to Writing*. Princeton University Press.](https://scientistseessquirrel.wordpress.com/the-scientists-guide-to-writing/)
+[National Center for Faculty Diversity and Development - use your uw.edu to create an identity and access NCFDD learning materials](https://www.ncfdd.org)
+
+[Karban R, Huntzinger M, and Pearse IS. 2023 *How to Do Ecology*. Princeton University Press.](https://press.princeton.edu/books/paperback/9780691245751/how-to-do-ecology?srsltid=AfmBOooPTZ96ssF7Ud_KkCNYCkD3L7vehR9N45eHxNL7-T7WHIDtHutB)
+
+[Zinsser W. 2016. *On Writing Well*. Harper Perennial.](https://www.harpercollins.com/products/on-writing-well-william-zinsser?variant=32118081159202)
+
+[Heard SB. 2016. *The Scientist’s Guide to Writing*. Princeton University Press.](https://press.princeton.edu/books/hardcover/9780691219202/the-scientists-guide-to-writing-2nd-edition?srsltid=AfmBOop0xOEJao68_qK8KedwGOZKvcOX1Wh8-7I_PabbuZjkzKfFOj5e)
 
 
-## Writing is hard
+## Communication is central to science
 
-* Very few writers are geniuses--most find it difficult and time-consuming
+> - Data are great, but if insights from data are not shared, they do not advance our understanding of nature (which is the point of science).
 
-> -  Writing is a craft, which can be improved through practice & deliberate attention
+> - Insights from data are shaped and shared via communication - papers, yes, but also proposals, talks, peer reviews, websites, socials.
 
-> - Developing good writing behavior is part of the process
+> - This course is designed to sharpen your communication skills, especially your writing skills.
+
+
+## Writing is hard...
+
+Very few writers are geniuses - most find it difficult and time-consuming. Even some "geniuses" struggle. Here's what Steven King has to say about it:
+
+"Stories are relics, part of an undiscovered, pre-existing world. The writer’s job is to use the tools in his or her toolbox to get as much of each one out of the ground intact as possible."
+
+When you're writing, imagine yourself on an archaeological dig. Just because progress is incremental and back-breaking doesn't mean you are doing it wrong.
+
+
+## ...but the rewards for writing well are great.
+
+* Influential papers that change the world's understanding of nature
+
+> - Memorable talks that change your colleagues' minds
+
+> - Successful proposals that allow you to do the science you want to do
+
+> - Students whose trajectories you will bend
+
+> - Regular folks whose understanding of nature is enriched by their interaction with you
+
+> - Connection in an isolating age
+
+
+## So what's the secret for effective communication?
+
+* Writing (especially scientific writing) is a craft, not an art
+
+> - Anyone can get better at writing with practice and deliberate attention
+
+> - Half the battle is self-management - developing good writing behavior
 
 
 ## Reading & writing go hand-in-hand
@@ -167,11 +189,13 @@ Becoming a good writer
 
 ## Writing behavior
 
-Writing typically goes slowly for 2 reasons:
+Writing typically goes slowly for 3 reasons:
 
 1. Lots of time spent writing, editing, rephrasing, reorganizing
 
 2. Distractions
+
+4. You're spinning your wheels because you haven't set the stage for success
 
 
 ## Sound familiar?
@@ -208,13 +232,39 @@ Heard (2016, p22) writes
 > - Send copies of daily accomplishments or exchange writing logs
 
 
+## Encouraging self-awareness
+
+**Quieting your inner critic**
+
+> - Do you hear a little voice criticizing you or your work? That's your inner critic.
+
+> - He's trying to protect you. He doesn't realize that he's not helping.
+
+> - If he's being particularly loud, you can write down what he says to you. Getting it out in the open can help reveal it as false or you can discuss with a friend.
+
+> - Gently thank your critic for trying to protect you; tell him you're safe and he isn't needed.
+
+
+## Encouraging self-awareness
+
+**Setting the stage for success**
+
+> - Block out writing time on your calendar, just as you would for a meeting, and honor it the way you would honor a meeting.
+
+> - At least 30 minutes for writing, every work day. No more than 3-4 hours of writing per day.
+
+> - Writing every day minimizes your start-up time. You'd be surprised how much you can get done in small, consistent increments.
+
+> - When does your brain work best? Schedule your writing time for that part of the day.
+
+
 ## Behavioral challenges
 
 **Avoidance**
 
 > - Procrastinators ("I need a snack")
 
-> - Intential non-starters ("I'll wait for the moment")
+> - Intentional non-starters ("I'll save this for tomorrow")
 
 
 ## Behavioral challenges
@@ -228,7 +278,7 @@ Heard (2016, p22) writes
 
 ## Behavioral challenges
 
-**Feeling stuck ("Writer's block")** 
+**Feeling stuck ("writer's block")** 
 
 > - Lower your standards
 
@@ -247,7 +297,7 @@ Heard (2016, p22) writes
 
 > - Try to get *something* on paper & edit it later
 
-> - Chris Harley, my former officemate and current professor at UBC used to say, "Write drunk. Edit sober." (Note that I do not endorse this behavior.)
+> - This strategy is sometimes called "barf and buff" or "write drunk, edit sober."
 
 
 ## Behavioral challenges
@@ -333,5 +383,5 @@ Reference management
 |:--:|:---|:---|
 | [EndNote](https://endnote.com/downloads) | works with MS Word | not free |
 | [Zotero](https://www.zotero.org/download/) | works with MS Word; browser plug-in | can be hard to share |
-| [Mendeley](https://www.mendeley.com/download-reference-manager/) | works with MS Word | can be hard to share |
+| [Mendeley](https://www.mendeley.com/download-reference-manager/) | works with MS Word | can be hard to share | [Paperpile](https://paperpile.com) | works with Google Docs | costs $2.99/month 
 | [BibTeX](http://www.bibtex.org/) | works with LaTeX & Markdown | antiquated |

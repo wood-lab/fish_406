@@ -23,29 +23,17 @@ WHO AM I?
 
 * Assistant Professor, SAFS (2016-2021)
 
-* Associate Professor, SAFS (2021-present)
+> - Associate Professor, SAFS (2021-present)
 
-* Graduate Program Coordinator, SAFS (2023-present)
+> - Graduate Program Coordinator, SAFS (2023-present)
 
-* Associate Director, SAFS (2023-present)
+> - Associate Director, SAFS (2023-present)
 
+> - Grew up on Long Island, NY
 
+> - BS from Dartmouth (advisor: Kathy Cottingham)
 
-## Chelsea Wood
-
-* Assistant Professor, SAFS (2016-2021)
-
-* Associate Professor, SAFS (2021-present)
-
-* Graduate Program Coordinator, SAFS (2023-present)
-
-* Associate Director, SAFS (2023-present)
-
-* Grew up on Long Island, NY
-
-* BS from Dartmouth (advisor: Kathy Cottingham)
-
-* PhD from Stanford (advisor: Fio Micheli)
+> - PhD from Stanford (advisor: Fio Micheli)
 
 
 ## {.flexbox .vcenter .bigger}
@@ -59,17 +47,17 @@ MY QUALIFICATIONS?
 
 * Author of 70+ peer-reviewed papers, one published book, and one in-prep book
 
-* Assistant Editor, *Frontiers in Ecology and the Environment* (2006-2008)
+> - Assistant Editor, *Frontiers in Ecology and the Environment* (2006-2008)
 
-* Subject Matter Editor, *Ecology* (2021-present)
+> - Subject Matter Editor, *Ecology* (2021-present)
 
-* Associate Editor, *Proceedings B* (2018-present)
+> - Associate Editor, *Proceedings B* (2018-present)
 
-* Associate Editor, *Journal of Animal Ecology* (2021-present)
+> - Associate Editor, *Journal of Animal Ecology* (2021-present)
 
-* Peer reviewer for 40+ journals
+> - Peer reviewer for 40+ journals
 
-* Proposal reviewer for US National Science Foundation and the national science foundations of 7 other countries
+> - Proposal reviewer for US National Science Foundation and the national science foundations of 7 other countries
 
 
 ## My role as course instructor
@@ -148,11 +136,11 @@ Becoming a good writer
 
 ## Communication is central to science
 
-* Data are great, but if insights from data are not shared, they do not advance our understanding of nature (which is the point of science).
+> - Data are great, but if insights from data are not shared, they do not advance our understanding of nature (which is the point of science).
 
-* Insights from data are shaped and shared via communication - papers, yes, but also proposals, talks, peer reviews, websites, socials.
+> - Insights from data are shaped and shared via communication - papers, yes, but also proposals, talks, peer reviews, websites, socials.
 
-* This course is designed to sharpen your communication skills, especially your writing skills.
+> - This course is designed to sharpen your communication skills, especially your writing skills.
 
 
 ## Writing is hard...
