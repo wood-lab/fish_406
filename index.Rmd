@@ -25,9 +25,11 @@ h3 {
     <img src="chat_gpt_SAFS.webp">
 </p>
 
+<center>image created with ChatGPT image generator</center>
+
 <br>
 
-<center>&copy; Mark Scheuerell 2024</center>
+<center>&copy; Mark Scheuerell 2024, updated by Chelsea Wood 2025</center>
 
 <br>
 
