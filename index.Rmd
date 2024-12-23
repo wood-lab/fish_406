@@ -22,7 +22,7 @@ h3 {
 
 
 <p align="center">
-    <img src="drayton_harbor.jpg">
+    <img src="chat_gpt_SAFS.webp">
 </p>
 
 <br>
