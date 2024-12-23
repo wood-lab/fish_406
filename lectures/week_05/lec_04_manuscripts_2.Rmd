@@ -1,8 +1,8 @@
 ---
 title: "Publishing a scientific paper II"
 subtitle: "Proposal writing & professional development<br>FISH 521"
-author: "Mark Scheuerell"
-date: "5 February 2024"
+author: "Chelsea Wood"
+date: "3 February 2025"
 output:
   ioslides_presentation:
     css: lecture_slides.css
@@ -75,11 +75,6 @@ $$
 
 ## Choosing a journal | Impact Factor (IF)
 
-[Trevor Branch's list](https://sites.google.com/a/uw.edu/most-cited-fisheries/fisheries-journal-impact-factors)
-
-
-## Choosing a journal | Impact Factor (IF)
-
 [Web of Science](https://www.lib.washington.edu/)
 
 
@@ -120,9 +115,9 @@ Page charges vary widely among journals; options include
 
 > - journal subscribers = lower flat rate (+ color figures)
 
-> - membership (eg, [*PeerJ*](https://peerj.com/pricing/#pay-with-lifetime-membership))
+> - membership (e.g., [*PeerJ*](https://peerj.com/pricing/#pay-with-lifetime-membership))
 
-> - some are free (eg, [*Can J Fish Aquat Sci*](https://cdnsciencepub.com/authors-and-reviewers/publication-fees))
+> - some are free (e.g., [*Can J Fish Aquat Sci*](https://cdnsciencepub.com/authors-and-reviewers/publication-fees))
 
 
 ## In-class exercise | Find a journal & its publication charges
@@ -181,7 +176,7 @@ Taylor & Francis
 
 * include any graduate degrees in the editor's name
 
-> - if the editor's name is unknown, use the relevant title (eg,"Managing Editor", "Editor-in-Chief")
+> - if the editor's name is unknown, use the relevant title (e.g.,"Managing Editor", "Editor-in-Chief")
 
 > - **Never** use "Sirs", "Mrs." or "Miss"
 
@@ -190,7 +185,7 @@ Taylor & Francis
 
 * Don't use too much jargon or include too many acronyms
 
-> - Don't over-sell your findings or their significance (eg, avoid "novel" or "ground-breaking")
+> - Don't over-sell your findings or their significance (e.g., avoid "novel" or "ground-breaking")
 
 > - Don't name drop
 
@@ -250,11 +245,11 @@ The calculation of quantitative scientific results by independent researchers us
 
 Reproducibility can be further broken down
 
-> - empirical (eg, sample IDs, sampling gear, instrument settings)
+> - empirical (e.g., sample IDs, sampling gear, instrument settings)
 
-> - statistical (eg, which statistical tests, what model parameters)
+> - statistical (e.g., which statistical tests, what model parameters)
 
-> - computational (eg, code, software, hardware)
+> - computational (e.g., code, software, hardware)
 
 
 ## What is a research compendium?
