@@ -1,8 +1,8 @@
 ---
 title: "Peer reviews"
 subtitle: "Proposal writing & professional development<br>FISH 521"
-author: "Mark Scheuerell"
-date: "12 February 2024"
+author: "Chelsea Wood"
+date: "10 February 2025"
 output:
   ioslides_presentation:
     css: lecture_slides.css
@@ -77,7 +77,7 @@ Generally people with
 
 > - Find a mentor
 
-> - Be visible on researcher networking sites (eg, [ResearchGate](https://www.researchgate.net/), [Academia.edu](https://www.academia.edu/))
+> - Be visible on researcher networking sites (e.g., your own website, [ResearchGate](https://www.researchgate.net/), [Academia.edu](https://www.academia.edu/))
 
 > - Write a paper!
 
@@ -98,11 +98,9 @@ straightforward as possible for authors and reviewers
 
 * manages the strategic direction of the journal
 
-> - makes final decisions on articles based upon
+> - makes final decisions on articles based upon aims and scope of the journal
 
-> - aims and scope of the journal
-
-> - associate editor recommendation
+> - Associate Editor recommendation
 
 > - reviewer comments
 
@@ -113,7 +111,7 @@ straightforward as possible for authors and reviewers
 > - journal page budgets
 
 
-## Who does what? | Associate editor
+## Who does what? | Associate Editor
 
 * makes an initial assessment of the article
 
@@ -172,7 +170,7 @@ Things to consider:
 
 What would your response be to an email like this & why?
 
-Dear Dr. Scheuerell: 
+Dear Dr. Wood: 
 
 Pleased to be inviting you to review a manuscript titled "Changes in the age at maturation for two species of Cyprinid minnow raised in an aquaculture setting", which has been submitted to *The Journal of Fisheries Research*. Given your extensive background in this field, your advice would be best appreciated.  
 
@@ -235,26 +233,26 @@ Editor, MDPI Journals
 
 *The manuscript is well written in an engaging and lively style.*
 
-*The content is appropriate to our readership.*
+> - *The content is appropriate to readership of this journal.*
 
-*The subject is timely & one to which the author has made significant contributions.*
+> - *The subject is timely & one to which the author has made significant contributions.*
 
-*The authors have distilled a complex idea into tangible results.*
+> - *The authors have distilled a complex idea into tangible results.*
 
-*The paper offers a useful overview of current research and policy.*
+> - *The paper offers a useful overview of current research and policy.*
 
 
 ## Best practices | Constructive criticism
 
 *In the Discussion section I would have wished to see more information on...*
 
-*I would strongly advise the authors to rewrite their introduction and discussion to provide greater context for the study.*
+> - *I would strongly advise the authors to rewrite their introduction and discussion to provide greater context for the study.*
 
-*There is an interesting finding in this research about... However, there is insufficient discussion of exactly what this finding means and its implications.*
+> - *There is an interesting finding in this research about... However, there is insufficient discussion of exactly what this finding means and its implications.*
 
-*The paper would be significantly improved with the addition of more details about...*
+> - *The paper would be significantly improved with the addition of more details about...*
 
-*The abstract is very lengthy and goes into detailed accounts that are best suited for the article's main discussion sections.*
+> - *The abstract is very lengthy and goes into detailed accounts that are best suited for the article's main discussion sections.*
 
 
 ## Best practices | Specific comments
@@ -341,7 +339,7 @@ your comments to the authors
 
 ## In-class exercise {.smaller}
 
-Take 15 minutes to read this abstract & provide feedback via [this form](https://forms.gle/gFb5tqkbHuBY141o8)
+Take 15 minutes to read this abstract & provide feedback via [this form](https://forms.gle/2a5TeJbwV9wQMgxJA)
 
 *Owing to a number of concerns about climate change, we set out to understand how fish respond to warming water temperature. Using a collection of mesocosms set out in a large field near our research station located in the central United States, we compared fish growth rates under ambient temperature compared to elevated temperatures indicative of a possible warming climate regime. This was important because fish will be even more important as a food source in the future as the number of humans on earth continues to grow and will ultimately exceed the carrying capacity of traditional land-based agricultural systems and evidence suggests already that aquaculture may be a necessary and readily available source of important protein. Our experimental results were compared to experimental controls using a 2-way ANOVA using post-hoc Tukey tests. We discovered that warmer temperatures of water in the tanks was pretty significant because our p-values were generally less than would be expected by chance alone, except in two cases where they were really close to 0.1, which is still pretty low but perhaps greater than some people have suggested is a critical threshold for statistical validity. Owing to the importance of our results, we now know that water temperatures in the future will be warmer and therefore fish may change in the future as well. Clearly, our extraordinary findings have huge implications for the future of fisheries management for a healthy and sustainable planet.*
 
@@ -355,7 +353,7 @@ Take 15 minutes to read this abstract & provide feedback via [this form](https:/
 
 > - You must not disclose any data presented in the article
 
-> - However, you can ask a colleague for advice as long as necessary details remain confidential (eg, author names)
+> - However, you can ask a colleague for advice as long as necessary details remain confidential (e.g., author names)
 
 
 ## Bias

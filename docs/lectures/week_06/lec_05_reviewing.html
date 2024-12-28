@@ -9,7 +9,7 @@
 
 
 
-  <meta name="date" content="2024-02-12" />
+  <meta name="date" content="2025-02-10" />
 
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="apple-mobile-web-app-capable" content="yes">
@@ -31,7 +31,7 @@
       // Author information
       presenters: [
             {
-        name:  'Mark Scheuerell' ,
+        name:  'Chelsea Wood' ,
         company: '',
         gplus: '',
         twitter: '',
@@ -3070,21 +3070,18 @@ var loadDeck = function(event) {
   });
 };
 
-if (!window.Shiny) {
-  // If Shiny is loaded, the slide deck is initialized in ioslides template
-
-  if (document.readyState !== "loading" &&
-      document.querySelector('slides') === null) {
-    // if the document is done loading but our element hasn't yet appeared, defer
-    // loading of the deck
-    window.setTimeout(function() {
-      loadDeck(null);
-    }, 0);
-  } else {
-    // still loading the DOM, so wait until it's finished
-    document.addEventListener("DOMContentLoaded", loadDeck);
-  }
+if (document.readyState !== "loading" &&
+    document.querySelector('slides') === null) { 
+  // if the document is done loading but our element hasn't yet appeared, defer
+  // loading of the deck
+  window.setTimeout(function() {
+    loadDeck(null);
+  }, 0);
+} else {
+  // still loading the DOM, so wait until it's finished
+  document.addEventListener("DOMContentLoaded", loadDeck);
 }
+
 
 
 </script>
@@ -3184,7 +3181,7 @@ font-size: 90%;
       <h1 data-config-title><!-- populated from slide_config.json --></h1>
       <h2 data-config-subtitle><!-- populated from slide_config.json --></h2>
       <p data-config-presenter><!-- populated from slide_config.json --></p>
-            <p style="margin-top: 6px; margin-left: -2px;">12 February 2024</p>
+            <p style="margin-top: 6px; margin-left: -2px;">10 February 2025</p>
           </hgroup>
   </slide>
 
@@ -3289,7 +3286,7 @@ font-size: 90%;
 </ul>
 
 <ul class = 'build'>
-<li>Be visible on researcher networking sites (eg, <a href='https://www.researchgate.net/' title=''>ResearchGate</a>, <a href='https://www.academia.edu/' title=''>Academia.edu</a>)</li>
+<li>Be visible on researcher networking sites (e.g., your own website, <a href='https://www.researchgate.net/' title=''>ResearchGate</a>, <a href='https://www.academia.edu/' title=''>Academia.edu</a>)</li>
 </ul>
 
 <ul class = 'build'>
@@ -3321,15 +3318,11 @@ font-size: 90%;
 </ul>
 
 <ul class = 'build'>
-<li>makes final decisions on articles based upon</li>
+<li>makes final decisions on articles based upon aims and scope of the journal</li>
 </ul>
 
 <ul class = 'build'>
-<li>aims and scope of the journal</li>
-</ul>
-
-<ul class = 'build'>
-<li>associate editor recommendation</li>
+<li>Associate Editor recommendation</li>
 </ul>
 
 <ul class = 'build'>
@@ -3348,7 +3341,7 @@ font-size: 90%;
 <li>journal page budgets</li>
 </ul>
 
-</article></slide><slide class=""><hgroup><h2>Who does what? </h2><h3> Associate editor</h3></hgroup><article  id="who-does-what-associate-editor">
+</article></slide><slide class=""><hgroup><h2>Who does what? </h2><h3> Associate Editor</h3></hgroup><article  id="who-does-what-associate-editor">
 
 <ul>
 <li>makes an initial assessment of the article</li>
@@ -3437,7 +3430,7 @@ font-size: 90%;
 
 <p>What would your response be to an email like this &amp; why?</p>
 
-<p>Dear Dr. Scheuerell:</p>
+<p>Dear Dr. Wood:</p>
 
 <p>Pleased to be inviting you to review a manuscript titled &ldquo;Changes in the age at maturation for two species of Cyprinid minnow raised in an aquaculture setting&rdquo;, which has been submitted to <em>The Journal of Fisheries Research</em>. Given your extensive background in this field, your advice would be best appreciated.</p>
 
@@ -3527,25 +3520,41 @@ font-size: 90%;
 
 <p><em>The manuscript is well written in an engaging and lively style.</em></p>
 
-<p><em>The content is appropriate to our readership.</em></p>
+<ul class = 'build'>
+<li><em>The content is appropriate to readership of this journal.</em></li>
+</ul>
 
-<p><em>The subject is timely &amp; one to which the author has made significant contributions.</em></p>
+<ul class = 'build'>
+<li><em>The subject is timely &amp; one to which the author has made significant contributions.</em></li>
+</ul>
 
-<p><em>The authors have distilled a complex idea into tangible results.</em></p>
+<ul class = 'build'>
+<li><em>The authors have distilled a complex idea into tangible results.</em></li>
+</ul>
 
-<p><em>The paper offers a useful overview of current research and policy.</em></p>
+<ul class = 'build'>
+<li><em>The paper offers a useful overview of current research and policy.</em></li>
+</ul>
 
 </article></slide><slide class=""><hgroup><h2>Best practices </h2><h3> Constructive criticism</h3></hgroup><article  id="best-practices-constructive-criticism">
 
 <p><em>In the Discussion section I would have wished to see more information on…</em></p>
 
-<p><em>I would strongly advise the authors to rewrite their introduction and discussion to provide greater context for the study.</em></p>
+<ul class = 'build'>
+<li><em>I would strongly advise the authors to rewrite their introduction and discussion to provide greater context for the study.</em></li>
+</ul>
 
-<p><em>There is an interesting finding in this research about… However, there is insufficient discussion of exactly what this finding means and its implications.</em></p>
+<ul class = 'build'>
+<li><em>There is an interesting finding in this research about… However, there is insufficient discussion of exactly what this finding means and its implications.</em></li>
+</ul>
 
-<p><em>The paper would be significantly improved with the addition of more details about…</em></p>
+<ul class = 'build'>
+<li><em>The paper would be significantly improved with the addition of more details about…</em></li>
+</ul>
 
-<p><em>The abstract is very lengthy and goes into detailed accounts that are best suited for the article’s main discussion sections.</em></p>
+<ul class = 'build'>
+<li><em>The abstract is very lengthy and goes into detailed accounts that are best suited for the article’s main discussion sections.</em></li>
+</ul>
 
 </article></slide><slide class=""><hgroup><h2>Best practices </h2><h3> Specific comments</h3></hgroup><article  id="best-practices-specific-comments">
 
@@ -3683,7 +3692,7 @@ font-size: 90%;
 
 </article></slide><slide class=""><hgroup><h2>In-class exercise</h2></hgroup><article  id="in-class-exercise-1" class="smaller">
 
-<p>Take 15 minutes to read this abstract &amp; provide feedback via <a href='https://forms.gle/gFb5tqkbHuBY141o8' title=''>this form</a></p>
+<p>Take 15 minutes to read this abstract &amp; provide feedback via <a href='https://forms.gle/2a5TeJbwV9wQMgxJA' title=''>this form</a></p>
 
 <p><em>Owing to a number of concerns about climate change, we set out to understand how fish respond to warming water temperature. Using a collection of mesocosms set out in a large field near our research station located in the central United States, we compared fish growth rates under ambient temperature compared to elevated temperatures indicative of a possible warming climate regime. This was important because fish will be even more important as a food source in the future as the number of humans on earth continues to grow and will ultimately exceed the carrying capacity of traditional land-based agricultural systems and evidence suggests already that aquaculture may be a necessary and readily available source of important protein. Our experimental results were compared to experimental controls using a 2-way ANOVA using post-hoc Tukey tests. We discovered that warmer temperatures of water in the tanks was pretty significant because our p-values were generally less than would be expected by chance alone, except in two cases where they were really close to 0.1, which is still pretty low but perhaps greater than some people have suggested is a critical threshold for statistical validity. Owing to the importance of our results, we now know that water temperatures in the future will be warmer and therefore fish may change in the future as well. Clearly, our extraordinary findings have huge implications for the future of fisheries management for a healthy and sustainable planet.</em></p>
 
@@ -3700,7 +3709,7 @@ font-size: 90%;
 </ul>
 
 <ul class = 'build'>
-<li>However, you can ask a colleague for advice as long as necessary details remain confidential (eg, author names)</li>
+<li>However, you can ask a colleague for advice as long as necessary details remain confidential (e.g., author names)</li>
 </ul>
 
 </article></slide><slide class=""><hgroup><h2>Bias</h2></hgroup><article  id="bias">
@@ -3890,11 +3899,6 @@ font-size: 90%;
        window.jQuery(document).on('slideenter', function(e) {
          window.jQuery(e.target).trigger('shown');
       });
-    }
-    if (window.Shiny) {
-      // Initialize slides when this script appears on the page, since it
-      // indicates that the <slides> markup has been fully loaded.
-      window.loadDeck();
     }
   })();
 </script>
