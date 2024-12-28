@@ -1,8 +1,8 @@
 ---
 title: "Scientific presentations"
 subtitle: "Proposal writing & professional development<br>FISH 521"
-author: "Mark Scheuerell"
-date: "26 February 2024"
+author: "Chelsea Wood"
+date: "24 February 2025"
 output:
   ioslides_presentation:
     css: lecture_slides.css
@@ -217,7 +217,7 @@ beginning / middle / end
 
 Science communicator
 
-* [General SciComm](https://twitter.com/TrevorABranch) (with 17.6k followers!)
+* [General SciComm](https://bsky.app/profile/trevorabranch.bsky.social) (with 17k followers!)
 
-* [Blue whale news](https://twitter.com/BlueWhaleNews)
+* [Blue Whale News](https://bsky.app/profile/bluewhalenews.bsky.social)
 

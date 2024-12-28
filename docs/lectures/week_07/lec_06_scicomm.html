@@ -9,7 +9,7 @@
 
 
 
-  <meta name="date" content="2024-02-26" />
+  <meta name="date" content="2025-02-24" />
 
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="apple-mobile-web-app-capable" content="yes">
@@ -31,7 +31,7 @@
       // Author information
       presenters: [
             {
-        name:  'Mark Scheuerell' ,
+        name:  'Chelsea Wood' ,
         company: '',
         gplus: '',
         twitter: '',
@@ -3070,21 +3070,18 @@ var loadDeck = function(event) {
   });
 };
 
-if (!window.Shiny) {
-  // If Shiny is loaded, the slide deck is initialized in ioslides template
-
-  if (document.readyState !== "loading" &&
-      document.querySelector('slides') === null) {
-    // if the document is done loading but our element hasn't yet appeared, defer
-    // loading of the deck
-    window.setTimeout(function() {
-      loadDeck(null);
-    }, 0);
-  } else {
-    // still loading the DOM, so wait until it's finished
-    document.addEventListener("DOMContentLoaded", loadDeck);
-  }
+if (document.readyState !== "loading" &&
+    document.querySelector('slides') === null) { 
+  // if the document is done loading but our element hasn't yet appeared, defer
+  // loading of the deck
+  window.setTimeout(function() {
+    loadDeck(null);
+  }, 0);
+} else {
+  // still loading the DOM, so wait until it's finished
+  document.addEventListener("DOMContentLoaded", loadDeck);
 }
+
 
 
 </script>
@@ -3184,7 +3181,7 @@ font-size: 90%;
       <h1 data-config-title><!-- populated from slide_config.json --></h1>
       <h2 data-config-subtitle><!-- populated from slide_config.json --></h2>
       <p data-config-presenter><!-- populated from slide_config.json --></p>
-            <p style="margin-top: 6px; margin-left: -2px;">26 February 2024</p>
+            <p style="margin-top: 6px; margin-left: -2px;">24 February 2025</p>
           </hgroup>
   </slide>
 
@@ -3487,8 +3484,8 @@ font-size: 90%;
 <p>Science communicator</p>
 
 <ul>
-<li><p><a href='https://twitter.com/TrevorABranch' title=''>General SciComm</a> (with 17.6k followers!)</p></li>
-<li><p><a href='https://twitter.com/BlueWhaleNews' title=''>Blue whale news</a></p></li>
+<li><p><a href='https://bsky.app/profile/trevorabranch.bsky.social' title=''>General SciComm</a> (with 17k followers!)</p></li>
+<li><p><a href='https://bsky.app/profile/bluewhalenews.bsky.social' title=''>Blue Whale News</a></p></li>
 </ul></article></slide>
 
 
@@ -3516,11 +3513,6 @@ font-size: 90%;
        window.jQuery(document).on('slideenter', function(e) {
          window.jQuery(e.target).trigger('shown');
       });
-    }
-    if (window.Shiny) {
-      // Initialize slides when this script appears on the page, since it
-      // indicates that the <slides> markup has been fully loaded.
-      window.loadDeck();
     }
   })();
 </script>
