@@ -1,8 +1,8 @@
 ---
 title: "Student presentations"
 subtitle: "Proposal writing & professional development<br>FISH 521"
-author: "Mark Scheuerell"
-date: "4 March 2024"
+author: "Chelsea Wood"
+date: "3 March 2024"
 output:
   ioslides_presentation:
     css: lecture_slides.css
@@ -13,4 +13,4 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 
-# Please see the homework page [here](/website/homework/week_09/hw_07_presentations.html) for details
+# Please see the homework page for details
