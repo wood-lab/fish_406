@@ -11,6 +11,30 @@ Students are not required to purchase any materials for the course, as we will r
 
 <br>
 
+## SAFS MS thesis proposals
+
+[Callum Backstrom, Padilla-Gamino Lab](references/example_proposals/backstrom_callum.pdf) - Investigating how thermal bleaching stress affects heavy metal concentrations in the reef-building coral Montipora capitata
+
+[Nicole Doran, Scheuerell Lab](references/example_proposals/doran_nicole.pdf) - Viewing heavy metal contamination of a threatened salmonid through an environmental justice lens
+
+[Karl Veggerby, Scheuerell Lab](references/example_proposals/veggerby_karl.pdf) - Habitat function of shellfish aquaculture ecosystems: Fish behavior and diets
+
+
+<br>
+
+## SAFS PhD dissertation proposals
+
+[Jeremy Axworthy, Padilla-Gamino Lab](references/example_proposals/axworthy_jeremy.pdf) - The impacts of climate change and microplastics pollution on corals and coral reefs
+
+[Rachel Fricke, Olden Lab](references/example_proposals/fricke_rachel.pdf) - Emerging technologies to assess human benefits from and risks to water resources
+
+[Rachelle Johnson, Olden Lab](references/example_proposals/johnson_rachelle.pdf) - Bioenergetics-based food web assessment of factors limiting production of native salmonids in Upper Skagit River reservoirs
+
+[Helena McMonagle, Essington and Hilborn Labs](references/example_proposals/mcmonagle_helena.pdf) - Quantifying and sustaining ecosystem services of mesopelagic fishes
+
+
+<br>
+
 ## YouTube channels
 
 [Life in academia](https://www.youtube.com/@mrillig) - Matthias Rillig gives advice on being a graduate student, running a lab, and everything in between
