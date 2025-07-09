@@ -1,5 +1,5 @@
 ---
-title: "Syllabus"
+title: ""
 output:
   html_document:
     toc: true
@@ -9,21 +9,89 @@ output:
 
 <br>
 
-# Course overview
+# Welcome to Parasite Ecology
 
-This class was originally designed to help students prepare research proposals. It has undergone various modifications since its inception, as different instructors have been placed in charge of it, and as the needs of students have changed. The course still includes the development of scientific ideas into coherent proposals, but it now also addresses other forms of communication, and aspects of professional development to help graduate students during and after their time at the University of Washington.
+**You're in for a wild ride!** Parasites are all around you, every day, hidden and unnoticed but ubiquitous.  And yet it is entirely possible (even likely!) that you've never before encountered parasites in your biology education.  This makes for an explosive combination: you're about to learn about a secret world hidden under everything that is familiar to you, a world of organisms with adaptations so weird, so grotesque, so elaborate, that their existence defies belief. But I assure you - parasites are very, very real.
 
-Before you can write a scientific proposal, you need to know how scientific papers are conceptualized and written, as they are the basic template for proposals. Accordingly, the class will include the elements of crafting scientific papers, and each student will choose one to examine closely. This will clarify the structure of scientific papers, and the use of published literature and other sources of data and information. Scientific papers typically result from formal or informal proposals, and knowing how papers are written helps inform the process of developing proposals.
+Never hesitate to reach out if you have questions, concerns, or just want to chat.  You can reach me at [chelwood@uw.edu](mailto:chelwood@uw.edu).
 
-Proposal development starts with an idea, which is then placed in the context of what is already known, and the needs in the scientific community and society at large for further information. Students will go through this process, learning the mechanics of proposal writing, and providing constructive feedback on written and oral presentations of student proposals.
+Can't wait to dive in!
 
-Another vital component of being a scientist is the ability to review colleagues' work critically, but constructively. Once you become established, you will receive many manuscripts and grant proposals to review each year. While such reviews are usually anonymous (that is, the authors do not know your identity), editors and panelists know who you are and you will quickly establish a reputation as a reviewer. It is important that you criticize the work according to rigorous scientific standards, but you should keep in mind that your review may have significant effects on other people's career and job prospects.
-
-Many of you already know that you need to produce a research proposal for your thesis work, to be submitted to your committee and to be included in your graduate student file. Guidelines for such proposals can be found on the SAFS web page. This class is a very good opportunity to work on your proposal, and I suggest that you use the time and feedback to produce at least a draft by the end of the class. I will be very happy to help you towards this aim, in class, outside class and in future.
+-Chelsea
 
 <br>
 
-# Learning objectives
+
+# Instructors
+
+[**Chelsea Wood**](https://fish.uw.edu/faculty/chelsea-wood/)  
+Associate Professor, School of Aquatic & Fishery Sciences  
+FISH 318B<br>
+[chelwood@uw.edu](mailto:chelwood@uw.edu)<br>
+**Office hours:** Mondays 1:30-2:30pm in my office (FISH 318B)
+
+[**Gabby Commisso**](https://chelsealwood.com/people/)  
+Teaching Assistant, School of Aquatic & Fishery Sciences  
+FISH 262B<br>
+[gcom@uw.edu](mailto:gcom@uw.edu)<br>
+**Office hours:** XXX
+
+[**Connor Whalen**](https://chelsealwood.com/people/)  
+Teaching Assistant, School of Aquatic & Fishery Sciences  
+FISH 262B<br>
+[cjwhalen@uw.edu](mailto:cjwhalen@uw.edu)<br>
+**Office hours:** XXX
+
+<br>
+
+
+# Course details
+
+**This website** will be your resource for all course content, but **we will use Canvas for announcements, submitting assignments and keeping track of grades.**
+
+This class is conducted in-person. Students are expected to participate in class to fully benefit from course activities and meet the course’s learning objectives. Students should only register for this class if they are able to attend in-person.
+
+**Lecture:** MWF, 12:30pm–1:20pm in FISH 107
+
+**Labs:**
+
+   FISH 406AB – Tuesdays, 9:30am–12:20pm in OTB 206
+
+   FISH 406AA – Tuesdays, 1:30pm–4:20pm in OTB 206
+
+**Pre-requisites:** BIOL 180
+
+**Credits:** 5 credits. Note that, for 5 credits, the University of Washington expects students to devote 15 hours per week to this course [1 credit = 3 hours per week].
+
+* This course counts toward the **UW Additional Writing (W) requirement**.
+* This course counts as an **elective toward the Marine Biology major**.
+* This course counts as an **elective toward the Microbiology major**.
+
+**Required readings:** *Foundations of Parasitology*, Roberts and Janovy (used copies available on Amazon; e-version of the book available for download [here](https://www.amsocparasit.org/books)); additional reading material available as pdfs.
+
+ 
+**Required equipment:** This course involves writing, research, and data analysis and students will therefore need to make use of their personal computers. For students without access to a personal laptop, it is now possible to check out UW laptops for an entire quarter. Contact the Student Services office [iamsams@uw.edu](mailto:iamsams@uw.edu) for details.
+
+
+**Communication:** All course communications will occur via Canvas, so please remember to update your notifications settings in Canvas so that you receive updates and announcements at least daily. You are always welcome to get in touch with Chelsea or your TAs via e-mail. We will respond to any e-mail from you within 24 hours during the week (might be longer over weekends).
+ 
+
+**Responsibilities:**
+
+The responsibilities of the instructor and teaching assistant are to:
+
+* present important, relevant information and concepts in a stimulating manner,
+* organize laboratory experiences that expand and enhance course topics,
+* teach students to synthesize data and concepts into papers in scientific format.
+
+The responsibilities of the students are to:
+
+* attend and participate in all class and laboratory sessions, to the extent that you are able,
+* hand in assignments on time,
+* conform with University policies regarding academic integrity (see below).
+
+
+# Learning goals
 
 By the end of the quarter, students should be able to:
 
@@ -39,12 +107,6 @@ By the end of the quarter, students should be able to:
 
 <br>
 
-# Instructor
-
-[**Chelsea Wood**](https://fish.uw.edu/faculty/chelsea-wood/)  
-Associate Professor, School of Aquatic & Fishery Sciences  
-FISH 318B
-[chelwood@uw.edu](mailto:chelwood@uw.edu)
 
 <br>
 

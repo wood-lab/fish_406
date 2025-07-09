@@ -1,18 +1,18 @@
 name: "docs"
 navbar:
-  title: "FISH 521"
+  title: "FISH 406"
   right:
-    - text: "Syllabus"
+    - text: "Welcome and resources"
       href: syllabus.html
-    - text: "Schedule & materials"
+    - text: "Schedule"
       href: lectures.html
-    - text: "Homework"
+    - text: "Assignments"
       href: homework.html
-    - text: "References"
+    - text: "Readings"
       href: references.html
     - text: ""
       icon: fab fa-github
-      href: https://wood-lab.github.io/fish_521/
+      href: https://wood-lab.github.io/fish_406/
 output_dir: "docs"
 output:
   html_document:
