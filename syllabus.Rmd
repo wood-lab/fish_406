@@ -1,5 +1,5 @@
 ---
-title: ""
+title: " "
 output:
   html_document:
     toc: true
@@ -51,32 +51,48 @@ FISH 262B<br>
 
 This class is conducted in-person. Students are expected to participate in class to fully benefit from course activities and meet the course’s learning objectives. Students should only register for this class if they are able to attend in-person.
 
-**Lecture:** MWF, 12:30pm–1:20pm in FISH 107
+Science education research has demonstrated that students who take an active role in their learning learn more and retain that knowledge longer; therefore, it is in your best interest to prepare for and actively participate in class meetings – including small group activities and whole-class discussions. **One thing that may help you participate in class is bringing questions you have written out ahead of time.** I will sometimes use a random name generator to call on students at random.
 
-**Labs:**
+### Lecture
+
+MWF, 12:30pm–1:20pm in FISH 107
+
+### Lab
 
    FISH 406AB – Tuesdays, 9:30am–12:20pm in OTB 206
 
    FISH 406AA – Tuesdays, 1:30pm–4:20pm in OTB 206
 
-**Pre-requisites:** BIOL 180
+### Pre-requisites 
 
-**Credits:** 5 credits. Note that, for 5 credits, the University of Washington expects students to devote 15 hours per week to this course [1 credit = 3 hours per week].
+BIOL 180
+
+### Credits 
+
+5 credits
+
+Note that, for 5 credits, the University of Washington expects students to devote 15 hours per week to this course [1 credit = 3 hours per week].
 
 * This course counts toward the **UW Additional Writing (W) requirement**.
 * This course counts as an **elective toward the Marine Biology major**.
 * This course counts as an **elective toward the Microbiology major**.
 
-**Required readings:** *Foundations of Parasitology*, Roberts and Janovy (used copies available on Amazon; e-version of the book available for download [here](https://www.amsocparasit.org/books)); additional reading material available as pdfs.
+### Required readings 
+
+*Foundations of Parasitology*, Roberts and Janovy (used copies available on Amazon; e-version of the book available for download [here](https://www.amsocparasit.org/books)); additional reading material available as pdfs.
 
  
-**Required equipment:** This course involves writing, research, and data analysis and students will therefore need to make use of their personal computers. For students without access to a personal laptop, it is now possible to check out UW laptops for an entire quarter. Contact the Student Services office [iamsams@uw.edu](mailto:iamsams@uw.edu) for details.
+### Required equipment 
+
+This course involves writing, research, and data analysis and students will therefore need to make use of their personal computers. For students without access to a personal laptop, it is now possible to check out UW laptops for an entire quarter. Contact the Student Services office [iamsams@uw.edu](mailto:iamsams@uw.edu) for details.
 
 
-**Communication:** All course communications will occur via Canvas, so please remember to update your notifications settings in Canvas so that you receive updates and announcements at least daily. You are always welcome to get in touch with Chelsea or your TAs via e-mail. We will respond to any e-mail from you within 24 hours during the week (might be longer over weekends).
+### Communication 
+
+All course communications will occur via Canvas, so please remember to update your notifications settings in Canvas so that you receive updates and announcements at least daily. You are always welcome to get in touch with Chelsea or your TAs via e-mail. We will respond to any e-mail from you within 24 hours during the week (might be longer over weekends).
  
 
-**Responsibilities:**
+### Responsibilities:
 
 The responsibilities of the instructor and teaching assistant are to:
 
@@ -92,168 +108,206 @@ The responsibilities of the students are to:
 
 <br>
 
+# Course description
+
+Parasites are ubiquitous: no ecosystem exists without them, and among all of Earth’s species, parasites outnumber non-parasites. But because they are usually small and hidden within their hosts, parasites can be easy to overlook. This course will introduce students to these rarely studied creatures, which span the entire tree of life, occupy all of Earth’s habitats, and influence many ecological processes.
+
+Our material will survey all metazoan parasites, most protozoa, and some bacteria and viruses, addressing their distribution, ecology, and physiological effects on human and wildlife hosts. Because this is an ecology course, we will survey parasite diversity in light of evolutionary diversification. Phylogenetic relationships within and among groups will provide the framework for the course.
+
+Within this phylogenetic framework, the bulk of our time will be spent exploring general disease ecology theory through relatable case studies of individual taxa. We will explore fundamental principles of parasite populations and communities. We will investigate the effects of parasites on host populations (e.g., host population regulation), communities (e.g., parasite-mediated competition), and ecosystems (e.g., nutrient availability). We will strive to put parasites into a food-web context, assessing the impacts of parasites on food webs (e.g., connectance, nestedness, energy flow, biomass, food chain length) and of food webs on parasites (e.g., dilution effect hypothesis, biodiversity-begets-biodiversity hypothesis). Finally, we will use our accumulated knowledge to make predictions for how disease transmission might respond to human impacts like biodiversity loss, climate change, and urbanization and will evaluate the interventions available for wildlife and human disease control (e.g., vaccination, culling, environmental modification, biological control).
+
+<br>
+
 # Learning goals
 
-By the end of the quarter, students should be able to:
+By the end of the quarter, I expect you will be able to:
 
-* search a publication database like Web of Science or Google Scholar for papers of interest
-
-* use a message box to refine scientific questions and objectives
-
-* write a cover letter for a publication that conveys the importance of the work and its relevance to the journal
-
-* review a proposal or manuscript using language that is critical of the work, but not the authors themselves
-
-* create a scientific presentation that conveys the question of interest, the study objective(s), and findings of interest 
+* recognize each of the major groups of parasites and describe their basic life cycles
+* analyze and critically evaluate graphical representations of data
+* analyze and interpret parasitological data
+* interpret, evaluate, and synthesize primary literature in parasite ecology (accomplished via writing assignment and presentation)
+* critique your colleagues’ ideas respectfully yet substantively
+* communicate ideas effectively, in writing and speech
 
 <br>
 
+# Grading scale
+
+Note that there will be no curve and no extra credit assignments.
 
 <br>
 
-# Meeting times & locations
+# Quizzes
 
-Mondays from 1:30-4:20 in FSH 203
-
-
-#### Office hours
-
-By appointment
+Weekly, open-book Canvas quizzes are designed (1) to help you check in with your understanding of the material and (2) to indicate the most important materials to study for the midterm and final. **Please feel free to consult your course materials as you take quizzes, as they are open-book. However, you are NOT allowed to collaborate with other students on the quizzes.** Quizzes will be graded, and each weekly quiz counts for 1 point out of the 100 points that constitute your final grade. Your lowest quiz grade will be dropped. You are encouraged to use the quizzes as study tools for the midterm and final.
 
 <br>
 
-# Pre-requisites
+# Exams
 
-None.
+A midterm and final will be administered in person and are closed-book. If you have a conflict with a scheduled exam, please let Chelsea know as soon as possible so that accommodations can be arranged. Cheating on these exams will constitute a violation of UW’s policy on academic integrity (see below).
 
-<br>
-
-# Classroom conduct
-
-I am dedicated to providing a welcoming and supportive learning environment for all students, regardless of their background, identity, physical appearance, or manner of communication. Any form of language or behavior used to exclude, intimidate, or cause discomfort will not be tolerated. This applies to all course participants (instructor, students, guests). In order to foster a positive and professional learning environment, I ask the following:
-
-* Please let me know what name and pronouns I should use when I address you
-
-* Please let me know if *anyone* in class says something that makes you feel uncomfortable<sup>[[1](#endnotes)]</sup>
-
-In addition, I encourage the following kinds of behaviors:
-
-* Use welcoming and inclusive language
-
-* Show courtesy and respect towards others
-
-* Acknowledge different viewpoints and experiences
-
-* Gracefully accept constructive criticism
-
-Although I strive to create and use inclusive materials in this course, there may be overt or covert biases in the course material due to the lens with which it was written. Your suggestions about how to improve the value of diversity in this course are encouraged and appreciated.  
-
-**Please note**: If you believe you have been a victim of an alleged violation of the [Student Conduct Code](https://www.washington.edu/admin/rules/policies/WAC/478-121TOC.html) or you are aware of an alleged violation of the [Student Conduct Code](https://www.washington.edu/admin/rules/policies/WAC/478-121TOC.html), you have the right to [report it to the University](https://www.washington.edu/cssc/for-students-2/).
-
-### Title IX
-
-For support, resources, and reporting options related to sex- and gender-based violence or harassment, visit [UW Title IX’s webpage](https://www.washington.edu/titleix/), specifically the [Know Your Rights & Resources](https://s3-us-west-2.amazonaws.com/uw-s3-cdn/wp-content/uploads/sites/181/2020/08/10185033/KYRR-guide-8-10-2020-LINKED.pdf) guide. 
-
-Please know that if you choose to disclose information to me about sex- or gender-based violence or harassment, I will connect you (or the person who experienced the conduct) with resources and individuals who can best provide support and options. You can also access those resources directly:
-
-* **Confidential**: [Confidential advocates](https://www.washington.edu/sexualassault/support/advocacy/) will not share information with others unless given express permission by the person who has experienced the harm or when required by law.
-
-* **Private and/or anonymous**: [SafeCampus](SafeCampus) provides consultation and support and can connect you with additional resources if you want them. You can contact SafeCampus anonymously or share limited information when you call.
-
-Please note that some senior leaders and other specified employees have been identified as "[Officials Required to Report](https://www.washington.edu/titleix/title-ix-officials-required-to-report/)". If an Official Required to Report learns of possible sex- or gender-based violence or harassment, they are required to call SafeCampus and report all the details they have in order to ensure that the person who experienced harm is offered support and reporting options.  
+**Regrade policy:** If you believe that an exam or assignment has been graded incorrectly, or that the grade entered is incorrect, please contact me (Chelsea) within one week of when the assignment is returned to you.
 
 <br>
 
-# Access & accommodations
+# Posting of grades
 
-All students deserve access to the full range of learning experiences, and the University of Washington is committed to creating inclusive and accessible learning environments consistent with federal and state laws. If you feel like your performance in class is being impacted by your experiences outside of class, please talk with me.
-
-### Disabilities
-
-If you have already established accommodations with Disability Resources for Students (DRS), please communicate your approved accommodations to me at your earliest convenience so we can discuss your needs in this course. If you have not yet established services through DRS, but have a temporary health condition or permanent disability that requires accommodations (*e.g.*, mental health, learning, vision, hearing, physical impacts), you are welcome to contact DRS at 206-543-8924 or via [email](mailto:uwdrs@uw.edu) or their [website](https://depts.washington.edu/uwdrs/). DRS offers resources and coordinates reasonable accommodations for students with disabilities and/or temporary health conditions.  Reasonable accommodations are established through an interactive process between you, your instructor(s) and DRS.
-
-### Religious observances
-
-Students who expect to miss class or assignments as a consequence of their religious observance will be provided with a reasonable accommodation to fulfill their academic responsibilities. Absence from class for religious reasons does not relieve students from responsibility for the course work required during the period of absence. It is the responsibility of the student to provide the instructor with advance notice of the dates of religious holidays on which they will be absent. Students who are absent will be offered an opportunity to make up the work, without penalty, within a reasonable time, as long as the student has made prior arrangements.
+You will be able to access your grades via Canvas. All graded material will be returned promptly. **Any petitions for grade changes must be made within one week of the grade posting to Canvas.** Exam scores will be posted no more than 10 days after the exam date. 
 
 <br>
 
-# Excused absence
+# Policy on late assignments
 
-Students are expected to attend class and to participate in all graded activities. A student who is anticipating being absent from class due to a Religious Accommodation activity needs to complete the Religious Accommodations request process by the second Friday of the quarter. Students who anticipate missing class due to attendance at academic conferences or field trips, or participation in university-sponsored activities should provide a written notice to the instructor ahead of the absence. The instructor will determine if the graded activity can be rescheduled or if there is equivalent work that can be done as an equivalent, as determined by the instructor.
-
-<br>
-
-# Technology
-
-This course will revolve around hands-on exercises that demonstrate the topics of interest. Therefore, students are strongly recommended to bring their own laptop to class, although students are certainly free to work with one another. **For students without access to a personal laptop**: it is possible to check out UW laptops for an entire quarter (see the [Student Services office](https://education.uw.edu/admissions/office-of-student-services) for details).
+**Late assignments are not accepted and will receive a grade of 0%.** However, if you anticipate being unable to meet an assignment deadline, please shoot me an e-mail or speak to me **before the deadline**, as I am very happy to arrange accommodations for you in case of illness or other unexpected roadblocks.
 
 <br>
 
-# Teaching methodology
+# Incompletes
 
-This course will introduce new material primarily through prepared slides and hands-on demonstrations. Students will be expected to work both individually and collaboratively; course content and evaluation will emphasize the communication of ideas and the ability to think critically more so than a specific pathway or method. Other areas of this website provide an overview of the topics to be covered, including links to weekly reading assignments, lecture materials, and homework assignments.
-
-<br>
-
-# Communication
-
-This course will involve a *lot* of communication between and among students and the instructor. Short questions should be addressed to me via email; I will try my best to respond to your message within 24 hours. Detailed questions should be addressed to me in person--either after class or during a scheduled meeting.
-
-<br>
-
-# Evaluation
-
-Students will be evaluated on their knowledge of course content and their ability to communicate their understanding of the material via individual homework assignments. There will be 7 homework assignments, each with varying weight on your final grade. Please note, **all assignments must be turned in to achieve a passing grade**.
-
-Homework will be assigned each Monday and will be due by 1:30 PM the following Monday, with the exception of the final assignment. Late homework will not be accepted. The instructor will evaluate and return student homework assignments within one week of their due date. **If for some reason you cannot meet the homework deadline, contact the instructor as soon as possible to discuss other options**. Please see the [Homework](homework.html) page for more details.
-
-### Participation
-
-This course will require students to engage with the instructor and one another in small groups. I expect all students to contribute to our discussions and I will call on students in class in order to ensure that we hear from everyone. 
+From UW’s Faculty Resource on Grading: “An Incomplete is given only when the student has been in attendance and has done satisfactory work until within two weeks of the end of the quarter and has furnished proof satisfactory to the instructor that the work cannot be completed because of illness or other circumstances beyond the student's control… To obtain credit for the course, an undergraduate student must convert an Incomplete into a passing grade no later than the last day of the next quarter… An Incomplete grade not made up by the end of the next quarter is converted to the grade of 0.0 by the Office of the University Registrar… An Incomplete grade does not count for registered hours nor in computation of grade-point averages.”
 
 <br>
 
 # Academic integrity
 
-Faculty and students at the University of Washington are expected to maintain the highest standards of academic conduct, professional honesty, and personal integrity. Plagiarism, cheating, and other academic misconduct are serious violations of the [Student Conduct Code](https://www.washington.edu/cssc/for-students/academic-misconduct/). I have no reason to believe that anyone will violate the Student Conduct Code, but *I will have no choice* but to refer any suspected violation(s) to the College of the Environment for a Student Conduct Process hearing. Students who have been guilty of a violation will receive zero points for the assignment in question.
+Students at the University of Washington are expected to maintain the highest standards of academic conduct, professional honesty, and personal integrity. Plagiarism, cheating, and other misconduct are serious violations of the University of Washington Student Conduct Code (WAC 478-120). I expect you to know and follow the university's policies on cheating and plagiarism. Any suspected cases of academic misconduct will be handled according to University of Washington regulations. For more information, see the University of Washington Community Standards and Student Conduct website.
+
+I don’t expect anyone in this class to engage in academic misconduct – parasite ecology is a window into a new and exciting world, and cheating robs the cheater of the opportunity to explore and know that world. But just in case, I will state up front my policy for addressing academic misconduct: if you are caught cheating, falsifying data, plagiarizing, collaborating on assignments in a manner that is prohibited, or committing any other kind of academic misconduct as defined in the Student Conduct Code, you will receive an automatic zero on the assignment and the case will be referred to the College of the Environment for a Student Conduct Process hearing. If you are caught twice, you will receive a zero in the course and the case will be referred for an additional hearing.
 
 <br>
 
-# Mental health
+# AI-based tools
 
-If you need help, please consider the following resources available to students.
+Using an AI-based tool like ChatGPT on writing assignments like the FISH 406 term paper removes your opportunity to get to know the parasites, hurting you in a number of ways.
 
-**If you are experiencing a life-threatening emergency, please dial 911**.  
+You might think, "I'm never gonna be a parasite ecologist, so what does it matter whether I do these assignments or let an AI do them for me?" Maybe you won't become a parasite ecologist. But *the skills that our assignments will teach you (writing, critical thinking, hypothesis development, creative problem-solving) are valuable across a range of professions*. If you let AI do assignments for you, you're missing a great opportunity to build those skills and make yourself marketable across a variety of fields.
 
-[**Crisis Clinic**](http://www.crisisclinic.org/)  
-Phone: 206-461-3222 or toll-free at 1-866-427-4747   
+Not only that, but *AI is bad at a lot of stuff, and creativity is a particular weakness*. AI just vomits out what it has already seen in its training dataset. The FISH 406 term project asks you to think creatively. Your human brain can generate much better ideas than a robot brain.
 
-[**UW Counseling Center**](https://www.washington.edu/counseling/services)  
-Phone: 206-543-1240  
-[Immediate assistance](https://www.washington.edu/counseling/services/crisis/)
+Here are some tips for avoiding the temptation to use AI-based tools:
 
-[**Let’s Talk**](https://wellbeing.uw.edu/virtual-lets-talk/)
+* **Are you struggling? Good, that means you're learning!** You might think AI is a way to avoid struggle, but if you do that you are robbing yourself of the opportunity to learn. Lean on your classmates, your TAs, and on me and together we will make sure that you are able to use your own human brain to create something remarkable.
+* **How do you eat an elephant? One bite at a time.** Your term project is scaffolded. We have designed it so that you are forced to tackle it only in bite-sized chunks and with tons of support from your colleagues and instructors. If you submit all of the assignments along the way, you should never have more than a few bites of elephant to eat at a time.
 
-[**Hall Health Mental Health**](https://wellbeing.uw.edu/unit/hall-health)
+My policy is: **if I discover that you have turned in AI-generated work, I will give a grade of 0% for that assignment**. But that shouldn't be your primary deterrent. Remember that using AI will leave you with fewer skills than you otherwise might have. Don't let AI take away your opportunity to learn and grow!
 
 <br>
 
-# Safety
+# Classroom climate
 
-If you feel unsafe or at-risk in any way while taking any course, contact [SafeCampus](https://www.washington.edu/safecampus/) (206-685-7233) anytime&ndash;no matter where you work or study&ndash;to anonymously discuss safety and well-being concerns for yourself or others. SafeCampus can provide individualized support, discuss short- and long-term solutions, and connect you with additional resources when requested. For a broader range of resources and assistance see the [Husky Health & Well-Being website](https://wellbeing.uw.edu/).
-
-<br>
-
-# Food Pantry
-
-No student should ever have to choose between buying food or textbooks. The UW Food Pantry helps mitigate the social and academic effects of campus food insecurity. They aim to lessen the financial burden of purchasing food by providing students access to shelf-stable groceries, seasonal fresh produce, and hygiene products at **no cost**. Students can expect to receive 4 to 5 days' worth of supplemental food support when they visit the Pantry, located on the north side of Poplar Hall at the corner of NE 41<sup>st</sup> St and Brooklyn Ave NE. Visit the [Any Hungry Husky website](https://uw.edu/anyhungryhusky) for additional information, including operating hours and additional food support resources.
+Diverse backgrounds, embodiments, and experiences are essential to the critical thinking endeavor at the heart of higher education. I expect you to follow the UW Student Conduct Code in your interactions with your colleagues and me in this course by respecting the many social and cultural differences among us, which may include, but are not limited to: age, cultural background, disability, ethnicity, family status, gender identity and presentation, citizenship and immigration status, national origin, race, religious and political beliefs, sex, sexual orientation, socioeconomic status, and veteran status. Please talk with me right away if you experience disrespect in this class, and I will work to address it. [DCinfo@uw.edu](mailto:DCinfo@uw.edu) is a resource for students with classroom climate concerns.
 
 <br>
 
-## Endnotes
+# Access and accommodations...
 
-[1] If the instructor should be the one to say something that makes a student uncomfortable, the student should feel free to contact the Director of the School of Aquatic and Fishery Sciences.
+### ...for persons with disabilities
+
+It is crucial that all students in this class have access to the full range of learning experiences. At the University of Washington, it is policy and practice to create inclusive and accessible learning environments consistent with federal and state law. Full participation in this course requires the following types of engagement:
+
+* **Lecture**: the ability to learn from several in-person lectures per week; the ability to complete two written and timed exams; the ability to compose research papers; the ability to give an oral presentation
+
+* **Lab**: the ability to participate in weekly in-perosn lab sessions; the ability to participate in group discussions
+
+If you anticipate or experience barriers to your learning or full participation in this course based on a physical, learning, or mental health disability, please immediately contact the instructor to discuss possible accommodation(s). A more complete description of the disability policy of the College of the Environment can be found [here](https://environment.uw.edu/intranet/academics/teaching/disability-accommodation/). If you have, or think you have, a temporary or permanent disability that impacts your participation in any course, please also contact Disability Resources for Students (DRS) at: 206-543-8924 V / 206-543-8925 TDD / [uwdss@uw.edu](mailto:uwdss@uw.edu) / [http://www.uw.edu/students/drs](http://www.uw.edu/students/drs).
+
+**Roles and responsibilities**
+
+* **Student**: inform the instructor no later than the first week of the quarter of any accommodation(s) you will or may potentially require.
+* **Instructor and TA**: maintain strict confidentiality of any student’s disability and accommodation(s); help all students meet the learning objectives of this course.
+
+
+### ...for religious observances
+
+Washington State law requires that UW develop a policy for accommodation of student absences or significant hardship due to reasons of faith or conscience, or for organized religious activities. The UW’s policy, including more information about how to request an accommodation, is available at [Religious Accommodations Policy](https://registrar.washington.edu/staff-faculty/religious-accommodations-policy/). Accommodations must be requested within the first two weeks of this course using the [Religious Accommodations Request form](https://registrar.washington.edu/students/religious-accommodations-request/).
+
+<br>
+
+
+# Lab notebook guidelines
+
+*Adapted from Kuris, Whitney, and McKenzie Parasitology Lab Exercises, UC Santa Barbara*
+
+You are required to keep a lab notebook for this course. The notebook is worth 10% of your final grade. Your lab notebook grade will be broken down as follows:
+
+**Criterion =	# points (out of 10)**
+
+* Handed in on time =	2
+* Includes table of contents =	1
+* Data (host, site of infection, etc.) =	1
+* Methods	= 1
+* Sketches (anatomy, labeling) =	2
+* Scale (magnification or measurement) =	1
+* Detail (life cycle, pathology, etc.) =	2
+
+If more than one lab is missing from your notebook, the 10 completion points will be forfeited. You are allowed to miss one lab and no points will be deducted if you are missing only one lab.
+
+**Materials**: I suggest that you do your drawings and notes on good quality printer paper and keep the notebook in a three-ring binder. Composition books are also acceptable, but please use unlined paper only. Colored pencils are useful for labeling host and parasite anatomy.
+
+**Contents**: Your notebook should emphasize the living organisms and dissections from the lab. A major part of this lab course is the study of fresh material, and we are fortunate to have access to these animals. A good record of your observations will be useful to you for studying and review and for any future research that you may do in parasitology or ecology. A table of contents must be included in your notebook.
+
+**Drawings**: Artistic ability is not necessary to produce workable specimen drawings but don’t worry - you will not be graded on the quality of your artwork. However, you will need to develop your observation skills. Even the smallest protozoan parasites have morphological and anatomical details that facilitate their identification. Find a specimen that shows the details described by your instructor, adjust the focus and illumination for optimal viewing, and observe the specimen carefully before you draw. Drawings should be large enough to accommodate anatomical detail and clear labeling. Try sketching lightly in pencil and then trace over the lines that you want to keep for your finished drawing.
+
+**Drawings should include the following details:**
+
+* Host identity (genus and species or lowest taxonomic level)
+* Host collection data (location and date of collection)
+* Host parameters (age, sex, size)
+* Dissection description (what parts of the host were examined?)
+* Parasite identity (genus and species)
+* Number of parasites found (for each parasite species found)
+* Site of infection (organ or tissue)
+* Scale bar or magnification (always use metric units)
+* Labeled parasite anatomy (notes and annotations are always useful)
+* Life cycle stage
+
+**The following observations are also recommended:**
+
+* Pathology – describe any damage to host tissue or alteration of host morphology
+* Attachment – is the parasite attached or encapsulated?
+* Behavior – Describe any movement observed. Does the parasite respond to light, touch, or other stimulus? Do they abandon the host when disturbed?
+
+The more detail that you include in your notes and drawings, the more useful your lab notebook will be to you.
+
+<br>
+
+# Term paper guidelines
+
+FILL THIS IN
+
+Paper requirements:
+
+12-point, Times New Roman font, double-spaced with 1” margins
+At least 10 pages long (including references)
+At least 20 references to primary literature
+No references to sources other than the scientific literature (i.e., no Wikipedia, no encyclopedias, no textbooks) – a handful of websites (< 3) is okay if warranted
+Number your pages
+References formatted according to Reference Formatting Guidelines (end of this document)
+
+
+### Reference formatting guidelines
+
+FILL THIS IN
+
+<br>
+
+### Term paper grading rubric
+
+FILL THIS IN
+
+<br>
+
+
+# Presentation guidelines
+
+FILL THIS IN
+
+<br>
+
+### Presentation rubric
+
+FILL THIS IN
 
 <br>
 
