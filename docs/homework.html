@@ -11,7 +11,7 @@
 
 
 
-<title>Homework</title>
+<title>Course content</title>
 
 <script src="site_libs/header-attrs-2.29/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
@@ -29,11 +29,12 @@
        h6 {font-size: 12px;}
        code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
        pre:not([class]) { background-color: white }</style>
+<script src="site_libs/jqueryui-1.13.2/jquery-ui.min.js"></script>
+<link href="site_libs/tocify-1.9.1/jquery.tocify.css" rel="stylesheet" />
+<script src="site_libs/tocify-1.9.1/jquery.tocify.js"></script>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/textmate.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
-<script src="site_libs/kePrint-0.0.1/kePrint.js"></script>
-<link href="site_libs/lightable-0.0.1/lightable.css" rel="stylesheet" />
 <link href="site_libs/font-awesome-6.5.2/css/all.min.css" rel="stylesheet" />
 <link href="site_libs/font-awesome-6.5.2/css/v4-shims.min.css" rel="stylesheet" />
 
@@ -223,6 +224,69 @@ $(document).ready(function () {
 
 
 
+<style type="text/css">
+
+#TOC {
+  margin: 25px 0px 20px 0px;
+}
+@media (max-width: 768px) {
+#TOC {
+  position: relative;
+  width: 100%;
+}
+}
+
+@media print {
+.toc-content {
+  /* see https://github.com/w3c/csswg-drafts/issues/4434 */
+  float: right;
+}
+}
+
+.toc-content {
+  padding-left: 30px;
+  padding-right: 40px;
+}
+
+div.main-container {
+  max-width: 1200px;
+}
+
+div.tocify {
+  width: 20%;
+  max-width: 260px;
+  max-height: 85%;
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  div.tocify {
+    width: 25%;
+  }
+}
+
+@media (max-width: 767px) {
+  div.tocify {
+    width: 100%;
+    max-width: none;
+  }
+}
+
+.tocify ul, .tocify li {
+  line-height: 20px;
+}
+
+.tocify-subheader .tocify-item {
+  font-size: 0.90em;
+}
+
+.tocify .list-group-item {
+  border-radius: 0px;
+}
+
+
+</style>
+
+
 
 </head>
 
@@ -230,6 +294,16 @@ $(document).ready(function () {
 
 
 <div class="container-fluid main-container">
+
+
+<!-- setup 3col/9col grid for toc_float and main content  -->
+<div class="row">
+<div class="col-xs-12 col-sm-4 col-md-3">
+<div id="TOC" class="tocify">
+</div>
+</div>
+
+<div class="toc-content col-xs-12 col-sm-8 col-md-9">
 
 
 
@@ -277,196 +351,408 @@ $(document).ready(function () {
 
 
 
-<h1 class="title toc-ignore">Homework</h1>
+<h1 class="title toc-ignore">Course content</h1>
 
 </div>
 
 
-<p>All homework assignments should be submitted via Canvas.</p>
-<table class="table table-striped" style="width: auto !important; ">
-<caption>
-</caption>
-<thead>
-<tr>
-<th style="text-align:center;">
-Date
-</th>
-<th style="text-align:left;">
-Topic
-</th>
-<th style="text-align:center;">
-Grade
-</th>
-<th style="text-align:center;">
-Instructions
-</th>
-<th style="text-align:center;">
-Due
-</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td style="text-align:center;width: 7em; ">
-24 Sep
-</td>
-<td style="text-align:left;width: 18em; ">
-Finding an interesting paper <br>
-</td>
-<td style="text-align:center;width: 8em; ">
-5% <br>
-</td>
-<td style="text-align:center;width: 8em; ">
-<a
-href="homework/week_01/hw_01_references.html"><svg aria-hidden="true" role="img" viewbox="0 0 384 512" style="height:2em;width:1.5em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:#2fa4e7;overflow:visible;position:relative;"><path d="M64 464c-8.8 0-16-7.2-16-16V64c0-8.8 7.2-16 16-16H224v80c0 17.7 14.3 32 32 32h80V448c0 8.8-7.2 16-16 16H64zM64 0C28.7 0 0 28.7 0 64V448c0 35.3 28.7 64 64 64H320c35.3 0 64-28.7 64-64V154.5c0-17-6.7-33.3-18.7-45.3L274.7 18.7C262.7 6.7 246.5 0 229.5 0H64zm56 256c-13.3 0-24 10.7-24 24s10.7 24 24 24H264c13.3 0 24-10.7 24-24s-10.7-24-24-24H120zm0 96c-13.3 0-24 10.7-24 24s10.7 24 24 24H264c13.3 0 24-10.7 24-24s-10.7-24-24-24H120z"></path></svg></a>
-</td>
-<td style="text-align:center;width: 8em; ">
-1 Oct
-</td>
-</tr>
-<tr>
-<td style="text-align:center;width: 7em; ">
-1 Oct
-</td>
-<td style="text-align:left;width: 18em; ">
-Using a message box <br>
-</td>
-<td style="text-align:center;width: 8em; ">
-5% <br>
-</td>
-<td style="text-align:center;width: 8em; ">
-<a
-href="homework/week_02/hw_02_message_box.html"><svg aria-hidden="true" role="img" viewbox="0 0 384 512" style="height:2em;width:1.5em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:#2fa4e7;overflow:visible;position:relative;"><path d="M64 464c-8.8 0-16-7.2-16-16V64c0-8.8 7.2-16 16-16H224v80c0 17.7 14.3 32 32 32h80V448c0 8.8-7.2 16-16 16H64zM64 0C28.7 0 0 28.7 0 64V448c0 35.3 28.7 64 64 64H320c35.3 0 64-28.7 64-64V154.5c0-17-6.7-33.3-18.7-45.3L274.7 18.7C262.7 6.7 246.5 0 229.5 0H64zm56 256c-13.3 0-24 10.7-24 24s10.7 24 24 24H264c13.3 0 24-10.7 24-24s-10.7-24-24-24H120zm0 96c-13.3 0-24 10.7-24 24s10.7 24 24 24H264c13.3 0 24-10.7 24-24s-10.7-24-24-24H120z"></path></svg></a>
-</td>
-<td style="text-align:center;width: 8em; ">
-8 Oct
-</td>
-</tr>
-<tr>
-<td style="text-align:center;width: 7em; ">
-8 Oct
-</td>
-<td style="text-align:left;width: 18em; ">
-<i>Holiday - no assignment</i> <br>
-</td>
-<td style="text-align:center;width: 8em; ">
-<br>
-</td>
-<td style="text-align:center;width: 8em; ">
-</td>
-<td style="text-align:center;width: 8em; ">
-</td>
-</tr>
-<tr>
-<td style="text-align:center;width: 7em; ">
-15 Oct
-</td>
-<td style="text-align:left;width: 18em; ">
-Draft proposal introduction <br>
-</td>
-<td style="text-align:center;width: 8em; ">
-15% <br>
-</td>
-<td style="text-align:center;width: 8em; ">
-<a
-href="homework/week_04/hw_03_proposal_intro.html"><svg aria-hidden="true" role="img" viewbox="0 0 384 512" style="height:2em;width:1.5em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:#2fa4e7;overflow:visible;position:relative;"><path d="M64 464c-8.8 0-16-7.2-16-16V64c0-8.8 7.2-16 16-16H224v80c0 17.7 14.3 32 32 32h80V448c0 8.8-7.2 16-16 16H64zM64 0C28.7 0 0 28.7 0 64V448c0 35.3 28.7 64 64 64H320c35.3 0 64-28.7 64-64V154.5c0-17-6.7-33.3-18.7-45.3L274.7 18.7C262.7 6.7 246.5 0 229.5 0H64zm56 256c-13.3 0-24 10.7-24 24s10.7 24 24 24H264c13.3 0 24-10.7 24-24s-10.7-24-24-24H120zm0 96c-13.3 0-24 10.7-24 24s10.7 24 24 24H264c13.3 0 24-10.7 24-24s-10.7-24-24-24H120z"></path></svg></a>
-</td>
-<td style="text-align:center;width: 8em; ">
-22 Oct
-</td>
-</tr>
-<tr>
-<td style="text-align:center;width: 7em; ">
-22 Oct
-</td>
-<td style="text-align:left;width: 18em; ">
-Writing a cover letter <br>
-</td>
-<td style="text-align:center;width: 8em; ">
-10% <br>
-</td>
-<td style="text-align:center;width: 8em; ">
-<a
-href="homework/week_05/hw_04_cover_letter.html"><svg aria-hidden="true" role="img" viewbox="0 0 384 512" style="height:2em;width:1.5em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:#2fa4e7;overflow:visible;position:relative;"><path d="M64 464c-8.8 0-16-7.2-16-16V64c0-8.8 7.2-16 16-16H224v80c0 17.7 14.3 32 32 32h80V448c0 8.8-7.2 16-16 16H64zM64 0C28.7 0 0 28.7 0 64V448c0 35.3 28.7 64 64 64H320c35.3 0 64-28.7 64-64V154.5c0-17-6.7-33.3-18.7-45.3L274.7 18.7C262.7 6.7 246.5 0 229.5 0H64zm56 256c-13.3 0-24 10.7-24 24s10.7 24 24 24H264c13.3 0 24-10.7 24-24s-10.7-24-24-24H120zm0 96c-13.3 0-24 10.7-24 24s10.7 24 24 24H264c13.3 0 24-10.7 24-24s-10.7-24-24-24H120z"></path></svg></a>
-</td>
-<td style="text-align:center;width: 8em; ">
-29 Oct
-</td>
-</tr>
-<tr>
-<td style="text-align:center;width: 7em; ">
-29 Oct
-</td>
-<td style="text-align:left;width: 18em; ">
-Reviewing a manuscript <br>
-</td>
-<td style="text-align:center;width: 8em; ">
-20% <br>
-</td>
-<td style="text-align:center;width: 8em; ">
-<a
-href="homework/week_06/hw_05_peer_review.html"><svg aria-hidden="true" role="img" viewbox="0 0 384 512" style="height:2em;width:1.5em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:#2fa4e7;overflow:visible;position:relative;"><path d="M64 464c-8.8 0-16-7.2-16-16V64c0-8.8 7.2-16 16-16H224v80c0 17.7 14.3 32 32 32h80V448c0 8.8-7.2 16-16 16H64zM64 0C28.7 0 0 28.7 0 64V448c0 35.3 28.7 64 64 64H320c35.3 0 64-28.7 64-64V154.5c0-17-6.7-33.3-18.7-45.3L274.7 18.7C262.7 6.7 246.5 0 229.5 0H64zm56 256c-13.3 0-24 10.7-24 24s10.7 24 24 24H264c13.3 0 24-10.7 24-24s-10.7-24-24-24H120zm0 96c-13.3 0-24 10.7-24 24s10.7 24 24 24H264c13.3 0 24-10.7 24-24s-10.7-24-24-24H120z"></path></svg></a>
-</td>
-<td style="text-align:center;width: 8em; ">
-5 Nov
-</td>
-</tr>
-<tr>
-<td style="text-align:center;width: 7em; ">
-5 Nov
-</td>
-<td style="text-align:left;width: 18em; ">
-<i>Holiday - no assignment</i> <br>
-</td>
-<td style="text-align:center;width: 8em; ">
-<br>
-</td>
-<td style="text-align:center;width: 8em; ">
-</td>
-<td style="text-align:center;width: 8em; ">
-</td>
-</tr>
-<tr>
-<td style="text-align:center;width: 7em; ">
-12 Nov
-</td>
-<td style="text-align:left;width: 18em; ">
-Proposal presentation <br>
-</td>
-<td style="text-align:center;width: 8em; ">
-20% <br>
-</td>
-<td style="text-align:center;width: 8em; ">
-<a
-href="homework/week_09/hw_07_presentations.html"><svg aria-hidden="true" role="img" viewbox="0 0 384 512" style="height:2em;width:1.5em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:#2fa4e7;overflow:visible;position:relative;"><path d="M64 464c-8.8 0-16-7.2-16-16V64c0-8.8 7.2-16 16-16H224v80c0 17.7 14.3 32 32 32h80V448c0 8.8-7.2 16-16 16H64zM64 0C28.7 0 0 28.7 0 64V448c0 35.3 28.7 64 64 64H320c35.3 0 64-28.7 64-64V154.5c0-17-6.7-33.3-18.7-45.3L274.7 18.7C262.7 6.7 246.5 0 229.5 0H64zm56 256c-13.3 0-24 10.7-24 24s10.7 24 24 24H264c13.3 0 24-10.7 24-24s-10.7-24-24-24H120zm0 96c-13.3 0-24 10.7-24 24s10.7 24 24 24H264c13.3 0 24-10.7 24-24s-10.7-24-24-24H120z"></path></svg></a>
-</td>
-<td style="text-align:center;width: 8em; ">
-19 Nov
-</td>
-</tr>
-<tr>
-<td style="text-align:center;width: 7em; ">
-19 Nov
-</td>
-<td style="text-align:left;width: 18em; ">
-Final proposal <br>
-</td>
-<td style="text-align:center;width: 8em; ">
-25% <br>
-</td>
-<td style="text-align:center;width: 8em; ">
-<a
-href="homework/week_10/hw_08_proposal.html"><svg aria-hidden="true" role="img" viewbox="0 0 384 512" style="height:2em;width:1.5em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:#2fa4e7;overflow:visible;position:relative;"><path d="M64 464c-8.8 0-16-7.2-16-16V64c0-8.8 7.2-16 16-16H224v80c0 17.7 14.3 32 32 32h80V448c0 8.8-7.2 16-16 16H64zM64 0C28.7 0 0 28.7 0 64V448c0 35.3 28.7 64 64 64H320c35.3 0 64-28.7 64-64V154.5c0-17-6.7-33.3-18.7-45.3L274.7 18.7C262.7 6.7 246.5 0 229.5 0H64zm56 256c-13.3 0-24 10.7-24 24s10.7 24 24 24H264c13.3 0 24-10.7 24-24s-10.7-24-24-24H120zm0 96c-13.3 0-24 10.7-24 24s10.7 24 24 24H264c13.3 0 24-10.7 24-24s-10.7-24-24-24H120z"></path></svg></a>
-</td>
-<td style="text-align:center;width: 8em; ">
-17 Mar
-</td>
-</tr>
-</tbody>
-</table>
+<p><br></p>
+<div id="section" class="section level1">
+<h1></h1>
+<p>Make sure to read, watch, or listen to all content on each tab before
+the corresponding class or lab!</p>
+<p><br></p>
+</div>
+<div id="classes" class="section level1">
+<h1>Classes</h1>
+<div id="class-1" class="section level3">
+<h3>Class 1</h3>
+</div>
+<div id="class-2" class="section level3">
+<h3>Class 2</h3>
+</div>
+<div id="class-3" class="section level3">
+<h3>Class 3</h3>
+</div>
+<div id="class-4" class="section level3">
+<h3>Class 4</h3>
+</div>
+<div id="class-5" class="section level3">
+<h3>Class 5</h3>
+</div>
+<div id="class-6" class="section level3">
+<h3>Class 6</h3>
+</div>
+<div id="class-7" class="section level3">
+<h3>Class 7</h3>
+</div>
+<div id="class-8" class="section level3">
+<h3>Class 8</h3>
+</div>
+<div id="class-9" class="section level3">
+<h3>Class 9</h3>
+</div>
+<div id="class-10" class="section level3">
+<h3>Class 10</h3>
+</div>
+<div id="class-11" class="section level3">
+<h3>Class 11</h3>
+</div>
+<div id="class-12" class="section level3">
+<h3>Class 12</h3>
+</div>
+<div id="class-13" class="section level3">
+<h3>Class 13</h3>
+</div>
+<div id="class-14" class="section level3">
+<h3>Class 14</h3>
+</div>
+<div id="class-15" class="section level3">
+<h3>Class 15</h3>
+</div>
+<div id="class-16" class="section level3">
+<h3>Class 16</h3>
+</div>
+<div id="class-17" class="section level3">
+<h3>Class 17</h3>
+</div>
+<div id="class-18" class="section level3">
+<h3>Class 18</h3>
+</div>
+<div id="class-19" class="section level3">
+<h3>Class 19</h3>
+</div>
+<div id="class-20" class="section level3">
+<h3>Class 20</h3>
+</div>
+<div id="class-21" class="section level3">
+<h3>Class 21</h3>
+</div>
+<div id="class-22" class="section level3">
+<h3>Class 22</h3>
+</div>
+<div id="class-23" class="section level3">
+<h3>Class 23</h3>
+</div>
+<div id="class-24" class="section level3">
+<h3>Class 24</h3>
+</div>
+<div id="class-25" class="section level3">
+<h3>Class 25</h3>
+</div>
+<div id="class-26" class="section level3">
+<h3>Class 26</h3>
+</div>
+</div>
+<div id="labs" class="section level1">
+<h1>Labs</h1>
+<div id="lab-1" class="section level3">
+<h3>Lab 1</h3>
+<p><strong>It’ll be barely visible at first: a twitch.</strong> A white
+mouse will be laid on its back on your desk, pinned to a wax tray, its
+organs exposed.Itself freshly dead, the mouse’s schistosome parasites
+will still be alive. Just within the hepatic portal vein and visible
+across the thin wall of the vessel, paired male and female worms will
+thrash, sensing their host’s demise.When I see this, I’m always
+awestruck at the devastation wreaked on the liver by wayward
+<em>Schistosoma mansoni</em> eggs, at the organ’s distention, its mounds
+of granulomas. I’m also awestruck at the thought that such eggs are – at
+this very moment – navigating the same winding route through human
+bodies, causing the same pathology.</p>
+<p><a
+href="https://www.youtube.com/watch?v=ffsV86ytjSM">https://img.youtube.com/vi/ffsV86ytjSM/0.jpg</a></p>
+<p>{% include youtube.html id=“ffsV86ytjSM” %} ```</p>
+<p>This year, I’ll kick off our labs by throwing you into the deep end
+of the parasitology pool. In our first lab, you will get to see
+<strong>live schistosome adults in mice and hatch their eggs into
+miracidia.</strong> You’ll also get to see <strong>another species of
+trematode in its snail intermediate host</strong>. For this and all
+future labs, you’ll be responsible for keeping a laboratory notebook of
+your observations. Make sure to finish reading the content on Lab 1
+before your lab section meets!</p>
+<p><em>Adapted from Kuris, Whitney, and McKenzie Parasitology Lab
+Exercises, UC Santa Barbara</em></p>
+<p><em>Note that Schistosoma-infected mice were provided by the NIAID
+Schistosomiasis Resource Center for distribution through BEI Resources,
+NIH-NIAID Contract HHSN272201000005I (NIH: Schistosoma mansoni, Strain
+NMRI, Exposed Swiss Webster Mice, NR-21963)</em></p>
+<pre><code>Phylum Platyhelminthes
+        Class Trematoda
+              Subclass Digenea
+                    Order Strigeiformes
+                        Family Schistosomatidae
+                              *Schistosoma mansoni*
+                              *Schistosoma haematobium*
+                              *Schistosoma japonicum*
+                    Order Plagiorchiida
+                        Family Heterophyidae
+                              *Cercaria batillariae*</code></pre>
+<div id="phylum-platyhelminthes" class="section level4">
+<h4>Phylum Platyhelminthes</h4>
+<p>The platyhelminths are commonly referred to as “flatworms”, since
+they are typically dorsoventrally flattened. This large and diverse
+phylum is comprised of four major classes (Turbellaria, Trematoda,
+Monogenea, and Cestoidea) that we will study in more depth throughout
+the next few labs. The hypothetical relationships of these major groups
+are shown in the cladogram below, which traces the common ancestry among
+the groups. The platyhelminths as a group provide an exciting
+introduction to parasitology because one can trace the evolution and
+specialization for parasitism throughout the group. While studying the
+flatworms, pay particular attention to the reproductive anatomy,
+reproductive capacity, adaptations for a parasitic life style, and
+transmission stages.</p>
+<p align="center">
+<img src="images/flatworm_cladogram.jpg">
+</p>
+</div>
+<div id="the-trematode-life-cycle" class="section level4">
+<h4>The trematode life cycle</h4>
+<p>The digenetic trematodes comprise a truly marvelous array of
+families, genera, and species. Classification of the Digenea is
+determined on the basis of the size, shape, and placement of suckers,
+arrangement of flame cells, and especially on details of the
+reproductive system. The Digenea are one of the largest platyhelminth
+groups, with an estimated 40,000 described species in at least 125
+families. Taxonomy in this large group is still in a dynamic state.</p>
+<p>The majority of the Digenea are equipped with two muscular suckers.
+The largest of these, the acetabulum (ventral sucker), is located on the
+ventral surface of the worm and serves as an attachment structure. The
+oral sucker surrounds the mouth and is located at the anterior end of
+the worm. Most digenes are less than 30 mm in length and many species
+are less than 3 mm. On the other hand, Hirudinella, a species found in
+the stomach of some marine fish species, may attain the length and girth
+of a summer squash. Here’s a video of an adult Hirudinella marina, which
+Chelsea dissected from the stomach of a pelagic wahoo (please forgive
+the way the camera moves and the noise in the background - this video
+was taken on a sailing research vessel on the high seas!):</p>
+<p><a
+href="https://www.youtube.com/watch?v=q8MpczbOYUE&amp;embeds_referring_euri=https%3A%2F%2Fcanvas.uw.edu%2Fcourses%2F1479012%2Fpages%2Flab-1-overview-part-1-flatworms-and-the-trematode-life-cycle%3Fmodule_item_id%3D13387537&amp;source_ve_path=MzY4NDIsMjg2NjY"
+class="uri">https://www.youtube.com/watch?v=q8MpczbOYUE&amp;embeds_referring_euri=https%3A%2F%2Fcanvas.uw.edu%2Fcourses%2F1479012%2Fpages%2Flab-1-overview-part-1-flatworms-and-the-trematode-life-cycle%3Fmodule_item_id%3D13387537&amp;source_ve_path=MzY4NDIsMjg2NjY</a></p>
+<p>The ordinal name, Digenea, refers to the fact that the life cycle of
+these flatworms involves an alternation of hosts, with asexual
+reproduction occurring in intermediate hosts. As many as three
+intermediate hosts and a single definitive host may be required to
+complete a digenetic trematode life cycle. The first intermediate host
+is typically a gastropod (snail). The definitive host is always a
+vertebrate. Asexual reproduction in parasites may occur in intermediate
+hosts; sexual reproduction (cross-fertilization of the hermaphroditic
+worms) occurs only in the definitive host.</p>
+<p>Adult digenetic trematodes (known as “flukes” in the common
+vernacular) are typically found in the digestive tract and associated
+viscera of definitive hosts but may be found in almost any organ or
+tissue. The vertebrate definitive hosts typically have high vagility
+(i.e., they move across long distances), which facilitates the
+distribution of parasite eggs. All vertebrate classes serve as hosts to
+these parasites. Digenetic trematodes are economically and medically
+significant, as some species cause serious pathology in domestic animals
+and humans.</p>
+<p>The digenetic trematodes have some of the most complicated life
+histories in the animal kingdom. Digenetic trematode life cycles are
+“indirect” or “complex”, meaning that more than one host species is
+required to complete the life cycle. All species have asexually and
+sexually reproducing life states and a minimum of two hosts: a
+<strong>first intermediate host</strong> and a <strong>definitive
+host</strong>. Many taxa incorporate a second or third intermediate host
+as well. Although this may, at first, seem confusing, there are really
+two basic variations to the theme as follows:</p>
+<ol style="list-style-type: decimal">
+<li>Taxa that have an intermediate host (usually a snail) and a
+definitive host (vertebrate) only.</li>
+<li>Taxa that incorporate additional intermediate hosts (which may be
+mollusks, annelids, arthropods, or vertebrates) between the first
+intermediate and definitive hosts.</li>
+</ol>
+<p align="center">
+<img src="images/trematode_lc.png">
+</p>
+<p>Asexual reproduction occurs in the intermediate host. Sexual
+reproduction, resulting in the production of eggs, occurs only in the
+definitive host. There are three distinct larval stages involved in all
+digenetic trematode life cycles: the <strong>miracidium</strong>,
+<strong>sporocyst</strong>, and <strong>cercaria</strong>. Some taxa
+also produce <strong>rediae</strong> and/or encysted
+<strong>metacercariae</strong>. All of these life stages except for the
+miracidium can be found in first intermediate hosts. One of the many
+interesting aspects of digenetic trematode parasite life cycles is the
+parasitic castration of the first intermediate host. Parasitic
+castration is the elimination of reproductive capability in the host,
+and results from consumption of and interference with the gonad tissue
+by larval digenetic trematode parasites. The castrated host continues to
+live and compete with uninfected individuals in the host population, but
+only produces larval parasites.</p>
+<p><strong>Miracidium:</strong> The miracidium is the larval stage that
+develops within the egg produced by the adult fluke in the definitive
+host. After hatching from the egg, miracidia are infective to the first
+intermediate host. The miracidium is a minute, ovoid, aquatic, motile
+stage covered with cilia. These cilia are shed when infection is
+initiated by penetration of the host or consumption of embyronated eggs
+by an appropriate host. In the video below, you will see a miracidium
+(of the trematode species Fasciola hepatica) hatching out of its egg,
+using its cilia to swim away, and leaving behind an empty eggshell:</p>
+<p>Asexual reproduction occurs in the intermediate host. Sexual
+reproduction, resulting in the production of eggs, occurs only in the
+definitive host. There are three distinct larval stages involved in all
+digenetic trematode life cycles: the miracidium, sporocyst, and
+cercaria. Some taxa also produce rediae and/or encysted metacercariae.
+All of these life stages except for the miracidium can be found in first
+intermediate hosts. One of the many interesting aspects of digenetic
+trematode parasite life cycles is the parasitic castration of the first
+intermediate host. Parasitic castration is the elimination of
+reproductive capability in the host, and results from consumption of and
+interference with the gonad tissue by larval digenetic trematode
+parasites. The castrated host continues to live and compete with
+uninfected individuals in the host population, but only produces larval
+parasites.</p>
+<p>Miracidium: The miracidium is the larval stage that develops within
+the egg produced by the adult fluke in the definitive host. After
+hatching from the egg, miracidia are infective to the first intermediate
+host. The miracidium is a minute, ovoid, aquatic, motile stage covered
+with cilia. These cilia are shed when infection is initiated by
+penetration of the host or consumption of embyronated eggs by an
+appropriate host. In the video below, you will see a miracidium (of the
+trematode species Fasciola hepatica) hatching out of its egg, using its
+cilia to swim away, and leaving behind an empty eggshell:</p>
+<p>Asexual reproduction occurs in the intermediate host. Sexual
+reproduction, resulting in the production of eggs, occurs only in the
+definitive host. There are three distinct larval stages involved in all
+digenetic trematode life cycles: the miracidium, sporocyst, and
+cercaria. Some taxa also produce rediae and/or encysted metacercariae.
+All of these life stages except for the miracidium can be found in first
+intermediate hosts. One of the many interesting aspects of digenetic
+trematode parasite life cycles is the parasitic castration of the first
+intermediate host. Parasitic castration is the elimination of
+reproductive capability in the host, and results from consumption of and
+interference with the gonad tissue by larval digenetic trematode
+parasites. The castrated host continues to live and compete with
+uninfected individuals in the host population, but only produces larval
+parasites.</p>
+<p>Miracidium: The miracidium is the larval stage that develops within
+the egg produced by the adult fluke in the definitive host. After
+hatching from the egg, miracidia are infective to the first intermediate
+host. The miracidium is a minute, ovoid, aquatic, motile stage covered
+with cilia. These cilia are shed when infection is initiated by
+penetration of the host or consumption of embyronated eggs by an
+appropriate host. In the video below, you will see a miracidium (of the
+trematode species Fasciola hepatica) hatching out of its egg, using its
+cilia to swim away, and leaving behind an empty eggshell:</p>
+<p><a href="https://youtu.be/78u7YKKPEKY"
+class="uri">https://youtu.be/78u7YKKPEKY</a></p>
+<p><strong>Sporocyst:</strong> Infection of the first intermediate hosts
+begins when the miracidium enters that host and becomes a primary or
+“mother” sporocyst. The primary sporocyst gives rise to a second
+generation asexually; the second generation may be daughter sporocysts
+or rediae. Embryos within the daughter sporocysts may produce another
+generation of sporocysts, rediae, or cercariae. Sporocysts are
+“sack-like” organisms with no mouth or digestive system. The sporocyst
+absorbs nutrients directly from host tissue to supply the developing
+larvae.</p>
+<p><strong>Rediae:</strong> SOME groups of digeneans produce rediae.
+Rediae have a rudimentary digestive system consisting of a mouth,
+muscular pharynx, and short, unbranched gut; this larval stage may be
+distinguished from a sporocyst based on the presence of these
+structures. Rediae can be quite active and even downright aggressive,
+feeding actively on host tissue and sometimes upon other larval
+trematodes within the host. Note that not all digenean trematodes
+possess a redia stage – some only produce sporocysts.</p>
+<p><strong>Cercariae:</strong> Cercariae are asexually produced by
+sporocysts or rediae, depending on the species of trematode. Cercariae
+are free-swimming, sperm-like creatures that encyst in or penetrate the
+next host. Three different scenarios are possible:</p>
+<ol style="list-style-type: decimal">
+<li>Penetration of a second intermediate host and development of an
+encysted stage (metacercaria) in that host.</li>
+<li>Penetration of the definitive (vertebrate) host and development of
+the adult fluke in that host.</li>
+<li>Encysting on a suitable substrate in the environment or on the
+outside of an intermediate host.</li>
+</ol>
+<p>In the video below, you can see cercariae spilling out of burst
+sporocysts dissected from a snail intermediate host (note that you can
+see the ventral suckers clear as day on each cercaria!):</p>
+<p><a href="https://youtu.be/d3wced1DQd4"
+class="uri">https://youtu.be/d3wced1DQd4</a></p>
+<p><strong>Metacercariae:</strong> The metacercaria is an encysted
+larval stage that occurs in many digenean life cycles. Metacercariae are
+infective to the definitive host in the life cycle. Infection of the
+definitive host by a metacercaria is always trophic: the definitive host
+consumes the metacercariae in an infected intermediate host or on food
+items. Metacercaria can develop in both invertebrate and vertebrate
+hosts and on invertebrates. The developing fluke may be visible inside
+of the cyst (as in the illustration below):</p>
+<p align="center">
+<img src="images/metacercaria.jpg">
+</p>
+<p>Having trouble keeping track of the trematode life cycle? <em>The
+Oatmeal</em> is here to help! <a
+href="https://theoatmeal.com/comics/captain_higgins">This cartoon</a>
+illustrates the three-host life cycle of one trematode (<em>Dicrocoelium
+dendriticum</em>) in a… memorable… way.</p>
+<p><br></p>
+</div>
+<div id="order-strigeiformes" class="section level4">
+<h4>Order Strigeiformes</h4>
+<p>The Order Strigeiformes is pretty unique among the trematodes:
+instead of a three-host life cycle, the Srigeiformes use only two hosts
+(a first intermediate snail and a vertebrate definitive host). The Order
+Srigeiformes includes those digene species whose cercariae have forked
+tails. The cercariae also possess specialized glands for penetration of
+the hosts. The digenetic trematodes in the Superfamily Schistosomatoidea
+are usually <strong>dioecious</strong>, having separate male and female
+worms. The schistosomes are our representative material for this order,
+but they are <strong>unusual in many ways and highly adapted for
+parasitism</strong>. Adult worms live permanently in copula within the
+host.</p>
+<p align="center">
+<img src="images/schistosome_lc.jpg">
+</p>
+<p>Schistosomes are long, thin worms, an adaptation to living in the
+small blood vessels of the mammalian hepatic portal system. The
+<strong>oral sucker</strong> and <strong>acetabulum</strong> are
+adjacent in these worms. The male is recognized by the presence of the
+<strong>gynecophoric canal</strong>, a deep groove on the ventral
+surface that holds the female worm. The testis is also usually visible
+in stained specimens. The <strong>genital pore</strong> is just
+posterior to the acetabulum in the female worm. Lateral
+<strong>vitellaria</strong> occupy the posterior half of the body and
+the compact ovary is previtelline. The digestive <strong>caecae</strong>
+are usually visible as dark coiled tubes. What are these worms
+eating?</p>
+<p align="center">
+<img src="images/Sm_in_copula.jpeg"> <em>courtesy of</em>
+</p>
+</div>
+</div>
+<div id="lab-2" class="section level3">
+<h3>Lab 2</h3>
+</div>
+<div id="lab-3" class="section level3">
+<h3>Lab 3</h3>
+</div>
+<div id="lab-4" class="section level3">
+<h3>Lab 4</h3>
+</div>
+<div id="lab-5" class="section level3">
+<h3>Lab 5</h3>
+</div>
+<div id="lab-6" class="section level3">
+<h3>Lab 6</h3>
+</div>
+<div id="lab-7" class="section level3">
+<h3>Lab 7</h3>
+</div>
+<div id="lab-8" class="section level3">
+<h3>Lab 8</h3>
+</div>
+<div id="lab-9" class="section level3">
+<h3>Lab 9</h3>
+<p><br></p>
+</div>
+</div>
 
 
 
+</div>
+</div>
 
 </div>
 
@@ -499,6 +785,35 @@ $(document).ready(function () {
 
 <!-- code folding -->
 
+<script>
+$(document).ready(function ()  {
+
+    // temporarily add toc-ignore selector to headers for the consistency with Pandoc
+    $('.unlisted.unnumbered').addClass('toc-ignore')
+
+    // move toc-ignore selectors from section div to header
+    $('div.section.toc-ignore')
+        .removeClass('toc-ignore')
+        .children('h1,h2,h3,h4,h5').addClass('toc-ignore');
+
+    // establish options
+    var options = {
+      selectors: "h1,h2,h3",
+      theme: "bootstrap3",
+      context: '.toc-content',
+      hashGenerator: function (text) {
+        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_');
+      },
+      ignoreSelector: ".toc-ignore",
+      scrollTo: 0
+    };
+    options.showAndHide = true;
+    options.smoothScroll = true;
+
+    // tocify
+    var toc = $("#TOC").tocify(options).data("toc-tocify");
+});
+</script>
 
 <!-- dynamically load mathjax for compatibility with self-contained -->
 <script>
