@@ -171,16 +171,53 @@ Having trouble keeping track of the trematode life cycle?  *The Oatmeal* is here
 
 The Order Strigeiformes is pretty unique among the trematodes: instead of a three-host life cycle, the Srigeiformes use only two hosts (a first intermediate snail and a vertebrate definitive host). The Order Srigeiformes includes those digene species whose cercariae have forked tails. The cercariae also possess specialized glands for penetration of the hosts. The digenetic trematodes in the Superfamily Schistosomatoidea are usually **dioecious**, having separate male and female worms. The schistosomes are our representative material for this order, but they are **unusual in many ways and highly adapted for parasitism**. Adult worms live permanently in copula within the host.
 
+<br>
+
 <p align="center">
     <img src="images/schistosome_lc.jpg">
 </p>
 
+<br>
+
 Schistosomes are long, thin worms, an adaptation to living in the small blood vessels of the mammalian hepatic portal system. The **oral sucker** and **acetabulum** are adjacent in these worms. The male is recognized by the presence of the **gynecophoric canal**, a deep groove on the ventral surface that holds the female worm. The testis is also usually visible in stained specimens. The **genital pore** is just posterior to the acetabulum in the female worm. Lateral **vitellaria** occupy the posterior half of the body and the compact ovary is previtelline. The digestive **caecae** are usually visible as dark coiled tubes. What are these worms eating?
+
+<br>
 
 <p align="center">
     <img src="images/Sm_in_copula.jpeg">
-    <em>Image from Boissier et al. 2019</em>
+    <em>Image from [Boissier et al. 2019](https://www.researchgate.net/publication/337592635_Schistosoma_spp#fullTextFileContent)</em>
 </p>
+
+<br>
+
+Schistosome cercariae are fork-tailed.  Once released from their snail hosts, they swim through the water column, seeking out a vertebrate definitive host.  In the case of *Schistosoma mansoni* and *Schistosoma haematobium*, the definitive hosts are human, and they infect human hosts by penetrating the skin of people bathing in streams, rivers, lakes, and ponds containing snails.  In lab, you will see only the adult and egg stages of this parasite, not the cercariae (even though the Wood Lab does keep living schistosome cercariae in its biosafety-level 2 facility).  Why am I not giving you schistosome cercariae to handle?
+
+(https://youtu.be/vIfkRAdMvsE)
+
+#### Demonstration instructions
+
+##### *Schistosoma mansoni* adults in the vertebrate definitive host
+
+Schistosomiasis (human infection with schistosome worms) is a debilitating disease, rarely killing but often disabling infected individuals. Today we will see the destructiveness of schistosomes firsthand. The US National Institutes of Health maintains the life cycle of *Schistosoma mansoni* in their laboratories near Washington, DC, using *Biomphalaria glabrata* snails as intermediate hosts and laboratory mice as definitive hosts. They provide infected mice to research and teaching laboratories around the country. We have access to these infected animals for our teaching laboratory. These mice gave their lives for science, so please treat them with respect.
+
+Mice are great models for human schistosomiasis. Much of the schistosome-related pathology suffered by the mice is closely mirrored in human (and other vertebrate) patients. Five weeks ago, the mice you see before you were exposed to water with active *Schistosoma mansoni* cercariae. They were then shipped to UW, and we held them for six weeks, while their S. mansoni parasites developed. Some of these mice may be uninfected, but most will carry extremely heavy infections.
+
+* Begin by performing an external examination of your mouse. Do you see anything unusual or notable? Measure your mouse’s length, from snout to rear and from snout to tail tip.
+* Lay your mouse on its back and begin by making an incision from the anus to the throat using the small scissors. Keep your incision shallow to avoid damaging internal organs.
+* Pin out the flaps of skin on either side of the mouse, exposing the body cavity.
+* Observe and draw the internal organs. Note anything unusual.
+* Compare the liver and intestines of the infected mouse to pictures of healthy mice (see below). What pathology do you observe in the infected mouse? The white spots on the liver of the infected animal are granulomas. Encapsulation of schistosome eggs by the host causes granulomas. What is the consequence to the host? How did the eggs get into the liver? * Where should they be?
+* Now use your dissecting scope to explore the internal organs more closely. The adult worms are visible in the portal veins of your mouse.
+* Once you have finished drawing your host, remove its parasites. Tease apart the organs to access the portal veins. * * * Breach the portal vein to pull out the worm, or pull out the entire vein.
+* Place adult worms into Ringers’ solution. Can you differentiate between the male and female worms? Describe any movement or behavior that you see in these living specimens. Draw both the adults and eggs.
+* Many of these worms will have ripe eggs. Any student who is able to obtain a miracidium will be awarded +3 points on the next exam. Hint: what kind of fluid will trigger hatching in a schistosome egg?
+* The prominent lateral spine is diagnostic for this species. The eggs of Schistosoma japonicum have a less prominent spine and those of haematobium are terminal. How are spined eggs an adaptation for these worms? Most helminth parasite infections in humans are diagnosed by the presence of characteristic eggs in the feces or urine. You should be able to identify schistosome eggs on the exam.
+
+<p align="center">
+    <img src="images/healthy_mouse.png">
+    <em>Healthy mouse</em>
+</p>
+
 
 ### Lab 2
 
