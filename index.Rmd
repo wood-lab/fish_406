@@ -22,10 +22,9 @@ h3 {
 
 
 <p align="center">
-    <img src="chat_gpt_SAFS.webp">
+    <img src="images/trypanorhynch.jpg">
+    <em>Trypanorhynch tapeworm from a coral reef fish of the Line Islands archipelago, courtesy of Chelsea Wood</em>
 </p>
-
-<center>image created with ChatGPT image generator</center>
 
 <br>
 

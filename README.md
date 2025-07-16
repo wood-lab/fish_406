@@ -1,7 +1,7 @@
-# FISH 521
+# FISH 406
 
 ## University of Washington
 
-### Winter 2022
+### Fall 2025
 
-This is the website material for FISH 521 *Proposal Writing and Professional Development*, a graduate course taught at the University of Washington during winter quarter.
+This is the website material for FISH 406 *Parasite Ecology*.

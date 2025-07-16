@@ -1015,8 +1015,9 @@ Most flagellates that are intestinal parasites have two life stages: trophozoite
 
 <p align="center">
     <img src="images/giardia.jpg">
-    <em>Image courtesy of [Adrian Pan via Creative Commons Attribution-Noncommercial-No Derivative Works 2.0 Unported License](https://www.flickr.com/photos/phylomon/8662461983)</em>
+    <em></em>
 </p>
+<center>Image courtesy of [Adrian Pan via Creative Commons Attribution-Noncommercial-No Derivative Works 2.0 Unported License](https://www.flickr.com/photos/phylomon/8662461983)</center>
 
 <br>
 
@@ -1032,8 +1033,10 @@ In this lab, we will examine coccidian apicomplexans. Current classification is 
 
 <p align="center">
     <img src="images/coccidian_oocysts.jpg">
-    <em>Image courtesy of [Joel Mills via CC BY-SA 3.0](https://en.wikipedia.org/wiki/Coccidia#/media/File:Coccidia.JPG)</em>
+    <em></em>
 </p>
+<center>Image courtesy of [Joel Mills via CC BY-SA 3.0](https://en.wikipedia.org/wiki/Coccidia#/media/File:Coccidia.JPG)</center>
+
 
 <br>
 
@@ -1051,8 +1054,9 @@ Each student should dissect two termites. You are looking for the flagellates lo
 
 <p align="center">
     <img src="images/termite_flagellates.jpg">
-    <em>Image from [Brugerolle and Bordereau 2004](https://doi.org/10.1016/j.ejop.2004.05.001)</em>
+    <em></em>
 </p>
+<center>Image from [Brugerolle and Bordereau 2004](https://doi.org/10.1016/j.ejop.2004.05.001)</center>
 
 <br>
 
@@ -1108,7 +1112,7 @@ In this demo, we will survey the intestinal parasite fauna of some local mammal 
 
 <br>
 
-### Slides to examine 
+#### Slides to examine 
 
 **Draw at least 5 of the following:**
 
@@ -1139,6 +1143,6 @@ In this demo, we will survey the intestinal parasite fauna of some local mammal 
 
 ### Lab 8
 
-### Lab 9
+During this lab session, you will give your oral presentation live to colleagues in your lab section!  The presentation order will be randomly determined and announced in advance.  All presentations will be recorded, and the best presentations (as determined by Chelsea and the TAs) will be used as examples for future generations of FISH 406 students.
 
 <br>
