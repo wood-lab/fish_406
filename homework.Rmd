@@ -4,14 +4,18 @@ output:
   html_document:
     toc: true
     toc_float: true
-    toc_depth: 3
+    toc_depth: 4
 ---
 
 <br>
 
 #
 
-Make sure to read, watch, or listen to all content on each tab before the corresponding class or lab!
+**Make sure to read, watch, or listen to all content on each tab before the corresponding class or lab!**
+
+These materials were adapted from Kuris, Whitney, and McKenzie Parasitology Lab Exercises, UC Santa Barbara.
+
+Note that *Schistosoma*-infected mice were provided by the NIAID Schistosomiasis Resource Center for distribution through BEI Resources, NIH-NIAID Contract HHSN272201000005I (NIH: Schistosoma mansoni, Strain NMRI, Exposed Swiss Webster Mice, NR-21963)
 
 <br>
 
@@ -79,13 +83,8 @@ Make sure to read, watch, or listen to all content on each tab before the corres
 [https://img.youtube.com/vi/ffsV86ytjSM/0.jpg](https://www.youtube.com/watch?v=ffsV86ytjSM)
 
 {% include youtube.html id="ffsV86ytjSM" %}
-```
 
 This year, I'll kick off our labs by throwing you into the deep end of the parasitology pool. In our first lab, you will get to see **live schistosome adults in mice and hatch their eggs into miracidia.** You'll also get to see **another species of trematode in its snail intermediate host**. For this and all future labs, you'll be responsible for keeping a laboratory notebook of your observations. Make sure to finish reading the content on Lab 1 before your lab section meets!
-
-*Adapted from Kuris, Whitney, and McKenzie Parasitology Lab Exercises, UC Santa Barbara*
-
-*Note that Schistosoma-infected mice were provided by the NIAID Schistosomiasis Resource Center for distribution through BEI Resources, NIH-NIAID Contract HHSN272201000005I (NIH: Schistosoma mansoni, Strain NMRI, Exposed Swiss Webster Mice, NR-21963)*
 
     Phylum Platyhelminthes
             Class Trematoda
@@ -99,7 +98,9 @@ This year, I'll kick off our labs by throwing you into the deep end of the paras
                             Family Heterophyidae
                                   *Cercaria batillariae*
 
-  
+
+<br>
+
 #### Phylum Platyhelminthes
 
 The platyhelminths are commonly referred to as "flatworms", since they are typically dorsoventrally flattened. This large and diverse phylum is comprised of four major classes (Turbellaria, Trematoda, Monogenea, and Cestoidea) that we will study in more depth throughout the next few labs. The hypothetical relationships of these major groups are shown in the cladogram below, which traces the common ancestry among the groups. The platyhelminths as a group provide an exciting introduction to parasitology because one can trace the evolution and specialization for parasitism throughout the group. While studying the flatworms, pay particular attention to the reproductive anatomy, reproductive capacity, adaptations for a parasitic life style, and transmission stages.
@@ -107,6 +108,8 @@ The platyhelminths are commonly referred to as "flatworms", since they are typic
 <p align="center">
     <img src="images/flatworm_cladogram.jpg">
 </p>
+
+<br>
 
 #### The trematode life cycle 
 
@@ -125,21 +128,17 @@ The digenetic trematodes have some of the most complicated life histories in the
 1. Taxa that have an intermediate host (usually a snail) and a definitive host (vertebrate) only.
 2. Taxa that incorporate additional intermediate hosts (which may be mollusks, annelids, arthropods, or vertebrates) between the first intermediate and definitive hosts.
 
+<br>
+
 <p align="center">
     <img src="images/trematode_lc.png">
 </p>
 
+<br>
+
 Asexual reproduction occurs in the intermediate host. Sexual reproduction, resulting in the production of eggs, occurs only in the definitive host. There are three distinct larval stages involved in all digenetic trematode life cycles: the **miracidium**, **sporocyst**, and **cercaria**. Some taxa also produce **rediae** and/or encysted **metacercariae**. All of these life stages except for the miracidium can be found in first intermediate hosts. One of the many interesting aspects of digenetic trematode parasite life cycles is the parasitic castration of the first intermediate host. Parasitic castration is the elimination of reproductive capability in the host, and results from consumption of and interference with the gonad tissue by larval digenetic trematode parasites. The castrated host continues to live and compete with uninfected individuals in the host population, but only produces larval parasites.
 
 **Miracidium:** The miracidium is the larval stage that develops within the egg produced by the adult fluke in the definitive host. After hatching from the egg, miracidia are infective to the first intermediate host. The miracidium is a minute, ovoid, aquatic, motile stage covered with cilia. These cilia are shed when infection is initiated by penetration of the host or consumption of embyronated eggs by an appropriate host. In the video below, you will see a miracidium (of the trematode species Fasciola hepatica) hatching out of its egg, using its cilia to swim away, and leaving behind an empty eggshell:
-
-Asexual reproduction occurs in the intermediate host. Sexual reproduction, resulting in the production of eggs, occurs only in the definitive host. There are three distinct larval stages involved in all digenetic trematode life cycles: the miracidium, sporocyst, and cercaria. Some taxa also produce rediae and/or encysted metacercariae. All of these life stages except for the miracidium can be found in first intermediate hosts. One of the many interesting aspects of digenetic trematode parasite life cycles is the parasitic castration of the first intermediate host. Parasitic castration is the elimination of reproductive capability in the host, and results from consumption of and interference with the gonad tissue by larval digenetic trematode parasites. The castrated host continues to live and compete with uninfected individuals in the host population, but only produces larval parasites.
-
-Miracidium: The miracidium is the larval stage that develops within the egg produced by the adult fluke in the definitive host. After hatching from the egg, miracidia are infective to the first intermediate host. The miracidium is a minute, ovoid, aquatic, motile stage covered with cilia. These cilia are shed when infection is initiated by penetration of the host or consumption of embyronated eggs by an appropriate host. In the video below, you will see a miracidium (of the trematode species Fasciola hepatica) hatching out of its egg, using its cilia to swim away, and leaving behind an empty eggshell:
-
-Asexual reproduction occurs in the intermediate host. Sexual reproduction, resulting in the production of eggs, occurs only in the definitive host. There are three distinct larval stages involved in all digenetic trematode life cycles: the miracidium, sporocyst, and cercaria. Some taxa also produce rediae and/or encysted metacercariae. All of these life stages except for the miracidium can be found in first intermediate hosts. One of the many interesting aspects of digenetic trematode parasite life cycles is the parasitic castration of the first intermediate host. Parasitic castration is the elimination of reproductive capability in the host, and results from consumption of and interference with the gonad tissue by larval digenetic trematode parasites. The castrated host continues to live and compete with uninfected individuals in the host population, but only produces larval parasites.
-
-Miracidium: The miracidium is the larval stage that develops within the egg produced by the adult fluke in the definitive host. After hatching from the egg, miracidia are infective to the first intermediate host. The miracidium is a minute, ovoid, aquatic, motile stage covered with cilia. These cilia are shed when infection is initiated by penetration of the host or consumption of embyronated eggs by an appropriate host. In the video below, you will see a miracidium (of the trematode species Fasciola hepatica) hatching out of its egg, using its cilia to swim away, and leaving behind an empty eggshell:
 
 https://youtu.be/78u7YKKPEKY
 
@@ -159,9 +158,13 @@ https://youtu.be/d3wced1DQd4
 
 **Metacercariae:** The metacercaria is an encysted larval stage that occurs in many digenean life cycles. Metacercariae are infective to the definitive host in the life cycle. Infection of the definitive host by a metacercaria is always trophic: the definitive host consumes the metacercariae in an infected intermediate host or on food items. Metacercaria can develop in both invertebrate and vertebrate hosts and on invertebrates. The developing fluke may be visible inside of the cyst (as in the illustration below):
 
+<br>
+
 <p align="center">
     <img src="images/metacercaria.jpg">
 </p>
+
+<br>
 
 Having trouble keeping track of the trematode life cycle?  *The Oatmeal* is here to help! [This cartoon](https://theoatmeal.com/comics/captain_higgins) illustrates the three-host life cycle of one trematode (*Dicrocoelium dendriticum*) in a... memorable... way.
 
@@ -175,6 +178,7 @@ The Order Strigeiformes is pretty unique among the trematodes: instead of a thre
 
 <p align="center">
     <img src="images/schistosome_lc.jpg">
+    <em>Image courtesy of [CDC DPDx](https://www.cdc.gov/dpdx/schistosomiasis/index.html)</em>
 </p>
 
 <br>
@@ -193,6 +197,8 @@ Schistosomes are long, thin worms, an adaptation to living in the small blood ve
 Schistosome cercariae are fork-tailed.  Once released from their snail hosts, they swim through the water column, seeking out a vertebrate definitive host.  In the case of *Schistosoma mansoni* and *Schistosoma haematobium*, the definitive hosts are human, and they infect human hosts by penetrating the skin of people bathing in streams, rivers, lakes, and ponds containing snails.  In lab, you will see only the adult and egg stages of this parasite, not the cercariae (even though the Wood Lab does keep living schistosome cercariae in its biosafety-level 2 facility).  Why am I not giving you schistosome cercariae to handle?
 
 (https://youtu.be/vIfkRAdMvsE)
+
+<br>
 
 #### Demonstration instructions
 
@@ -213,15 +219,260 @@ Mice are great models for human schistosomiasis. Much of the schistosome-related
 * Many of these worms will have ripe eggs. Any student who is able to obtain a miracidium will be awarded +3 points on the next exam. Hint: what kind of fluid will trigger hatching in a schistosome egg?
 * The prominent lateral spine is diagnostic for this species. The eggs of Schistosoma japonicum have a less prominent spine and those of haematobium are terminal. How are spined eggs an adaptation for these worms? Most helminth parasite infections in humans are diagnosed by the presence of characteristic eggs in the feces or urine. You should be able to identify schistosome eggs on the exam.
 
+<br>
+
 <p align="center">
-    <img src="images/healthy_mouse.png">
-    <em>Healthy mouse</em>
+    <img src="images/healthy_vs_schisto-infected_mouse.png">
+    <em>(left) healthy mouse (right) mouse infected with *Schistosoma mansoni*</em>
 </p>
+
+<br>
+
+##### *Cercaria batillariae* larvae in the snail intermediate host
+
+The Japanese mud snail Batillaria attramentaria is native to Japan but was introduced to the US west coast in the early 1900s, probably in shipments of Asian oysters.In California, it has driven out a native mud snail, *Cerithidea californica*, in part because Batillaria has only one parasite (Cercaria batillariae), whereas Cerithidea can have up to 20! Greg Jensen collected these snails in mid-September from the intertidal zone in Silverdale, WA.
+
+Please familiarize yourself with gastropod internal anatomy before you begin the dissection:
+
+<p align="center">
+    <img src="images/snail_anatomy.jpg">
+    <em></em>
+</p>
+
+Place three snails in a beaker of seawater. Add just enough water to cover the tops of their shells. Give them a few minutes, then remove the snails into a watchglass. Check the water for tiny, swimming cercariae with the naked eye. Place the water from the beaker into a watch glass and check closely with a stereomicroscope for cercariae.
+
+Place one snail on the benchtop. Take a total length measurement (the longest dimension of the shell) and record this in your lab notebook. Crack the spire with a hammer (gently) to reveal the snail. Put the snail in a watchglass and moisten the animal with seawater. Carefully remove the shell pieces for better viewing and examine the animal under a dissecting scope. Infection may or may not be immediately apparent. The visceral hump (the spiral organ that contains the digestive gland and gonads) is the narrow, “corkscrew” extremity of the snail. If the visceral hump is whitish, tan, or mottled, the snail is probably infected with trematodes. If it is dark green or gold, the snail may be uninfected.
+
+Examine the gonad for sporocysts and/or rediae. If you don’t see any at first, tear the tissue with forceps to examine the deeper tissues.
+
+Draw any cercariae, rediae, or sporcysts that you find and record your observations. Have your TA check your snail for infection before you dispose of it! Record your snail data on the board (remember that zeros are data, too).
+
+**Note:** If you do not succeed in finding an infection in your snails, please dissect another one or observe another student’s infected snail.
+
+<br>
+
+#### Questions
+
+Please answer the following questions in your lab notebook:
+
+1. How does the intensity of infection affect pathology in **Schistosoma mansoni** infection? Is prevalence a useful statistic for studying the epidemiology of schistosomes in the definitive host?
+2. What is the most challenging aspect of adapting successfully to somatic endoparasitism?
+3. Which larval stage (or stages) is/are infective to the vertebrate host? To the snail host?
+4. How is parasitic castration an adaptive strategy for trematodes? What are the possible costs of this strategy?
+5. Our lab keeps plenty of **Schistosoma mansoni**-infected **Biomphalaria** snails in a biosafety-level 2 containment facility in the Portage Bay Building right here on campus. Why didn't we bring you any to dissect?
+
+<br>
+
+[DON'T FORGET TO PASTE PANOPTO VIDEOS HERE]
 
 
 ### Lab 2
 
+**Readings:** *How to Do Ecology,* Chapter 1
+
+Now that you’ve done a deep dive into the trematodes, let’s take a broader view: we’ll check out a diversity of parasites from marine and freshwater fishes, covering monogenes, trematodes, cestodes, nematodes, acanthocephalans, and crustaceans. 
+
+When I first started learning about parasites, I thought about them as "out there" - out in nature, out in the Global South, away from me.I could not have been more wrong. Parasites are around us, all the time, hidden just under the surface of everything that is familiar - your friends, your pets, even your food.  
+
+To prove it to you, we're going to do some grocery store parasitology. 
+
+<p align="center">
+    <img src="images/grocery_store.jpg">
+    <em></em>
+</p>
+
+When you arrive at your lab section this week, you will be provided with one whole, ungutted, wild (not farm-raised) fish acquired from a local seafood market. We'll make note of the common name given by the seafood market, so that we can look up the Latin name for your lab notebook.Let's see what kinds of worms are lurking in the seafood aisle!
+
+<br>
+
+#### Demonstration instructions
+
+Parasitology is a “blood and guts” subject. Dissection of freshly killed host organisms provides the best material for examining living parasites. In this lab, you will be examining and dissecting freshly collected teleost fishes. Fishes serve as intermediate and/or definitive hosts for a diversity of parasite taxa. If you are careful and observant, you may find many parasites in and on your specimens. Take your time as you examine the fish/host – **it will take some practice to develop a search image and many of the parasites are small**! Check out the representative drawings of fish parasite taxa before you proceed. Internal anatomy is very consistent across the vertebrates, and fish host many of the same types of parasites that are found in people (even some that may infect people!).
+
+<br>
+
+##### Fish dissection procedure
+
+**Before you dissect:**
+
+1. Collect the fish and place it on a dissection tray for easier clean-up.
+2. Determine the species of the fish that you will dissect. Record the collection data (common name, Latin name, store it was obtained from, whether it is wild or farmed, where the seafood market told you it was from, date purchased) in your lab notebook.
+3. Take the total length, standard length, and fork length measurements of the fish. Record this measurement in your lab notebook (always use metric units).
+
+<br>
+
+<p align="center">
+    <img src="images/fish_external.png">
+    <em></em>
+</p>
+
+<br>
+
+**Ectoparasite assay:**
+
+1. Consult the figure above to familiarize yourself with the external anatomy of the fish.
+2. Refer to the figure below to develop a search image for some of the parasites that you may find; pay attention to the size ranges given. Which types of parasites should be easily visible without magnification?
+3. Carefully examine the skin, fin rays, and lateral line of the fish for copepods, branchiurans, isopods, leeches, and monogenes. Remove the fins with scissors and use the dissecting scope to examine the tissue more closely.
+4. Look in the mouth of the fish and probe the nasal capsules for parasites.
+5. Examine the gill arches in situ. Remove the gill arches with scissors and examine the gill filaments carefully under the dissecting scope for monogenes.
+
+<p align="center">
+    <img src="images/fish_parasites.png">
+    <em></em>
+</p>
+
+
+<p align="center">
+    <img src="images/fish_internal.jpg">
+    <em></em>
+</p>
+
+<br>
+
+**Endoparasite assay:**
+
+1. Consult the figure above to familiarize yourself with the internal anatomy of the fish.
+2. Use a scissor to make a cut on the abdomen of your fish from the vent/anus/cloaca to the operculum and slightly off the midline so that you do not cut through the digestive tract. Make several shallow cuts so that you do not puncture internal organs.
+3. Using the scalpel and/or scissors, make two cuts through the skin and subcutaneous musculature, perpendicular to the first incision; make one cut behind the operculum and one in front of the cloaca form the abdomen to the spine.
+4. Open this flap of skin and muscle or remove it to examine the internal organs (be careful not to sever the cloaca).
+5. Determine the sex and reproductive status of your fish (if possible) and record these data.
+6. Carefully remove the digestive tract (esophagus to cloaca) and put it in a dish.
+7. Identify the organs of the digestive tract, proceeding from mouth to cloaca.
+8. Examine the body cavity and mesenteries for nematodes and cestodes.
+9. Identify and remove the gall bladder; place it in a watch glass with seawater.
+10. Carefully open the stomach and examine it for parasitic nematodes. Record any stomach contents found.
+11. Open the intestine and examine it for adult nematodes, cestodes, and acanthocephalans. These parasites may be seen without magnification but you will need to use the dissecting scope to look for trematodes. Use a squirt bottle of seawater to clear the specimen for viewing but be sure to check the tray for escapees.
+12. Examine the muscles of your fish for encysted nematodes and cestodes.
+
+
+**Documenting your observations**
+
+1. You may want to sketch the parasites in situ in the host – these drawings provide great study material.
+2. Remove the parasites that you find and place them in glass dishes with seawater. Record the site of infection, number of each taxon found, and other pertinent data in your lab notebook for each parasite.
+3. Sketch the parasite/s (include size or magnification).
+4. Make sure to confirm your identifications of any parasites you find with your instructor.
+5. Make sure to count up the number of parasites of each taxon that you find.
+6. Remember to record your observations on the white board. With data from across the entire class, we will be able to compare and contrast the number of parasites and the number of species of parasites across different kinds of hosts.
+
+<br>
+
+#### Slides to examine
+
+In this lab and all the labs to follow, there will be slides for you to examine. **"But why,"** you wonder, **"should I look at slides when I can just find pictures of these organisms on the internet?"** I'll let you in on a parasitology secret: **photographs do not capture all of the nuance, detail, and beauty of the parasites.** Photographs are one-dimensional, but parasites are three-dimensional; that is to say, photographs can only bring a single plane into focus, but because parasites are 3D, there are many other planes where interesting stuff is going on. When you focus on a microscope slide, you can bring the deepest plane into focus, and then the next deepest, and so on to the shallowest plane, and in that way, what you see (and what you draw) is better than a photograph.
+
+You are welcome to take photos of what you see in lab if it helps you learn, understand, and remember. But **I require all students to *draw, draw, draw* because it is the best way to truly *see* the parasites.** There is something about the act of your hand making a drawing that lets your eye see more than it otherwise would. Try it for yourself and you'll notice things that you've never seen before!
+
+**Slides to examine:**
+
+* Eggs
+* Miracidiae
+* Sporocysts
+* Rediae (note pharynx and short gut)
+* Cercariae
+* Metacercariae
+* Adult of *Platynosoumum fastosum, Dicrocoelium dendriticum* (incorrectly labeled as *D. lanceatum*), *Clonorchis sinensis, Heterophyes heterophyes,* or *Gastrothylax elongatus*
+
+<br>
+
+#### Lab 2 preview
+
+**Want a sneak peak of this week's lab?** Check out the images below of the parasites that previous generations of FISH 406 students have found in their grocery store fish.
+
+<br>
+
+<p align="center">
+    <img src="images/monogene_from_rockfish.jpg">
+    <em>Monogenean parasite from gills of kinki rockfish (*Sebastolobus alascanus*)</em>
+    <em></em>
+</p>
+
+<br>
+
+<p align="center">
+    <img src="images/monogene_opisthaptor.jpg">
+    <em>Opisthaptor of monogenean parasite from gills of kinki rockfish (*Sebastolobus alascanus*)</em>
+    <em></em>
+</p>
+
+<br>
+
+<p align="center">
+    <img src="images/tapeworm_larva.jpg">
+    <em>Tapeworm larva (plerocercoid) from intestine of kinki rockfish (*Sebastolobus alascanus*)</em>
+    <em></em>
+</p>
+
+<br>
+
+<p align="center">
+    <img src="images/nematode_larva.jpg">
+    <em>Nematode larva from body cavity of kinki rockfish (*Sebastolobus alascanus*)</em>
+    <em></em>
+</p>
+
+<br>
+
+<p align="center">
+    <img src="images/nematode_adult.jpg">
+    <em>Nematode adult from intesine of kinki rockfish (*Sebastolobus alascanus*)</em>
+    <em></em>
+</p>
+
+<br>
+
+<p align="center">
+    <img src="images/copepod.jpg">
+    <em>Copepod parasite from gills of kinki rockfish (*Sebastolobus alascanus*)</em>
+    <em></em>
+</p>
+
+<br>
+
+<p align="center">
+    <img src="images/copepod.jpg">
+    <em>Copepod parasite (family Pennellidae) from gills of kinki rockfish (*Sebastolobus alascanus*), courtesy of Matt Wilson</em>
+    <em></em>
+</p>
+
+<br>
+
+[MATT WILSON'S VIDEO]
+
+
+<p align="center">
+    <img src="images/acanthocephalan.jpg">
+    <em>Acanthocephalan parasite from intestines of kinki rockfish (*Sebastolobus alascanus*)</em>
+    <em></em>
+</p>
+
+<br>
+
+
+<p align="center">
+    <img src="images/acanthocephalan_proboscis.jpg">
+    <em>Proboscis of acanthocephalan parasite from intestines of kinki rockfish (*Sebastolobus alascanus*)</em>
+    <em></em>
+</p>
+
+<br>
+
+[MATT WILSON CLAVINEMA VIDEO]
+
+<br>
+
+
 ### Lab 3
+
+**I have a confession to make:** of all the parasites, the cestodes are my favorites. I first fell in love with them when I was dissecting a pelagic fish aboard a sailing research vessel, and I found this:
+
+[SEAMANS VIDEO]
+
+What you're seeing above is a tapeworm larva in the Order Trypanorhyncha. These guys reach their adult life stage in the guts of sharks. This larval plerocercoid was laying in wait inside a tuna, hoping that its tuna host would deliver itself into the jaws of a shark so that it could fulfill its tapeworm destiny to mate and produce eggs in a shark intestine. The tiny tentacles that you see reaching out to you are armed with hundreds of rows of backward-facing spikes. These tentacles are used to attach the worm to the inside of the shark intestine.
+
+Not only do the cestodes have super complex life cycles, but their body forms are wildly diverse, and they are just **heartbreakingly, staggeringly beautiful**. You'll get to see that for yourself in this lab. We'll have one species of cestodes for you to discover very much alive. I hope you'll come to love the tapeworms as much as I do.
+
+During this lab, we'll also chat with you about the parasite species you're thinking about researching for your term paper and elevator pitch. Remember that you'll need to develop a plan to control, eliminate, eradicate, or augment your parasite, and you'll need to support your proposed plan with evidence and logic. Our conversation about this will be short this week - we just want to make sure that everyone has at least one potential parasite species in mind, and that not everyone has chosen the same parasite species! But do come to lab with some ideas about parasite species you might be interested in researching.
+
 
 ### Lab 4
 
