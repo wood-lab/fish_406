@@ -11,7 +11,7 @@
 
 
 
-<title>Reference materials</title>
+<title>Assignments</title>
 
 <script src="site_libs/header-attrs-2.29/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
@@ -29,6 +29,9 @@
        h6 {font-size: 12px;}
        code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
        pre:not([class]) { background-color: white }</style>
+<script src="site_libs/jqueryui-1.13.2/jquery-ui.min.js"></script>
+<link href="site_libs/tocify-1.9.1/jquery.tocify.css" rel="stylesheet" />
+<script src="site_libs/tocify-1.9.1/jquery.tocify.js"></script>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/textmate.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
@@ -221,6 +224,69 @@ $(document).ready(function () {
 
 
 
+<style type="text/css">
+
+#TOC {
+  margin: 25px 0px 20px 0px;
+}
+@media (max-width: 768px) {
+#TOC {
+  position: relative;
+  width: 100%;
+}
+}
+
+@media print {
+.toc-content {
+  /* see https://github.com/w3c/csswg-drafts/issues/4434 */
+  float: right;
+}
+}
+
+.toc-content {
+  padding-left: 30px;
+  padding-right: 40px;
+}
+
+div.main-container {
+  max-width: 1200px;
+}
+
+div.tocify {
+  width: 20%;
+  max-width: 260px;
+  max-height: 85%;
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  div.tocify {
+    width: 25%;
+  }
+}
+
+@media (max-width: 767px) {
+  div.tocify {
+    width: 100%;
+    max-width: none;
+  }
+}
+
+.tocify ul, .tocify li {
+  line-height: 20px;
+}
+
+.tocify-subheader .tocify-item {
+  font-size: 0.90em;
+}
+
+.tocify .list-group-item {
+  border-radius: 0px;
+}
+
+
+</style>
+
+
 
 </head>
 
@@ -228,6 +294,16 @@ $(document).ready(function () {
 
 
 <div class="container-fluid main-container">
+
+
+<!-- setup 3col/9col grid for toc_float and main content  -->
+<div class="row">
+<div class="col-xs-12 col-sm-4 col-md-3">
+<div id="TOC" class="tocify">
+</div>
+</div>
+
+<div class="toc-content col-xs-12 col-sm-8 col-md-9">
 
 
 
@@ -278,91 +354,71 @@ $(document).ready(function () {
 
 
 
-<h1 class="title toc-ignore">Reference materials</h1>
+<h1 class="title toc-ignore">Assignments</h1>
 
 </div>
 
 
-<p>Students are not required to purchase any materials for the course,
-as we will rely upon freely available information sources. But here are
-some useful resources that you might consult during and after the
-course.</p>
 <p><br></p>
-<div id="safs-ms-thesis-proposals" class="section level2">
-<h2>SAFS MS thesis proposals</h2>
-<p><a href="references/example_proposals/backstrom_callum.pdf">Callum
-Backstrom, Padilla-Gamino Lab</a> - Investigating how thermal bleaching
-stress affects heavy metal concentrations in the reef-building coral
-Montipora capitata</p>
-<p><a href="references/example_proposals/doran_nicole.pdf">Nicole Doran,
-Scheuerell Lab</a> - Viewing heavy metal contamination of a threatened
-salmonid through an environmental justice lens</p>
-<p><a href="references/example_proposals/veggerby_karl.pdf">Karl
-Veggerby, Scheuerell Lab</a> - Habitat function of shellfish aquaculture
-ecosystems: Fish behavior and diets</p>
-<p><br></p>
+<div id="grading" class="section level1">
+<h1>Grading</h1>
 </div>
-<div id="safs-phd-dissertation-proposals" class="section level2">
-<h2>SAFS PhD dissertation proposals</h2>
-<p><a href="references/example_proposals/axworthy_jeremy.pdf">Jeremy
-Axworthy, Padilla-Gamino Lab</a> - The impacts of climate change and
-microplastics pollution on corals and coral reefs</p>
-<p><a href="references/example_proposals/fricke_rachel.pdf">Rachel
-Fricke, Olden Lab</a> - Emerging technologies to assess human benefits
-from and risks to water resources</p>
-<p><a href="references/example_proposals/johnson_rachelle.pdf">Rachelle
-Johnson, Olden Lab</a> - Bioenergetics-based food web assessment of
-factors limiting production of native salmonids in Upper Skagit River
-reservoirs</p>
-<p><a href="references/example_proposals/mastick_natalie.pdf">Natalie
-Mastick, Wood Lab</a> - Long-term change in the burden of anisakid
-nematode parasites for marine mammal hosts</p>
-<p><a href="references/example_proposals/mcmonagle_helena.pdf">Helena
-McMonagle, Essington and Hilborn Labs</a> - Quantifying and sustaining
-ecosystem services of mesopelagic fishes</p>
-<p><br></p>
+<div id="assignments" class="section level1">
+<h1>Assignments</h1>
+<div id="exams" class="section level2">
+<h2>Exams</h2>
+<div id="midterm-exam" class="section level3">
+<h3>Midterm exam</h3>
 </div>
-<div id="youtube-channels" class="section level2">
-<h2>YouTube channels</h2>
-<p><a href="https://www.youtube.com/@mrillig">Life in academia</a> -
-Matthias Rillig gives advice on being a graduate student, running a lab,
-and everything in between</p>
-<p><br></p>
+<div id="final-exam" class="section level3">
+<h3>Final exam</h3>
 </div>
-<div id="books" class="section level2">
-<h2>Books</h2>
-<p>Heard SB. 2016. <a
-href="https://scientistseessquirrel.wordpress.com/the-scientists-guide-to-writing/"><em>The
-Scientist’s Guide to Writing</em></a>. Princeton University Press.</p>
-<p>Zinsser W. 2016. <a
-href="https://www.harpercollins.com/products/on-writing-well-william-zinsser?variant=32118081159202"><em>On
-Writing Well</em></a>. HarperCollins.</p>
-<p><br></p>
 </div>
-<div id="papers" class="section level2">
-<h2>Papers</h2>
-<p>Sand-Jensen K. 2007. <a
-href="references/Sand%E2%80%90Jensen_2007_How_to_write_consistently_boring_scientific_literature.pdf">How
-to write consistently boring scientific literature</a>. Oikos
-116:723-727</p>
-<p><br></p>
+<div id="quizzes" class="section level2">
+<h2>Quizzes</h2>
 </div>
-<div id="blogs-threads" class="section level2">
-<h2>Blogs &amp; threads</h2>
-<p><a
-href="https://twitter.com/chrishlad/status/1431674870299955206">Google
-search tips</a> (Twitter thread)</p>
-<p><a
-href="https://www.chronicle.com/article/where-do-you-do-your-best-writing">Where
-do you do your best writing?</a> (Blog post)</p>
-<p><a href="https://pudding.cool/2022/02/plain/">What makes writing more
-readable?</a> (Blog post)</p>
-<p><a href="https://www.youtube.com/watch?v=pIflO92Mlkc">Writing tips
-from ASLO</a> (YouTube video)</p>
+<div id="term-project" class="section level2">
+<h2>Term project</h2>
+<div id="select-your-question" class="section level3">
+<h3>Select your question</h3>
+</div>
+<div id="pitch-your-project" class="section level3">
+<h3>Pitch your project</h3>
+</div>
+<div id="methods-section" class="section level3">
+<h3>Methods section</h3>
+</div>
+<div id="results-section" class="section level3">
+<h3>Results section</h3>
+</div>
+<div id="introduction-section" class="section level3">
+<h3>Introduction section</h3>
+</div>
+<div id="first-draft" class="section level3">
+<h3>First draft</h3>
+</div>
+<div id="peer-review" class="section level3">
+<h3>Peer review</h3>
+</div>
+<div id="second-draft" class="section level3">
+<h3>Second draft</h3>
+</div>
+<div id="oral-presentation" class="section level3">
+<h3>Oral presentation</h3>
+</div>
+<div id="final-term-paper" class="section level3">
+<h3>Final term paper</h3>
+</div>
+</div>
+<div id="lab-notebook" class="section level2">
+<h2>Lab notebook</h2>
+</div>
 </div>
 
 
 
+</div>
+</div>
 
 </div>
 
@@ -395,6 +451,35 @@ $(document).ready(function () {
 
 <!-- code folding -->
 
+<script>
+$(document).ready(function ()  {
+
+    // temporarily add toc-ignore selector to headers for the consistency with Pandoc
+    $('.unlisted.unnumbered').addClass('toc-ignore')
+
+    // move toc-ignore selectors from section div to header
+    $('div.section.toc-ignore')
+        .removeClass('toc-ignore')
+        .children('h1,h2,h3,h4,h5').addClass('toc-ignore');
+
+    // establish options
+    var options = {
+      selectors: "h1,h2,h3,h4",
+      theme: "bootstrap3",
+      context: '.toc-content',
+      hashGenerator: function (text) {
+        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_');
+      },
+      ignoreSelector: ".toc-ignore",
+      scrollTo: 0
+    };
+    options.showAndHide = true;
+    options.smoothScroll = true;
+
+    // tocify
+    var toc = $("#TOC").tocify(options).data("toc-tocify");
+});
+</script>
 
 <!-- dynamically load mathjax for compatibility with self-contained -->
 <script>
