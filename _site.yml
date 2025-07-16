@@ -5,7 +5,7 @@ navbar:
     - text: "Welcome and resources"
       href: syllabus.html
     - text: "Schedule"
-      href: lectures.html
+      href: schedule.html
     - text: "Course content"
       href: homework.html
     - text: "Assignments"
