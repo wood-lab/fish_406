@@ -8,8 +8,10 @@ navbar:
       href: lectures.html
     - text: "Course content"
       href: homework.html
-    - text: "Readings"
+    - text: "Assignments"
       href: references.html
+    - text: "Canvas"
+      href: https://wood-lab.github.io/fish_406/
     - text: ""
       icon: fab fa-github
       href: https://wood-lab.github.io/fish_406/
