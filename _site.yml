@@ -7,9 +7,9 @@ navbar:
     - text: "Schedule"
       href: schedule.html
     - text: "Course content"
-      href: homework.html
+      href: content.html
     - text: "Assignments"
-      href: references.html
+      href: assignments.html
     - text: "Canvas"
       href: https://wood-lab.github.io/fish_406/
     - text: ""

@@ -1,0 +1,70 @@
+---
+title: "Reference materials"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Students are not required to purchase any materials for the course, as we will rely upon freely available information sources. But here are some useful resources that you might consult during and after the course.
+
+<br>
+
+## SAFS MS thesis proposals
+
+[Callum Backstrom, Padilla-Gamino Lab](references/example_proposals/backstrom_callum.pdf) - Investigating how thermal bleaching stress affects heavy metal concentrations in the reef-building coral Montipora capitata
+
+[Nicole Doran, Scheuerell Lab](references/example_proposals/doran_nicole.pdf) - Viewing heavy metal contamination of a threatened salmonid through an environmental justice lens
+
+[Karl Veggerby, Scheuerell Lab](references/example_proposals/veggerby_karl.pdf) - Habitat function of shellfish aquaculture ecosystems: Fish behavior and diets
+
+
+<br>
+
+## SAFS PhD dissertation proposals
+
+[Jeremy Axworthy, Padilla-Gamino Lab](references/example_proposals/axworthy_jeremy.pdf) - The impacts of climate change and microplastics pollution on corals and coral reefs
+
+[Rachel Fricke, Olden Lab](references/example_proposals/fricke_rachel.pdf) - Emerging technologies to assess human benefits from and risks to water resources
+
+[Rachelle Johnson, Olden Lab](references/example_proposals/johnson_rachelle.pdf) - Bioenergetics-based food web assessment of factors limiting production of native salmonids in Upper Skagit River reservoirs
+
+[Natalie Mastick, Wood Lab](references/example_proposals/mastick_natalie.pdf) - Long-term change in the burden of anisakid nematode parasites for marine mammal hosts
+
+[Helena McMonagle, Essington and Hilborn Labs](references/example_proposals/mcmonagle_helena.pdf) - Quantifying and sustaining ecosystem services of mesopelagic fishes
+
+
+<br>
+
+## YouTube channels
+
+[Life in academia](https://www.youtube.com/@mrillig) - Matthias Rillig gives advice on being a graduate student, running a lab, and everything in between
+
+<br>
+
+## Books
+
+Heard SB. 2016. [*The Scientist’s Guide to Writing*](https://scientistseessquirrel.wordpress.com/the-scientists-guide-to-writing/). Princeton University Press.
+
+Zinsser W. 2016. [*On Writing Well*](https://www.harpercollins.com/products/on-writing-well-william-zinsser?variant=32118081159202). HarperCollins.
+
+
+<br>
+
+## Papers
+
+Sand-Jensen K. 2007. [How to write consistently boring scientific literature](references/Sand‐Jensen_2007_How_to_write_consistently_boring_scientific_literature.pdf). Oikos 116:723-727
+
+
+<br>
+
+## Blogs & threads
+
+[Google search tips](https://twitter.com/chrishlad/status/1431674870299955206) (Twitter thread)
+
+[Where do you do your best writing?](https://www.chronicle.com/article/where-do-you-do-your-best-writing) (Blog post)
+
+[What makes writing more readable?](https://pudding.cool/2022/02/plain/) (Blog post)
+
+[Writing tips from ASLO](https://www.youtube.com/watch?v=pIflO92Mlkc) (YouTube video)
