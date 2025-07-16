@@ -12,15 +12,38 @@ output:
 
 # Grading
 
+## Posting of grades
+
+You will be able to access your grades via Canvas. All graded material will be returned promptly. **Any petitions for grade changes must be made within one week of the grade posting to Canvas.** Exam scores will be posted no more than 10 days after the exam date. 
+
+<br>
+
+## Policy on late assignments
+
+**Late assignments are not accepted and will receive a grade of 0%.** However, if you anticipate being unable to meet an assignment deadline, please shoot me an e-mail or speak to me **before the deadline**, as I am very happy to arrange accommodations for you in case of illness or other unexpected roadblocks.
+
+<br>
+
 # Assignments
 
 ## Exams
+
+A midterm and final will be administered in person and are closed-book. If you have a conflict with a scheduled exam, please let Chelsea know as soon as possible so that accommodations can be arranged. Cheating on these exams will constitute a violation of UW’s policy on academic integrity (see below).
+
+**Regrade policy:** If you believe that an exam or assignment has been graded incorrectly, or that the grade entered is incorrect, please contact me (Chelsea) within one week of when the assignment is returned to you.
+
+<br>
+
 
 ### Midterm exam
 
 ### Final exam
 
 ## Quizzes
+
+Weekly, open-book Canvas quizzes are designed (1) to help you check in with your understanding of the material and (2) to indicate the most important materials to study for the midterm and final. **Please feel free to consult your course materials as you take quizzes, as they are open-book. However, you are NOT allowed to collaborate with other students on the quizzes.** Quizzes will be graded, and each weekly quiz counts for 1 point out of the 100 points that constitute your final grade. Your lowest quiz grade will be dropped. You are encouraged to use the quizzes as study tools for the midterm and final.
+
+<br>
 
 ## Term project
 
@@ -42,6 +65,81 @@ output:
 
 ### Oral presentation
 
+#### Presentation rubric
+
+FILL THIS IN
+
+<br>
+
 ### Final term paper
 
+FILL THIS IN
+
+Paper requirements:
+
+12-point, Times New Roman font, double-spaced with 1” margins
+At least 10 pages long (including references)
+At least 20 references to primary literature
+No references to sources other than the scientific literature (i.e., no Wikipedia, no encyclopedias, no textbooks) – a handful of websites (< 3) is okay if warranted
+Number your pages
+References formatted according to Reference Formatting Guidelines (end of this document)
+
+#### Reference formatting guidelines
+
+FILL THIS IN
+
+<br>
+
+#### Term paper grading rubric
+
+FILL THIS IN
+
+<br>
+
+
 ## Lab notebook
+
+*Adapted from Kuris, Whitney, and McKenzie Parasitology Lab Exercises, UC Santa Barbara*
+
+You are required to keep a lab notebook for this course. The notebook is worth 10% of your final grade. Your lab notebook grade will be broken down as follows:
+
+**Criterion =	# points (out of 10)**
+
+* Handed in on time =	2
+* Includes table of contents =	1
+* Data (host, site of infection, etc.) =	1
+* Methods	= 1
+* Sketches (anatomy, labeling) =	2
+* Scale (magnification or measurement) =	1
+* Detail (life cycle, pathology, etc.) =	2
+
+If more than one lab is missing from your notebook, the 10 completion points will be forfeited. You are allowed to miss one lab and no points will be deducted if you are missing only one lab.
+
+**Materials**: I suggest that you do your drawings and notes on good quality printer paper and keep the notebook in a three-ring binder. Composition books are also acceptable, but please use unlined paper only. Colored pencils are useful for labeling host and parasite anatomy.
+
+**Contents**: Your notebook should emphasize the living organisms and dissections from the lab. A major part of this lab course is the study of fresh material, and we are fortunate to have access to these animals. A good record of your observations will be useful to you for studying and review and for any future research that you may do in parasitology or ecology. A table of contents must be included in your notebook.
+
+**Drawings**: Artistic ability is not necessary to produce workable specimen drawings but don’t worry - you will not be graded on the quality of your artwork. However, you will need to develop your observation skills. Even the smallest protozoan parasites have morphological and anatomical details that facilitate their identification. Find a specimen that shows the details described by your instructor, adjust the focus and illumination for optimal viewing, and observe the specimen carefully before you draw. Drawings should be large enough to accommodate anatomical detail and clear labeling. Try sketching lightly in pencil and then trace over the lines that you want to keep for your finished drawing.
+
+**Drawings should include the following details:**
+
+* Host identity (genus and species or lowest taxonomic level)
+* Host collection data (location and date of collection)
+* Host parameters (age, sex, size)
+* Dissection description (what parts of the host were examined?)
+* Parasite identity (genus and species)
+* Number of parasites found (for each parasite species found)
+* Site of infection (organ or tissue)
+* Scale bar or magnification (always use metric units)
+* Labeled parasite anatomy (notes and annotations are always useful)
+* Life cycle stage
+
+**The following observations are also recommended:**
+
+* Pathology – describe any damage to host tissue or alteration of host morphology
+* Attachment – is the parasite attached or encapsulated?
+* Behavior – Describe any movement observed. Does the parasite respond to light, touch, or other stimulus? Do they abandon the host when disturbed?
+
+The more detail that you include in your notes and drawings, the more useful your lab notebook will be to you.
+
+<br>
