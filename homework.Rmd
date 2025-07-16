@@ -429,7 +429,7 @@ You are welcome to take photos of what you see in lab if it helps you learn, und
 <br>
 
 <p align="center">
-    <img src="images/copepod.jpg">
+    <img src="images/penellid_copepod.jpg">
     <em>Copepod parasite (family Pennellidae) from gills of kinki rockfish (*Sebastolobus alascanus*), courtesy of Matt Wilson</em>
     <em></em>
 </p>
@@ -473,10 +473,427 @@ Not only do the cestodes have super complex life cycles, but their body forms ar
 
 During this lab, we'll also chat with you about the parasite species you're thinking about researching for your term paper and elevator pitch. Remember that you'll need to develop a plan to control, eliminate, eradicate, or augment your parasite, and you'll need to support your proposed plan with evidence and logic. Our conversation about this will be short this week - we just want to make sure that everyone has at least one potential parasite species in mind, and that not everyone has chosen the same parasite species! But do come to lab with some ideas about parasite species you might be interested in researching.
 
+  Phylum Platyhelminthes
+    Class Cestoidea
+      Subclass Eucestoda
+        Order Cyclophyllidea
+          Family Hymenolepididae
+            *Hymenolepis diminuta*
+
+<br>                                          
+
+#### The cestodes
+
+<br>
+
+<p align="center">
+    <img src="images/cestode_cladogram.jpg">
+    <em></em>
+</p>
+
+
+The class Cestoidea is the final group of platyhelminths we will study. It is a very large group and entirely parasitic. Cestoidea are unique among the platyhelminths in that they have no mouth and no gut; they absorb all of their nutrients through their tegument (= external body surface) directly from the host. The tegument is composed of tiny, finger-like projections called microtriches, which increase the surface area of absorption and are coated in a macromolecule layer that buffers and protects the worm. Cestoideans are monoecious. The life history of this group almost always involves one or more intermediate hosts with larval stages that encyst and await being eaten by their successive host (= trophic transmission).
+
+The subclass Eucestoda is sometimes referred to as the “true tapeworms” or “cestodes”. This group includes the long, segmented, ribbon-like worms we normally associate with the term “tapeworm”. As adults, eucestodes live in the intestines of vertebrates, where food is always plentiful.
+
+<br>
+
+##### General morphology
+
+Morphologically, tapeworms have three distinct body regions. At the extreme anterior end is the holdfast, called a **scolex**, which may have various types of attachment structures (i.e., suckers, acetabula, hooks, tentacles, muscular protrusions, etc.). Posterior to the scolex, there is a short, unsegmented region called the **neck**. The neck is quite narrow and is a very poorly differentiated region. Within the neck region, however, is an area of high mitotic activity. This growth zone is continuously differentiating and is responsible for the proliferation of the segments, called **proglottids**. Each proglottid eventually develops a set of reproductive organs and is capable of generating many eggs. The remainder of the body consists of a chain of proglottids and the chain as a whole is referred to as the **strobila**.
+
+<br>
+
+<p align="center">
+    <img src="images/cestode_morphology.gif">
+    <em></em>
+</p>
+
+<br>
+
+Closer observation of the strobili will reveal that the youngest proglottids are the most anterior (nearest the neck) and the most mature proglottids are at the posterior, “tail” end of the strobila. In the youngest (most immature) proglottids, only the primordial reproductive organs can be seen. As they develop and are pushed posteriorly, they mature and become capable of producing fertilized eggs. Depending on the taxon, some tapeworms retain proglottids on the strobila that have completely filled with developing embryos (“**gravid proglottid**”) that will eventually be expelled from the host with fecal material. Other tapeworms “drop” mature proglottids from the strobila and as separate entities, those mature proglottids can crawl around in the intestine, complete reproduction, and expel their embryos. Either way, fecal matter from infected hosts is loaded with tapeworm eggs awaiting ingestion by the next host.
+
+The various orders of Eucestoda can be distinguished on the basis of the features of the scolex and the arrangement of the reproductive organs in a mature proglottid. Be sure to observe the scolex morphology and consider how it attaches to the villi on the mucosal surface of the intestine. Does it appear to grasp the villi or does it appear to wedge itself in the spaces between villi? In the mature proglottid, pay close attention to the position of the ovary and vitellaria, the testes, the cirrus sac, and the position of the genital pore.
+
+One interesting factoid about cestodes is that they are shark parasites that have evolved over time to exploit many different vertebrate hosts. Of the 12 orders of tapeworms, 5 parasitize only elasmobranchs (sharks, skates, and rays). In fact, if you were to examine a family of related shark species, you can almost overlay the phylogeny of cestodes on that same cladogram. This relationship is an example of co-evolution.
+
+<br>
+
+<p align="center">
+    <img src="images/cyclophyllidean_scolices.jpg">
+    <em>Scolices of tapeworms in the Order Cyclophyllidea</em>
+</p>
+
+<br>
+
+##### Order Cyclophyllidea
+
+Cyclophyllideans comprise the characteristic cestode fauna of birds and mammals; few species are found in reptiles. About 18 families of cyclophyllideans are recognized, of which representatives of three (Taeniidae, Hymenolepididae, and Dilepididae) are sometimes found in humans. Pathology in humans is most severe when cyclophyllidean tapeworms attempt to use humans as the intermediate host.
+
+Cyclophyllideans have a scolex with four stout **acetabula**. Most species bear a **rostellum**, a protrusible crown on the apex of the scolex that is sometimes armed with hooks. The **vitelline gland** is a single, compact mass located posterior to the ovary and medially in the proglottid; this feature is the most consistent for identification of the cyclophyllideans. The **ovary** is situated medially and is often bilobed, with a small ootype located between its lobes. From the ootype, the vagina proceeds anteriorly, then turns laterally to exit at the genital atrium. The **testes** are usually follicular and numerous, but in some groups such as *Hymenolepis* spp., they are compact and few in number. Sperm collection ducts leave the testes and open into the vas deferens, which terminates at the cirrus sac. In mature proglottids, the **uterus** originates anterior to the ovary and develops gradually, first as a median tube, and then begins to develop lateral branches, or sometimes breaks down into numerous capsules containing eggs (i.e., *Dipylidium*). Once the proglottid reaches the **gravid** stage of maturity, the testes, ovary, and vitellaria can no longer be seen, as they have spent all resources and diminished to allow room for expansion of the uterus. Unlike other cestode orders, eggs of cyclophyllideans have a thick, radially-striated embryophore, a protective outer layer surrounding the embryo. Remember that the host groups of cyclophyllideans are terrestrial and therefore eggs deposited in feces will likely be exposed to the drying elements of the atmosphere.
+
+The life cycles of cyclophyllideans is different than many other cestode orders in that they do not require second intermediate hosts; therefore the plerocercoid stage is skipped. Most of the cyclophyllidean life cycles do require one intermediate host, an arthropod or mammal, depending on the species. Typically, the adult worm lives in the intestine of the definitive host and expels eggs that exit the host with the feces. The intermediate host ingests the egg stage. Gastric intestinal fluid triggers the egg to hatch and an oncosphere emerges. With its 6 hooks, the oncosphere burrows out of the intestine wall and migrates through the host to encyst. The definitive host becomes infected by eating the intermediate host tissues, which contain the larval cysts. The larval stages develop in a variety of ways and can cause moderate to severe pathology in the intermediate host.
+
+<br>
+
+<p align="center">
+    <img src="images/taenia_saginata.jpg">
+    <em>Image courtesy of [CDC DPDx](https://www.cdc.gov/dpdx/taeniasis/index.html)</em>
+</p>
+
+<br>
+
+##### *Taenia saginata* – beef tapeworm
+
+* Only humans can serve as the definitive host. Cattle often serve as the intermediate host, with larvae encysting in the muscle fibers of cattle.
+* Adult worms lack a rostellum and armature on the scolex. Mature worms are typically 3 to 5 meters in their human host and can get up to 20m long! The uterus of a gravid proglottid has 15 to 20 lateral branches per side. Pathology in humans is mild.
+* Larval worms encysted in the intermediate host are called cysticerci (singular: cysticercus). For each egg that the intermediate host ingests, one cysticercus will develop in the tissue. In the larval form the scolex is formed but invaginated. Cysticerci typically encyst in muscle fibers. Infection of humans as intermediate hosts is not common.
+
+<br>
+
+<p align="center">
+    <img src="images/taenia_pisiformis.jpg">
+    <em>Image from [Pu et al. 2022](https://doi.org/10.1016/j.gene.2022.146650)</em>
+</p>
+
+<br>
+
+##### *Taenia pisiformis* – rabbit tapeworm
+
+* Parasite of lagomorphs (rabbits), rodents, and carnivores. Adults occur in the small intestine of carnivores, and rabbits and rodents serve as intermediate hosts.
+* Adult worms have a scolex with an armed rostellum and four suckers.
+* Larval worms encysted in the intermediate host are also called cysticerci; a single egg infection will yield a single cysticercus larva.
+
+<br>
+
+<p align="center">
+    <img src="images/echinococcus_granulosus.jpg">
+    <em>Image courtesy of [CDC DPDx](https://www.cdc.gov/dpdx/echinococcosis/index.html)</em>
+</p>
+
+<br>
+
+##### *Echinococcus granulosus*
+
+* Carnivores serve as definitive hosts and herbivorous mammals serve as intermediate hosts. In the **wild**, the life cycle may occur in wolves and moose, lions and warthogs, or dingoes and wallabys (**sylvatic life cycle**). The life cycle can also occur between domestic dogs and domestic livestock (sheep, rabbits, goats, etc.). When the tapeworm enters a domestic animal, humans are at greater risk of being infected, usually by handling dogs and encountering eggs in fecal matter. The disease in humans when they become intermediate hosts of this tapeworm is called *hydatidosis* or hydatid disease.
+* Adult worms possess an armed rostellum. Mature worms are small at about 5mm. The strobila usually consists of only 3 proglottids, where the terminal one is gravid.
+* The larval worms often target the liver and lungs of the intermediate host to encyst. They develop into a specific type of bladder worm called a **unilocular hydatid**. Over time, the inner layer of the hydatid becomes a germinal layer from which **brood capsules** arise. Each brood capsule buds off inside the hydatid and develops its own germinal layer from which protoscolices arise. The hydatid grows very large and essentially is a sac full of brood capsules, which are full of protoscolices, the texture of which is referred to as "**hydatid sand**". Hydatids can grow to be enormous, holding 15 quarts of fluid. Imagine the severity if a hydatid develops inside a human in the liver, lungs, or brain! The danger of anaphylactic shock is great if the hydatid ruptures and releases antigenic material.
+
+<br>
+
+<p align="center">
+    <img src="images/diphyllobothrium_latum.jpg">
+    <em>Image courtesy of [CDC DPDx](https://www.cdc.gov/dpdx/diphyllobothriasis/index.html)</em>
+</p>
+
+<br>
+
+##### *Diphyllobothrium latum*
+
+* The “fish tapeworm”, humans (and other mammals) become infected through consumption of plerocercoids in fish musculature. 
+* Originally native to Scandinavia, western Russian, and the Baltics, the parasite is now common in North America.
+
+<br>
+
+#### Demonstration instructions
+
+**Dissection of adult Tenebrio spp. beetles infected with cysticercoids of the cestode Hymenolepis diminuta**
+
+1. Obtain your adult Tenebrio spp. beetle. Wear gloves and be careful - if ingested, this cestode could infect you!
+2. Pinch off the head of the beetle with forceps to humanely kill it.
+3. Remove the legs and wings with forceps.
+4. Place the beetle dorsal side up in a small amount of saline solution and remove the thin dorsal integument with a pair of forceps.
+5. Scrape out the entire contents of the body cavity into a glass dish with forceps.
+6. Examine this material with a stereomicroscope.
+7. Most of the cysticercoids are found among the small white bodies that adhere to the portion fo the gut just anterior to the insertion of the Malpighian tubules.
+8. The parasites are translucent and characteristically show two small patches of opaque white granules on the anterior (larger) end.
+9. Cysticercoids that are more mature have a longer "tail" portion and are easily distinguished by means of a stereomicroscope at 20x magnification.
+10. If you can't find anything, tease the intestine into tiny shreds, so that you know you have checked every part of the intestinal tissue.
+11. How might you induce these cysticercoids to transform into their adult life stage?  Come up with some ideas, and give it a try.
+
+<br>
+
+#### Slides to examine
+
+* *Taenia pisiformis* or *Taenia saginata*
+* *Echinococcus granulosus* adult
+* *Echinococcus granulosus* hydatid cyst
+
+<br>
+
+#### Lab 3 preview
+
+**Want a sneak peak of this week's lab?**  Check out the images and videos below of the parasites that previous FISH 406 students have found.
+
+[MOVE PANOPTO VIDEOS AND IMAGES OF BEETLE CYSTICERCI IF NEED BE]
+ 
+<br>
+
 
 ### Lab 4
 
+**Readings**: Wood et al. 2023, *How to Do Ecology* Chapter 2
+
+[FILL GAPS HERE]
+
+This week, we'll begin with a discussion of the costs and benefits of eradication (don't forget to read Morrison et al. 2007 and Edwards and Leung 2009 in preparation). Then, we'll put you in pairs. Each member of the pair will share their idea, and your job is to provide your partner with constructive, critical feedback that will help them hone and shape their idea. Then, we'll get into larger groups, where you'll share your idea with your peers and instructors; everyone will chime in with their suggestions for improvement.
+
+<br>
+
 ### Lab 5
+
+<p align="center">
+    <img src="images/handful_of_nematodes.jpg">
+    <em>Image courtesy of [CDC DPDx](https://www.cdc.gov/dpdx/)</em>
+</p>
+
+You've now seen at least a few nematodes from your fish dissection. This week, we will take a deep dive into this fascinating clade of parasites. You will come face-to-face with a disturbingly large (but thankfully dead) human-infecting nematode and some living insect-infecting nematodes. Remember to keep careful track of your observations in your lab notebook and make sure to finish reading the entire Lab 5 overview before your lab section meets!
+
+The nematodes are an astoundingly large and speciose group of worms. Free-living nematodes are abundant in every habitat from marine and freshwater to soil. Parasitism is believed to have evolved in the nematodes a number of times from free-living forms. Today, parasitic nematodes are found in every vertebrate group, many of the invertebrate groups, and even in plants! In terms of abundance and number of species, nematodes outrank even the arthropods. Humans are hosts to a fair few species of nematodes, some of which are extremely pathogenic.
+
+<br>
+
+#### Morphology
+
+**Note for the nematodes**: We will use common names to identify hierarchical groups for the nematodes in order to avoid overwhelming upper-level taxonomy :)
+
+**Six distinct “body types”**
+
+1. Trichostrongyles
+2. Hookworms
+    * *Necator americanus*
+    * *Ancylostoma duodenale*
+    * *Ancylostoma caninum*
+3. Pinworms
+    * *Enterobius vermicularis*
+4. Whipworms
+    * *Trichuris trichiura*
+    * *Trichinella spiralis*
+5. True roundworms
+    * *Ascaris lumbricoides*
+6. Filarial worms
+    * Family Onchocercidae, including *Dirofilaria immitis*, *Onchocerca volvulus*, *Wuchereria bancrofti*,*Loa loa*
+    * Family Dracunculidae, including *Dracunculus medinensis*
+
+<br>
+
+<p align="center">
+    <img src="images/nematode_morphology.jpg">
+    <em></em>
+</p>
+
+<br>
+
+Nematodes have a gestalt body form that is surprisingly similar and recognizable across the entire phylum. Yet, their sizes can range from less than a millimeter to nearly a meter in length. Typically, the body is bilaterally symmetrical, long, slender, and tapering at both ends. Their movement is distinctly **sinusoidal**, owing to their longitudinal muscle and lack of circular and transverse musculature. The outer part of the body is covered by a **cuticle** (noncellular, proteinaceous layer) that is excreted from an underlying dermal layer. The cuticle is molted a number of times during larval development, analogous to the way that arthropods molt their exoskeletons. The cuticle serves many functions, including protection from desiccation, a barrier to host immune response, and a turgid surface for the hydrostatic muscle contraction during movement. The mouth is located at the anterior end and is surrounded by a tripartite opening. A muscular pharynx follows and a tubular intestine runs the length of the body, terminating at the anus, which opens at the posterior half of the body.
+
+Nematodes have separate male and female sexes (with rare exceptions). In many species, there is a high degree of **sexual dimorphism**, whereby the male and female morphology and overall size are quite different. In males, the reproductive system consists of testes, which are glandular and elongate throughout the body. In most species, males have **copulatory spicules** located at the posterior end of the worm. The spicules are eversible and used to position the female and hold the vulva open for sperm transfer during copulation. In some species, the male is also equipped with a **copulatory bursa**, a cup-shaped posterior end with finger-like rays used for grasping the female. The females are typically larger and the reproductive system consists of an elongate **ovary** that empties into the egg-filled **uterus**. The coils of the uterus terminate at a genital pore opening called the **vulva**.
+
+Egg morphology is distinct. Most species have a unique shape, facilitating diagnosis. The timing of embryonation can vary; some embryonate while still in the female uterus and others embryonate in the external environment. In the external environment, some eggs will remain dormant and others will hatch and the larvae will begin to develop and molt before encountering its host.
+
+<br>
+
+##### Life cycles
+
+Life cycles of parasitic nematodes vary among species. In some, there is no intermediate host involved. For direct life cycle nematodes, egg stages can be ingested by the host or juvenile stages can actively penetrate the host’s skin. Some nematodes use intermediate hosts, where they encyst in tissues and are trophically transmitted. Still others use vector intermediate hosts that actively transmit the infection between hosts. Nematodes that we will study today live in the gut of vertebrates as adult worms, and most have direct life cycles.
+
+<br>
+
+<p align="center">
+    <img src="images/hookworm_life_cycle.gif">
+    <em>Image courtesy of [CDC DPDx](https://www.cdc.gov/dpdx/hookworm/index.html)</em>
+</p>
+
+<br>
+
+##### Hookworm
+
+Species of hookworms live in the intestine of their hosts, attaching to the mucosal surface and feeding on blood. They are distinctive in that they possess a **buccal capsule**, a large and heavily sclerotized “mouth” that is armed with cutting plates, teeth, or lancet-like structures. Eggs are passed in the feces. Juvenile stages emerge in the external environment and molt twice. The **J3 stage** (third-stage juvenile) is infective. Upon contact with the host, the J3 penetrates the host’s skin and enters the circulatory system, where they proceed to the lungs by way of small vessels leading to alveoli. The juveniles **migrate** through the lung, up the trachea, and down the esophagus to gain access to the intestine, where thy mature, mate, and produce eggs. Pathology is **intensity dependent** and can be severe. Hookworm eggs are large, oval, and often with a juvenile that is globular in appearance.
+
+###### *Necator americanus*
+
+* Human hookworm
+* Buccal capsule has cutting plates
+* Male has spicules with barbs at the tips, fused distally
+
+###### *Ancylostoma duodenale*
+
+* Also human hookworm
+* Buccal capsule has plate with teeth
+* Male spicules have simple tips, not fused distally
+
+###### *Ancylostoma canium*
+
+* Dog hookworm
+* Juveniles that penetrate humans can cause “creeping eruption” or cutaneous larval migrans, since the larvae are “lost” in the wrong host. Bacterial infections can ensue, but they are not usually severe.
+
+<br>
+
+<p align="center">
+    <img src="images/ascaris_life_cycle.jpg">
+    <em>Image courtesy of [CDC DPDx](https://www.cdc.gov/dpdx/ascariasis/index.html)</em>
+</p>
+
+<br>
+
+##### True roundworms
+
+###### *Ascaris lumbricoides*
+
+These are among the largest nematodes in existence. Males reach lengths of 15–31 cm, while females reach lengths of 20–50 cm. They are parasites of humans but can also live in pigs. High intensity infections may cause intestinal blockage and result in severe pathology. The eggs are round and have a ruffled **mammilated** layer that is unmistakable. The eggs are highly resistant and can survive in the environment under stressful conditions for years.
+
+The life cycle of *Ascaris* is similar to that of hookworms, except that hosts are normally infected by ingesting the eggs. Once in the stomach, the juvenile hatches and burrows out of the stomach and into the circulatory system. Juveniles exit small vessels near alveoli and enter the lungs. Inside the lungs, juveniles molt twice, and then proceed to crawl up the trachea, down the esophagus, and eventually arrive at the intestine. *Ascaris* is believed by some to be related to the hookworms, and this juvenile migration may be a relict part of the life cycle.
+
+<br>
+
+<p align="center">
+    <img src="images/pinworm_life_cycle.jpg">
+    <em>Image courtesy of [CDC DPDx](https://www.cdc.gov/dpdx/enterobiasis/index.html)</em>
+</p>
+
+<br>
+
+##### Pinworm
+
+This group of nematodes contains species that infect mammals (including humans) and many that infect reptiles and insects. Most are known to have simple, direct life cycles. Study the general appearance of the male and female worms, noting their relative sizes. Observe that the female has a slender, pointed tail (hence the common name pinworm). Eggs of this group are characteristically large, oval, and flattened on one side. Developing larvae can often be seen in the eggs.
+
+###### *Enterobius vermicularis*
+
+This species is common in the intestine of humans and causes mild illness in children, but is not very pathogenic in adults. In the region of the head are two cuticular expansions, **cervical alae**. The **caudal alae** (at the posterior) are narrow and less well-defined. Study the morphology of male and female worms. Identify the vulva and uterus in the female and testis in the male. The male tail is curved and short and bears a single spicule.
+
+The life cycle of *E. vermicularis* is direct but the females exhibit a particular behavior to increase the chance of **autoinfection** (a person infecting him/herself). Often at night, while the host is sleeping, a female nematode will creep near the anus and deposit eggs on the skin along with an itchy substance. Children especially are likely to scratch the itchy area, acquire the eggs on their fingers, and ingest them.
+
+<br>
+
+<p align="center">
+    <img src="images/whipworm_life_cycle.gif">
+    <em>Image courtesy of [CDC DPDx](https://www.cdc.gov/dpdx/trichuriasis/index.html)</em>
+</p>
+
+<br>
+
+##### Whipworm
+
+###### *Trichuris trichiura*
+
+This species is a parasite of primates (including humans) and pigs. The body is whip-like with two distinct regions. The long, slender half is the anterior. The mouth occurs at the tiny tip and the esophagus is long and narrow. The intestine begins where the body of the worm thickens. Note the single spicule of the male. Eggs are very distinctive with an oval shell and **polar knobs** at either end. The life cycle is direct and people become infected by ingesting eggs from the external environment. Eggs embryonate in the external environment in moist, shady soil. Once ingested, the larva emerges and penetrates into the mucosal tissue of the large intestine down to the basal cells. They remain embedded, feeding on cell debris and blood. As they mature, the thick body of the worm protrudes into the lumen, expelling eggs. Pathology is not severe in adults with low-intensity infections, but children or immune-compromised individuals with high intensity infections are at risk of dysentery and anemia caused by chronic hemorrhaging of the intestinal wall.
+
+###### *Trichinella sprialis*
+
+This species is parasitic in humans and many other mammals, domestic and wild. Pathology can be severe in human infections. Adult worms live in the small intestine. Once a female worm is fertilized (mated), she will penetrate the mucosal lining of the intestine and deposit larvae into the circulatory system. Hundreds of larvae circulate and seek out muscle tissue (i.e., heart, diaphragm, etc.). A juvenile will enter a host cell and encyst intracellularly, converting all of that cell’s metabolic functions toward its own development. The host cell, called a nurse cell, provides a contained, protected juvenile package. When the host dies and another mammal feeds on the infected tissue, the juvenile springs into action in the new intestine, ready to mature and continue the cycle. Thus, each host that is infected with adult worms becomes the proprietor of the juvenile infective to the next host in its own tissues.
+
+Examine sections of infected muscle tissue. The juveniles often are rolled up spirally (to fit inside the elongate cells). After time, calcareous granules may accumulate around the cyst/nurse cell, and eventually the cell and the worm may become calcified. Imagine the long-term effects on the human if thousands of cells experience this infection. It is extremely difficult to treat, as the problem is intracellular.
+
+<br>
+
+<p align="center">
+    <img src="images/wuchereria_bancrofti_life_cycle.jpg">
+    <em>Image courtesy of [CDC DPDx](https://www.cdc.gov/dpdx/lymphaticfilariasis/index.html)</em>
+</p>
+
+<br>
+
+##### Filarial nematodes
+
+Filarial worms are a group of tissue-dwelling nematodes that infect terrestrial vertebrate hosts. Adult worms are very long and slender (**filiform**) with reduced features. Filarial worms cause some of the most pathogenic diseases in humans and domestic animals. All species use **arthropods** as intermediate hosts.
+
+Members of the family Onchocercidae employ the arthropod intermediate host as a **vector**. A vector host actively transfers infective stages of the parasite from one host to another when feeding. Among onchocercids, adult females are **ovoviviparous**, giving birth to active juveniles called **microfilariae**. The female worm often deposits microfilariae directly into the circulatory system of the host. Thousands of microfilariae circulate, navigating to the peripheral blood vessels to increase their chances of being ingested by an appropriate arthropod vector species. Once inside the proper intermediate host, the microfilariae will molt and undergo further development. When the arthropod takes another blood meal, the infective larvae exit the arthropod onto the skin of the vertebrate and penetrate the bite wound to gain access into the new definitive host. Microfilariae are often the diagnostic stage used by physicians, since a simple blood smear of an infected individual will often yield microfilariae. Microfilariae are **multinucleate** and sometimes retain the egg membrane as a **sheath**. The extent of nuclei and presence of a sheath are characters used to distinguish species. Microfilariae often exhibit **periodicity**, whereby they are found in highest densities in the peripheral blood vessels close to the skin at specific times of the day to coincide with the peak feeding activity of their vector host.
+
+###### *Dirofilaria immitis*
+
+This species is primarily a parasite of dogs but many other mammals are susceptible. The disease is commonly referred to as “**heartworm**”, as adult worms live in the right side of the heart and pulmonary artery. Infection in dogs can lead to cardiopulmonary failure and death if untreated.
+
+The life cycle of *D. immitis* involves a mosquito as the vector host. Adult worms live in the heart and females release microfilariae directly into the bloodstream. Mosquitoes ingest the microfilariae while taking a blood meal. Inside the mosquito, the nematode larvae molt in the Malpighian tubules to become J3s (3rd juvenile stage). The J3s migrate to the mouthparts of the mosquito so that they can readily drop onto the vertebrate host’s skin while the mosquito is taking its next blood meal. The J3s use the mosquito bite wound to enter the host and advance into the circulatory system. Mature worms can be found in the heart after about five months.
+
+###### *Onchocerca volvulus*
+
+This species causes a disease in humans known as **onchocerciasis**, also known as **river blindness**. Its distribution includes Africa, Arabia, and the tropical Americas. Adult worms live **subcutaneously** near the bite wound of the insect vector (black flies, **Family Simuliidae**). Adult worms live in pairs or groups and become encapsulated in host collagen material, forming a fibrous nodule (**onchocercoma**) beneath the skin. Females release unsheathed microfilariae that remain in the skin tissue. Black fly vectors will ingest the microfilariae when biting. In the black fly, the nematode larvae molt to become J3s and migrate to the labium so that they can easily exit the black fly when it takes another blood meal, and enter the bite wound.
+
+Adult worms and microfilariae cause pathology in infected individuals. The onchocercomas, containing adult worms, are not terribly symptomatic, but can occur wherever the person has been bitten (arms, legs, back, pelvic area, chest, head). The microfilariae cause greater problems. They are released by the hundreds and invade subcutaneous tissues all over the body, eliciting inflammatory response and causing dermatitis and lesions. Blindness occurs frequently when the microfilariae invade the eye and then die, causing lesions and scarring of the cornea over time. This is especially common when bite wounds are on the head. As the black flies are common in fast-moving stream areas, the disease has long been known as river blindness.
+
+###### *Wuchereria bancrofti*
+
+This species causes a disease in humans called lymphatic filariasis (you may sometimes see it called by an old name that I don't recommend you use because it stigmatizes patients: elephantiasis). Its distribution is across the equatorial belt worldwide. Adult worms live in the lymphatic ducts near major lymph glands, primarily in the lower half of the body. Females release sheathed microfilariae into the lymph system, which merges with the general circulatory system. Microfilariae of this species often demonstrate **periodicity**, whereby they migrate to the peripheral blood vessels near the skin during the late evening hours when the mosquito vectors are biting.
+
+Adult worms cause most of the pathology associated with this parasite by eliciting a strong immune response and inflammation of the affected area. Secondary bacterial infections further exacerbate the problem and, over time, blockages of the afferent lymph system can occur. Over the long term, areas afflicted by the adult worms near the lymph nodes can become scarred over with fibrous material generated from the host immune response. Lymph fluid collects and is trapped in the affected appendage causing a painfully swollen condition.
+
+###### *Loa loa*
+
+This species affects humans and is known as the “eyeworm”. Its distribution is in tropical West Africa. Adult worms live subcutaneously and are mobile. Microfilariae exhibit periodicity and appear in the peripheral blood during daylight hours. The vector is the biting deer fly (Chrysops spp.). Pathology is not as severe as other onchocercid nematodes, but adults can elicit an inflammatory immune response in subcutaneous tissue, called Calabar swellings. The swelling disappears after the worm moves on. Occasionally, worms enter the conjunctiva of the eye and can be seen crawling within the white tissue, hence the common name.
+
+###### *Dracunculus medinensis*
+
+This species is also known as the **Guinea worm**. Its distribution includes Africa, India, and the Middle East. *D. medinensis* infects humans and is one of the longest nematodes known; females reach up to 80 cm! Adult worms are tissue-dwellers, often inhabiting the lower extremities. Female worms have a uterus with extensive branching. Gravid females are so full of developing embryos that a strong internal pressure is created within the worm. The female migrates near to the skin surface and a portion of her cuticle erupts, forcing juveniles out into the subcutaneous layer. The host immune system reacts and a blister forms at the site of the eruption. When the host wades into cool water, such as in a stream, the female nematode begins contractions, forcing juveniles out of the blister wound. The juveniles enter the water and are readily consumed by the intermediate host, a **cyclopoid copepod**. In the arthropod host, the larval nematode migrates to the hemocoel and molts to become the J3 infective stage. Humans become infected by drinking water containing infected copepods. In the human, the nematode penetrates the duodenum and abdominal muscles to enter the subcutaneous connective tissues, where it will mature.
+
+Pathology is caused by the secondary infections that are likely to occur when a gravid female induces the blister wound. Removing the worm is tricky, and if it breaks, antigenic substances are released deep inside the tissues of the host.
+
+<br>
+
+[PASTE: https://youtu.be/6AZ-1sE3y7E]
+
+<br>
+
+#### Demonstration instructions
+
+**Adult *Ascaris* spp. nematode dissection**
+
+Obtain an *Ascaris lumbricoides* or *Ascaris suum* worm for dissection. Wear gloves and be careful – these eggs have a small chance of being viable, despite fixation in formalin!
+
+1. Find the mouth at the anterior end, noting the three lips, one dorsal and two lateroventral.
+2. Affix the worm in a dissecting pan dorsal side up by piercing with a pin near the anterior end. Carefully slit open the body from the anterior working posterior, pinning down the flaps of the cuticle as you go. Observe the body cavity and the hydrostatic pressure that would exist in a live worm.
+3. Observe the different regions of the alimentary canal: an esophagus, a muscular pharynx, a simple flat intestine, and the position along the body where the anus exits.
+4. In a female specimen, the **vulva** is situated midventrally and about one third down from the anterior end of the worm. The **vagina** is a short tube connecting the vulva to the bifurcated uterus. The two branches of the uterus coil posteriorly and then anteriorly, becoming **oviduct** along the way. The **ovary** lies at the terminal end, where the oviduct is coiled and fine. Eggs simply move along the oviduct and end up in the uterus, where they can be fertilized by the male.
+5. In a male specimen, there is a single **testis**, a long, fine, tightly coiled tube that is continuous posteriorly with a wider tube, the **seminal vesicle**. The latter organ leads into a short, muscular **ejaculatory duct**, which opens into the cloaca. Two **spicules** arise in pouches of the cloaca and may be seen projecting from the anus.
+6. Be sure to observe the morphology of both sexes: examine a neighbor’s specimen. When finished, please dispose of all tissues in the designated trash. **Wash equipment and hands thoroughly with soap. Bleach surfaces.**
+
+[INSERT NEW LAB ON CANNED SALMON]
+
+<br>
+
+#### Slides to examine
+
+Draw at least 5 of the following:
+
+* *Ancylostoma duodenalis* - larvae or adults
+* *Necator americanus* - eggs or adults
+* *Ascaris lumbricoides* - eggs or cross section (slide is labeled "c.s.")
+* *Trichuris trichiura* - eggs or adult
+* *Trichinella spiralis* - encysted larvae
+* *Enterobius vermicularis* - eggs or adult 
+* *Onchocerca volvulus* - female cross section
+* *Loa loa* - microfilariae
+
+<br>
+
+#### Questions
+
+1. What other parasites besides nematodes are dioecious?
+2. Why is hookworm pathology intensity dependent? What function does the buccal capsule perform in hookworms?
+3. Which nematodes would you be concerned about contracting if you were living on a farm and working with pigs? How could you become infected?
+4. How can people best prevent becoming infected with onchocercid filarial worms?
+5. Explain how a vector is different from an intermediate host.
+6. It is often observed that damming African rivers increases schistosomiasis above the dam and river blindness below. Why?
+7. Why is the prevalence of Enterobius vermicularis higher in children than adults?
+8. “Periodicity” is a distinguishing feature of filarial worm life cycles. If you were a filarial worm, at what time of day would you choose to be most active in your human host’s peripheral circulation?
+9. How many more reasons do you need to stop eating undercooked meat?
+
+<br>
+
+#### Lab 5 preview
+
+**Want a sneak peak of this week's lab?** Check out the images and videos below of what previous FISH 406 students have found.
+
+[video of introductory spiel and Ascaris dissection]
+
+<br>
+
+<p align="center">
+    <img src="images/ascaris_morphology.png">
+    <em>REDRAW AS THIS MATERIAL MAY BE COPYRIGHTED</em>
+</p>
+
+<br>
+
+
 
 ### Lab 6
 
