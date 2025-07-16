@@ -893,9 +893,94 @@ Draw at least 5 of the following:
 
 <br>
 
-
-
 ### Lab 6
+
+**Readings**: *How to Do Ecology* Chapter 8
+
+As we've traversed the parasite tree of life , we've so far focused primarily on vermiform parasites (i.e., wormy dudes). Today, you'll get to come face-to-face with a different group of parasites: the arthropods (i.e., crunchy dudes).
+
+For the past several weeks, we have been raising our very own colony of arthropod parasites: jewel wasp (*Melittobia digitata*) parasitoids of blow fly pupae (*Sarcophaga* spp.).  We've already seen several generations of wasps deposit their eggs in blow fly pupae, create their own pupae, and metamorphose into adult jewel wasps.
+
+Today, you will:
+
+1. Dissect an *entoniscid isopod* (**Portunion conformis**) from a local shore crab (**Hemigrapsus oregonensis** or **H. nudus**):
+
+[INSERT VIDEO OF PORTUNION]
+
+2. Extract from your very own face a living Demodex spp. mite!
+
+[<br>
+
+<p align="center">
+    <img src="images/demodex_follicularum.jpg">
+    <em>*Demodex folliculorum* mite from a human face. Image from [Elston and Elston 2014](https://doi.org/10.1016/j.clindermatol.2014.02.012).</em>
+</p>
+
+<br>]
+
+[INSERT VIDEO HERE]
+
+3. Observe jewel wasp parasitoids.
+
+[INSERT VIDEO HERE]
+
+<br>
+
+#### Demonstration instructions
+
+Today's demonstration will have two parts:
+
+1. You'll perform a dissection of shore crabs (*Hemigrapsus oregonensis* or *H. nudus*) infected with the entoniscid isopod *Portunion conformis*
+
+2. You'll extract and visualize your own facial mites (*Demodex folliculorum* and *D. brevis*)
+
+
+**Entoniscid isopod *Portunion conformis***
+
+Euthanizing crabs can be challenging, and we want to make sure that (1) the crabs are all dispatched humanely and (2) you guys aren't too traumatized by the process of performing the euthanasia on your own. So your TA will do all the euthanasias and present you with freshly dead crabs for your dissections.
+
+*Portunion conformis* is an endoparasite of the local shore crabs, *Hemigrapsus oregonensis* and *H. nudus*. These parasites actually feminize male hosts, which is apparent in mature infections but may be subtle.
+
+1. Obtain your freshly dead crab. Your TA will sever the cerebral ganglion for you. The legs might kick for a few more seconds, but these are just reflexes - the crab isn't feeling a thing.
+2. Record the species, sex, collection data, and the carapace width of each crab. 
+3. Make a drawing of the crab, especially the morphology of its abdomen.
+4. Gently flip back the abdominal flap. If a lemon yellow spot is visible at the base of the abdomen, you'll know that the crab is infected with an adult female *Portunion conformis*. If the yellow spot is lacking, you will look carefully for the more subtle signs of an early infection. If the host is female, look through the thin, transparent membrane alongside the intestines on the underside of the abdomen. Normally, the blood is colorless, but if the blood appears brown, the crab is infected with a juvenile parasite. Consumption of the host ovary by the young parasite releases brown vitelline pigment into the blood of the host, resulting in brown coloration. Write down your observations.
+5. From here on out, we'll proceed with caution, as the parasite is large, morphologically complex, and intertwined with host tissue.
+6. Insert a scalpel at the posterior-lateral corner of the carapace where it joins the abdomen. Then lift the carapace carefully to expose the hemocoel of the crab. 
+7. Mature parasites should be immediately apparent; the female looks vaguely maggot-like and is pale yellow, orange, or white. If a large parasite is present, you should carefully sever the intestine (the most fragile part of the parasite underlies the intestine). Using forceps as a scoop, gently flip the parasite from the cavity of the thorax into the still partially attached carapace. Most of the host's organs may accompany the parasite in this maneuver. Then float the parasite out by placing the "backed" crab in a watchglass and covering with seawater.
+8. Examine the crab under the dissecting microscope and carefully dissect the parasite from the carapace. The anterior portion of the parasite's brood chamber (marsupium) is interdigitated with the host's organs in the anterior part of the carapace, in front of the host's mouthpart musculature (buccal apparatus). The parasite may most easily be removed if the host's buccal apparatus is lifted in toto and the parasite scooped out of the empty shell.
+9. Draw the female entoniscid. If you don't find one, draw your neighbor's.
+10. Try to find the dwarf male hanging out nearby.
+11. If the female is carrying epicaridian larvae, draw those too.
+12. Remember to label the structures in your drawings of the females, males, and epicaridian larvae.
+ 
+<br>
+
+**Facial mites (*Demodex follicularum* and *D. brevis*)**
+
+The vast majority of adult humans host the human eyebrow mite, *Demodex folliculorum*, an ectoparasite of the human face. Mites burrow into hair follicles of eyebrows and eyelashes and lay their long bodies parallel to the emerging hair. These mites are most active at night. Those humans who do not contract the mites vertically (e.g., from nuzzling mom as an infant) probably contract mites horizontally (e.g., later in life, from nuzzling other folks at night). Mites have been weakly linked to some skin diseases, but are thought to be largely harmless. We will assay your face for *Demodex folliculorum*.
+
+1. There are several ways to do this. We will start by crazy-gluing a piece of transparent tape to a microscope slide, sticky side up. Once the glue is dry, apply the sticky tape to your eyebrow line, press firmly, and remove. If you're lucky, several tiny hairs (along with their associated follicles) will be removed by the tape.
+2. Drop a bit of mineral oil on the tape, add a cover slip, and examine under low magnification on a compound microscope.
+3. You can also try "expressing" the mites - this is a fancy way of saying, "squeeze your skin like you're popping a zit and scrape the oil onto a microscope slide". Around the eyebrows and nose are popular places for mites. Once you have the oil on a slide, drop some mineral oil on top, add a cover slip, and examine under low magnification on a compound microscope.
+4. This might require a few tries. *Demodex follicularum* can be tough to get a hold of during daytime hours.
+5. Once we find a mite, please make a detailed drawing and label as many structures as you can. If you don't find your own mites, draw your neighbor's.
+
+<br>
+
+#### Questions
+
+1. Malaria has been successfully eradicated in the US. How was this accomplished?
+2. What are two methods for the control of insect pests and insect vectors? What are the costs and benefits of these different methods?
+3. How does resistance develop in insect vectors and the pathogens that they carry? What are the implications for human health?
+4. What factors potentially limit size (relative to the host) in non-parasitoid endoparasites?
+5. What factors must a conscientious biologist consider and research before attempting any application of biological control agents?
+6. Match the disease to the vector:
+
+* vectors = tse-tse fly, *Boophilus* tick, rat flea, kissing bug, *Anopheles* mosquito, black fly, deer fly, hornet, *Ixodes* tick 
+* diseases = falciparum malaria, lymphatic filariasis, river blindness, Lyme disease, bubonic plague, Rocky Mountain spotted fever, *Babesia*, African sleeping sickness, *Giardia*
+
+<br>
 
 ### Lab 7
 
