@@ -13,9 +13,6 @@ output:
 
 **Make sure to read, watch, or listen to all content on each tab before the corresponding class or lab!**
 
-These materials were adapted from Kuris, Whitney, and McKenzie Parasitology Lab Exercises, UC Santa Barbara.
-
-Note that *Schistosoma*-infected mice were provided by the NIAID Schistosomiasis Resource Center for distribution through BEI Resources, NIH-NIAID Contract HHSN272201000005I (NIH: Schistosoma mansoni, Strain NMRI, Exposed Swiss Webster Mice, NR-21963)
 
 <br>
 
@@ -203,6 +200,8 @@ Schistosome cercariae are fork-tailed.  Once released from their snail hosts, th
 #### Demonstration instructions
 
 ##### *Schistosoma mansoni* adults in the vertebrate definitive host
+
+Note that *Schistosoma*-infected mice were provided by the NIAID Schistosomiasis Resource Center for distribution through BEI Resources, NIH-NIAID Contract HHSN272201000005I (NIH: Schistosoma mansoni, Strain NMRI, Exposed Swiss Webster Mice, NR-21963)
 
 Schistosomiasis (human infection with schistosome worms) is a debilitating disease, rarely killing but often disabling infected individuals. Today we will see the destructiveness of schistosomes firsthand. The US National Institutes of Health maintains the life cycle of *Schistosoma mansoni* in their laboratories near Washington, DC, using *Biomphalaria glabrata* snails as intermediate hosts and laboratory mice as definitive hosts. They provide infected mice to research and teaching laboratories around the country. We have access to these infected animals for our teaching laboratory. These mice gave their lives for science, so please treat them with respect.
 
