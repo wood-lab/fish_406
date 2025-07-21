@@ -77,8 +77,14 @@ output:
 
 **It'll be barely visible at first: a twitch.** A white mouse will be laid on its back on your desk, pinned to a wax tray, its organs exposed.Itself freshly dead, the mouse’s schistosome parasites will still be alive. Just within the hepatic portal vein and visible across the thin wall of the vessel, paired male and female worms will thrash, sensing their host’s demise.When I see this, I'm always awestruck at the devastation wreaked on the liver by wayward *Schistosoma mansoni* eggs, at the organ’s distention, its mounds of granulomas. I'm also awestruck at the thought that such eggs are – at this very moment – navigating the same winding route through human bodies, causing the same pathology.
 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/ffsV86ytjSM/0.jpg)](https://www.youtube.com/watch?v=ffsV86ytjSM)
+
 [https://img.youtube.com/vi/ffsV86ytjSM/0.jpg](https://www.youtube.com/watch?v=ffsV86ytjSM)
 
+(https://img.youtube.com/vi/JLMbpiywVxQ/maxresdefault.jpg)]
+(https://www.youtube.com/watch?v=JLMbpiywVxQ)
+
+{% include youtube.html id="JLMbpiywVxQ" %}
 {% include youtube.html id="ffsV86ytjSM" %}
 
 This year, I'll kick off our labs by throwing you into the deep end of the parasitology pool. In our first lab, you will get to see **live schistosome adults in mice and hatch their eggs into miracidia.** You'll also get to see **another species of trematode in its snail intermediate host**. For this and all future labs, you'll be responsible for keeping a laboratory notebook of your observations. Make sure to finish reading the content on Lab 1 before your lab section meets!
