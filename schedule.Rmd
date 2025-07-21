@@ -50,7 +50,10 @@ cal_props(cal_data)
 });
 </script>
 
+    
 ```
+print(fish406_cal)
+
 
 <br>
 

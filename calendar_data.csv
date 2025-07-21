@@ -1,74 +1,73 @@
 ﻿calendarId,title,body,recurrenceRule,start,end,category,location,backgroundColor,color,borderColor
-1,CLASS CANCELLED,,NA,2025-09-24 12:30:00,2025-09-24 13:20:00,time,FISH 107,#3A9AB2,white,NA
-1,CLASS CANCELLED,,NA,2025-09-26 12:30:00,2025-09-26 13:20:00,time,FISH 107,#3A9AB2,white,NA
-1,Class 1,,NA,2025-09-29 12:30:00,2025-09-29 13:20:00,time,FISH 107,#3A9AB2,white,NA
-2,Lab 1 - Section AB,,NA,2025-09-30 09:30:00,2025-09-30 12:20:00,time,OTB 206,#B1C492,white,NA
-2,Lab 1 - Section AA,,NA,2025-09-30 13:30:00,2025-09-30 16:20:00,time,OTB 206,#B1C492,white,NA
-1,Class 2,,NA,2025-10-01 12:30:00,2025-10-01 13:20:00,time,FISH 107,#3A9AB2,white,NA
-1,Class 3,,NA,2025-10-03 12:30:00,2025-10-03 13:20:00,time,FISH 107,#3A9AB2,white,NA
-1,Class 4,,NA,2025-10-06 12:30:00,2025-10-06 13:20:00,time,FISH 107,#3A9AB2,white,NA
-2,Lab 2 - Section AB,,NA,2025-10-07 09:30:00,2025-10-07 12:20:00,time,OTB 206,#B1C492,white,NA
-2,Lab 2 - Section AA,,NA,2025-10-07 13:30:00,2025-10-07 16:20:00,time,OTB 206,#B1C492,white,NA
-1,Class 5,,NA,2025-10-08 12:30:00,2025-10-08 13:20:00,time,FISH 107,#3A9AB2,white,NA
-1,Class 6,,NA,2025-10-10 12:30:00,2025-10-10 13:20:00,time,FISH 107,#3A9AB2,white,NA
-1,Class 7,,NA,2025-10-13 12:30:00,2025-10-13 13:20:00,time,FISH 107,#3A9AB2,white,NA
-2,Lab 3 - Section AB,,NA,2025-10-14 09:30:00,2025-10-14 12:20:00,time,OTB 206,#B1C492,white,NA
-2,Lab 3 - Section AA,,NA,2025-10-14 13:30:00,2025-10-14 16:20:00,time,OTB 206,#B1C492,white,NA
-1,Class 8,,NA,2025-10-15 12:30:00,2025-10-15 13:20:00,time,FISH 107,#3A9AB2,white,NA
-1,Class 9,,NA,2025-10-17 12:30:00,2025-10-17 13:20:00,time,FISH 107,#3A9AB2,white,NA
-1,Class 10,,NA,2025-10-20 12:30:00,2025-10-20 13:20:00,time,FISH 107,#3A9AB2,white,NA
-2,Lab 4 - Section AB,,NA,2025-10-21 09:30:00,2025-10-21 12:20:00,time,OTB 206,#B1C492,white,NA
-2,Lab 4 - Section AA,,NA,2025-10-21 13:30:00,2025-10-21 16:20:00,time,OTB 206,#B1C492,white,NA
-1,Class 11,,NA,2025-10-22 12:30:00,2025-10-22 13:20:00,time,FISH 107,#3A9AB2,white,NA
-1,Class 12,,NA,2025-10-24 12:30:00,2025-10-24 13:20:00,time,FISH 107,#3A9AB2,white,NA
-1,Class 13,,NA,2025-10-27 12:30:00,2025-10-27 13:20:00,time,FISH 107,#3A9AB2,white,NA
-2,Lab 5 - Section AB,,NA,2025-10-28 09:30:00,2025-10-28 12:20:00,time,OTB 206,#B1C492,white,NA
-2,Lab 5 - Section AA,,NA,2025-10-28 13:30:00,2025-10-28 16:20:00,time,OTB 206,#B1C492,white,NA
-1,Class 14,,NA,2025-10-29 12:30:00,2025-10-29 13:20:00,time,FISH 107,#3A9AB2,white,NA
-3,Midterm Exam,,NA,2025-10-31 12:30:00,2025-10-31 13:20:00,time,FISH 107,#E3B710,white,NA
-1,Class 15,,NA,2025-11-03 12:30:00,2025-11-03 13:20:00,time,FISH 107,#3A9AB2,white,NA
-2,Lab 6 - Section AB,,NA,2025-11-04 09:30:00,2025-11-04 12:20:00,time,OTB 206,#B1C492,white,NA
-2,Lab 6 - Section AA,,NA,2025-11-04 13:30:00,2025-11-04 16:20:00,time,OTB 206,#B1C492,white,NA
-1,Class 16,,NA,2025-11-05 12:30:00,2025-11-05 13:20:00,time,FISH 107,#3A9AB2,white,NA
-1,Class 17,,NA,2025-11-07 12:30:00,2025-11-07 13:20:00,time,FISH 107,#3A9AB2,white,NA
-1,CLASS CANCELLED,,NA,2025-11-10 12:30:00,2025-11-10 13:20:00,time,FISH 107,#3A9AB2,white,NA
-2,LAB CANCELLED,,NA,2025-11-11 09:30:00,2025-11-11 12:20:00,time,OTB 206,#B1C492,white,NA
-2,LAB CANCELLED,,NA,2025-11-11 13:30:00,2025-11-11 16:20:00,time,OTB 206,#B1C492,white,NA
-1,Class 18,,NA,2025-11-12 12:30:00,2025-11-12 13:20:00,time,FISH 107,#3A9AB2,white,NA
-1,Class 19,,NA,2025-11-14 12:30:00,2025-11-14 13:20:00,time,FISH 107,#3A9AB2,white,NA
-1,Class 20,,NA,2025-11-17 12:30:00,2025-11-17 13:20:00,time,FISH 107,#3A9AB2,white,NA
-2,Lab 7 - Section AB,,NA,2025-11-18 09:30:00,2025-11-18 12:20:00,time,OTB 206,#B1C492,white,NA
-2,Lab 7 - Section AA,,NA,2025-11-18 13:30:00,2025-11-18 16:20:00,time,OTB 206,#B1C492,white,NA
-1,Class 21,,NA,2025-11-19 12:30:00,2025-11-19 13:20:00,time,FISH 107,#3A9AB2,white,NA
-1,Class 22,,NA,2025-11-21 12:30:00,2025-11-21 13:20:00,time,FISH 107,#3A9AB2,white,NA
-1,Class 23,,NA,2025-11-24 12:30:00,2025-11-24 13:20:00,time,FISH 107,#3A9AB2,white,NA
-2,Lab 8 - Section AB,,NA,2025-11-25 09:30:00,2025-11-25 12:20:00,time,OTB 206,#B1C492,white,NA
-2,Lab 8 - Section AA,,NA,2025-11-25 13:30:00,2025-11-25 16:20:00,time,OTB 206,#B1C492,white,NA
-1,Class 24,,NA,2025-11-26 12:30:00,2025-11-26 13:20:00,time,FISH 107,#3A9AB2,white,NA
-1,CLASS CANCELLED,,NA,2025-11-28 12:30:00,2025-11-28 13:20:00,time,FISH 107,#3A9AB2,white,NA
-1,Class 25,,NA,2025-12-01 12:30:00,2025-12-01 13:20:00,time,FISH 107,#3A9AB2,white,NA
-2,Lab 9 - Section AB,,NA,2025-12-02 09:30:00,2025-12-02 12:20:00,time,OTB 206,#B1C492,white,NA
-2,Lab 9 - Section AA,,NA,2025-12-02 13:30:00,2025-12-02 16:20:00,time,OTB 206,#B1C492,white,NA
-1,Class 26,,NA,2025-12-03 12:30:00,2025-12-03 13:20:00,time,FISH 107,#3A9AB2,white,NA
-1,Exam Review,,NA,2025-12-05 12:30:00,2025-12-05 13:20:00,time,FISH 107,#3A9AB2,white,NA
-3,Final Exam,,NA,2025-12-11 08:30:00,2025-12-11 10:20:00,time,FISH 107,#E3B710,white,NA
-3,Week 1 quiz due,,NA,2025-10-03,2025-10-03,allday,,#E79805,white,NA
-3,Week 2 quiz due,,NA,2025-10-10,2025-10-10,allday,,#E79805,white,NA
-3,Week 3 quiz due,,NA,2025-10-17,2025-10-17,allday,,#E79805,white,NA
-3,Week 4 quiz due,,NA,2025-10-24,2025-10-24,allday,,#E79805,white,NA
-3,Week 5 quiz due,,NA,2025-10-31,2025-10-31,allday,,#E79805,white,NA
-3,Week 6 quiz due,,NA,2025-11-07,2025-11-07,allday,,#E79805,white,NA
-3,Week 7 quiz due,,NA,2025-11-14,2025-11-14,allday,,#E79805,white,NA
-3,Week 8 quiz due,,NA,2025-11-21,2025-11-21,allday,,#E79805,white,NA
-3,Week 9 quiz due,,NA,2025-11-28,2025-11-28,allday,,#E79805,white,NA
-3,Week 10 quiz due,,NA,2025-12-05,2025-12-05,allday,,#E79805,white,NA
-3,Week 11 quiz due,,NA,2025-12-12,2025-12-12,allday,,#E79805,white,NA
-3,Submit your lab notebook,,NA,2025-12-05,2025-12-05,allday,,#E79805,white,NA
-3,Submit your research question,,NA,2025-10-21,2025-10-21,allday,,#E79805,white,NA
-3,Submit your preliminary analysis,,NA,2025-10-28,2025-10-28,allday,,#E79805,white,NA
-3,Submit your introduction section,,NA,2025-11-04,2025-11-04,allday,,#E79805,white,NA
-3,Submit your first draft,,NA,2025-11-11,2025-11-11,allday,,#E79805,white,NA
-3,Peer review your colleagues' first drafts,,NA,2025-11-18,2025-11-18,allday,,#E79805,white,NA
-3,Submit second draft for instructors' comments,,NA,2025-11-25,2025-11-25,allday,,#E79805,white,NA
-3,Oral presentation,,NA,2025-12-02,2025-12-02,allday,,#E79805,white,NA
-3,Final term paper,,NA,2025-12-05,2025-12-05,allday,,#E79805,white,NA
+1,CLASS CANCELLED,,NA,9/24/25 12:30,9/24/25 13:20,time,FISH 107,#3A9AB2,white,NA
+1,CLASS CANCELLED,,NA,9/26/25 12:30,9/26/25 13:20,time,FISH 107,#3A9AB2,white,NA
+1,Class 1,,NA,9/29/25 12:30,9/29/25 13:20,time,FISH 107,#3A9AB2,white,NA
+2,Lab 1 - Section AB,,NA,9/30/25 9:30,9/30/25 12:20,time,OTB 206,#B1C492,white,NA
+2,Lab 1 - Section AA,,NA,9/30/25 13:30,9/30/25 16:20,time,OTB 206,#B1C492,white,NA
+1,Class 2,,NA,10/1/25 12:30,10/1/25 13:20,time,FISH 107,#3A9AB2,white,NA
+1,Class 3,,NA,10/3/25 12:30,10/3/25 13:20,time,FISH 107,#3A9AB2,white,NA
+1,Class 4,,NA,10/6/25 12:30,10/6/25 13:20,time,FISH 107,#3A9AB2,white,NA
+2,Lab 2 - Section AB,,NA,10/7/25 9:30,10/7/25 12:20,time,OTB 206,#B1C492,white,NA
+2,Lab 2 - Section AA,,NA,10/7/25 13:30,10/7/25 16:20,time,OTB 206,#B1C492,white,NA
+1,Class 5,,NA,10/8/25 12:30,10/8/25 13:20,time,FISH 107,#3A9AB2,white,NA
+1,Class 6,,NA,10/10/25 12:30,10/10/25 13:20,time,FISH 107,#3A9AB2,white,NA
+1,Class 7,,NA,10/13/25 12:30,10/13/25 13:20,time,FISH 107,#3A9AB2,white,NA
+2,Lab 3 - Section AB,,NA,10/14/25 9:30,10/14/25 12:20,time,OTB 206,#B1C492,white,NA
+2,Lab 3 - Section AA,,NA,10/14/25 13:30,10/14/25 16:20,time,OTB 206,#B1C492,white,NA
+1,Class 8,,NA,10/15/25 12:30,10/15/25 13:20,time,FISH 107,#3A9AB2,white,NA
+1,Class 9,,NA,10/17/25 12:30,10/17/25 13:20,time,FISH 107,#3A9AB2,white,NA
+1,Class 10,,NA,10/20/25 12:30,10/20/25 13:20,time,FISH 107,#3A9AB2,white,NA
+2,Lab 4 - Section AB,,NA,10/21/25 9:30,10/21/25 12:20,time,OTB 206,#B1C492,white,NA
+2,Lab 4 - Section AA,,NA,10/21/25 13:30,10/21/25 16:20,time,OTB 206,#B1C492,white,NA
+1,Class 11,,NA,10/22/25 12:30,10/22/25 13:20,time,FISH 107,#3A9AB2,white,NA
+1,Class 12,,NA,10/24/25 12:30,10/24/25 13:20,time,FISH 107,#3A9AB2,white,NA
+1,Class 13,,NA,10/27/25 12:30,10/27/25 13:20,time,FISH 107,#3A9AB2,white,NA
+2,Lab 5 - Section AB,,NA,10/28/25 9:30,10/28/25 12:20,time,OTB 206,#B1C492,white,NA
+2,Lab 5 - Section AA,,NA,10/28/25 13:30,10/28/25 16:20,time,OTB 206,#B1C492,white,NA
+1,Class 14,,NA,10/29/25 12:30,10/29/25 13:20,time,FISH 107,#3A9AB2,white,NA
+3,Midterm Exam,,NA,10/31/25 12:30,10/31/25 13:20,time,FISH 107,#E3B710,white,NA
+1,Class 15,,NA,11/3/25 12:30,11/3/25 13:20,time,FISH 107,#3A9AB2,white,NA
+2,Lab 6 - Section AB,,NA,11/4/25 9:30,11/4/25 12:20,time,OTB 206,#B1C492,white,NA
+2,Lab 6 - Section AA,,NA,11/4/25 13:30,11/4/25 16:20,time,OTB 206,#B1C492,white,NA
+1,Class 16,,NA,11/5/25 12:30,11/5/25 13:20,time,FISH 107,#3A9AB2,white,NA
+1,Class 17,,NA,11/7/25 12:30,11/7/25 13:20,time,FISH 107,#3A9AB2,white,NA
+1,CLASS CANCELLED,,NA,11/10/25 12:30,11/10/25 13:20,time,FISH 107,#3A9AB2,white,NA
+2,LAB CANCELLED,,NA,11/11/25 9:30,11/11/25 12:20,time,OTB 206,#B1C492,white,NA
+2,LAB CANCELLED,,NA,11/11/25 13:30,11/11/25 16:20,time,OTB 206,#B1C492,white,NA
+1,Class 18,,NA,11/12/25 12:30,11/12/25 13:20,time,FISH 107,#3A9AB2,white,NA
+1,Class 19,,NA,11/14/25 12:30,11/14/25 13:20,time,FISH 107,#3A9AB2,white,NA
+1,Class 20,,NA,11/17/25 12:30,11/17/25 13:20,time,FISH 107,#3A9AB2,white,NA
+2,Lab 7 - Section AB,,NA,11/18/25 9:30,11/18/25 12:20,time,OTB 206,#B1C492,white,NA
+2,Lab 7 - Section AA,,NA,11/18/25 13:30,11/18/25 16:20,time,OTB 206,#B1C492,white,NA
+1,Class 21,,NA,11/19/25 12:30,11/19/25 13:20,time,FISH 107,#3A9AB2,white,NA
+1,Class 22,,NA,11/21/25 12:30,11/21/25 13:20,time,FISH 107,#3A9AB2,white,NA
+1,Class 23,,NA,11/24/25 12:30,11/24/25 13:20,time,FISH 107,#3A9AB2,white,NA
+2,Lab 8 - Section AB,,NA,11/25/25 9:30,11/25/25 12:20,time,OTB 206,#B1C492,white,NA
+2,Lab 8 - Section AA,,NA,11/25/25 13:30,11/25/25 16:20,time,OTB 206,#B1C492,white,NA
+1,Class 24,,NA,11/26/25 12:30,11/26/25 13:20,time,FISH 107,#3A9AB2,white,NA
+1,CLASS CANCELLED,,NA,11/28/25 12:30,11/28/25 13:20,time,FISH 107,#3A9AB2,white,NA
+1,Class 25,,NA,12/1/25 12:30,12/1/25 13:20,time,FISH 107,#3A9AB2,white,NA
+2,Lab 9 - Section AB,,NA,12/2/25 9:30,12/2/25 12:20,time,OTB 206,#B1C492,white,NA
+2,Lab 9 - Section AA,,NA,12/2/25 13:30,12/2/25 16:20,time,OTB 206,#B1C492,white,NA
+1,Class 26,,NA,12/3/25 12:30,12/3/25 13:20,time,FISH 107,#3A9AB2,white,NA
+3,Final Exam,,NA,12/5/25 12:30,12/5/25 13:20,time,FISH 107,#E3B710,white,NA
+3,Week 1 quiz due,,NA,10/3/25,10/3/25,allday,,#E79805,white,NA
+3,Week 2 quiz due,,NA,10/10/25,10/10/25,allday,,#E79805,white,NA
+3,Week 3 quiz due,,NA,10/17/25,10/17/25,allday,,#E79805,white,NA
+3,Week 4 quiz due,,NA,10/24/25,10/24/25,allday,,#E79805,white,NA
+3,Week 5 quiz due,,NA,10/31/25,10/31/25,allday,,#E79805,white,NA
+3,Week 6 quiz due,,NA,11/7/25,11/7/25,allday,,#E79805,white,NA
+3,Week 7 quiz due,,NA,11/14/25,11/14/25,allday,,#E79805,white,NA
+3,Week 8 quiz due,,NA,11/21/25,11/21/25,allday,,#E79805,white,NA
+3,Week 9 quiz due,,NA,11/28/25,11/28/25,allday,,#E79805,white,NA
+3,Week 10 quiz due,,NA,12/5/25,12/5/25,allday,,#E79805,white,NA
+3,Week 11 quiz due,,NA,12/12/25,12/12/25,allday,,#E79805,white,NA
+3,Submit your lab notebook,,NA,12/5/25,12/5/25,allday,,#E79805,white,NA
+3,Submit your research question,,NA,10/21/25,10/21/25,allday,,#E79805,white,NA
+3,Submit your preliminary analysis,,NA,10/28/25,10/28/25,allday,,#E79805,white,NA
+3,Submit your introduction section,,NA,11/4/25,11/4/25,allday,,#E79805,white,NA
+3,Submit your first draft,,NA,11/11/25,11/11/25,allday,,#E79805,white,NA
+3,Peer review your colleagues' first drafts,,NA,11/18/25,11/18/25,allday,,#E79805,white,NA
+3,Submit second draft for instructors' comments,,NA,11/25/25,11/25/25,allday,,#E79805,white,NA
+3,Oral presentation,,NA,12/2/25,12/2/25,allday,,#E79805,white,NA
+3,Final term paper,,NA,12/11/25,12/11/25,allday,,#E79805,white,NA
