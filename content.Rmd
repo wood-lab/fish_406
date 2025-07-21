@@ -77,15 +77,11 @@ output:
 
 **It'll be barely visible at first: a twitch.** A white mouse will be laid on its back on your desk, pinned to a wax tray, its organs exposed.Itself freshly dead, the mouse’s schistosome parasites will still be alive. Just within the hepatic portal vein and visible across the thin wall of the vessel, paired male and female worms will thrash, sensing their host’s demise.When I see this, I'm always awestruck at the devastation wreaked on the liver by wayward *Schistosoma mansoni* eggs, at the organ’s distention, its mounds of granulomas. I'm also awestruck at the thought that such eggs are – at this very moment – navigating the same winding route through human bodies, causing the same pathology.
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/ffsV86ytjSM/0.jpg)](https://www.youtube.com/watch?v=ffsV86ytjSM)
-
-[https://img.youtube.com/vi/ffsV86ytjSM/0.jpg](https://www.youtube.com/watch?v=ffsV86ytjSM)
-
-(https://img.youtube.com/vi/JLMbpiywVxQ/maxresdefault.jpg)]
-(https://www.youtube.com/watch?v=JLMbpiywVxQ)
-
-{% include youtube.html id="JLMbpiywVxQ" %}
-{% include youtube.html id="ffsV86ytjSM" %}
+<br>
+<center>
+[![Video of a living schistosome worm inside the hepatic portal vein of a mouse](https://img.youtube.com/vi/ffsV86ytjSM/0.jpg)](https://www.youtube.com/watch?v=ffsV86ytjSM)
+</center>
+</br>
 
 This year, I'll kick off our labs by throwing you into the deep end of the parasitology pool. In our first lab, you will get to see **live schistosome adults in mice and hatch their eggs into miracidia.** You'll also get to see **another species of trematode in its snail intermediate host**. For this and all future labs, you'll be responsible for keeping a laboratory notebook of your observations. Make sure to finish reading the content on Lab 1 before your lab section meets!
 
@@ -120,7 +116,11 @@ The digenetic trematodes comprise a truly marvelous array of families, genera, a
 
 The majority of the Digenea are equipped with two muscular suckers. The largest of these, the acetabulum (ventral sucker), is located on the ventral surface of the worm and serves as an attachment structure. The oral sucker surrounds the mouth and is located at the anterior end of the worm. Most digenes are less than 30 mm in length and many species are less than 3 mm. On the other hand, Hirudinella, a species found in the stomach of some marine fish species, may attain the length and girth of a summer squash.  Here's a video of an adult Hirudinella marina, which Chelsea dissected from the stomach of a pelagic wahoo (please forgive the way the camera moves and the noise in the background - this video was taken on a sailing research vessel on the high seas!):
 
-https://www.youtube.com/watch?v=q8MpczbOYUE&embeds_referring_euri=https%3A%2F%2Fcanvas.uw.edu%2Fcourses%2F1479012%2Fpages%2Flab-1-overview-part-1-flatworms-and-the-trematode-life-cycle%3Fmodule_item_id%3D13387537&source_ve_path=MzY4NDIsMjg2NjY
+<br>
+<center>
+[![Video of a living giant trematode, Hirudinella marina, removed from the stomach of a pelagic wahoo](https://img.youtube.com/vi/q8MpczbOYUE/0.jpg)](https://www.youtube.com/watch?v=q8MpczbOYUE)
+</center>
+</br>
 
 The ordinal name, Digenea, refers to the fact that the life cycle of these flatworms involves an alternation of hosts, with asexual reproduction occurring in intermediate hosts. As many as three intermediate hosts and a single definitive host may be required to complete a digenetic trematode life cycle. The first intermediate host is typically a gastropod (snail). The definitive host is always a vertebrate. Asexual reproduction in parasites may occur in intermediate hosts; sexual reproduction (cross-fertilization of the hermaphroditic worms) occurs only in the definitive host.
 
@@ -143,7 +143,11 @@ Asexual reproduction occurs in the intermediate host. Sexual reproduction, resul
 
 **Miracidium:** The miracidium is the larval stage that develops within the egg produced by the adult fluke in the definitive host. After hatching from the egg, miracidia are infective to the first intermediate host. The miracidium is a minute, ovoid, aquatic, motile stage covered with cilia. These cilia are shed when infection is initiated by penetration of the host or consumption of embyronated eggs by an appropriate host. In the video below, you will see a miracidium (of the trematode species Fasciola hepatica) hatching out of its egg, using its cilia to swim away, and leaving behind an empty eggshell:
 
-https://youtu.be/78u7YKKPEKY
+<br>
+<center>
+[![Miracidium of the trematode Fasciola hepatica hatching out of its egg](https://img.youtube.com/vi/78u7YKKPEKY/0.jpg)](https://www.youtube.com/watch?v=78u7YKKPEKY)
+</center>
+</br>
 
 **Sporocyst:** Infection of the first intermediate hosts begins when the miracidium enters that host and becomes a primary or “mother” sporocyst. The primary sporocyst gives rise to a second generation asexually; the second generation may be daughter sporocysts or rediae. Embryos within the daughter sporocysts may produce another generation of sporocysts, rediae, or cercariae. Sporocysts are “sack-like” organisms with no mouth or digestive system. The sporocyst absorbs nutrients directly from host tissue to supply the developing larvae. 
 
@@ -157,7 +161,11 @@ https://youtu.be/78u7YKKPEKY
 
 In the video below, you can see cercariae spilling out of burst sporocysts dissected from a snail intermediate host (note that you can see the ventral suckers clear as day on each cercaria!):
 
-https://youtu.be/d3wced1DQd4
+<br>
+<center>
+[![Cercariae spilling out of burst sporocysts dissected from a snail intermediate host](https://img.youtube.com/vi/d3wced1DQd4/0.jpg)](https://www.youtube.com/watch?v=d3wced1DQd4)
+</center>
+</br>
 
 **Metacercariae:** The metacercaria is an encysted larval stage that occurs in many digenean life cycles. Metacercariae are infective to the definitive host in the life cycle. Infection of the definitive host by a metacercaria is always trophic: the definitive host consumes the metacercariae in an infected intermediate host or on food items. Metacercaria can develop in both invertebrate and vertebrate hosts and on invertebrates. The developing fluke may be visible inside of the cyst (as in the illustration below):
 
@@ -199,7 +207,11 @@ Schistosomes are long, thin worms, an adaptation to living in the small blood ve
 
 Schistosome cercariae are fork-tailed.  Once released from their snail hosts, they swim through the water column, seeking out a vertebrate definitive host.  In the case of *Schistosoma mansoni* and *Schistosoma haematobium*, the definitive hosts are human, and they infect human hosts by penetrating the skin of people bathing in streams, rivers, lakes, and ponds containing snails.  In lab, you will see only the adult and egg stages of this parasite, not the cercariae (even though the Wood Lab does keep living schistosome cercariae in its biosafety-level 2 facility).  Why am I not giving you schistosome cercariae to handle?
 
-(https://youtu.be/vIfkRAdMvsE)
+<br>
+<center>
+[![Montage of schistosome cercariae moving through water](https://img.youtube.com/vi/vIfkRAdMvsE/0.jpg)](https://www.youtube.com/watch?v=vIfkRAdMvsE)
+</center>
+</br>
 
 <br>
 
@@ -470,9 +482,15 @@ You are welcome to take photos of what you see in lab if it helps you learn, und
 
 **I have a confession to make:** of all the parasites, the cestodes are my favorites. I first fell in love with them when I was dissecting a pelagic fish aboard a sailing research vessel, and I found this:
 
-[SEAMANS VIDEO]
+<br>
+<center>
+[![A montage of parasitic invertebrates found during dissections of pelagic fish aboard a sailing research vessel](https://img.youtube.com/vi/d3wced1DQd4/0.jpg)](https://www.youtube.com/watch?v=d3wced1DQd4)
+</center>
+</br>
 
-What you're seeing above is a tapeworm larva in the Order Trypanorhyncha. These guys reach their adult life stage in the guts of sharks. This larval plerocercoid was laying in wait inside a tuna, hoping that its tuna host would deliver itself into the jaws of a shark so that it could fulfill its tapeworm destiny to mate and produce eggs in a shark intestine. The tiny tentacles that you see reaching out to you are armed with hundreds of rows of backward-facing spikes. These tentacles are used to attach the worm to the inside of the shark intestine.
+<br>
+
+One of the things that you'll see in the above video is a tapeworm larva in the Order Trypanorhyncha. These guys reach their adult life stage in the guts of sharks. This larval plerocercoid was laying in wait inside a tuna, hoping that its tuna host would deliver itself into the jaws of a shark so that it could fulfill its tapeworm destiny to mate and produce eggs in a shark intestine. The tiny tentacles that you see reaching out to you are armed with hundreds of rows of backward-facing spikes. These tentacles are used to attach the worm to the inside of the shark intestine.
 
 Not only do the cestodes have super complex life cycles, but their body forms are wildly diverse, and they are just **heartbreakingly, staggeringly beautiful**. You'll get to see that for yourself in this lab. We'll have one species of cestodes for you to discover very much alive. I hope you'll come to love the tapeworms as much as I do.
 
@@ -495,7 +513,6 @@ During this lab, we'll also chat with you about the parasite species you're thin
     <img src="images/cestode_cladogram.jpg">
     <em></em>
 </p>
-
 
 The class Cestoidea is the final group of platyhelminths we will study. It is a very large group and entirely parasitic. Cestoidea are unique among the platyhelminths in that they have no mouth and no gut; they absorb all of their nutrients through their tegument (= external body surface) directly from the host. The tegument is composed of tiny, finger-like projections called microtriches, which increase the surface area of absorption and are coated in a macromolecule layer that buffers and protects the worm. Cestoideans are monoecious. The life history of this group almost always involves one or more intermediate hosts with larval stages that encyst and await being eaten by their successive host (= trophic transmission).
 
@@ -833,11 +850,13 @@ Pathology is caused by the secondary infections that are likely to occur when a 
 
 <br>
 
-[PASTE: https://youtu.be/6AZ-1sE3y7E]
+#### Demonstration instructions
 
 <br>
-
-#### Demonstration instructions
+<center>
+[![A lecture from Parasites Without Borders on Ascaris lumbricoides](https://img.youtube.com/vi/6AZ-1sE3y7E/0.jpg)](https://www.youtube.com/watch?v=6AZ-1sE3y7E)
+</center>
+</br>
 
 **Adult *Ascaris* spp. nematode dissection**
 
@@ -910,7 +929,11 @@ Today, you will:
 
 1. Dissect an *entoniscid isopod* (**Portunion conformis**) from a local shore crab (**Hemigrapsus oregonensis** or **H. nudus**):
 
-[INSERT VIDEO OF PORTUNION]
+<br>
+<center>
+[![Adult female Portunion conformis dissected from a Hemigrapsus spp. shore crab](https://img.youtube.com/vi/Z7SkWWHhYxA/0.jpg)](https://www.youtube.com/watch?v=Z7SkWWHhYxA)
+</center>
+</br>
 
 2. Extract from your very own face a living Demodex spp. mite!
 
@@ -922,12 +945,10 @@ Today, you will:
 </p>
 
 <br>
-
-[INSERT VIDEO HERE]
-
-3. Observe jewel wasp parasitoids.
-
-[INSERT VIDEO HERE]
+<center>
+[![Informational video from Tim Rawlings on Demodex spp. face mites](https://img.youtube.com/vi/kNsFqiEUbps/0.jpg)](https://www.youtube.com/watch?v=kNsFqiEUbps)
+</center>
+</br>
 
 <br>
 
@@ -1149,5 +1170,15 @@ In this demo, we will survey the intestinal parasite fauna of some local mammal 
 ### Lab 8
 
 During this lab session, you will give your oral presentation live to colleagues in your lab section!  The presentation order will be randomly determined and announced in advance.  All presentations will be recorded, and the best presentations (as determined by Chelsea and the TAs) will be used as examples for future generations of FISH 406 students.
+
+<br>
+
+### Lab 9
+
+This lab will be a review session for your Final Exam.
+
+**Come to this session with all of your course content questions!** Ideally, you will have completed the practice final exam before this practical session, so that you can ask your TA for clarification on the answers.
+
+**This session will be driven by *your* questions!** Your TA will stick around for the entire session, but we will only talk about what you ask us to talk about. One thing you might consider is reviewing all of your course notes before this  session and flagging any areas where you are not 100% clear.We will have access to all of the course powerpoints and review any content you wish.
 
 <br>
