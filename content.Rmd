@@ -19,61 +19,61 @@ output:
 
 # Classes
 
-### Class 1
+## Class 1
 
-### Class 2
+## Class 2
 
-### Class 3
+## Class 3
 
-### Class 4
+## Class 4
 
-### Class 5
+## Class 5
 
-### Class 6
+## Class 6
 
-### Class 7
+## Class 7
 
-### Class 8
+## Class 8
 
-### Class 9
+## Class 9
 
-### Class 10
+## Class 10
 
-### Class 11
+## Class 11
 
-### Class 12
+## Class 12
 
-### Class 13
+## Class 13
 
-### Class 14
+## Class 14
 
-### Class 15
+## Class 15
 
-### Class 16
+## Class 16
 
-### Class 17
+## Class 17
 
-### Class 18
+## Class 18
 
-### Class 19
+## Class 19
 
-### Class 20
+## Class 20
 
-### Class 21
+## Class 21
 
-### Class 22
+## Class 22
 
-### Class 23
+## Class 23
 
-### Class 24
+## Class 24
 
-### Class 25
+## Class 25
 
-### Class 26
+## Class 26
 
 # Labs
 
-### Lab 1
+## Lab 1 - The deep end
 
 **It'll be barely visible at first: a twitch.** A white mouse will be laid on its back on your desk, pinned to a wax tray, its organs exposed.Itself freshly dead, the mouse’s schistosome parasites will still be alive. Just within the hepatic portal vein and visible across the thin wall of the vessel, paired male and female worms will thrash, sensing their host’s demise.When I see this, I'm always awestruck at the devastation wreaked on the liver by wayward *Schistosoma mansoni* eggs, at the organ’s distention, its mounds of granulomas. I'm also awestruck at the thought that such eggs are – at this very moment – navigating the same winding route through human bodies, causing the same pathology.
 
@@ -85,8 +85,8 @@ output:
 
 This year, I'll kick off our labs by throwing you into the deep end of the parasitology pool. In our first lab, you will get to see **live schistosome adults in mice and hatch their eggs into miracidia.** You'll also get to see **another species of trematode in its snail intermediate host**. For this and all future labs, you'll be responsible for keeping a laboratory notebook of your observations. Make sure to finish reading the content on Lab 1 before your lab section meets!
 
-    Phylum Platyhelminthes
-            Class Trematoda
+  Phylum Platyhelminthes
+          Class Trematoda
                   Subclass Digenea
                         Order Strigeiformes
                             Family Schistosomatidae
@@ -100,7 +100,7 @@ This year, I'll kick off our labs by throwing you into the deep end of the paras
 
 <br>
 
-#### Phylum Platyhelminthes
+### Phylum Platyhelminthes
 
 The platyhelminths are commonly referred to as "flatworms", since they are typically dorsoventrally flattened. This large and diverse phylum is comprised of four major classes (Turbellaria, Trematoda, Monogenea, and Cestoidea) that we will study in more depth throughout the next few labs. The hypothetical relationships of these major groups are shown in the cladogram below, which traces the common ancestry among the groups. The platyhelminths as a group provide an exciting introduction to parasitology because one can trace the evolution and specialization for parasitism throughout the group. While studying the flatworms, pay particular attention to the reproductive anatomy, reproductive capacity, adaptations for a parasitic life style, and transmission stages.
 
@@ -110,7 +110,7 @@ The platyhelminths are commonly referred to as "flatworms", since they are typic
 
 <br>
 
-#### The trematode life cycle 
+### The trematode life cycle 
 
 The digenetic trematodes comprise a truly marvelous array of families, genera, and species. Classification of the Digenea is determined on the basis of the size, shape, and placement of suckers, arrangement of flame cells, and especially on details of the reproductive system. The Digenea are one of the largest platyhelminth groups, with an estimated 40,000 described species in at least 125 families. Taxonomy in this large group is still in a dynamic state.
 
@@ -181,7 +181,7 @@ Having trouble keeping track of the trematode life cycle?  *The Oatmeal* is here
 
 <br>
 
-#### Order Strigeiformes
+### Order Strigeiformes
 
 The Order Strigeiformes is pretty unique among the trematodes: instead of a three-host life cycle, the Srigeiformes use only two hosts (a first intermediate snail and a vertebrate definitive host). The Order Srigeiformes includes those digene species whose cercariae have forked tails. The cercariae also possess specialized glands for penetration of the hosts. The digenetic trematodes in the Superfamily Schistosomatoidea are usually **dioecious**, having separate male and female worms. The schistosomes are our representative material for this order, but they are **unusual in many ways and highly adapted for parasitism**. Adult worms live permanently in copula within the host.
 
@@ -215,11 +215,23 @@ Schistosome cercariae are fork-tailed.  Once released from their snail hosts, th
 
 <br>
 
-#### Demonstration instructions
+### Demonstration instructions
 
-##### *Schistosoma mansoni* adults in the vertebrate definitive host
+<br>
+<center>
+[![Chelsea's introductory spiel for Lab 1, as given in Fall 2021](https://img.youtube.com/vi/KBBmYdmrfXU/0.jpg)](https://www.youtube.com/watch?v=KBBmYdmrfXU)
+</center>
+</br>
 
-Note that *Schistosoma*-infected mice were provided by the NIAID Schistosomiasis Resource Center for distribution through BEI Resources, NIH-NIAID Contract HHSN272201000005I (NIH: Schistosoma mansoni, Strain NMRI, Exposed Swiss Webster Mice, NR-21963)
+#### *Schistosoma mansoni* adults in the vertebrate definitive host
+
+Note that *Schistosoma*-infected mice were provided by the NIAID Schistosomiasis Resource Center for distribution through BEI Resources, NIH-NIAID Contract HHSN272201000005I (NIH: Schistosoma mansoni, Strain NMRI, Exposed Swiss Webster Mice, NR-21963).
+
+<br>
+<center>
+[![Dissection of a mouse (Mus musculus) infected with Schistosoma mansoni](https://img.youtube.com/vi/5od_IPQ_nvU/0.jpg)](https://www.youtube.com/watch?v=5od_IPQ_nvU)
+</center>
+</br>
 
 Schistosomiasis (human infection with schistosome worms) is a debilitating disease, rarely killing but often disabling infected individuals. Today we will see the destructiveness of schistosomes firsthand. The US National Institutes of Health maintains the life cycle of *Schistosoma mansoni* in their laboratories near Washington, DC, using *Biomphalaria glabrata* snails as intermediate hosts and laboratory mice as definitive hosts. They provide infected mice to research and teaching laboratories around the country. We have access to these infected animals for our teaching laboratory. These mice gave their lives for science, so please treat them with respect.
 
@@ -245,7 +257,13 @@ Mice are great models for human schistosomiasis. Much of the schistosome-related
 
 <br>
 
-##### *Cercaria batillariae* larvae in the snail intermediate host
+#### *Cercaria batillariae* larvae in the snail intermediate host
+
+<br>
+<center>
+[![Dissection of a snail (Batillaria attrementaria) infected by the trematode Cercaria batillariae](https://img.youtube.com/vi/lmwDQ8VNLOc/0.jpg)](https://www.youtube.com/watch?v=lmwDQ8VNLOc)
+</center>
+</br>
 
 The Japanese mud snail Batillaria attramentaria is native to Japan but was introduced to the US west coast in the early 1900s, probably in shipments of Asian oysters.In California, it has driven out a native mud snail, *Cerithidea californica*, in part because Batillaria has only one parasite (Cercaria batillariae), whereas Cerithidea can have up to 20! Greg Jensen collected these snails in mid-September from the intertidal zone in Silverdale, WA.
 
@@ -268,7 +286,7 @@ Draw any cercariae, rediae, or sporcysts that you find and record your observati
 
 <br>
 
-#### Questions
+### Questions
 
 Please answer the following questions in your lab notebook:
 
@@ -280,10 +298,7 @@ Please answer the following questions in your lab notebook:
 
 <br>
 
-[DON'T FORGET TO PASTE PANOPTO VIDEOS HERE]
-
-
-### Lab 2
+## Lab 2 - The shallow end
 
 **Readings:** *How to Do Ecology,* Chapter 1
 
@@ -302,13 +317,13 @@ When you arrive at your lab section this week, you will be provided with one who
 
 <br>
 
-#### Demonstration instructions
+### Demonstration instructions
 
 Parasitology is a “blood and guts” subject. Dissection of freshly killed host organisms provides the best material for examining living parasites. In this lab, you will be examining and dissecting freshly collected teleost fishes. Fishes serve as intermediate and/or definitive hosts for a diversity of parasite taxa. If you are careful and observant, you may find many parasites in and on your specimens. Take your time as you examine the fish/host – **it will take some practice to develop a search image and many of the parasites are small**! Check out the representative drawings of fish parasite taxa before you proceed. Internal anatomy is very consistent across the vertebrates, and fish host many of the same types of parasites that are found in people (even some that may infect people!).
 
 <br>
 
-##### Fish dissection procedure
+#### Fish dissection procedure
 
 **Before you dissect:**
 
@@ -373,7 +388,7 @@ Parasitology is a “blood and guts” subject. Dissection of freshly killed hos
 
 <br>
 
-#### Slides to examine
+### Slides to examine
 
 In this lab and all the labs to follow, there will be slides for you to examine. **"But why,"** you wonder, **"should I look at slides when I can just find pictures of these organisms on the internet?"** I'll let you in on a parasitology secret: **photographs do not capture all of the nuance, detail, and beauty of the parasites.** Photographs are one-dimensional, but parasites are three-dimensional; that is to say, photographs can only bring a single plane into focus, but because parasites are 3D, there are many other planes where interesting stuff is going on. When you focus on a microscope slide, you can bring the deepest plane into focus, and then the next deepest, and so on to the shallowest plane, and in that way, what you see (and what you draw) is better than a photograph.
 
@@ -391,7 +406,7 @@ You are welcome to take photos of what you see in lab if it helps you learn, und
 
 <br>
 
-#### Lab 2 preview
+### Lab 2 preview
 
 **Want a sneak peak of this week's lab?** Check out the images below of the parasites that previous generations of FISH 406 students have found in their grocery store fish.
 
@@ -452,9 +467,10 @@ You are welcome to take photos of what you see in lab if it helps you learn, und
 </p>
 
 <br>
-
-[MATT WILSON'S VIDEO]
-
+<center>
+[![Video of a copepod in the family Pennellidae, Haemobaphes dicaeraus, from gills of kinki rockfish (Sebastolobus alascanus), courtesy of Matt Wilson](https://img.youtube.com/vi/pbdAJwSJyWk/0.jpg)](https://www.youtube.com/watch?v=pbdAJwSJyWk)
+</center>
+</br>
 
 <p align="center">
     <img src="images/acanthocephalan.jpg">
@@ -472,13 +488,13 @@ You are welcome to take photos of what you see in lab if it helps you learn, und
 </p>
 
 <br>
+<center>
+[![Video of surgical removal of the nematode parasite Clavinema mariae from an anesthetized flatfish, courtesy of Matt Wilson 
+](https://img.youtube.com/vi/UV9blXWa8aM/0.jpg)](https://www.youtube.com/watch?v=UV9blXWa8aM)
+</center>
+</br>
 
-[MATT WILSON CLAVINEMA VIDEO]
-
-<br>
-
-
-### Lab 3
+## Lab 3 - Cestodes
 
 **I have a confession to make:** of all the parasites, the cestodes are my favorites. I first fell in love with them when I was dissecting a pelagic fish aboard a sailing research vessel, and I found this:
 
@@ -505,7 +521,7 @@ During this lab, we'll also chat with you about the parasite species you're thin
 
 <br>                                          
 
-#### The cestodes
+### The cestodes
 
 <br>
 
@@ -520,7 +536,7 @@ The subclass Eucestoda is sometimes referred to as the “true tapeworms” or �
 
 <br>
 
-##### General morphology
+#### General morphology
 
 Morphologically, tapeworms have three distinct body regions. At the extreme anterior end is the holdfast, called a **scolex**, which may have various types of attachment structures (i.e., suckers, acetabula, hooks, tentacles, muscular protrusions, etc.). Posterior to the scolex, there is a short, unsegmented region called the **neck**. The neck is quite narrow and is a very poorly differentiated region. Within the neck region, however, is an area of high mitotic activity. This growth zone is continuously differentiating and is responsible for the proliferation of the segments, called **proglottids**. Each proglottid eventually develops a set of reproductive organs and is capable of generating many eggs. The remainder of the body consists of a chain of proglottids and the chain as a whole is referred to as the **strobila**.
 
@@ -548,7 +564,7 @@ One interesting factoid about cestodes is that they are shark parasites that hav
 
 <br>
 
-##### Order Cyclophyllidea
+#### Order Cyclophyllidea
 
 Cyclophyllideans comprise the characteristic cestode fauna of birds and mammals; few species are found in reptiles. About 18 families of cyclophyllideans are recognized, of which representatives of three (Taeniidae, Hymenolepididae, and Dilepididae) are sometimes found in humans. Pathology in humans is most severe when cyclophyllidean tapeworms attempt to use humans as the intermediate host.
 
@@ -558,14 +574,14 @@ The life cycles of cyclophyllideans is different than many other cestode orders 
 
 <br>
 
+#### *Taenia saginata* – beef tapeworm
+
+<br>
 <p align="center">
     <img src="images/taenia_saginata.jpg">
     <em>Image courtesy of [CDC DPDx](https://www.cdc.gov/dpdx/taeniasis/index.html)</em>
 </p>
-
 <br>
-
-##### *Taenia saginata* – beef tapeworm
 
 * Only humans can serve as the definitive host. Cattle often serve as the intermediate host, with larvae encysting in the muscle fibers of cattle.
 * Adult worms lack a rostellum and armature on the scolex. Mature worms are typically 3 to 5 meters in their human host and can get up to 20m long! The uterus of a gravid proglottid has 15 to 20 lateral branches per side. Pathology in humans is mild.
@@ -573,14 +589,14 @@ The life cycles of cyclophyllideans is different than many other cestode orders 
 
 <br>
 
+#### *Taenia pisiformis* – rabbit tapeworm
+
+<br>
 <p align="center">
     <img src="images/taenia_pisiformis.jpg">
     <em>Image from [Pu et al. 2022](https://doi.org/10.1016/j.gene.2022.146650)</em>
 </p>
-
 <br>
-
-##### *Taenia pisiformis* – rabbit tapeworm
 
 * Parasite of lagomorphs (rabbits), rodents, and carnivores. Adults occur in the small intestine of carnivores, and rabbits and rodents serve as intermediate hosts.
 * Adult worms have a scolex with an armed rostellum and four suckers.
@@ -588,14 +604,14 @@ The life cycles of cyclophyllideans is different than many other cestode orders 
 
 <br>
 
+#### *Echinococcus granulosus*
+
+<br>
 <p align="center">
     <img src="images/echinococcus_granulosus.jpg">
     <em>Image courtesy of [CDC DPDx](https://www.cdc.gov/dpdx/echinococcosis/index.html)</em>
 </p>
-
 <br>
-
-##### *Echinococcus granulosus*
 
 * Carnivores serve as definitive hosts and herbivorous mammals serve as intermediate hosts. In the **wild**, the life cycle may occur in wolves and moose, lions and warthogs, or dingoes and wallabys (**sylvatic life cycle**). The life cycle can also occur between domestic dogs and domestic livestock (sheep, rabbits, goats, etc.). When the tapeworm enters a domestic animal, humans are at greater risk of being infected, usually by handling dogs and encountering eggs in fecal matter. The disease in humans when they become intermediate hosts of this tapeworm is called *hydatidosis* or hydatid disease.
 * Adult worms possess an armed rostellum. Mature worms are small at about 5mm. The strobila usually consists of only 3 proglottids, where the terminal one is gravid.
@@ -603,39 +619,84 @@ The life cycles of cyclophyllideans is different than many other cestode orders 
 
 <br>
 
+#### *Diphyllobothrium latum*
+
+<br>
 <p align="center">
     <img src="images/diphyllobothrium_latum.jpg">
     <em>Image courtesy of [CDC DPDx](https://www.cdc.gov/dpdx/diphyllobothriasis/index.html)</em>
 </p>
-
 <br>
-
-##### *Diphyllobothrium latum*
 
 * The “fish tapeworm”, humans (and other mammals) become infected through consumption of plerocercoids in fish musculature. 
 * Originally native to Scandinavia, western Russian, and the Baltics, the parasite is now common in North America.
 
 <br>
 
-#### Demonstration instructions
+### Demonstration instructions
 
-**Dissection of adult Tenebrio spp. beetles infected with cysticercoids of the cestode Hymenolepis diminuta**
+Harbor seal (*Phoca vitulina*) |  Coyote (*Canis latrans*)
+:-------------------------:|:-------------------------:
+![](images/harbor_seal.jpg)  |  ![](images/coyote.jpg)
 
-1. Obtain your adult Tenebrio spp. beetle. Wear gloves and be careful - if ingested, this cestode could infect you!
-2. Pinch off the head of the beetle with forceps to humanely kill it.
-3. Remove the legs and wings with forceps.
-4. Place the beetle dorsal side up in a small amount of saline solution and remove the thin dorsal integument with a pair of forceps.
-5. Scrape out the entire contents of the body cavity into a glass dish with forceps.
-6. Examine this material with a stereomicroscope.
-7. Most of the cysticercoids are found among the small white bodies that adhere to the portion fo the gut just anterior to the insertion of the Malpighian tubules.
-8. The parasites are translucent and characteristically show two small patches of opaque white granules on the anterior (larger) end.
-9. Cysticercoids that are more mature have a longer "tail" portion and are easily distinguished by means of a stereomicroscope at 20x magnification.
-10. If you can't find anything, tease the intestine into tiny shreds, so that you know you have checked every part of the intestinal tissue.
-11. How might you induce these cysticercoids to transform into their adult life stage?  Come up with some ideas, and give it a try.
+We will dissect the gastrointestinal tracts of both a coyote and a harbor seal to find out what parasites live in these animals. Coyotes and harbor seals are generalist carnivores, meaning they eat a wide variety of prey. This makes it possible for them to be host to a wide range of parasites, including cestodes, trematodes, nematodes, acanthocephalans, and protozoans. 
+
+**Part 1: Coyote dissection**
+
+We will observe this dissection, as these animals can be host to a potentially very dangerous human pathogen, *Echinococcus multilocularis*. If a human were to become infected by *E. multilocularis*, the parasite would form multilocular cysts inside the heart, lungs, liver, and brain, which, if ruptured, can lead to a strong host immune response and potentially cause anaphylaxis and/or death. *E. multilocularis* has both sylvatic (involving wild animals) and pastoral (involving domestic animals) transmission cycles. The sylvatic transmission cycle occurs between a canid definitive host, usually a wolf, and a rodent intermediate host, while pastoral transmission involves a domestic dog definitive host. Intermediate hosts of *E. multilocularis* often suffer serious pathology. To prevent you from becoming an intermediate host, these GI tracts have been frozen at -80 degrees C for 5 days, to ensure that anything inside is dead. Still, you can never be too careful! We will have a chance to look at *E. multilocularis* on the scope. Other parasites we can expect to find include *Taenia pisiformis*, Strongylid hookworms (*Uncinaria stenocephala* and *Ancylostoma caninum*), and *Toxocara canis*. 
+
+As you are looking at the parasites within coyotes, think about how often you see coyotes in your urban environment. Are any of these parasites able to be transmitted between canids from ingesting feces? If so, what does that mean for the thousands of Seattle residents who have pet dogs? Do those dogs have a chance of contracting any parasitic disease by crossing paths with coyote feces?
+
+1. Gather fecal sample for fecal float parasite analysis
+2. pen the stomach and determine what the diet could have been. Do you see anything recognizable in the stomach contents?
+3. Gather stomach lining swab for DNA and diet analysis
+4. Open intestinal lining and squeeze out contents, conducting 3 passes over the tissue to make sure everything is removed from the tissue
+5. Run the intestinal contents through a double sieve (1mm, 150 uL)
+6. Identify any parasites in the two groupings. What sorts of things get caught by the 1mm sieve? By the 150uL sieve? What about things that are smaller than 150uL?
+7. Place all parasites and gut contents that are left in the sieve into a container in 70% ethanol for later counting
+8. Make sure you take a look at the coyote parasites we brought as well! What types do you see? 
+ 
+**Part 2: Harbor seal dissection**
+
+We now will have a chance to practice our dissection abilities with a harbor seal intestine. These animals, like coyotes, are generalists. As a result, we can expect to find a wide variety of parasites in their GI tracts, including anisakid nematodes, diphylloborthiid spp. tapeworms, *Corynosoma* spp. acanthocephalans, and *Pricetrema* spp. trematodes. Some things you might see could be new to our lab, so keep your eyes open! These animals are not known to have any parasites that can be particularly harmful to humans, but we should still practice our best PPE and personal safety precautions. In many cases, the reason these animals died is unknown, so we should treat them as if they are potentially dangerous to us. 
+
+This seal was stranded (found on shore either dead or near death) around the  Seattle area. As a protected marine mammal, seal necropsies are conducted primarily by a government-approved agency like NOAA, WDFW, Cascadia Research Collective, or the Whale Museum in Friday Harbor. Your TA, Connor, has a special permit from NOAA that allows him (and by proxy, you) to possess and handle marine mammal tissues for parasitological examination. In order to respect that permit and the animal we are working with, please, absolutely no photos can be taken and shared of this animal. However, you are welcome to take pictures of the parasites we find inside. 
+
+1. Begin by identifying the different parts of the GI tract. Can you find: 
+    a. Esophagus
+    b. Duodenum
+    c. Stomach
+    d. Colon
+    e. Rectum
+    f. Large/small intestine
+    g. Mesentery tissue
+    h. Lymph nodes
+2. Collect a fecal sample from the rectum and place into a labeled 15mL conical tube.
+3. Cut the mesentery connections to elongate the intestine. How many inches long is the total intestine? How does this length compare to the overall length of the animal itself? Why might these different lengths be present?
+4. Separate the GI tract into the aforementioned segments
+5. Open up the stomach and empty its contents into a container. What do the contents look like?
+    a. Go back over the stomach tissue and identify any other remaining parasites. Are there any irregularities on the stomach lining that you notice?  
+    b. Can you determine what the diet of the seal was by looking at stomach contents?
+6. Take the intestine and perform a lengthwise cut of the entire intestine. Once cut, squeeze the contents of the intestine into a container (be sure not to spill or lose any of the intestinal contents). Once the contents have been squeezed out into a container, go back over the entire tissue and look for parasites that are attached to the lining. Do you notice any irregularities?
+
+<br>
+<p align="center">
+    <img src="images/intestine_scrape.png">
+    <em>Image courtesy of Connor Whalen</em>
+</p>
+<br>
+
+7. Repeat that same procedure for the colon, rectum, duodenum, and esophagus. Are all these parts present? If not, why not?
+8. Once all the contents of the GI tract have been removed and the tissues examined, place all tissues into a biohazard bag (labeled). 
+9. Examine a subset of the contents of the containers. What parasites are present that you can see? 
+    a. Take a small amount of each of the different parts of the GI tract to examine (about 1mL at a time). 
+    b. Make sure you don’t lose track of what part you have – all samples need to be returned to their original location! 
+10. Are there any trends in the different kinds of parasites that you find and the location you find them in? Are there differences in the sizes of parasites you find? 
+11. Once you have examined all the contents, return the samples to their home containers.
 
 <br>
 
-#### Slides to examine
+### Slides to examine
 
 * *Taenia pisiformis* or *Taenia saginata*
 * *Echinococcus granulosus* adult
@@ -643,31 +704,167 @@ The life cycles of cyclophyllideans is different than many other cestode orders 
 
 <br>
 
-#### Lab 3 preview
 
-**Want a sneak peak of this week's lab?**  Check out the images and videos below of the parasites that previous FISH 406 students have found.
-
-[MOVE PANOPTO VIDEOS AND IMAGES OF BEETLE CYSTICERCI IF NEED BE]
- 
-<br>
-
-
-### Lab 4
+## Lab 4 - Projects
 
 **Readings**: Wood et al. 2023, *How to Do Ecology* Chapter 2
 
 [FILL GAPS HERE]
 
+NOTE: This week, lab will be held in FISH 106 NOT OTB 206!  This will give us a more comfortable space to view Accidental Host together and to pitch term paper ideas in small groups.
+
 This week, we'll begin with a discussion of the costs and benefits of eradication (don't forget to read Morrison et al. 2007 and Edwards and Leung 2009 in preparation). Then, we'll put you in pairs. Each member of the pair will share their idea, and your job is to provide your partner with constructive, critical feedback that will help them hone and shape their idea. Then, we'll get into larger groups, where you'll share your idea with your peers and instructors; everyone will chime in with their suggestions for improvement.
+
+This week, we'll spend the first half of lab watching Accidental Host together. Then, we'll start honing your pitches for control, elimination, eradication, or augmentation of your focal parasite. We'll start by putting you in pairs. Each member of the pair will share their idea, and your job is to provide your partner with constructive, critical feedback that will help them hone and shape their idea. Then, we'll get into larger groups, where you'll share your idea with your peers and instructors; everyone will chime in with their suggestions for improvement.
 
 <br>
 
-### Lab 5
+
+## Lab 5 - Arthropods
+
+**Readings**: *How to Do Ecology* Chapter 8
+
+As we've traversed the parasite tree of life , we've so far focused primarily on vermiform parasites (i.e., wormy dudes). Today, you'll get to come face-to-face with a different group of parasites: the arthropods (i.e., crunchy dudes).
+
+Today, you will:
+
+1. Dissect an *entoniscid isopod* (**Portunion conformis**) from a local shore crab (**Hemigrapsus oregonensis** or **H. nudus**):
+
+<br>
+<center>
+[![Adult female Portunion conformis dissected from a Hemigrapsus spp. shore crab](https://img.youtube.com/vi/Z7SkWWHhYxA/0.jpg)](https://www.youtube.com/watch?v=Z7SkWWHhYxA)
+</center>
+</br>
+
+2. Extract from your very own face a living Demodex spp. mite!
+
+<br>
+<center>
+[![Video entitled, These Face Mites Really Grow on You from PBS' Deep Look](https://img.youtube.com/vi/YW2eGaUzq7E/0.jpg)](https://www.youtube.com/watch?v=YW2eGaUzq7E)
+</center>
+</br>
+
+
+### Demonstration instructions
+
+Today's demonstration will have two parts:
+
+1. You'll perform a dissection of shore crabs (*Hemigrapsus oregonensis* or *H. nudus*) infected with the entoniscid isopod *Portunion conformis*
+
+2. You'll extract and visualize your own facial mites (*Demodex folliculorum* and *D. brevis*)
+
+
+**Entoniscid isopod *Portunion conformis***
+
+Euthanizing crabs can be challenging, and we want to make sure that (1) the crabs are all dispatched humanely and (2) y'all aren't too traumatized by the process of performing the euthanasia on your own. So your TA will do all the euthanasias and present you with freshly dead crabs for your dissections.
+
+*Portunion conformis* is an endoparasite of the local shore crabs, *Hemigrapsus oregonensis* and *H. nudus*. These parasites actually feminize male hosts, which is apparent in mature infections but may be subtle.
+
+1. Obtain your freshly dead crab. Your TA will sever the cerebral ganglion for you. The legs might kick for a few more seconds, but these are just reflexes - the crab isn't feeling a thing.
+2. Record the species, sex, collection data, and the carapace width of each crab. 
+3. Make a drawing of the crab, especially the morphology of its abdomen.
+4. Gently flip back the abdominal flap. If a lemon yellow spot is visible at the base of the abdomen, you'll know that the crab is infected with an adult female *Portunion conformis*. If the yellow spot is lacking, you will look carefully for the more subtle signs of an early infection. If the host is female, look through the thin, transparent membrane alongside the intestines on the underside of the abdomen. Normally, the blood is colorless, but if the blood appears brown, the crab is infected with a juvenile parasite. Consumption of the host ovary by the young parasite releases brown vitelline pigment into the blood of the host, resulting in brown coloration. Write down your observations.
+5. From here on out, we'll proceed with caution, as the parasite is large, morphologically complex, and intertwined with host tissue.
+6. Insert a scalpel at the posterior-lateral corner of the carapace where it joins the abdomen. Then lift the carapace carefully to expose the hemocoel of the crab. 
+7. Mature parasites should be immediately apparent; the female looks vaguely maggot-like and is pale yellow, orange, or white. If a large parasite is present, you should carefully sever the intestine (the most fragile part of the parasite underlies the intestine). Using forceps as a scoop, gently flip the parasite from the cavity of the thorax into the still partially attached carapace. Most of the host's organs may accompany the parasite in this maneuver. Then float the parasite out by placing the "backed" crab in a watchglass and covering with seawater.
+8. Examine the crab under the dissecting microscope and carefully dissect the parasite from the carapace. The anterior portion of the parasite's brood chamber (marsupium) is interdigitated with the host's organs in the anterior part of the carapace, in front of the host's mouthpart musculature (buccal apparatus). The parasite may most easily be removed if the host's buccal apparatus is lifted in toto and the parasite scooped out of the empty shell.
+9. Draw the female entoniscid. If you don't find one, draw your neighbor's.
+10. Try to find the dwarf male hanging out nearby.
+11. If the female is carrying epicaridian larvae, draw those too.
+12. Remember to label the structures in your drawings of the females, males, and epicaridian larvae.
+ 
+<br>
+
+**Facial mites (*Demodex follicularum* and *D. brevis*)**
+
+The vast majority of adult humans host the human eyebrow mite, *Demodex folliculorum*, an ectoparasite of the human face. Mites burrow into hair follicles of eyebrows and eyelashes and lay their long bodies parallel to the emerging hair. These mites are most active at night. Those humans who do not contract the mites vertically (e.g., from nuzzling mom as an infant) probably contract mites horizontally (e.g., later in life, from nuzzling other folks at night). Mites have been weakly linked to some skin diseases, but are thought to be largely harmless. We will assay your face for *Demodex folliculorum*.
+
+<br>
+<center>
+[![Informational video from Tim Rawlings on Demodex spp. face mites](https://img.youtube.com/vi/kNsFqiEUbps/0.jpg)](https://www.youtube.com/watch?v=kNsFqiEUbps)
+</center>
+</br>
+
+1. We will give you a transparent nasal strip and a microscope slide to take home during class on the Monday before this lab. 
+2. You'll go home on Monday night and, just before you go to bed, apply the nasal strip to your forehead, close to your hairline or eyebrow.
+3. Go to sleep.
+4. While you sleep, the mites will crawl out of their hair-follicle hideaways and have sex with other mites on your skin!
+5. In the morning, peel off your nasal strip and stick it to the glass microscope slide that you brought home with you.
+6. Bring the slide into lab on Tuesday.
+7. Put the slide on the compound microscope stage upside down (i.e., with the nasal strip touching the stage).
+8. As you scan the slide, look for hair follicles, which should be easy to see. Zoom in to find the mites snuggled up within the follicles.
+9. Once you find a mite, please make a detailed drawing and label as many structures as you can. If you don't find your own mites, draw your neighbor's.
+
+<br>
+
+### Questions
+
+1. Malaria has been successfully eradicated in the US. How was this accomplished?
+2. What are two methods for the control of insect pests and insect vectors? What are the costs and benefits of these different methods?
+3. How does resistance develop in insect vectors and the pathogens that they carry? What are the implications for human health?
+4. What factors potentially limit size (relative to the host) in non-parasitoid endoparasites?
+5. What factors must a conscientious biologist consider and research before attempting any application of biological control agents?
+6. Match the disease to the vector:
+
+* vectors = tse-tse fly, *Boophilus* tick, rat flea, kissing bug, *Anopheles* mosquito, black fly, deer fly, hornet, *Ixodes* tick 
+* diseases = falciparum malaria, lymphatic filariasis, river blindness, Lyme disease, bubonic plague, Rocky Mountain spotted fever, *Babesia*, African sleeping sickness, *Giardia*
+
+<br>
+
+### Lab 5 preview
+
+**Want a sneak peak of this week's lab?** Check out the images below from previous iterations of FISH 406.
+
+<br>
+<p align="center">
+    <img src="images/portunion_conformis_2.jpg">
+    <em>Adult female *Portunion conformis*. Image courtesy of Chelsea Wood</em>
+</p>
+<br>
+
+<br>
+<p align="center">
+    <img src="images/portunion_conformis_3.jpg">
+    <em>Adult female *Portunion conformis*. Image courtesy of Chelsea Wood</em>
+</p>
+<br>
+
+<br>
+<p align="center">
+    <img src="images/portunion_conformis_eggs.jpg">
+    <em>Eggs of *Portunion conformis*. Image courtesy of Chelsea Wood</em>
+</p>
+<br>
+
+<br>
+<p align="center">
+    <img src="images/portunion_conformis_egg.jpg">
+    <em>Egg of *Portunion conformis*. Image courtesy of Chelsea Wood</em>
+</p>
+<br>
+
+<br>
+<p align="center">
+    <img src="images/portunion_conformis_epicarida.jpg">
+    <em>Epicaridia (larvae) of *Portunion conformis*. Image courtesy of Chelsea Wood</em>
+</p>
+<br>
+
+<br>
+<p align="center">
+    <img src="images/portunion_conformis_epicarida_2.jpg">
+    <em>Epicaridia (larvae) of *Portunion conformis*. Image courtesy of Chelsea Wood</em>
+</p>
+<br>
+
+## Lab 6 - Nematodes
 
 <p align="center">
-    <img src="images/handful_of_nematodes.jpg">
-    <em>Image courtesy of [CDC DPDx](https://www.cdc.gov/dpdx/)</em>
+    <img src="images/handful_of_nematodes.jpg" width="400">
+    <center>*Image courtesy of [CDC DPDx](https://www.cdc.gov/dpdx/)*</center>
 </p>
+
+<br>
 
 You've now seen at least a few nematodes from your fish dissection. This week, we will take a deep dive into this fascinating clade of parasites. You will come face-to-face with a disturbingly large (but thankfully dead) human-infecting nematode and some living insect-infecting nematodes. Remember to keep careful track of your observations in your lab notebook and make sure to finish reading the entire Lab 5 overview before your lab section meets!
 
@@ -675,7 +872,7 @@ The nematodes are an astoundingly large and speciose group of worms. Free-living
 
 <br>
 
-#### Morphology
+### Morphology
 
 **Note for the nematodes**: We will use common names to identify hierarchical groups for the nematodes in order to avoid overwhelming upper-level taxonomy :)
 
@@ -714,52 +911,52 @@ Egg morphology is distinct. Most species have a unique shape, facilitating diagn
 
 <br>
 
-##### Life cycles
+#### Life cycles
 
 Life cycles of parasitic nematodes vary among species. In some, there is no intermediate host involved. For direct life cycle nematodes, egg stages can be ingested by the host or juvenile stages can actively penetrate the host’s skin. Some nematodes use intermediate hosts, where they encyst in tissues and are trophically transmitted. Still others use vector intermediate hosts that actively transmit the infection between hosts. Nematodes that we will study today live in the gut of vertebrates as adult worms, and most have direct life cycles.
 
 <br>
 
-<p align="center">
-    <img src="images/hookworm_life_cycle.gif">
-    <em>Image courtesy of [CDC DPDx](https://www.cdc.gov/dpdx/hookworm/index.html)</em>
-</p>
+#### Hookworm
 
 <br>
-
-##### Hookworm
+<p align="center">
+    <img src="images/hookworm_life_cycle.gif">
+    <center>*Image courtesy of [CDC DPDx](https://www.cdc.gov/dpdx/hookworm/index.html)*</center>
+</p>
+<br>
 
 Species of hookworms live in the intestine of their hosts, attaching to the mucosal surface and feeding on blood. They are distinctive in that they possess a **buccal capsule**, a large and heavily sclerotized “mouth” that is armed with cutting plates, teeth, or lancet-like structures. Eggs are passed in the feces. Juvenile stages emerge in the external environment and molt twice. The **J3 stage** (third-stage juvenile) is infective. Upon contact with the host, the J3 penetrates the host’s skin and enters the circulatory system, where they proceed to the lungs by way of small vessels leading to alveoli. The juveniles **migrate** through the lung, up the trachea, and down the esophagus to gain access to the intestine, where thy mature, mate, and produce eggs. Pathology is **intensity dependent** and can be severe. Hookworm eggs are large, oval, and often with a juvenile that is globular in appearance.
 
-###### *Necator americanus*
+##### *Necator americanus*
 
 * Human hookworm
 * Buccal capsule has cutting plates
 * Male has spicules with barbs at the tips, fused distally
 
-###### *Ancylostoma duodenale*
+##### *Ancylostoma duodenale*
 
 * Also human hookworm
 * Buccal capsule has plate with teeth
 * Male spicules have simple tips, not fused distally
 
-###### *Ancylostoma canium*
+##### *Ancylostoma canium*
 
 * Dog hookworm
 * Juveniles that penetrate humans can cause “creeping eruption” or cutaneous larval migrans, since the larvae are “lost” in the wrong host. Bacterial infections can ensue, but they are not usually severe.
 
 <br>
 
-<p align="center">
-    <img src="images/ascaris_life_cycle.jpg">
-    <em>Image courtesy of [CDC DPDx](https://www.cdc.gov/dpdx/ascariasis/index.html)</em>
-</p>
+#### True roundworms
+
+##### *Ascaris lumbricoides*
 
 <br>
-
-##### True roundworms
-
-###### *Ascaris lumbricoides*
+<p align="center">
+    <img src="images/ascaris_life_cycle.jpg">
+    <center>*Image courtesy of [CDC DPDx](https://www.cdc.gov/dpdx/ascariasis/index.html)*</center>
+</p>
+<br>
 
 These are among the largest nematodes in existence. Males reach lengths of 15–31 cm, while females reach lengths of 20–50 cm. They are parasites of humans but can also live in pigs. High intensity infections may cause intestinal blockage and result in severe pathology. The eggs are round and have a ruffled **mammilated** layer that is unmistakable. The eggs are highly resistant and can survive in the environment under stressful conditions for years.
 
@@ -767,18 +964,18 @@ The life cycle of *Ascaris* is similar to that of hookworms, except that hosts a
 
 <br>
 
-<p align="center">
-    <img src="images/pinworm_life_cycle.jpg">
-    <em>Image courtesy of [CDC DPDx](https://www.cdc.gov/dpdx/enterobiasis/index.html)</em>
-</p>
+#### Pinworm
 
 <br>
-
-##### Pinworm
+<p align="center">
+    <img src="images/pinworm_life_cycle.jpg">
+    <center>*Image courtesy of [CDC DPDx](https://www.cdc.gov/dpdx/enterobiasis/index.html)*</center>
+</p>
+<br>
 
 This group of nematodes contains species that infect mammals (including humans) and many that infect reptiles and insects. Most are known to have simple, direct life cycles. Study the general appearance of the male and female worms, noting their relative sizes. Observe that the female has a slender, pointed tail (hence the common name pinworm). Eggs of this group are characteristically large, oval, and flattened on one side. Developing larvae can often be seen in the eggs.
 
-###### *Enterobius vermicularis*
+##### *Enterobius vermicularis*
 
 This species is common in the intestine of humans and causes mild illness in children, but is not very pathogenic in adults. In the region of the head are two cuticular expansions, **cervical alae**. The **caudal alae** (at the posterior) are narrow and less well-defined. Study the morphology of male and female worms. Identify the vulva and uterus in the female and testis in the male. The male tail is curved and short and bears a single spicule.
 
@@ -786,20 +983,20 @@ The life cycle of *E. vermicularis* is direct but the females exhibit a particul
 
 <br>
 
-<p align="center">
-    <img src="images/whipworm_life_cycle.gif">
-    <em>Image courtesy of [CDC DPDx](https://www.cdc.gov/dpdx/trichuriasis/index.html)</em>
-</p>
+#### Whipworm
 
 <br>
+<p align="center">
+    <img src="images/whipworm_life_cycle.gif">
+    <center>*Image courtesy of [CDC DPDx](https://www.cdc.gov/dpdx/trichuriasis/index.html)*</center>
+</p>
+<br>
 
-##### Whipworm
-
-###### *Trichuris trichiura*
+##### *Trichuris trichiura*
 
 This species is a parasite of primates (including humans) and pigs. The body is whip-like with two distinct regions. The long, slender half is the anterior. The mouth occurs at the tiny tip and the esophagus is long and narrow. The intestine begins where the body of the worm thickens. Note the single spicule of the male. Eggs are very distinctive with an oval shell and **polar knobs** at either end. The life cycle is direct and people become infected by ingesting eggs from the external environment. Eggs embryonate in the external environment in moist, shady soil. Once ingested, the larva emerges and penetrates into the mucosal tissue of the large intestine down to the basal cells. They remain embedded, feeding on cell debris and blood. As they mature, the thick body of the worm protrudes into the lumen, expelling eggs. Pathology is not severe in adults with low-intensity infections, but children or immune-compromised individuals with high intensity infections are at risk of dysentery and anemia caused by chronic hemorrhaging of the intestinal wall.
 
-###### *Trichinella sprialis*
+##### *Trichinella sprialis*
 
 This species is parasitic in humans and many other mammals, domestic and wild. Pathology can be severe in human infections. Adult worms live in the small intestine. Once a female worm is fertilized (mated), she will penetrate the mucosal lining of the intestine and deposit larvae into the circulatory system. Hundreds of larvae circulate and seek out muscle tissue (i.e., heart, diaphragm, etc.). A juvenile will enter a host cell and encyst intracellularly, converting all of that cell’s metabolic functions toward its own development. The host cell, called a nurse cell, provides a contained, protected juvenile package. When the host dies and another mammal feeds on the infected tissue, the juvenile springs into action in the new intestine, ready to mature and continue the cycle. Thus, each host that is infected with adult worms becomes the proprietor of the juvenile infective to the next host in its own tissues.
 
@@ -807,42 +1004,42 @@ Examine sections of infected muscle tissue. The juveniles often are rolled up sp
 
 <br>
 
-<p align="center">
-    <img src="images/wuchereria_bancrofti_life_cycle.jpg">
-    <em>Image courtesy of [CDC DPDx](https://www.cdc.gov/dpdx/lymphaticfilariasis/index.html)</em>
-</p>
+#### Filarial nematodes
 
 <br>
-
-##### Filarial nematodes
+<p align="center">
+    <img src="images/wuchereria_bancrofti_life_cycle.jpg">
+    <center>*Image courtesy of [CDC DPDx](https://www.cdc.gov/dpdx/lymphaticfilariasis/index.html)*</center>
+</p>
+<br>
 
 Filarial worms are a group of tissue-dwelling nematodes that infect terrestrial vertebrate hosts. Adult worms are very long and slender (**filiform**) with reduced features. Filarial worms cause some of the most pathogenic diseases in humans and domestic animals. All species use **arthropods** as intermediate hosts.
 
 Members of the family Onchocercidae employ the arthropod intermediate host as a **vector**. A vector host actively transfers infective stages of the parasite from one host to another when feeding. Among onchocercids, adult females are **ovoviviparous**, giving birth to active juveniles called **microfilariae**. The female worm often deposits microfilariae directly into the circulatory system of the host. Thousands of microfilariae circulate, navigating to the peripheral blood vessels to increase their chances of being ingested by an appropriate arthropod vector species. Once inside the proper intermediate host, the microfilariae will molt and undergo further development. When the arthropod takes another blood meal, the infective larvae exit the arthropod onto the skin of the vertebrate and penetrate the bite wound to gain access into the new definitive host. Microfilariae are often the diagnostic stage used by physicians, since a simple blood smear of an infected individual will often yield microfilariae. Microfilariae are **multinucleate** and sometimes retain the egg membrane as a **sheath**. The extent of nuclei and presence of a sheath are characters used to distinguish species. Microfilariae often exhibit **periodicity**, whereby they are found in highest densities in the peripheral blood vessels close to the skin at specific times of the day to coincide with the peak feeding activity of their vector host.
 
-###### *Dirofilaria immitis*
+##### *Dirofilaria immitis*
 
 This species is primarily a parasite of dogs but many other mammals are susceptible. The disease is commonly referred to as “**heartworm**”, as adult worms live in the right side of the heart and pulmonary artery. Infection in dogs can lead to cardiopulmonary failure and death if untreated.
 
 The life cycle of *D. immitis* involves a mosquito as the vector host. Adult worms live in the heart and females release microfilariae directly into the bloodstream. Mosquitoes ingest the microfilariae while taking a blood meal. Inside the mosquito, the nematode larvae molt in the Malpighian tubules to become J3s (3rd juvenile stage). The J3s migrate to the mouthparts of the mosquito so that they can readily drop onto the vertebrate host’s skin while the mosquito is taking its next blood meal. The J3s use the mosquito bite wound to enter the host and advance into the circulatory system. Mature worms can be found in the heart after about five months.
 
-###### *Onchocerca volvulus*
+##### *Onchocerca volvulus*
 
 This species causes a disease in humans known as **onchocerciasis**, also known as **river blindness**. Its distribution includes Africa, Arabia, and the tropical Americas. Adult worms live **subcutaneously** near the bite wound of the insect vector (black flies, **Family Simuliidae**). Adult worms live in pairs or groups and become encapsulated in host collagen material, forming a fibrous nodule (**onchocercoma**) beneath the skin. Females release unsheathed microfilariae that remain in the skin tissue. Black fly vectors will ingest the microfilariae when biting. In the black fly, the nematode larvae molt to become J3s and migrate to the labium so that they can easily exit the black fly when it takes another blood meal, and enter the bite wound.
 
 Adult worms and microfilariae cause pathology in infected individuals. The onchocercomas, containing adult worms, are not terribly symptomatic, but can occur wherever the person has been bitten (arms, legs, back, pelvic area, chest, head). The microfilariae cause greater problems. They are released by the hundreds and invade subcutaneous tissues all over the body, eliciting inflammatory response and causing dermatitis and lesions. Blindness occurs frequently when the microfilariae invade the eye and then die, causing lesions and scarring of the cornea over time. This is especially common when bite wounds are on the head. As the black flies are common in fast-moving stream areas, the disease has long been known as river blindness.
 
-###### *Wuchereria bancrofti*
+##### *Wuchereria bancrofti*
 
 This species causes a disease in humans called lymphatic filariasis (you may sometimes see it called by an old name that I don't recommend you use because it stigmatizes patients: elephantiasis). Its distribution is across the equatorial belt worldwide. Adult worms live in the lymphatic ducts near major lymph glands, primarily in the lower half of the body. Females release sheathed microfilariae into the lymph system, which merges with the general circulatory system. Microfilariae of this species often demonstrate **periodicity**, whereby they migrate to the peripheral blood vessels near the skin during the late evening hours when the mosquito vectors are biting.
 
 Adult worms cause most of the pathology associated with this parasite by eliciting a strong immune response and inflammation of the affected area. Secondary bacterial infections further exacerbate the problem and, over time, blockages of the afferent lymph system can occur. Over the long term, areas afflicted by the adult worms near the lymph nodes can become scarred over with fibrous material generated from the host immune response. Lymph fluid collects and is trapped in the affected appendage causing a painfully swollen condition.
 
-###### *Loa loa*
+##### *Loa loa*
 
 This species affects humans and is known as the “eyeworm”. Its distribution is in tropical West Africa. Adult worms live subcutaneously and are mobile. Microfilariae exhibit periodicity and appear in the peripheral blood during daylight hours. The vector is the biting deer fly (Chrysops spp.). Pathology is not as severe as other onchocercid nematodes, but adults can elicit an inflammatory immune response in subcutaneous tissue, called Calabar swellings. The swelling disappears after the worm moves on. Occasionally, worms enter the conjunctiva of the eye and can be seen crawling within the white tissue, hence the common name.
 
-###### *Dracunculus medinensis*
+##### *Dracunculus medinensis*
 
 This species is also known as the **Guinea worm**. Its distribution includes Africa, India, and the Middle East. *D. medinensis* infects humans and is one of the longest nematodes known; females reach up to 80 cm! Adult worms are tissue-dwellers, often inhabiting the lower extremities. Female worms have a uterus with extensive branching. Gravid females are so full of developing embryos that a strong internal pressure is created within the worm. The female migrates near to the skin surface and a portion of her cuticle erupts, forcing juveniles out into the subcutaneous layer. The host immune system reacts and a blister forms at the site of the eruption. When the host wades into cool water, such as in a stream, the female nematode begins contractions, forcing juveniles out of the blister wound. The juveniles enter the water and are readily consumed by the intermediate host, a **cyclopoid copepod**. In the arthropod host, the larval nematode migrates to the hemocoel and molts to become the J3 infective stage. Humans become infected by drinking water containing infected copepods. In the human, the nematode penetrates the duodenum and abdominal muscles to enter the subcutaneous connective tissues, where it will mature.
 
@@ -850,7 +1047,7 @@ Pathology is caused by the secondary infections that are likely to occur when a 
 
 <br>
 
-#### Demonstration instructions
+### Demonstration instructions
 
 <br>
 <center>
@@ -873,7 +1070,7 @@ Obtain an *Ascaris lumbricoides* or *Ascaris suum* worm for dissection. Wear glo
 
 <br>
 
-#### Slides to examine
+### Slides to examine
 
 Draw at least 5 of the following:
 
@@ -888,7 +1085,7 @@ Draw at least 5 of the following:
 
 <br>
 
-#### Questions
+### Questions
 
 1. What other parasites besides nematodes are dioecious?
 2. Why is hookworm pathology intensity dependent? What function does the buccal capsule perform in hookworms?
@@ -902,13 +1099,21 @@ Draw at least 5 of the following:
 
 <br>
 
-#### Lab 5 preview
+### Lab 6 preview
 
-**Want a sneak peak of this week's lab?** Check out the images and videos below of what previous FISH 406 students have found.
-
-[video of introductory spiel and Ascaris dissection]
+**Want a sneak peak of this week's lab?** Check out the videos below from previous iterations of FISH 406.
 
 <br>
+<center>
+[![Chelsea's introductory spiel for Lab 5, as given in Fall 2021](https://img.youtube.com/vi/U3D4mgUeBxI/0.jpg)](https://www.youtube.com/watch?v=U3D4mgUeBxI)
+</center>
+</br>
+
+<br>
+<center>
+[![Dissection of an Ascaris spp. worm](https://img.youtube.com/vi/OzaAO_HbunA/0.jpg)](https://www.youtube.com/watch?v=OzaAO_HbunA)
+</center>
+</br>
 
 <p align="center">
     <img src="images/ascaris_morphology.png">
@@ -917,106 +1122,15 @@ Draw at least 5 of the following:
 
 <br>
 
-### Lab 6
 
-**Readings**: *How to Do Ecology* Chapter 8
 
-As we've traversed the parasite tree of life , we've so far focused primarily on vermiform parasites (i.e., wormy dudes). Today, you'll get to come face-to-face with a different group of parasites: the arthropods (i.e., crunchy dudes).
-
-For the past several weeks, we have been raising our very own colony of arthropod parasites: jewel wasp (*Melittobia digitata*) parasitoids of blow fly pupae (*Sarcophaga* spp.).  We've already seen several generations of wasps deposit their eggs in blow fly pupae, create their own pupae, and metamorphose into adult jewel wasps.
-
-Today, you will:
-
-1. Dissect an *entoniscid isopod* (**Portunion conformis**) from a local shore crab (**Hemigrapsus oregonensis** or **H. nudus**):
+## Lab 7 - Protozoa
 
 <br>
-<center>
-[![Adult female Portunion conformis dissected from a Hemigrapsus spp. shore crab](https://img.youtube.com/vi/Z7SkWWHhYxA/0.jpg)](https://www.youtube.com/watch?v=Z7SkWWHhYxA)
-</center>
-</br>
-
-2. Extract from your very own face a living Demodex spp. mite!
-
-<br>
-
-<p align="center">
-    <img src="images/demodex_follicularum.jpg">
-    <em>*Demodex folliculorum* mite from a human face. Image from [Elston and Elston 2014](https://doi.org/10.1016/j.clindermatol.2014.02.012).</em>
-</p>
-
-<br>
-<center>
-[![Informational video from Tim Rawlings on Demodex spp. face mites](https://img.youtube.com/vi/kNsFqiEUbps/0.jpg)](https://www.youtube.com/watch?v=kNsFqiEUbps)
-</center>
-</br>
-
-<br>
-
-#### Demonstration instructions
-
-Today's demonstration will have two parts:
-
-1. You'll perform a dissection of shore crabs (*Hemigrapsus oregonensis* or *H. nudus*) infected with the entoniscid isopod *Portunion conformis*
-
-2. You'll extract and visualize your own facial mites (*Demodex folliculorum* and *D. brevis*)
-
-
-**Entoniscid isopod *Portunion conformis***
-
-Euthanizing crabs can be challenging, and we want to make sure that (1) the crabs are all dispatched humanely and (2) you guys aren't too traumatized by the process of performing the euthanasia on your own. So your TA will do all the euthanasias and present you with freshly dead crabs for your dissections.
-
-*Portunion conformis* is an endoparasite of the local shore crabs, *Hemigrapsus oregonensis* and *H. nudus*. These parasites actually feminize male hosts, which is apparent in mature infections but may be subtle.
-
-1. Obtain your freshly dead crab. Your TA will sever the cerebral ganglion for you. The legs might kick for a few more seconds, but these are just reflexes - the crab isn't feeling a thing.
-2. Record the species, sex, collection data, and the carapace width of each crab. 
-3. Make a drawing of the crab, especially the morphology of its abdomen.
-4. Gently flip back the abdominal flap. If a lemon yellow spot is visible at the base of the abdomen, you'll know that the crab is infected with an adult female *Portunion conformis*. If the yellow spot is lacking, you will look carefully for the more subtle signs of an early infection. If the host is female, look through the thin, transparent membrane alongside the intestines on the underside of the abdomen. Normally, the blood is colorless, but if the blood appears brown, the crab is infected with a juvenile parasite. Consumption of the host ovary by the young parasite releases brown vitelline pigment into the blood of the host, resulting in brown coloration. Write down your observations.
-5. From here on out, we'll proceed with caution, as the parasite is large, morphologically complex, and intertwined with host tissue.
-6. Insert a scalpel at the posterior-lateral corner of the carapace where it joins the abdomen. Then lift the carapace carefully to expose the hemocoel of the crab. 
-7. Mature parasites should be immediately apparent; the female looks vaguely maggot-like and is pale yellow, orange, or white. If a large parasite is present, you should carefully sever the intestine (the most fragile part of the parasite underlies the intestine). Using forceps as a scoop, gently flip the parasite from the cavity of the thorax into the still partially attached carapace. Most of the host's organs may accompany the parasite in this maneuver. Then float the parasite out by placing the "backed" crab in a watchglass and covering with seawater.
-8. Examine the crab under the dissecting microscope and carefully dissect the parasite from the carapace. The anterior portion of the parasite's brood chamber (marsupium) is interdigitated with the host's organs in the anterior part of the carapace, in front of the host's mouthpart musculature (buccal apparatus). The parasite may most easily be removed if the host's buccal apparatus is lifted in toto and the parasite scooped out of the empty shell.
-9. Draw the female entoniscid. If you don't find one, draw your neighbor's.
-10. Try to find the dwarf male hanging out nearby.
-11. If the female is carrying epicaridian larvae, draw those too.
-12. Remember to label the structures in your drawings of the females, males, and epicaridian larvae.
- 
-<br>
-
-**Facial mites (*Demodex follicularum* and *D. brevis*)**
-
-The vast majority of adult humans host the human eyebrow mite, *Demodex folliculorum*, an ectoparasite of the human face. Mites burrow into hair follicles of eyebrows and eyelashes and lay their long bodies parallel to the emerging hair. These mites are most active at night. Those humans who do not contract the mites vertically (e.g., from nuzzling mom as an infant) probably contract mites horizontally (e.g., later in life, from nuzzling other folks at night). Mites have been weakly linked to some skin diseases, but are thought to be largely harmless. We will assay your face for *Demodex folliculorum*.
-
-1. There are several ways to do this. We will start by crazy-gluing a piece of transparent tape to a microscope slide, sticky side up. Once the glue is dry, apply the sticky tape to your eyebrow line, press firmly, and remove. If you're lucky, several tiny hairs (along with their associated follicles) will be removed by the tape.
-2. Drop a bit of mineral oil on the tape, add a cover slip, and examine under low magnification on a compound microscope.
-3. You can also try "expressing" the mites - this is a fancy way of saying, "squeeze your skin like you're popping a zit and scrape the oil onto a microscope slide". Around the eyebrows and nose are popular places for mites. Once you have the oil on a slide, drop some mineral oil on top, add a cover slip, and examine under low magnification on a compound microscope.
-4. This might require a few tries. *Demodex follicularum* can be tough to get a hold of during daytime hours.
-5. Once we find a mite, please make a detailed drawing and label as many structures as you can. If you don't find your own mites, draw your neighbor's.
-
-<br>
-
-#### Questions
-
-1. Malaria has been successfully eradicated in the US. How was this accomplished?
-2. What are two methods for the control of insect pests and insect vectors? What are the costs and benefits of these different methods?
-3. How does resistance develop in insect vectors and the pathogens that they carry? What are the implications for human health?
-4. What factors potentially limit size (relative to the host) in non-parasitoid endoparasites?
-5. What factors must a conscientious biologist consider and research before attempting any application of biological control agents?
-6. Match the disease to the vector:
-
-* vectors = tse-tse fly, *Boophilus* tick, rat flea, kissing bug, *Anopheles* mosquito, black fly, deer fly, hornet, *Ixodes* tick 
-* diseases = falciparum malaria, lymphatic filariasis, river blindness, Lyme disease, bubonic plague, Rocky Mountain spotted fever, *Babesia*, African sleeping sickness, *Giardia*
-
-<br>
-
-### Lab 7
-
-<br>
-
 <p align="center">
     <img src="images/puppy_host.jpg">
     <em>Image courtesy of [Hebrew Matio via CC-BY-SA-4.0](https://commons.wikimedia.org/wiki/File:Dog_Breeds.jpg)</em>
 </p>
-
 <br>
 
 We've done a lot of gross stuff this quarter, but today's lab will be the grossest. Today, we focus on the protozoa - the smallest parasites we've covered so far. In order to see these parasites, you'll have to use a powerful compound microscope.
@@ -1029,7 +1143,7 @@ Here are our two activities for today's lab:
 
 <br>
 
-#### Flagellates
+### Flagellates
 
 The flagellates consist of a large diversity of protozoan forms whose relationships are not well understood. The taxonomy of flagellate groups has shifted quite a bit in recent years, and new phyla have been elevated (see textbook), so we will just recognize groups at the level of Orders. Among the flagellates, many are free-living aquatic organisms. Parasitism appears to have evolved a number of times in different groups.
 
@@ -1038,7 +1152,6 @@ Flagella are slender, whip-like structures that function as locomotory organelle
 Most flagellates that are intestinal parasites have two life stages: trophozoites and cysts. Both stages are very small, usually well under 1 mm. The cyst stage is expelled in the feces of infected individuals. Cysts are resistant, thick-walled, dormant stages that are infective tot the host when ingested. Once inside the host, gastric fluids induce the trophozoite stage to emerge from the cyst. The trophozoites reproduce **asexually** inside the host’s intestine by **longitudinal binary fission** in which the flagellate body divides longitudinally. Tremendous numbers can accumulate and pathology varies among the species. Regions where sanitation is poor and fecal contamination of drinking water and agriculture persists favor the transmission of human flagellate parasites.
 
 <br>
-
 <p align="center">
     <img src="images/giardia.jpg">
     <em></em>
@@ -1047,7 +1160,7 @@ Most flagellates that are intestinal parasites have two life stages: trophozoite
 
 <br>
 
-#### Coccidian apicomplexans
+### Coccidian apicomplexans
 
 Coccidian apicomplexans are all endoparasites of vertebrates and invertebrates. The life cycle may be direct or indirect but always involves a prominent stage of intracellular reproduction that often contributes significantly to pathology in the host. Typical sites of infection include the digestive tract epithelium, liver, kidney, and erythrocytes (red blood cells).
 
@@ -1056,17 +1169,15 @@ The life cycle typically involves three distinct phases: **schizogony** (merogon
 In this lab, we will examine coccidian apicomplexans. Current classification is rapidly changing, so we will use “coccidian” as a common name for this group. Eucoccidian parasites cause serious disease in humans and domestic animals. Immunocompromised humans are particularly susceptible to coccidiosis; individuals infected with HIV often succumb to coccidian infections that would be unusual in healthy individuals.
 
 <br>
-
 <p align="center">
     <img src="images/coccidian_oocysts.jpg">
     <em></em>
 </p>
 <center>Image courtesy of [Joel Mills via CC BY-SA 3.0](https://en.wikipedia.org/wiki/Coccidia#/media/File:Coccidia.JPG)</center>
 
-
 <br>
 
-#### Demonstration instructions
+### Demonstration instructions
 
 **Termite flagellate demonstration**
 
@@ -1138,7 +1249,7 @@ In this demo, we will survey the intestinal parasite fauna of some local mammal 
 
 <br>
 
-#### Slides to examine 
+### Slides to examine 
 
 **Draw at least 5 of the following:**
 
@@ -1157,7 +1268,7 @@ In this demo, we will survey the intestinal parasite fauna of some local mammal 
 
 <br>
 
-#### Questions
+### Questions
 
 1. How are you most likely to become infected with a parasitic flagellate?
 2. If a village is plagued by multiple species of intestinal flagellates and amoebas, what does that tell you about the living conditions in that village?
@@ -1167,18 +1278,18 @@ In this demo, we will survey the intestinal parasite fauna of some local mammal 
 <br>
 
 
-### Lab 8
+## Lab 8 - Posters
 
 During this lab session, you will give your oral presentation live to colleagues in your lab section!  The presentation order will be randomly determined and announced in advance.  All presentations will be recorded, and the best presentations (as determined by Chelsea and the TAs) will be used as examples for future generations of FISH 406 students.
 
 <br>
 
-### Lab 9
+## Lab 9 - Exam review
 
 This lab will be a review session for your Final Exam.
 
 **Come to this session with all of your course content questions!** Ideally, you will have completed the practice final exam before this practical session, so that you can ask your TA for clarification on the answers.
 
-**This session will be driven by *your* questions!** Your TA will stick around for the entire session, but we will only talk about what you ask us to talk about. One thing you might consider is reviewing all of your course notes before this  session and flagging any areas where you are not 100% clear.We will have access to all of the course powerpoints and review any content you wish.
+**This session will be driven by *your* questions!** Your TA will stick around for the entire session, but we will only talk about what you ask us to talk about. One thing you might consider is reviewing all of your course notes before this  session and flagging any areas where you are not 100% clear. We will have access to all of the course powerpoints and review any content you wish.
 
 <br>
