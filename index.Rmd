@@ -29,8 +29,12 @@ h3 {
 <br>
 
 <center>&copy; Chelsea Wood 2025</center>
+<br>
+<center>These materials are adapted from Armand Kuris' Parasitology course (EEMB 111) at UC Santa Barbara, with permission from Armand. Many labs are adapted from Kuris, Whitney, and McKenzie's *Parasitology Lab Exercises*. The template code used to produce this website was written by [Mark Scheuerell](https://github.com/mdscheuerell). 
 
-<center>These materials are adapted from Armand Kuris' Parasitology course (EEMB 111) at UC Santa Barbara, with permission from Armand. Many labs are adapted from Kuris, Whitney, and McKenzie Parasitology Lab Exercises. If you would like to use these materials in your own teaching, please feel free, as they are licensed under [GPLv3](https://www.gnu.org/licenses/gpl-3.0.en.html). You can even reproduce and modify this entire website for your own use by [forking the code in GitHub](https://github.com/wood-lab/fish_406).
+If you would like to use these materials in your own teaching, please feel free, as they are licensed under [GPLv3](https://www.gnu.org/licenses/gpl-3.0.en.html). You can even reproduce and modify this entire website for your own use by [forking the code in GitHub](https://github.com/wood-lab/fish_406).
+
+The production of these educational materials was made possible by a CAREER Award from the US National Science Foundation's Division of Environmental Biology ([NSF Grant Number 2141898](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2141898&HistoricalAwards=false)).
 </center>
 
 <br>
