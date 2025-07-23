@@ -1,56 +1,56 @@
 ﻿calendarId,title,body,recurrenceRule,start,end,category,location,backgroundColor,color,borderColor
 1,CLASS CANCELLED,,NA,2025-09-24 12:30:00,2025-09-24 13:20:00,time,FISH 107,#3A9AB2,white,NA
 1,CLASS CANCELLED,,NA,2025-09-26 12:30:00,2025-09-26 13:20:00,time,FISH 107,#3A9AB2,white,NA
-1,Class 1,,NA,2025-09-29 12:30:00,2025-09-29 13:20:00,time,FISH 107,#3A9AB2,white,NA
-2,Lab 1 - Section AB,,NA,2025-09-30 09:30:00,2025-09-30 12:20:00,time,OTB 206,#B1C492,white,NA
-2,Lab 1 - Section AA,,NA,2025-09-30 13:30:00,2025-09-30 16:20:00,time,OTB 206,#B1C492,white,NA
-1,Class 2,,NA,2025-10-01 12:30:00,2025-10-01 13:20:00,time,FISH 107,#3A9AB2,white,NA
-1,Class 3,,NA,2025-10-03 12:30:00,2025-10-03 13:20:00,time,FISH 107,#3A9AB2,white,NA
-1,Class 4,,NA,2025-10-06 12:30:00,2025-10-06 13:20:00,time,FISH 107,#3A9AB2,white,NA
-2,Lab 2 - Section AB,,NA,2025-10-07 09:30:00,2025-10-07 12:20:00,time,OTB 206,#B1C492,white,NA
-2,Lab 2 - Section AA,,NA,2025-10-07 13:30:00,2025-10-07 16:20:00,time,OTB 206,#B1C492,white,NA
-1,Class 5,,NA,2025-10-08 12:30:00,2025-10-08 13:20:00,time,FISH 107,#3A9AB2,white,NA
-1,Class 6,,NA,2025-10-10 12:30:00,2025-10-10 13:20:00,time,FISH 107,#3A9AB2,white,NA
-1,Class 7,,NA,2025-10-13 12:30:00,2025-10-13 13:20:00,time,FISH 107,#3A9AB2,white,NA
-2,Lab 3 - Section AB,,NA,2025-10-14 09:30:00,2025-10-14 12:20:00,time,OTB 206,#B1C492,white,NA
-2,Lab 3 - Section AA,,NA,2025-10-14 13:30:00,2025-10-14 16:20:00,time,OTB 206,#B1C492,white,NA
-1,Class 8,,NA,2025-10-15 12:30:00,2025-10-15 13:20:00,time,FISH 107,#3A9AB2,white,NA
-1,Class 9,,NA,2025-10-17 12:30:00,2025-10-17 13:20:00,time,FISH 107,#3A9AB2,white,NA
-1,Class 10,,NA,2025-10-20 12:30:00,2025-10-20 13:20:00,time,FISH 107,#3A9AB2,white,NA
-2,Lab 4 - Section AB,,NA,2025-10-21 09:30:00,2025-10-21 12:20:00,time,OTB 206,#B1C492,white,NA
-2,Lab 4 - Section AA,,NA,2025-10-21 13:30:00,2025-10-21 16:20:00,time,OTB 206,#B1C492,white,NA
-1,Class 11,,NA,2025-10-22 12:30:00,2025-10-22 13:20:00,time,FISH 107,#3A9AB2,white,NA
-1,Class 12,,NA,2025-10-24 12:30:00,2025-10-24 13:20:00,time,FISH 107,#3A9AB2,white,NA
-1,Class 13,,NA,2025-10-27 12:30:00,2025-10-27 13:20:00,time,FISH 107,#3A9AB2,white,NA
-2,Lab 5 - Section AB,,NA,2025-10-28 09:30:00,2025-10-28 12:20:00,time,OTB 206,#B1C492,white,NA
-2,Lab 5 - Section AA,,NA,2025-10-28 13:30:00,2025-10-28 16:20:00,time,OTB 206,#B1C492,white,NA
-1,Class 14,,NA,2025-10-29 12:30:00,2025-10-29 13:20:00,time,FISH 107,#3A9AB2,white,NA
-3,Midterm Exam,,NA,2025-10-31 12:30:00,2025-10-31 13:20:00,time,FISH 107,#E3B710,white,NA
-1,Class 15,,NA,2025-11-03 12:30:00,2025-11-03 13:20:00,time,FISH 107,#3A9AB2,white,NA
-2,Lab 6 - Section AB,,NA,2025-11-04 09:30:00,2025-11-04 12:20:00,time,OTB 206,#B1C492,white,NA
-2,Lab 6 - Section AA,,NA,2025-11-04 13:30:00,2025-11-04 16:20:00,time,OTB 206,#B1C492,white,NA
-1,Class 16,,NA,2025-11-05 12:30:00,2025-11-05 13:20:00,time,FISH 107,#3A9AB2,white,NA
-1,Class 17,,NA,2025-11-07 12:30:00,2025-11-07 13:20:00,time,FISH 107,#3A9AB2,white,NA
+1,Class 1,https://wood-lab.github.io/fish_406/content.html#Class_1,NA,2025-09-29 12:30:00,2025-09-29 13:20:00,time,FISH 107,#3A9AB2,white,NA
+2,Lab 1 - Section AB,https://wood-lab.github.io/fish_406/content.html#Lab_1_-_The_deep_end,NA,2025-09-30 09:30:00,2025-09-30 12:20:00,time,OTB 206,#B1C492,white,NA
+2,Lab 1 - Section AA,https://wood-lab.github.io/fish_406/content.html#Lab_1_-_The_deep_end,NA,2025-09-30 13:30:00,2025-09-30 16:20:00,time,OTB 206,#B1C492,white,NA
+1,Class 2,https://wood-lab.github.io/fish_406/content.html#Class_2,NA,2025-10-01 12:30:00,2025-10-01 13:20:00,time,FISH 107,#3A9AB2,white,NA
+1,Class 3,https://wood-lab.github.io/fish_406/content.html#Class_3,NA,2025-10-03 12:30:00,2025-10-03 13:20:00,time,FISH 107,#3A9AB2,white,NA
+1,Class 4,https://wood-lab.github.io/fish_406/content.html#Class_4,NA,2025-10-06 12:30:00,2025-10-06 13:20:00,time,FISH 107,#3A9AB2,white,NA
+2,Lab 2 - Section AB,https://wood-lab.github.io/fish_406/content.html#Lab_2_-_The_shallow_end,NA,2025-10-07 09:30:00,2025-10-07 12:20:00,time,OTB 206,#B1C492,white,NA
+2,Lab 2 - Section AA,https://wood-lab.github.io/fish_406/content.html#Lab_2_-_The_shallow_end,NA,2025-10-07 13:30:00,2025-10-07 16:20:00,time,OTB 206,#B1C492,white,NA
+1,Class 5,https://wood-lab.github.io/fish_406/content.html#Class_5,NA,2025-10-08 12:30:00,2025-10-08 13:20:00,time,FISH 107,#3A9AB2,white,NA
+1,Class 6,https://wood-lab.github.io/fish_406/content.html#Class_6,NA,2025-10-10 12:30:00,2025-10-10 13:20:00,time,FISH 107,#3A9AB2,white,NA
+1,Class 7,https://wood-lab.github.io/fish_406/content.html#Class_7,NA,2025-10-13 12:30:00,2025-10-13 13:20:00,time,FISH 107,#3A9AB2,white,NA
+2,Lab 3 - Section AB,https://wood-lab.github.io/fish_406/content.html#Lab_3_-_Cestodes,NA,2025-10-14 09:30:00,2025-10-14 12:20:00,time,OTB 206,#B1C492,white,NA
+2,Lab 3 - Section AA,https://wood-lab.github.io/fish_406/content.html#Lab_3_-_Cestodes,NA,2025-10-14 13:30:00,2025-10-14 16:20:00,time,OTB 206,#B1C492,white,NA
+1,Class 8,https://wood-lab.github.io/fish_406/content.html#Class_8,NA,2025-10-15 12:30:00,2025-10-15 13:20:00,time,FISH 107,#3A9AB2,white,NA
+1,Class 9,https://wood-lab.github.io/fish_406/content.html#Class_9,NA,2025-10-17 12:30:00,2025-10-17 13:20:00,time,FISH 107,#3A9AB2,white,NA
+1,Class 10,https://wood-lab.github.io/fish_406/content.html#Class_10,NA,2025-10-20 12:30:00,2025-10-20 13:20:00,time,FISH 107,#3A9AB2,white,NA
+2,Lab 4 - Section AB,https://wood-lab.github.io/fish_406/content.html#Lab_4_-_Projects,NA,2025-10-21 09:30:00,2025-10-21 12:20:00,time,OTB 206,#B1C492,white,NA
+2,Lab 4 - Section AA,https://wood-lab.github.io/fish_406/content.html#Lab_4_-_Projects,NA,2025-10-21 13:30:00,2025-10-21 16:20:00,time,OTB 206,#B1C492,white,NA
+1,Class 11,https://wood-lab.github.io/fish_406/content.html#Class_11,NA,2025-10-22 12:30:00,2025-10-22 13:20:00,time,FISH 107,#3A9AB2,white,NA
+1,Class 12,https://wood-lab.github.io/fish_406/content.html#Class_12,NA,2025-10-24 12:30:00,2025-10-24 13:20:00,time,FISH 107,#3A9AB2,white,NA
+1,Class 13,https://wood-lab.github.io/fish_406/content.html#Class_13,NA,2025-10-27 12:30:00,2025-10-27 13:20:00,time,FISH 107,#3A9AB2,white,NA
+2,Lab 5 - Section AB,https://wood-lab.github.io/fish_406/content.html#Lab_5_-_Arthropods,NA,2025-10-28 09:30:00,2025-10-28 12:20:00,time,OTB 206,#B1C492,white,NA
+2,Lab 5 - Section AA,https://wood-lab.github.io/fish_406/content.html#Lab_5_-_Arthropods,NA,2025-10-28 13:30:00,2025-10-28 16:20:00,time,OTB 206,#B1C492,white,NA
+1,Class 14,https://wood-lab.github.io/fish_406/content.html#Class_14,NA,2025-10-29 12:30:00,2025-10-29 13:20:00,time,FISH 107,#3A9AB2,white,NA
+3,Midterm Exam,https://wood-lab.github.io/fish_406/assignments.html#Midterm_exam,NA,2025-10-31 12:30:00,2025-10-31 13:20:00,time,FISH 107,#E3B710,white,NA
+1,Class 15,https://wood-lab.github.io/fish_406/content.html#Class_15,NA,2025-11-03 12:30:00,2025-11-03 13:20:00,time,FISH 107,#3A9AB2,white,NA
+2,Lab 6 - Section AB,https://wood-lab.github.io/fish_406/content.html#Lab_6_-_Nematodes,NA,2025-11-04 09:30:00,2025-11-04 12:20:00,time,OTB 206,#B1C492,white,NA
+2,Lab 6 - Section AA,https://wood-lab.github.io/fish_406/content.html#Lab_6_-_Nematodes,NA,2025-11-04 13:30:00,2025-11-04 16:20:00,time,OTB 206,#B1C492,white,NA
+1,Class 16,https://wood-lab.github.io/fish_406/content.html#Class_16,NA,2025-11-05 12:30:00,2025-11-05 13:20:00,time,FISH 107,#3A9AB2,white,NA
+1,Class 17,https://wood-lab.github.io/fish_406/content.html#Class_17,NA,2025-11-07 12:30:00,2025-11-07 13:20:00,time,FISH 107,#3A9AB2,white,NA
 1,CLASS CANCELLED,,NA,2025-11-10 12:30:00,2025-11-10 13:20:00,time,FISH 107,#3A9AB2,white,NA
 2,LAB CANCELLED,,NA,2025-11-11 09:30:00,2025-11-11 12:20:00,time,OTB 206,#B1C492,white,NA
 2,LAB CANCELLED,,NA,2025-11-11 13:30:00,2025-11-11 16:20:00,time,OTB 206,#B1C492,white,NA
-1,Class 18,,NA,2025-11-12 12:30:00,2025-11-12 13:20:00,time,FISH 107,#3A9AB2,white,NA
-1,Class 19,,NA,2025-11-14 12:30:00,2025-11-14 13:20:00,time,FISH 107,#3A9AB2,white,NA
-1,Class 20,,NA,2025-11-17 12:30:00,2025-11-17 13:20:00,time,FISH 107,#3A9AB2,white,NA
-2,Lab 7 - Section AB,,NA,2025-11-18 09:30:00,2025-11-18 12:20:00,time,OTB 206,#B1C492,white,NA
-2,Lab 7 - Section AA,,NA,2025-11-18 13:30:00,2025-11-18 16:20:00,time,OTB 206,#B1C492,white,NA
-1,Class 21,,NA,2025-11-19 12:30:00,2025-11-19 13:20:00,time,FISH 107,#3A9AB2,white,NA
-1,Class 22,,NA,2025-11-21 12:30:00,2025-11-21 13:20:00,time,FISH 107,#3A9AB2,white,NA
-1,Class 23,,NA,2025-11-24 12:30:00,2025-11-24 13:20:00,time,FISH 107,#3A9AB2,white,NA
-2,Lab 8 - Section AB,,NA,2025-11-25 09:30:00,2025-11-25 12:20:00,time,OTB 206,#B1C492,white,NA
-2,Lab 8 - Section AA,,NA,2025-11-25 13:30:00,2025-11-25 16:20:00,time,OTB 206,#B1C492,white,NA
-1,Class 24,,NA,2025-11-26 12:30:00,2025-11-26 13:20:00,time,FISH 107,#3A9AB2,white,NA
+1,Class 18,https://wood-lab.github.io/fish_406/content.html#Class_18,NA,2025-11-12 12:30:00,2025-11-12 13:20:00,time,FISH 107,#3A9AB2,white,NA
+1,Class 19,https://wood-lab.github.io/fish_406/content.html#Class_19,NA,2025-11-14 12:30:00,2025-11-14 13:20:00,time,FISH 107,#3A9AB2,white,NA
+1,Class 20,https://wood-lab.github.io/fish_406/content.html#Class_20,NA,2025-11-17 12:30:00,2025-11-17 13:20:00,time,FISH 107,#3A9AB2,white,NA
+2,Lab 7 - Section AB,https://wood-lab.github.io/fish_406/content.html#Lab_7_-_Protozoa,NA,2025-11-18 09:30:00,2025-11-18 12:20:00,time,OTB 206,#B1C492,white,NA
+2,Lab 7 - Section AA,https://wood-lab.github.io/fish_406/content.html#Lab_7_-_Protozoa,NA,2025-11-18 13:30:00,2025-11-18 16:20:00,time,OTB 206,#B1C492,white,NA
+1,Class 21,https://wood-lab.github.io/fish_406/content.html#Class_21,NA,2025-11-19 12:30:00,2025-11-19 13:20:00,time,FISH 107,#3A9AB2,white,NA
+1,Class 22,https://wood-lab.github.io/fish_406/content.html#Class_22,NA,2025-11-21 12:30:00,2025-11-21 13:20:00,time,FISH 107,#3A9AB2,white,NA
+1,Class 23,https://wood-lab.github.io/fish_406/content.html#Class_23,NA,2025-11-24 12:30:00,2025-11-24 13:20:00,time,FISH 107,#3A9AB2,white,NA
+2,Lab 8 - Section AB,https://wood-lab.github.io/fish_406/content.html#Lab_8_-_Posters,NA,2025-11-25 09:30:00,2025-11-25 12:20:00,time,OTB 206,#B1C492,white,NA
+2,Lab 8 - Section AA,https://wood-lab.github.io/fish_406/content.html#Lab_8_-_Posters,NA,2025-11-25 13:30:00,2025-11-25 16:20:00,time,OTB 206,#B1C492,white,NA
+1,Class 24,https://wood-lab.github.io/fish_406/content.html#Class_24,NA,2025-11-26 12:30:00,2025-11-26 13:20:00,time,FISH 107,#3A9AB2,white,NA
 1,CLASS CANCELLED,,NA,2025-11-28 12:30:00,2025-11-28 13:20:00,time,FISH 107,#3A9AB2,white,NA
-1,Class 25,,NA,2025-12-01 12:30:00,2025-12-01 13:20:00,time,FISH 107,#3A9AB2,white,NA
-2,Lab 9 - Section AB,,NA,2025-12-02 09:30:00,2025-12-02 12:20:00,time,OTB 206,#B1C492,white,NA
-2,Lab 9 - Section AA,,NA,2025-12-02 13:30:00,2025-12-02 16:20:00,time,OTB 206,#B1C492,white,NA
-1,Class 26,,NA,2025-12-03 12:30:00,2025-12-03 13:20:00,time,FISH 107,#3A9AB2,white,NA
-3,Final Exam,,NA,2025-12-05 12:30:00,2025-12-05 13:20:00,time,FISH 107,#E3B710,white,NA
+1,Class 25,https://wood-lab.github.io/fish_406/content.html#Class_25,NA,2025-12-01 12:30:00,2025-12-01 13:20:00,time,FISH 107,#3A9AB2,white,NA
+2,Lab 9 - Section AB,https://wood-lab.github.io/fish_406/content.html#Lab_9_-_Exam_review,NA,2025-12-02 09:30:00,2025-12-02 12:20:00,time,OTB 206,#B1C492,white,NA
+2,Lab 9 - Section AA,https://wood-lab.github.io/fish_406/content.html#Lab_9_-_Exam_review,NA,2025-12-02 13:30:00,2025-12-02 16:20:00,time,OTB 206,#B1C492,white,NA
+1,Class 26,https://wood-lab.github.io/fish_406/content.html#Class_26,NA,2025-12-03 12:30:00,2025-12-03 13:20:00,time,FISH 107,#3A9AB2,white,NA
+3,Final Exam,https://wood-lab.github.io/fish_406/assignments.html#Final_exam,NA,2025-12-05 12:30:00,2025-12-05 13:20:00,time,FISH 107,#E3B710,white,NA
 3,Week 1 quiz due,,NA,2025-10-03 00:00:00,2025-10-03 00:00:00,allday,,#E79805,white,NA
 3,Week 2 quiz due,,NA,2025-10-10 00:00:00,2025-10-10 00:00:00,allday,,#E79805,white,NA
 3,Week 3 quiz due,,NA,2025-10-17 00:00:00,2025-10-17 00:00:00,allday,,#E79805,white,NA

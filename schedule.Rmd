@@ -15,8 +15,7 @@ calendar(cal_data, navigation = TRUE, view="week", defaultDate = Sys.Date()) %>%
   cal_week_options(
     startDayOfWeek  = 1, 
     workweek = TRUE
-  ) %>% 
-  cal_props(cal_demo_props())
+  )
     
 ```
 
