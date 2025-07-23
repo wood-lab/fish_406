@@ -3,13 +3,6 @@ title: "Schedule"
 output: html_document
 ---
 
-fish406_cal<-calendar(cal_data,navigation = T, defaultDate=as.Date("2025-09-24")) %>%
-cal_month_options(
-startDayOfWeek=0,
-narrowWeekend=T
-) %>%
-cal_props(cal_data)
-
 ```{r generate_calendar, eval = FALSE, echo=FALSE}
 ## load library
 library(toastui)
@@ -18,10 +11,10 @@ library(toastui)
 cal_data<-read.csv("calendar_data.csv")
 
 ## display calendar
-calendar(cal_demo_data(), navigation = TRUE, defaultDate = Sys.Date()) %>%
-  cal_month_options(
+calendar(cal_data, navigation = TRUE, view="week", defaultDate = Sys.Date()) %>%
+  cal_week_options(
     startDayOfWeek  = 1, 
-    narrowWeekend = TRUE
+    workweek = TRUE
   ) %>% 
   cal_props(cal_demo_props())
     
