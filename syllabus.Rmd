@@ -79,8 +79,9 @@ Note that, for 5 credits, the University of Washington expects students to devot
 
 ### Required readings 
 
-*Foundations of Parasitology*, Roberts and Janovy (used copies available on Amazon; e-version of the book available for download [here](https://www.amsocparasit.org/books)); additional reading material available as pdfs.
-
+* *Foundations of Parasitology*, Roberts and Janovy (used copies available on Amazon; e-version of the book available for download [here](references/R&J.pdf))
+* [*How to Do Ecology*](https://press.princeton.edu/books/paperback/9780691245751/how-to-do-ecology?srsltid=AfmBOoqTQo77MnVjkuKlPdFi_9BWf8UTBMPoEb7a5x2r4tCu5HeFQmM4), Karban, Huntzinger, and Pearse
+* additional reading material available as pdfs
  
 ### Required equipment 
 

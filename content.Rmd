@@ -24,7 +24,7 @@ output:
 **Read:** 
 
 * R&J Chapters 1 & 2  
-* Bush et al. 1997
+* [Bush et al. 1997](https://doi.org/10.2307/3284227)
 * [this story](references/nematomorph_story.pdf)
 
 **UWCC:** 01.01, 01.02, 01.04, 01.05
@@ -60,7 +60,7 @@ output:
 **Read:** 
 
 * R&J Chapters 13 & 15  
-* Lafferty & Morris 1996
+* [Lafferty & Morris 1996](https://doi.org/10.2307/2265536)
 
 **UWCC:** 02.01a, 02.01b, 02.02a, 02.02b
 
@@ -83,7 +83,6 @@ output:
 **Read:** 
 
 * R&J Chapters 17 & 18  
-* Lafferty & Morris 1996
 
 **UWCC:** 03.02a, 03.02b
 
@@ -1438,8 +1437,6 @@ This seal was stranded (found on shore either dead or near death) around the  Se
 **Readings**: Wood et al. 2023, *How to Do Ecology* Chapter 2
 
 [FILL GAPS HERE]
-
-NOTE: This week, lab will be held in FISH 106 NOT OTB 206!  This will give us a more comfortable space to view Accidental Host together and to pitch term paper ideas in small groups.
 
 This week, we'll begin with a discussion of the costs and benefits of eradication (don't forget to read Morrison et al. 2007 and Edwards and Leung 2009 in preparation). Then, we'll put you in pairs. Each member of the pair will share their idea, and your job is to provide your partner with constructive, critical feedback that will help them hone and shape their idea. Then, we'll get into larger groups, where you'll share your idea with your peers and instructors; everyone will chime in with their suggestions for improvement.
 
