@@ -1,5 +1,5 @@
 ---
-title: "Schedule"
+title: "Instructor schedule"
 output: html_document
 ---
 
@@ -8,20 +8,24 @@ output: html_document
 library(toastui)
 
 ## data frame with dates & topics
+instructor_cal_data<-read.csv("instructor_calendar_data.csv")
 cal_data<-read.csv("calendar_data.csv")
+full_cal_data<-rbind.data.frame(cal_data,instructor_cal_data)
 
 ## display calendar
-calendar(cal_data, navigation = TRUE, view="week", defaultDate = Sys.Date()) %>%
-  cal_week_options(
+calendar(full_cal_data, navigation = TRUE, defaultDate = Sys.Date()) %>%
+  cal_month_options(
     startDayOfWeek  = 1, 
-    workweek = TRUE
+    narrowWeekend = TRUE
   )
     
 ```
 
 <br>
-</br>
-<center>Access the course instructor's schedule [here](wood-lab.github.io/fish_406/instructor_schedule.html).</center>
 <br>
-</br>
+
+Access the students' calendar [here](https://wood-lab.github.io/fish_406/schedule.html).
+
+<br>
+
 <center>*This site was last updated at `r format(Sys.time(), "%H:%M")` on `r format(Sys.Date(), "%d %b %Y")`*</center>
