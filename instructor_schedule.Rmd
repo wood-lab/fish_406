@@ -22,10 +22,11 @@ calendar(full_cal_data, navigation = TRUE, defaultDate = Sys.Date()) %>%
 ```
 
 <br>
-<br>
+</br>
 
-Access the students' calendar [here](https://wood-lab.github.io/fish_406/schedule.html).
+<center>Access the students' schedule [here](https://wood-lab.github.io/fish_406/schedule.html).</center>
 
 <br>
+</br>
 
 <center>*This site was last updated at `r format(Sys.time(), "%H:%M")` on `r format(Sys.Date(), "%d %b %Y")`*</center>

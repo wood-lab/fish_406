@@ -21,7 +21,7 @@ calendar(cal_data, navigation = TRUE, view="week", defaultDate = Sys.Date()) %>%
 
 <br>
 </br>
-<center>Access the course instructor's schedule [here](wood-lab.github.io/fish_406/instructor_schedule.html).</center>
+<center>Access the course instructor's schedule [here](https://wood-lab.github.io/fish_406/instructor_schedule.html).</center>
 <br>
 </br>
 <center>*This site was last updated at `r format(Sys.time(), "%H:%M")` on `r format(Sys.Date(), "%d %b %Y")`*</center>
