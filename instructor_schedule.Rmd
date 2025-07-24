@@ -15,7 +15,7 @@ full_cal_data<-rbind.data.frame(cal_data,instructor_cal_data)
 ## display calendar
 calendar(full_cal_data, navigation = TRUE, defaultDate = Sys.Date()) %>%
   cal_month_options(
-    startDayOfWeek  = 1, 
+    startDayOfWeek  = 0, 
     narrowWeekend = TRUE
   )
     
