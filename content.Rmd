@@ -21,12 +21,15 @@ output:
 
 ## Class 1
 
-**Read:** 
+**Required readings:** 
 
-* R&J Chapters 1 & 2  
 * [Bush et al. 1997](https://doi.org/10.2307/3284227)
 * [Lafferty and Kuris 2002](https://doi.org/10.1016/S0169-5347(02)02615-0)
 * [this story](references/nematomorph_story.pdf)
+
+**Optional readings:**
+
+* R&J Chapters 1 & 2
 
 **UWCC:** 01.01, 01.02, 01.04, 01.05
 
@@ -80,10 +83,13 @@ ADD UWCC 01.05 (ADAPTIVE PEAKS)
 
 ## Class 2
 
-**Read:** 
+**Required readings:** 
+
+* [Lafferty & Morris 1996](https://doi.org/10.2307/2265536)
+
+**Optional readings:**
 
 * R&J Chapters 13 & 15  
-* [Lafferty & Morris 1996](https://doi.org/10.2307/2265536)
 
 **UWCC:** 02.01a, 02.01b, 02.02a, 02.02b
 
@@ -105,7 +111,7 @@ REPLACE WITH UWCC 02.02a and 02.02b:
 
 ## Class 3
 
-**Read:** 
+**Optional readings:** 
 
 * R&J Chapters 17 & 18  
 
@@ -194,7 +200,7 @@ REPLACE WITH UWCC 03.02a and 03.02b:
   
 ## Class 4
 
-**Read:** 
+**Optional readings:** 
 
 * R&J Chapter 16
 
@@ -223,9 +229,11 @@ REPLACE WITH UWCC 04.02:
 
 ## Class 5
 
-**Read:** 
+**Required readings:** 
 
-* Nothing!
+* [Carlson et al. 2020](https://doi.org/10.1016/j.biocon.2020.108596)
+* [Wood et al. 2023a](https://doi.org/10.1073/pnas.2211903120)
+* [Wood et al. 2023b](https://doi.org/10.1017/S0022149X2200075X)
 
 **UWCC:** 05.02, 05.03
 
@@ -249,7 +257,7 @@ ADD UWCC 05.03 (HISTORICAL ECOLOGY)
 
 ## Class 6
 
-**Read:** 
+**Optional readings:** 
 
 * R&J Chapter 19
 
@@ -287,7 +295,7 @@ NO REPLACEMENT - LEAVE OLD VIDEO
 
 ## Class 7
 
-**Read:** 
+**Optional readings:** 
 
 * R&J Chapter 21
 
@@ -325,7 +333,7 @@ REPLACE WITH UWCC 07.04:
 
 ## Class 8
 
-**Read:** 
+**Optional readings:** 
 
 * R&J Chapter 20
 
@@ -359,7 +367,7 @@ REPLACE WITH UWCC 07.04:
 
 ## Class 9
 
-**Read:** 
+**Optional readings:** 
 
 * R&J Chapter 22
 
@@ -417,7 +425,7 @@ REPLACE WITH UWCC 09.06:
 
 ## Class 10
 
-**Read:** 
+**Optional readings:** 
 
 * R&J Chapter 25, 26, 27
 
@@ -439,7 +447,7 @@ REPLACE WITH UWCC 09.06:
 
 ## Class 11
 
-**Read:** 
+**Optional readings:** 
 
 * R&J Chapter 23, 24, 28
 
@@ -468,7 +476,7 @@ NO REPLACEMENT - LEAVE OLD VIDEO
 
 ## Class 12
 
-**Read:** 
+**Optional readings:** 
 
 * R&J Chapter 30
 
@@ -496,7 +504,7 @@ NO REPLACEMENT - LEAVE OLD VIDEO
 
 ## Class 13
 
-**Read:** 
+**Optional readings:** 
 
 * R&J Chapter 29
 
@@ -528,7 +536,7 @@ In this class, we will hold a live discussion of "Accidental Host" with a real-l
 
 ## Class 15
 
-**Read:** 
+**Optional readings:** 
 
 * R&J Chapter 33
 
@@ -566,7 +574,7 @@ REPLACE WITH UWCC 15.04:
 
 ## Class 16
 
-**Read:** 
+**Optional readings:** 
 
 * R&J Chapter 41 (ONLY intro, *Ixodes* spp., *Dermacentor* spp., family Argasidae, family Demodicidae, family Trombiculidae, family Sarcoptidae, family Pyroglyphidae)
 
@@ -592,7 +600,7 @@ NO REPLACEMENT - LEAVE OLD VIDEOS
 
 ## Class 17
 
-**Read:** 
+**Optional readings:** 
 
 * R&J Chapter 36 (pp. 577-579)
 * R&J Chapter 37 (all)
@@ -645,7 +653,7 @@ NO REPLACEMENT - LEAVE OLD VIDEO
 
 ## Class 18
 
-**Read:** 
+**Optional readings:** 
 
 * R&J Chapter 39 (pp. 601-612, pp. 621)
 
@@ -685,7 +693,7 @@ REPLACE WITH UWCC 18.04:
 
 ## Class 19
 
-**Read:** 
+**Optional readings:** 
 
 * R&J Chapter 31
 * R&J Chapter 32
@@ -710,7 +718,7 @@ REPLACE WITH UWCC 19.02:
 
 ## Class 20
 
-**Read:** 
+**Optional readings:** 
 
 * R&J Chapter 4 (pp. 43–44, pp. 50–53) 
 * R&J Chapter 5 (pp. 61–69, pp. 71-73, pp. 77-79, pp. 82-85) 
@@ -778,9 +786,10 @@ REPLACE WITH UWCC 20.01:
 
 ## Class 21
 
-**Read:** 
+**Required readings:** 
 
 * [Lafferty 2006](https://doi.org/10.1098/rspb.2006.3641)
+* [Johnson et al. 2018](https://doi.org/10.1098/rspb.2018.0822)
 
 **UWCC:** 21.01, 21.02a, 21.02b, 21.03
 
@@ -809,7 +818,7 @@ REPLACE WITH UWCC 21.03:
 
 ## Class 22
 
-**Read:** 
+**Optional readings:** 
 
 * R&J Chapter 8 (pp. 123-127, pp. 134-139) 
 * R&J Chapter 9 (p. 147–162)
@@ -839,9 +848,9 @@ REPLACE WITH UWCC 22.02a and 22.02b:
 
 ## Class 23
 
-**Read:** 
+**Required readings:** 
 
-* Nothing!
+* [Kuris 2012](https://doi.org/10.1645/12-90.1)
 
 **UWCC:** 23.07
 
@@ -919,7 +928,10 @@ ADD UWCC 23.07 (OUT OF AFRICA)
 
 ## Class 24
 
-**Read:** [Wood and Johnson 2015](https://doi.org/10.1890/140368)
+**Required readings:** 
+
+* [Wood and Johnson 2015](https://doi.org/10.1890/140368)
+* [Kuris et al. 2008](https://doi.org/10.1038/nature06970)
 
 **UWCC:** 24.00
 
@@ -934,7 +946,7 @@ REPLACE WITH UWCC 24.00
 
 ## Class 25
 
-**Read:** 
+**Required readings:** 
 
 * [Keesing et al. 2010](https://doi.org/10.1038/nature09575)
 * [Wood et al. 2017](https://doi.org/10.1098/rstb.2016.0122)
@@ -953,8 +965,6 @@ REPLACE WITH UWCC 25.01a, 25.01b, and 25.01c
 ## Class 26
 
 **Note:** In this session, 10 minutes will be set aside for completion of course evaluations – and if >90% of students complete evals, there will be a 5-point bonus question on the final!
-
-**Read:** Nothing!
 
 **UWCC:** 26.00
 
