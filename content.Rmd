@@ -25,16 +25,19 @@ output:
 
 * R&J Chapters 1 & 2  
 * [Bush et al. 1997](https://doi.org/10.2307/3284227)
+* [Lafferty and Kuris 2002](https://doi.org/10.1016/S0169-5347(02)02615-0)
 * [this story](references/nematomorph_story.pdf)
 
 **UWCC:** 01.01, 01.02, 01.04, 01.05
 
+REPLACE WITH UWCC 01.01:
 <br>
 <center>
 [![Lecture 1.1 - What exactly am I getting myself into?](https://img.youtube.com/vi/0D82huCi_PE/0.jpg)](https://www.youtube.com/watch?v=0D82huCi_PE)
 </center>
 </br>
 
+REPLACE WITH UWCC 01.02:
 <br>
 <center>
 [![Lecture 1.2 - What is a parasite?](https://img.youtube.com/vi/mcjApBWRSGg/0.jpg)](https://www.youtube.com/watch?v=mcjApBWRSGg)
@@ -42,16 +45,36 @@ output:
 </br>
 
 <br>
-<center>
-[![Lecture 1.3 - Parasitism on the spectrum of symbiosis](https://img.youtube.com/vi/AeEJHvCK5fk/0.jpg)](https://www.youtube.com/watch?v=AeEJHvCK5fk)
-</center>
-</br>
 
+We define a **parasite** as any organism that lives in an intimate and durable relationship with a host, where that host suffers a fitness cost. But if we zoom out just a little bit, we can situate parasitism on a spectrum: the spectrum of **symbiosis**. Remember that fitness is the reproductive output of any organism - basically how many offspring a particular organism is able to produce in the course of its lifetime. (Another component of fitness is survival, but only because, the longer you survive, the more offspring you can produce.) When we think about symbiosis, we really have to think about fitness, because the fitness impact on the host is the key thing that distinguishes one kind of symbiont from another.
+
+We define a **symbiont** as any organism that lives in an intimate and durable relationship with a host. Symbionts can include **parasites** (which have a negative fitness effect on their host), but also **mutualists** (which have a positive fitness effect on their host), and **commensals** (which have no fitness effect on their host). We will apply the term *free-living** to any organism that **does not** live in an intimate and durable relationship with a host.
+
+We'll see plenty of examples of parasites through our time together; here are a few examples of the other symbionts:
+
+**Mutualists**
+
+* zooxanthellae in coral polyps (zooxanthellae provide carbohydrates through photosynthesis, polyp provides protection)
+* clownfish that live in anemones (clownfish provide nutrients via their poop as well as cleaning services, anemone provides protection)
+* lichens (algae provide food, fungus provides structure/shelter)
+* protozoa in the termite gut (protozoa break down materials that the termite would otherwise not be able to digest, termite provides habitat for the protozoa)
+
+**Commensals**
+
+* some bacteria that live in the human gut (bacteria have no effect on host fitness, human provides habitat for the bacteria)
+* *Demodex* spp. human face mites (mites have no effect on host fitness, human provides habitat for mites)
+* anemones attached to hermit crab shells (anemone has no effect on hermit fitness, hermit provides habitat and scraps of food for the anemone)
+
+<br>
+
+REPLACE WITH UWCC 01.04:
 <br>
 <center>
 [![Lecture 1.4 - Important terminology](https://img.youtube.com/vi/nfLQBuITRJE/0.jpg)](https://www.youtube.com/watch?v=AeEJHvCK5fk)
 </center>
 </br>
+
+ADD UWCC 01.05 (ADAPTIVE PEAKS)
 
 <br>
 
@@ -64,12 +87,14 @@ output:
 
 **UWCC:** 02.01a, 02.01b, 02.02a, 02.02b
 
+REPLACE WITH UWCC 02.01a and 02.01b:
 <br>
 <center>
 [![Lecture 2.1 - Adaptations to the life parasitic](https://img.youtube.com/vi/2H3xmuwZ7Is/0.jpg)](https://www.youtube.com/watch?v=2H3xmuwZ7Is)
 </center>
 </br>
 
+REPLACE WITH UWCC 02.02a and 02.02b:
 <br>
 <center>
 [![Lecture 2.2 - Introduction to the trematodes](https://img.youtube.com/vi/cP2mwWRGaJk/0.jpg)](https://www.youtube.com/watch?v=cP2mwWRGaJk)
@@ -86,15 +111,82 @@ output:
 
 **UWCC:** 03.02a, 03.02b
 
+Let's learn just a little bit of what might be a new language for you: Latin. Latin is the language used to give species scientific names, and so learning just a smidge of Latin will make your life as a parasitologist a lot easier. 
+
+Let's begin with the way that the scientific names of the parasites are organized. All of life is organized into these  groups, which are hierarchicale the ones at the top Encompass the ones at the bottom:
+
+Kingdom
+Phylum
+Class
+Order
+Family
+Genus
+Species
+
+Knowing the order of these terms is going to be super helpful as you start to jot down the taxonomy of parasites in your lab notebook and as you start to learn your way around the parasite Tree of Life.
+
+As we discuss the Latin/scientific names of parasites, you're going to come across lots of words that are a big mouthful but pronouncing Latin is actually really simple: if the letter is there you pronounce it and you usually over-pronounce it. For example, this Latin name...
+
+*Cryptocotyle lingua*
+
+... is pronounced crip-toe-COT-i-lee lin-GOO-uh. 
+
+Family names usually end in the suffix -idae. If you're writing the proper name of the family, you'll want to make sure that family name is uppercase. But sometimes we want to refer to these families a little bit more colloquially and when we do we can add the suffix -id, so that we're just talking about a colloquial form of the name of the family - same rule as for other families, like the Family Canidae (dogs), which we sometimes refer to as canids:
+
+Family Echinostomatidae
+echinostomatids
+
+As you're writing down Latin names, please remember that you should always italicize genus and species names:
+
+*Fasciola hepatica*
+
+If you're writing by hand, it's hard to write in italics, so you can instead underline genus and species names.
+
+If you're writing out um the abbreviation sp. or the abbreviation spp., which sometimes comes after a genus name to indicate that you're talking about a single species or multiple species within that genus, make sure that you're using sp. to indicate one species and spp. to indicate more than one species and remember that that sp. or spp. is never capitalized and it's also never italicized. As you're writing about any species, you can abbreviate the genus name after you spell it out once:
+
+*F. hepatica*
+
+As we go through the Latin names of these parasites, you might get a little overwhelmed by all of the terminology. Latin after all is not a language that many of you are likely to speak, but if you analyze the Latin names of parasites it can tell you a lot about what that parasite is and what it does and it can really be helpful as a mnemonic device, allowing you to connect the genus and species name to a life cycle or story that you've heard from these videos. Let's look at a couple of examples:
+
+* *Fasciola hepatica* - "hepatic" reminds me of hepatic, which refers to the liver - makes sense, because this is the liver fluke
+
+* *Necator americanus* - "nec" reminds me of necropsy or necromancy, which refers to death and "americanus" reminds me of America - makes sense because this is the New World hookworm, long a killer of Americans
+
+* *Echinostoma* - "echi" reminds me of echidnas or echinoderms, which refers to spines and "stoma" reminds me of plant stomates, which refers to mouths - makes sense because this is a trematode with a collar of spines around its mouth
+
+The suffixes -iasis and -osis indicate infection and the suffix -itis indicates inflammation, not infection. Examples:
+
+* schistosomiasis - infection with schistosome worms
+* parasitosis - infection with parasites
+* hepatitis - inflammation of the liver (can be but isn't necessarily the fault of parasites)
+* appendicitis - inflammation of the appendix (can be but isn't necessarily the fault of parasites)
+
+I encourage you to be really patient with yourself as you learn these terms - they're new and unfamiliar and they apply to these new and unfamiliar organisms. But I promise you that as you learn them it'll be like when you get glasses for the first time - everything will come into sharper focus!
+
+<br>
+
+REPLACE WITH UWCC 03.02a and 03.02b:
 <br>
 <center>
-[![Lecture 3.1 - Latin for parasitologists](https://img.youtube.com/vi/uQG3q7ToqY8/0.jpg)](https://www.youtube.com/watch?v=uQG3q7ToqY8)
+[![Lecture 3.2 - Trematode life cycles are variations on a theme](https://img.youtube.com/vi/qPMLH83EYQM/0.jpg)](https://www.youtube.com/watch?v=qPMLH83EYQM)
 </center>
 </br>
 
 <br>
 <center>
-[![Lecture 3.2 - Trematode life cycles are variations on a theme](https://img.youtube.com/vi/qPMLH83EYQM/0.jpg)](https://www.youtube.com/watch?v=qPMLH83EYQM)
+[![Parasites Without Borders, Parasitic Diseases Lectures #42: Clonorchiasis](https://img.youtube.com/vi/07eaJlpA4ss/0.jpg)](https://www.youtube.com/watch?v=07eaJlpA4ss)
+</center>
+</br>
+
+<br>
+<center>
+[![Parasites Without Borders, Parasitic Diseases Lectures #43: Fascioliasis](https://img.youtube.com/vi/giSiz903h4M/0.jpg)](https://www.youtube.com/watch?v=giSiz903h4M)
+</center>
+</br>
+
+<br>
+<center>
+[![Parasites Without Borders, Parasitic Diseases Lectures #44: Paragonomiasis](https://img.youtube.com/vi/5c2GposiVQQ/0.jpg)](https://www.youtube.com/watch?v=5c2GposiVQQ)
 </center>
 </br>
 
@@ -116,10 +208,11 @@ output:
 
 <br>
 <center>
-[![Lecture 4.1 - Life cycle and pathology of the schistosomes](https://img.youtube.com/vi/NvXzw_6AWvo/0.jpg)](https://www.youtube.com/watch?v=NvXzw_6AWvo)
+[![Parasites Without Borders, Parasitic Diseases Lectures #41: Schistosomes](https://img.youtube.com/vi/grAOFv-WQnk/0.jpg)](https://www.youtube.com/watch?v=grAOFv-WQnk)
 </center>
 </br>
 
+REPLACE WITH UWCC 04.02:
 <br>
 <center>
 [![Lecture 4.2 - Immunopathology of the schistosomes](https://img.youtube.com/vi/ut8BUVKZC9Y/0.jpg)](https://www.youtube.com/watch?v=ut8BUVKZC9Y)
@@ -136,17 +229,21 @@ output:
 
 **UWCC:** 05.02, 05.03
 
+LEAVE OLD VIDEO
 <br>
 <center>
 [![Lecture 5.1 - Distribution of the schistosomes](https://img.youtube.com/vi/HbKICGlLEPY/0.jpg)](https://www.youtube.com/watch?v=HbKICGlLEPY)
 </center>
 </br>
 
+REPLACE WITH UWCC 05.02:
 <br>
 <center>
 [![Lecture 5.2 - On a mission to destroy the schistosomes](https://img.youtube.com/vi/RtnPYkTL73c/0.jpg)](https://www.youtube.com/watch?v=RtnPYkTL73c)
 </center>
 </br>
+
+ADD UWCC 05.03 (HISTORICAL ECOLOGY)
 
 <br>
 
@@ -158,24 +255,28 @@ output:
 
 **UWCC:** 06.03a, 06.03b, 06.03c
 
+NO REPLACEMENT - LEAVE OLD VIDEO
 <br>
 <center>
 [![Lecture 6.1 - Turbellarians](https://img.youtube.com/vi/79t8nZ0Mzts/0.jpg)](https://www.youtube.com/watch?v=79t8nZ0Mzts)
 </center>
 </br>
 
+NO REPLACEMENT - LEAVE OLD VIDEO
 <br>
 <center>
 [![Lecture 6.2 - Fecampiids](https://img.youtube.com/vi/ZHTaKzOG7DI/0.jpg)](https://www.youtube.com/watch?v=ZHTaKzOG7DI)
 </center>
 </br>
 
+REPLACE WITH UWCC 06.03a, 06.03b, and 06.03c:
 <br>
 <center>
 [![Lecture 6.3 - Mongenes](https://img.youtube.com/vi/n_MQsNPCK1U/0.jpg)](https://www.youtube.com/watch?v=n_MQsNPCK1U)
 </center>
 </br>
 
+NO REPLACEMENT - LEAVE OLD VIDEO
 <br>
 <center>
 [![Lecture 6.4 - Introduction to myxozoans](https://img.youtube.com/vi/yt8bvDXR5b4/0.jpg)](https://www.youtube.com/watch?v=yt8bvDXR5b4)
@@ -192,33 +293,31 @@ output:
 
 **UWCC:** 07.01, 07.02, 07.03, 07.04
 
+REPLACE WITH UWCC 07.01:
 <br>
 <center>
 [![Lecture 7.1 - Introduction to the cestodes](https://img.youtube.com/vi/7csb7NMZsV4/0.jpg)](https://www.youtube.com/watch?v=7csb7NMZsV4)
 </center>
 </br>
 
+REPLACE WITH UWCC 07.02:
 <br>
 <center>
 [![Lecture 7.2 - The vertebrate gut as habitat](https://img.youtube.com/vi/oVjsGCGaVsM/0.jpg)](https://www.youtube.com/watch?v=oVjsGCGaVsM)
 </center>
 </br>
 
+REPLACE WITH UWCC 07.03:
 <br>
 <center>
 [![Lecture 7.3 - Cestode energetics](https://img.youtube.com/vi/c9g8jUjpcR0/0.jpg)](https://www.youtube.com/watch?v=c9g8jUjpcR0)
 </center>
 </br>
 
+REPLACE WITH UWCC 07.04:
 <br>
 <center>
 [![Lecture 7.4 - Population and community ecology of tapeworms](https://img.youtube.com/vi/IpFfMCaDXPw/0.jpg)](https://www.youtube.com/watch?v=IpFfMCaDXPw)
-</center>
-</br>
-
-<br>
-<center>
-[![Parasites Without Borders, Parasitic Diseases Lectures #38: Fish Tapeworm](https://img.youtube.com/vi/9sTu1qliixE/0.jpg)](https://www.youtube.com/watch?v=9sTu1qliixE)
 </center>
 </br>
 
@@ -234,31 +333,25 @@ output:
 
 <br>
 <center>
-[![Lecture 8.1 - The Pseudophyllidea](https://img.youtube.com/vi/WniGIEkRtI0/0.jpg)](https://www.youtube.com/watch?v=WniGIEkRtI0)
-</center>
-</br>
-
-<br>
-<center>
-[![Lecture 8.2 - The Cyclophyllidea - Dipylidium caninum](https://img.youtube.com/vi/R_s5VUm0JME/0.jpg)](https://www.youtube.com/watch?v=R_s5VUm0JME)
-</center>
-</br>
-
-<br>
-<center>
-[![Lecture 8.3 - The Cyclophyllidea - Taenia saginata and T.  solium](https://img.youtube.com/vi/kxYeFf5awJI/0.jpg)](https://www.youtube.com/watch?v=kxYeFf5awJI)
-</center>
-</br>
-
-<br>
-<center>
-[![Lecture 8.4 - The Cyclophyllidea - Echinococcus granulosus and E.  multilocularis](https://img.youtube.com/vi/kalP4Cfz7eg/0.jpg)](https://www.youtube.com/watch?v=kalP4Cfz7eg)
+[![Parasites Without Borders, Parasitic Diseases Lectures #35: Beef Tapeworm](https://img.youtube.com/vi/-yMykygzqq8/0.jpg)](https://www.youtube.com/watch?v=-yMykygzqq8)
 </center>
 </br>
 
 <br>
 <center>
 [![Parasites Without Borders, Parasitic Diseases Lectures #36: Pork Tapeworm](https://img.youtube.com/vi/JH9w7oihVSA/0.jpg)](https://www.youtube.com/watch?v=JH9w7oihVSA)
+</center>
+</br>
+
+<br>
+<center>
+[![Parasites Without Borders, Parasitic Diseases Lectures #37: Juvenile Tapeworm Infections](https://img.youtube.com/vi/3yIk-yJVVZA/0.jpg)](https://www.youtube.com/watch?v=3yIk-yJVVZA)
+</center>
+</br>
+
+<br>
+<center>
+[![Parasites Without Borders, Parasitic Diseases Lectures #38: Fish Tapeworm](https://img.youtube.com/vi/9sTu1qliixE/0.jpg)](https://www.youtube.com/watch?v=9sTu1qliixE)
 </center>
 </br>
 
@@ -272,36 +365,42 @@ output:
 
 **UWCC:** 09.01, 09.02, 09.03, 09.04, 09.05a, 09.05b, 09.06
 
+REPLACE WITH UWCC 09.01:
 <br>
 <center>
 [![Lecture 9.1 - Intro to the nematodes](https://img.youtube.com/vi/Yz24NihsglQ/0.jpg)](https://www.youtube.com/watch?v=Yz24NihsglQ)
 </center>
 </br>
 
+REPLACE WITH UWCC 09.02:
 <br>
 <center>
 [![Lecture 9.2 - Countering parasitism by avoiding infective stages](https://img.youtube.com/vi/3DBXMVFc9VU/0.jpg)](https://www.youtube.com/watch?v=3DBXMVFc9VU)
 </center>
 </br>
 
+REPLACE WITH UWCC 09.03:
 <br>
 <center>
 [![Lecture 9.3 - Countering parasitism by compensating for pathology](https://img.youtube.com/vi/XMXEw8HJNjA/0.jpg)](https://www.youtube.com/watch?v=XMXEw8HJNjA)
 </center>
 </br>
 
+REPLACE WITH UWCC 09.04:
 <br>
 <center>
 [![Lecture 9.4 - Countering parasitism by limiting the number of parasites](https://img.youtube.com/vi/KTkAhXlqSV0/0.jpg)](https://www.youtube.com/watch?v=KTkAhXlqSV0)
 </center>
 </br>
 
+REPLACE WITH UWCC 09.05a and 09.05b:
 <br>
 <center>
 [![Lecture 9.5 - Nematodes and sexual selection](https://img.youtube.com/vi/HCjHC7efMKw/0.jpg)](https://www.youtube.com/watch?v=HCjHC7efMKw)
 </center>
 </br>
 
+REPLACE WITH UWCC 09.06:
 <br>
 <center>
 [![Lecture 9.6 - Nematodes and population regulation](https://img.youtube.com/vi/RUEJGuH8nJg/0.jpg)](https://www.youtube.com/watch?v=RUEJGuH8nJg)
@@ -326,13 +425,13 @@ output:
 
 <br>
 <center>
-[![Lecture 10.1 - Geohelminths - Ascaris](https://img.youtube.com/vi/87qrq5J66wE/0.jpg)](https://www.youtube.com/watch?v=87qrq5J66wE)
+[![Parasites Without Borders, Parasitic Diseases Lectures #24: Giant Intestinal Worm](https://img.youtube.com/vi/6AZ-1sE3y7E/0.jpg)](https://www.youtube.com/watch?v=6AZ-1sE3y7E)
 </center>
 </br>
 
 <br>
 <center>
-[![Lecture 10.2 - Geohelminths - Trichuris](https://img.youtube.com/vi/hpBWbB900aM/0.jpg)](https://www.youtube.com/watch?v=hpBWbB900aM)
+[![Parasites Without Borders, Parasitic Diseases Lectures #23: Whipworm](https://img.youtube.com/vi/F2-Dqx_OoMw/0.jpg)](https://www.youtube.com/watch?v=F2-Dqx_OoMw)
 </center>
 </br>
 
@@ -348,10 +447,11 @@ output:
 
 <br>
 <center>
-[![Lecture 11.1 - Geohelminths - Hookworm](https://img.youtube.com/vi/XsmmOPMv1R0/0.jpg)](https://www.youtube.com/watch?v=XsmmOPMv1R0)
+[![Parasites Without Borders, Parasitic Diseases Lectures #25: Hookworms](https://img.youtube.com/vi/ak82QdQubW8/0.jpg)](https://www.youtube.com/watch?v=ak82QdQubW8)
 </center>
 </br>
 
+NO REPLACEMENT - LEAVE OLD VIDEO
 <br>
 <center>
 [![Lecture 11.2 - The anisakid nematodes](https://img.youtube.com/vi/1HmReFei-p0/0.jpg)](https://www.youtube.com/watch?v=1HmReFei-p0)
@@ -360,7 +460,7 @@ output:
 
 <br>
 <center>
-[![Lecture 11.3 - Trichinella spiralis](https://img.youtube.com/vi/g6qPxjI06Yw/0.jpg)](https://www.youtube.com/watch?v=g6qPxjI06Yw)
+[![Parasites Without Borders, Parasitic Diseases Lectures #27: Trichinellosis](https://img.youtube.com/vi/5PQXm1t-hvQ/0.jpg)](https://www.youtube.com/watch?v=5PQXm1t-hvQ)
 </center>
 </br>
 
@@ -376,13 +476,19 @@ output:
 
 <br>
 <center>
-[![Lecture 12.1 - Filarial nematodes - Dracunculus medinensis](https://img.youtube.com/vi/dUQ5g7mFrzo/0.jpg)](https://www.youtube.com/watch?v=dUQ5g7mFrzo)
+[![Parasites Without Borders, Parasitic Diseases Lectures #28: Lymphatic filariasis](https://img.youtube.com/vi/rfvyAbPMgg8/0.jpg)](https://www.youtube.com/watch?v=rfvyAbPMgg8)
 </center>
 </br>
 
 <br>
 <center>
-[![Lecture 12.2 - Filarial nematodes - Wuchereria bancrofti](https://img.youtube.com/vi/sQv2T_ObIlE/0.jpg)](https://www.youtube.com/watch?v=sQv2T_ObIlE)
+[![Parasites Without Borders, Parasitic Diseases Lectures #31: Dracunculiasis](https://img.youtube.com/vi/_fttPUCvkjI/0.jpg)](https://www.youtube.com/watch?v=_fttPUCvkjI)
+</center>
+</br>
+
+<br>
+<center>
+[![Al Jazeera English, Lifelines - How To Slay A Dragon](https://img.youtube.com/vi/znRQvTCJvy0/0.jpg)](https://www.youtube.com/watch?v=znRQvTCJvy0)
 </center>
 </br>
 
@@ -398,27 +504,17 @@ output:
 
 <br>
 <center>
-[![Lecture 13.1 - Filarial nematodes - Onchocerca volvulus](https://img.youtube.com/vi/jcEOxIuByWs/0.jpg)](https://www.youtube.com/watch?v=jcEOxIuByWs)
-</center>
-</br>
-
-<br>
-<center>
 [![Parasites Without Borders, Parasitic Diseases Lectures #29: Onchocercaiasis](https://img.youtube.com/vi/mUHVIHxQCC0/0.jpg)](https://www.youtube.com/watch?v=mUHVIHxQCC0)
 </center>
 </br>
 
 <br>
 <center>
-[![Lecture 13.2 - Filarial nematodes - Loa loa](https://img.youtube.com/vi/8w4wcylx5-A/0.jpg)](https://www.youtube.com/watch?v=8w4wcylx5-A)
+[![Parasites Without Borders, Parasitic Diseases Lectures #30: Loiasis](https://img.youtube.com/vi/dFapFbhm4Vc/0.jpg)](https://www.youtube.com/watch?v=dFapFbhm4Vc)
 </center>
 </br>
 
 <br>
-<center>
-[![Al Jazeera English, Lifelines - How To Slay A Dragon](https://img.youtube.com/vi/znRQvTCJvy0/0.jpg)](https://www.youtube.com/watch?v=znRQvTCJvy0)
-</center>
-</br>
 
 ## Class 14
 
@@ -438,24 +534,28 @@ In this class, we will hold a live discussion of "Accidental Host" with a real-l
 
 **UWCC:** 15.01, 15.02, 15.03, 15.04
 
+REPLACE WITH UWCC 15.01:
 <br>
 <center>
 [![Lecture 15.1 - Introduction to the arthropods](https://img.youtube.com/vi/KbmkhYU26Wc/0.jpg)](https://www.youtube.com/watch?v=KbmkhYU26Wc)
 </center>
 </br>
 
+REPLACE WITH UWCC 15.02:
 <br>
 <center>
 [![Lecture 15.2 - Arthropods as ectoparasites](https://img.youtube.com/vi/dPGTnyHLtfs/0.jpg)](https://www.youtube.com/watch?v=dPGTnyHLtfs)
 </center>
 </br>
 
+REPLACE WITH UWCC 15.03:
 <br>
 <center>
 [![Lecture 15.3 - Arthropods as Protelean parasites](https://img.youtube.com/vi/GWBrafeNIvU/0.jpg)](https://www.youtube.com/watch?v=GWBrafeNIvU)
 </center>
 </br>
 
+REPLACE WITH UWCC 15.04:
 <br>
 <center>
 [![Lecture 15.4 - Arthropods as micropredators](https://img.youtube.com/vi/-FbgPtj6sco/0.jpg)](https://www.youtube.com/watch?v=-FbgPtj6sco)
@@ -472,18 +572,16 @@ In this class, we will hold a live discussion of "Accidental Host" with a real-l
 
 **UWCC:** NONE
 
-<br>
-<center>
-[![Lecture 16.1 - The success of the Arthropoda](https://img.youtube.com/vi/x8eat5bXTD8/0.jpg)](https://www.youtube.com/watch?v=x8eat5bXTD8)
-</center>
-</br>
+As we dive into the Phylum Arthropoda, I want you to consider one really important question: why are arthropods so successful? Why are they the most numerous phylum that exists on Earth, both in terms of species diversity (i.e., the number of species) and their abundance? There are 350,000 described species of beetles alone! As we discuss the arthropods, I want you to ponder this question, and we'll talk it through when we get together in person.
 
+NO REPLACEMENT - LEAVE OLD VIDEOS
 <br>
 <center>
 [![Lecture 16.2 - The ticks](https://img.youtube.com/vi/KmuR1O2g4UA/0.jpg)](https://www.youtube.com/watch?v=KmuR1O2g4UA)
 </center>
 </br>
 
+NO REPLACEMENT - LEAVE OLD VIDEOS
 <br>
 <center>
 [![Lecture 16.3 - The mites](https://img.youtube.com/vi/IHYjahvKPUM/0.jpg)](https://www.youtube.com/watch?v=IHYjahvKPUM)
@@ -502,24 +600,41 @@ In this class, we will hold a live discussion of "Accidental Host" with a real-l
 
 **UWCC:** NONE
 
-<br>
-<center>
-[![Lecture 17.1 - Arthropods and human history](https://img.youtube.com/vi/5Wc10FE8Ikg/0.jpg)](https://www.youtube.com/watch?v=5Wc10FE8Ikg)
-</center>
-</br>
+It might be hard for you to imagine today, but arthropods were once a normal part of everyday life. Here's a little excerpt from a book called *Rats, Lice, and History*. The author Hans Zinsser writes,
 
+  *"It was bad manners to scratch when one did it by habit and not by necessity and improper to take lice or fleas or other vermin by the neck and kill them in company except in the most intimate circles."*
+
+In other words, no picking the fleas and lice off yourself unless you're just hanging out with your family or your close friends. This was advice given not only to folks who were living normal lives but also to nobility and royalty. You can even see how abundant arthropods used to be in the language that's been handed down to us:
+
+* lousy 
+* nitty-gritty 
+* nitpicking 
+* going over with a fine-tooth comb 
+
+The following videos cover the four orders within the class Insecta. We'll take each one of these in turn in the upcoming videos:
+
+      Phylum Arthropoda
+            Class Insecta
+                Order Phthiraptera (lice)
+                Order Hemiptera (bugs)
+                Order Siphonaptera (fleas)
+                Order Diptera (flies)
+
+NO REPLACEMENT - LEAVE OLD VIDEO
 <br>
 <center>
 [![Lecture 17.2 - Lice](https://img.youtube.com/vi/Hkh-QfkJ_jI/0.jpg)](https://www.youtube.com/watch?v=Hkh-QfkJ_jI)
 </center>
 </br>
 
+NO REPLACEMENT - LEAVE OLD VIDEO
 <br>
 <center>
 [![Lecture 17.3 - Hemipteran micropredators](https://img.youtube.com/vi/PeDzCQrlR_s/0.jpg)](https://www.youtube.com/watch?v=PeDzCQrlR_s)
 </center>
 </br>
 
+NO REPLACEMENT - LEAVE OLD VIDEO
 <br>
 <center>
 [![Lecture 17.4 - Fleas](https://img.youtube.com/vi/UlhwzUheno8/0.jpg)](https://www.youtube.com/watch?v=UlhwzUheno8)
@@ -536,24 +651,30 @@ In this class, we will hold a live discussion of "Accidental Host" with a real-l
 
 **UWCC:** 18.04
 
-<br>
-<center>
-[![Lecture 18.1 - Opening the black box marked vector](https://img.youtube.com/vi/a4zcuicN1F4/0.jpg)](https://www.youtube.com/watch?v=a4zcuicN1F4)
-</center>
-</br>
+On to the flies (Order Diptera)! Flies have a few distinguishing features. Here are the important ones to note: they have separate head, thorax, and abdomen. They have a pair of wings and right behind that pair of wings is a distinguishing feature called the halteres, which are vestigial wings that serve as balance organs - kind of like gyroscopes that help the fly to know how it is positioned in space. Remember that we've already covered a few flies because they serve as vectors of filarial nematodes - like the black flies that vector *Onchocerca volvulus* and the *Chrysops* sp. flies that vector *Loa loa*. We'll discuss other arthropod vectors when we get to the protozal parasites, like the sand flies that vector the *Leishmania* spp. protozoa, the tse-tse flies that vector *Trypanosoma* spp., and the mosquitoes that vector all kinds of protozoal and viral parasites.
 
+<p align="center">
+    <img src="images/fly_anatomy.png">
+    <center>*Fly anatomy: I: head; II: thorax III: abdomen. — 1: prescutum 2: anterior spiracle 3: scutum 4: basicosta 5: calypters 6: scutellum 7: wing vein 8: wing 9: abdominal segment 10: haltere 11: posterior spiracle 12: femur 13: tibia 14: spur 15: tarsus 16: propleuron 17: prosternum 18: mesopleuron 19: mesosternum 20: metapleuron 21: metasternum 22: compound eye 23: arista 24: antenna 25: maxilary palps 26: labium 27: labellum 28: pseudotracheae 29: tip. Image courtesy of [Al2 via GNU Free Documentation License, Version 1.2](https://commons.wikimedia.org/wiki/File:Housefly_anatomy-key.svg)* </center>
+</p>
+
+<br>
+
+NO REPLACEMENT - LEAVE OLD VIDEO
 <br>
 <center>
 [![Lecture 18.2 - Sand flies](https://img.youtube.com/vi/_-I-WyBeLBw/0.jpg)](https://www.youtube.com/watch?v=_-I-WyBeLBw)
 </center>
 </br>
 
+NO REPLACEMENT - LEAVE OLD VIDEO
 <br>
 <center>
 [![Lecture 18.3 - Black flies and deer flies](https://img.youtube.com/vi/q1Zn1fiKbjM/0.jpg)](https://www.youtube.com/watch?v=q1Zn1fiKbjM)
 </center>
 </br>
 
+REPLACE WITH UWCC 18.04:
 <br>
 <center>
 [![Lecture 18.4 - Mosquitoes and mosquito control](https://img.youtube.com/vi/P31YZNf0RzM/0.jpg)](https://www.youtube.com/watch?v=P31YZNf0RzM)
@@ -571,12 +692,14 @@ In this class, we will hold a live discussion of "Accidental Host" with a real-l
 
 **UWCC:** 19.01, 19.02
 
+REPLACE WITH UWCC 19.01:
 <br>
 <center>
 [![Lecture 19.1 - Nematomorphs](https://img.youtube.com/vi/phBMNZoNflA/0.jpg)](https://www.youtube.com/watch?v=phBMNZoNflA)
 </center>
 </br>
 
+REPLACE WITH UWCC 19.02:
 <br>
 <center>
 [![Lecture 19.2 - Acanthocephalans](https://img.youtube.com/vi/kH3lXDiyDOY/0.jpg)](https://www.youtube.com/watch?v=kH3lXDiyDOY)
@@ -596,6 +719,7 @@ In this class, we will hold a live discussion of "Accidental Host" with a real-l
 
 **UWCC:** 20.01
 
+REPLACE WITH UWCC 20.01:
 <br>
 <center>
 [![Lecture 20.1 - Introduction to the Protozoa](https://img.youtube.com/vi/ntoBx2k5y2w/0.jpg)](https://www.youtube.com/watch?v=ntoBx2k5y2w)
@@ -604,19 +728,49 @@ In this class, we will hold a live discussion of "Accidental Host" with a real-l
 
 <br>
 <center>
-[![Lecture 20.2 - Amoebae](https://img.youtube.com/vi/6Q6b7atEcG0/0.jpg)](https://www.youtube.com/watch?v=6Q6b7atEcG0)
+[![Parasites Without Borders, Parasitic Diseases Lectures #16: Amoebiasis](https://img.youtube.com/vi/Q1wACMBPQpg/0.jpg)](https://www.youtube.com/watch?v=Q1wACMBPQpg)
 </center>
 </br>
 
 <br>
 <center>
-[![Lecture 20.3 - Flagellates](https://img.youtube.com/vi/zDhUThIJwjk/0.jpg)](https://www.youtube.com/watch?v=zDhUThIJwjk)
+[![Parasites Without Borders, Parasitic Diseases Lectures #4: Giardiasis](https://img.youtube.com/vi/XRZbIgju7mg/0.jpg)](https://www.youtube.com/watch?v=XRZbIgju7mg)
 </center>
 </br>
 
 <br>
 <center>
-[![Lecture 20.4 - Hemoflagellates](https://img.youtube.com/vi/DzsT6MRuWPs/0.jpg)](https://www.youtube.com/watch?v=DzsT6MRuWPs)
+[![Parasites Without Borders, Parasitic Diseases Lectures #5: The Leishmanias](https://img.youtube.com/vi/mrEEQ9WsOsQ/0.jpg)](https://www.youtube.com/watch?v=mrEEQ9WsOsQ)
+</center>
+</br>
+
+<br>
+<center>
+[![Parasites Without Borders, Parasitic Diseases Lectures #6: Cutaneous Leishmaniasis](https://img.youtube.com/vi/fMdCH_U3Ue4/0.jpg)](https://www.youtube.com/watch?v=fMdCH_U3Ue4)
+</center>
+</br>
+
+<br>
+<center>
+[![Parasites Without Borders, Parasitic Diseases Lectures #7: Mucocutaneous Leishmaniasis Leishmaniasis](https://img.youtube.com/vi/nCa05944Ov4/0.jpg)](https://www.youtube.com/watch?v=nCa05944Ov4)
+</center>
+</br>
+
+<br>
+<center>
+[![Parasites Without Borders, Parasitic Diseases Lectures #8: Visceral Leishmaniasis Leishmaniasis](https://img.youtube.com/vi/QpgvCH_lXc4/0.jpg)](https://www.youtube.com/watch?v=QpgvCH_lXc4)
+</center>
+</br>
+
+<br>
+<center>
+[![Parasites Without Borders, Parasitic Diseases Lectures #9: African Trypanosomiasis](https://img.youtube.com/vi/8imHJKsna58/0.jpg)](https://www.youtube.com/watch?v=8imHJKsna58)
+</center>
+</br>
+
+<br>
+<center>
+[![Parasites Without Borders, Parasitic Diseases Lectures #10: American Trypanosomiasis](https://img.youtube.com/vi/GuT2zimAaLw/0.jpg)](https://www.youtube.com/watch?v=GuT2zimAaLw)
 </center>
 </br>
 
@@ -630,18 +784,21 @@ In this class, we will hold a live discussion of "Accidental Host" with a real-l
 
 **UWCC:** 21.01, 21.02a, 21.02b, 21.03
 
+REPLACE WITH UWCC 21.01:
 <br>
 <center>
 [![Lecture 21.1 - The apicomplexan Toxoplasma gondii - basics](https://img.youtube.com/vi/ZBfFZ4QQpxw/0.jpg)](https://www.youtube.com/watch?v=ZBfFZ4QQpxw)
 </center>
 </br>
 
+REPLACE WITH UWCC 21.02a and 21.02b:
 <br>
 <center>
 [![Lecture 21.2 - The apicomplexan Toxoplasma gondii - pathology in humans](https://img.youtube.com/vi/C1rqfCWTwyo/0.jpg)](https://www.youtube.com/watch?v=C1rqfCWTwyo)
 </center>
 </br>
 
+REPLACE WITH UWCC 21.03:
 <br>
 <center>
 [![Lecture 21.3 - The apicomplexan Toxoplasma gondii - pathology in marine mammals](https://img.youtube.com/vi/DaBdkoMMHUU/0.jpg)](https://www.youtube.com/watch?v=DaBdkoMMHUU)
@@ -659,6 +816,7 @@ In this class, we will hold a live discussion of "Accidental Host" with a real-l
 
 **UWCC:** 22.02a, 22.02b
 
+REPLACE WITH UWCC 22.02a and 22.02b:
 <br>
 <center>
 [![Lecture 22.1 - The apicomplexan Plasmodium - basics](https://img.youtube.com/vi/y8YYTtUW7Iw/0.jpg)](https://www.youtube.com/watch?v=y8YYTtUW7Iw)
@@ -667,13 +825,13 @@ In this class, we will hold a live discussion of "Accidental Host" with a real-l
 
 <br>
 <center>
-[![Lecture 22.3 - The apicomplexan Plasmodium - pathology](https://img.youtube.com/vi/xIrezlv3YJU/0.jpg)](https://www.youtube.com/watch?v=xIrezlv3YJU)
+[![Parasites Without Borders, Parasitic Diseases Lectures #12: The Malarias Part One](https://img.youtube.com/vi/2zz6BrCmwRM/0.jpg)](https://www.youtube.com/watch?v=2zz6BrCmwRM)
 </center>
 </br>
 
 <br>
 <center>
-[![Lecture 22.4 - The apicomplexan Plasmodium - control](https://img.youtube.com/vi/CLJevBP7gEE/0.jpg)](https://www.youtube.com/watch?v=CLJevBP7gEE)
+[![Parasites Without Borders, Parasitic Diseases Lectures #12: The Malarias Part Two](https://img.youtube.com/vi/4Sd1dwBWUwM/0.jpg)](https://www.youtube.com/watch?v=4Sd1dwBWUwM)
 </center>
 </br>
 
@@ -689,18 +847,48 @@ In this class, we will hold a live discussion of "Accidental Host" with a real-l
 
 **Watch:** For this practical session, you are required to watch the movie Contagion. If you have a subscription to Hulu or HBO Max, you can watch it there. You can also rent the movie on Amazon Prime for $3.99.
 
+Now we've made it through the Metazoa and the Protozoa, we have only a short time to discuss the bacteria and the viruses. I want you to remember: there's a whole world of parasitic bacteria and viruses out there, causing disease in human and wildlife hosts. We could spend multiple courses talking about these guys. This particular course focuses primarily on the Metazoa just sketchily covers the Protozoa and devotes a ridiculously short amount of time to the bacteria and to the viruses. Remember that there's a lot more out there than those we will cover.
+
+Recall that life is divided into three domains: Bacteria, Archaea, and Eukaryota. We've been in the Eukaryota until now, but we're going to adventure into the domain of Bacteria.
+
+<p align="center">
+    <img src="images/tree_of_life.png">
+    <center>*Image courtesy of [Crion via GNU Free Documentation License, Version 1.2](https://commons.wikimedia.org/wiki/File:Phylogenetic_Tree_of_Life.png)*</center>
+</p>
+
 <br>
-<center>
-[![Lecture 23.1 - Abridged bacteria and viruses - the basics](https://img.youtube.com/vi/7IYN-QAgBF8/0.jpg)](https://www.youtube.com/watch?v=7IYN-QAgBF8)
-</center>
-</br>
+
+We'll even fall off this Tree of Life into the viruses, which are a whole other kettle of fish. It's not super clear that viruses are truly alive, as they're essentially just a strand of DNA or RNA encapsulated in a protein coat, and they can't survive outside of the host cells that they use. We will define viruses as parasites and cover them extremely briefly. 
+
+Here are the examples we will explore in each domain: 
+
+**Domain Bacteria**
+
+* trachoma (*Chlamydia trachomatis*)
+* Buruli ulcer (*Mycobacterium ulcerans*)
+* leprosy (*Mycobacterium leprae*)
+
+**Viruses**
+
+* rabies virus (genus *Lyssavirus*)
+
+There are so many more species than these out in the world! Notice that we have two Mycobacterium spp. on this list, which cause two very different diseases. There are also Mycobacterium that cause disease in other animals and Mycobacterium that live in your showerhead. There are tens of thousands of viruses in the world, some of which are responsible for oceanic carbon cycling because they infect plankton. We're not going to talk about any of that - I just want to give you a taste. Hopefully you'll be inspired to seek out a microbiology or virology course to expand your bacteria and virus knowledge. 
+
+As we're going through the bacteria and the viruses I want you to think about a couple of questions:
+
+1. Why do some people stop short of defining the species above as parasites? Remember that we define a parasite as an organism that lives in an intimate and durable relationship with a host, where that host suffers a fitness cost; under that definition, bacteria and viruses both qualify. So why do folks differentiate between the bacteria and viruses on one hand and the worms, arthropods, and protozoa on the other? 
+2. With Buruli ulcer and leprosy, we've got two species of bacteria in the same genus that cause very different kinds of symptoms. Can you think of other examples like this? How is it possible for two closely related species to be so different?
+3. What are the ecological factors that predispose people to these infections?
+
+Okay let's jump into the bacteria and viruses...
 
 <br>
 <center>
-[![Lecture 23.2 - Abridged bacteria and viruses - trachoma](https://img.youtube.com/vi/Ex8ofT8HTkk/0.jpg)](https://www.youtube.com/watch?v=Ex8ofT8HTkk)
+[![TED talk on trachoma by Caroline Harper of Sightsavers](https://img.youtube.com/vi/QAAxKRFP2Mw/0.jpg)](https://www.youtube.com/watch?v=QAAxKRFP2Mw)
 </center>
 </br>
 
+KEEP OLD VIDEO
 <br>
 <center>
 [![Lecture 23.3 - Abridged bacteria and viruses - Buruli ulcer](https://img.youtube.com/vi/vGSM5EDZ16E/0.jpg)](https://www.youtube.com/watch?v=vGSM5EDZ16E)
@@ -709,15 +897,23 @@ In this class, we will hold a live discussion of "Accidental Host" with a real-l
 
 <br>
 <center>
-[![Lecture 23.4 - Abridged bacteria and viruses - leprosy](https://img.youtube.com/vi/V92GYg3bRs0/0.jpg)](https://www.youtube.com/watch?v=V92GYg3bRs0)
+[![WHO video on Buruli ulcer](https://img.youtube.com/vi/W0Gu3kNE_9c/0.jpg)](https://www.youtube.com/watch?v=W0Gu3kNE_9c)
 </center>
 </br>
 
 <br>
 <center>
-[![Lecture 23.5 - Abridged bacteria and viruses - rabies](https://img.youtube.com/vi/ob95mySfFd8/0.jpg)](https://www.youtube.com/watch?v=ob95mySfFd8)
+[![Medical Centric video on leprosy](https://img.youtube.com/vi/GB6L2lOMnGE/0.jpg)](https://www.youtube.com/watch?v=GB6L2lOMnGE)
 </center>
 </br>
+
+<br>
+<center>
+[![Professor Dave Explains video on rabies](https://img.youtube.com/vi/OvRxDQdAtGc/0.jpg)](https://www.youtube.com/watch?v=OvRxDQdAtGc)
+</center>
+</br>
+
+ADD UWCC 23.07 (OUT OF AFRICA)
 
 <br>
 
@@ -727,6 +923,7 @@ In this class, we will hold a live discussion of "Accidental Host" with a real-l
 
 **UWCC:** 24.00
 
+REPLACE WITH UWCC 24.00
 <br>
 <center>
 [![Lecture 24 - The ecological importance of parasites](https://img.youtube.com/vi/2AfDnkRSl10/0.jpg)](https://www.youtube.com/watch?v=2AfDnkRSl10)
@@ -744,6 +941,7 @@ In this class, we will hold a live discussion of "Accidental Host" with a real-l
 
 **UWCC:** 25.01a, 25.01b, 25.01c
 
+REPLACE WITH UWCC 25.01a, 25.01b, and 25.01c
 <br>
 <center>
 [![Lecture 25 - Nature's services, nature's disservices](https://img.youtube.com/vi/KFhzg8DNpNA/0.jpg)](https://www.youtube.com/watch?v=KFhzg8DNpNA)
@@ -760,36 +958,42 @@ In this class, we will hold a live discussion of "Accidental Host" with a real-l
 
 **UWCC:** 26.00
 
+REPLACE WITH UWCC 26.00:
 <br>
 <center>
 [![Lecture 26.1 - Take homes - parasites are staggeringly diverse](https://img.youtube.com/vi/5x7bJqMYyyM/0.jpg)](https://www.youtube.com/watch?v=5x7bJqMYyyM)
 </center>
 </br>
 
+REPLACE WITH UWCC 26.00:
 <br>
 <center>
 [![Lecture 26.2 - Take homes - parasites perform vital ecological functions](https://img.youtube.com/vi/h3K3DPlnIMQ/0.jpg)](https://www.youtube.com/watch?v=h3K3DPlnIMQ)
 </center>
 </br>
 
+REPLACE WITH UWCC 26.00:
 <br>
 <center>
 [![Lecture 26.3 - Take homes - parasites affect history, history affects parasites](https://img.youtube.com/vi/BqjKF8l5DBA/0.jpg)](https://www.youtube.com/watch?v=BqjKF8l5DBA)
 </center>
 </br>
 
+REPLACE WITH UWCC 26.00:
 <br>
 <center>
 [![Lecture 26.4 - Take homes - we have a moral responsibility to address NTDs](https://img.youtube.com/vi/tt5Na7bwdCw/0.jpg)](https://www.youtube.com/watch?v=tt5Na7bwdCw)
 </center>
 </br>
 
+REPLACE WITH UWCC 26.00:
 <br>
 <center>
 [![Lecture 26.4 - Take homes - we have a moral responsibility to address NTDs](https://img.youtube.com/vi/tt5Na7bwdCw/0.jpg)](https://www.youtube.com/watch?v=tt5Na7bwdCw)
 </center>
 </br>
 
+REPLACE WITH UWCC 26.00:
 <br>
 <center>
 [![Lecture 26.5 - Take homes - there is no parasitologist's dilemma](https://img.youtube.com/vi/Y8j4Gylw94o/0.jpg)](https://www.youtube.com/watch?v=Y8j4Gylw94o)
@@ -1814,12 +2018,6 @@ Pathology is caused by the secondary infections that are likely to occur when a 
 ### Demonstration instructions
 
 **Adult *Ascaris* spp. nematode dissection**
-
-<br>
-<center>
-[![A lecture from Parasites Without Borders on Ascaris lumbricoides](https://img.youtube.com/vi/6AZ-1sE3y7E/0.jpg)](https://www.youtube.com/watch?v=6AZ-1sE3y7E)
-</center>
-</br>
 
 Obtain an *Ascaris lumbricoides* or *Ascaris suum* worm for dissection. Wear gloves and be careful – these eggs have a small chance of being viable, despite fixation in formalin!
 
