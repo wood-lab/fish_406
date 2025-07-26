@@ -1774,13 +1774,13 @@ Pathology is caused by the secondary infections that are likely to occur when a 
 
 ### Demonstration instructions
 
+**Adult *Ascaris* spp. nematode dissection**
+
 <br>
 <center>
 [![A lecture from Parasites Without Borders on Ascaris lumbricoides](https://img.youtube.com/vi/6AZ-1sE3y7E/0.jpg)](https://www.youtube.com/watch?v=6AZ-1sE3y7E)
 </center>
 </br>
-
-**Adult *Ascaris* spp. nematode dissection**
 
 Obtain an *Ascaris lumbricoides* or *Ascaris suum* worm for dissection. Wear gloves and be careful – these eggs have a small chance of being viable, despite fixation in formalin!
 
@@ -1791,7 +1791,27 @@ Obtain an *Ascaris lumbricoides* or *Ascaris suum* worm for dissection. Wear glo
 5. In a male specimen, there is a single **testis**, a long, fine, tightly coiled tube that is continuous posteriorly with a wider tube, the **seminal vesicle**. The latter organ leads into a short, muscular **ejaculatory duct**, which opens into the cloaca. Two **spicules** arise in pouches of the cloaca and may be seen projecting from the anus.
 6. Be sure to observe the morphology of both sexes: examine a neighbor’s specimen. When finished, please dispose of all tissues in the designated trash. **Wash equipment and hands thoroughly with soap. Bleach surfaces.**
 
-[INSERT NEW LAB ON CANNED SALMON]
+<br>
+
+**"Sushi worms" (family Anisakidae) in canned salmon**
+
+<p align="center">
+    <img src="images/canned_salmon.jpg">
+    <em>Image courtesy of [Susan Slater via CC-BY-SA-4.0](https://commons.wikimedia.org/wiki/Category:Canned_salmon#/media/File:Canned_salmon.jpg)</em>
+</p></em>
+</p>
+
+[Previous research from our lab](https://doi.org/10.1002/ece3.11043) has demonstrated that anisakid nematodes are quite easy to find in canned salmon! Remember, these worms are using the salmon as a paratenic host - they are just larvae, waiting for their opportunity to land in the gut of a definitive marine mammal host. Salmon filets are cooked as they are canned, so these worms are long dead and not dangerous for people.
+
+1. Obtain a can of salmon from your TA.
+2. Open the can and plop the filet onto your dissecting tray.
+3. Tease apart the filet using  one pair of forceps in each hand.
+4. These larval nematodes will be pretty much the same color as the filet, so you'll have to pick them out by shape. Luckily, they tend to form pockets in the musculature of the fish, so look for small worms coiled up into pockets.
+5. When you find a worm, carefully extract it and place it into 70% ethanol.
+6. Once you've extracted all of the worms in your filet, take a look at some of the worms under the microscope - first the dissecting scope, then the compound.
+7. What features can you recognize? How do you know that this is a nematode?
+8. Make sure to draw at least one worm in your lab notebook. If you don't find any nematodes in your can, please draw one of your neighbor's worms.
+9. Record on the whiteboard: your name, the species of salmon in your can, the size of the can, and the number of worms you detected.
 
 <br>
 
