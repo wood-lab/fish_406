@@ -952,7 +952,7 @@ Schistosome cercariae are fork-tailed.  Once released from their snail hosts, th
 
 #### Microscope refresher
 
-You've all used microscopes before, but a refresher never hurts! In this lab, your TA will walk you through how to use the scopes. We will use two kinds: dissecting microscopes (sometimes called stereomicroscopes or stereoscopes) are for seeing things that light bounces off of. They don't have as much magnifying power as a compound microscope, but they have the advantage that you can just stick something onto the stage to look at it - you can even do a whole dissection right on the stage (hence the term, dissecting microscope). Compound microscopes only work for specimens that light can pass through, which is why you always need to mount a specimen on a microscope slide before putting it on the stage of a comopund scope. Here are some tricks for getting started with each kind of scope.
+You've all used microscopes before, but a refresher never hurts! In this lab, your TA will walk you through how to use the scopes. We will use two kinds: **dissecting microscopes** (sometimes called **stereomicroscopes** or **stereoscopes**) are for seeing things that light bounces off of. They don't have as much magnifying power as a **compound microscope**, but they have the advantage that you can just stick something onto the stage to look at it - you can even do a whole dissection right on the stage (hence the term, dissecting microscope). Compound microscopes only work for specimens that light can pass through, which is why you always need to mount a specimen on a microscope slide before putting it on the stage of a comopund scope. Here are some tricks for getting started with each kind of scope.
 
 **Stereoscope or dissecting microscope**
 
@@ -972,9 +972,24 @@ While you probably have tons of experience on stereomicroscopes, you may have sp
 
 Also make sure to take the compound microscope [tour](https://courses.ecampus.oregonstate.edu/bi206/02parts/tour.html) and [test your compound microscope skills](https://courses.ecampus.oregonstate.edu/bi206/03identify/partsgame.html).
 
+As you move through this course, you will be looking at ever-tinier parasites. Eventually, you will get to the point where you need to use the most powerful objective on the compound microscope: the 100x objective. But this objective is special, because it only works when it is peering through oil, which is why it is also called the oil-immersion lens. Oil has different refractive properties than air, and this lens is made to work only with oil. You may not need to use oil immersion in the first lab, but read through the steps now (and refer back later) so that you are ready!
+
+**Using the oil immersion (100x) objective on a compound microscope**
+
+1. To make sure that you're starting with a clean objective, use lens paper and 95% ethanol to clean the lens of the 100x objective. This will remove any oil that might have been left on the lens from a previous use.
+2. Put your specimen (mounted on a microscope slide, with a cover slip on top) on the stage.
+3. Proceed through the objectives from low (4x) to high (40x) magnification, keeping the specimen you want to see in the center of the field of view. Make sure to get the specimen in good focus on each objective before moving on to the next.
+4. Click past the 40x objective, but pause before you get the 100x objective in place.
+5. Look at your slide. You should see a circle of light passing through the slide. Put a small drop of immersion oil into the center of that circle of light, on top of the cover slip.
+6. Gently slide the 100x objective into place. The tip of the objective should make contact with the drop of immersion oil.
+7. From here on out, DO NOT TOUCH the coarse focus knob! If you do, you will either pull the objective out of contact with the immersion oil or push the objective right through the slide, shattering the slide and damaging the objective. You can focus the image using the FINE FOCUS KNOB ONLY.
+8. When you're done, slide the 100x objective slightly aside so that it is no longer in contact with the oil. Then, pull the slide off the stage.
+9. Do not get oil on any objective other than 100x, as the oil can damage the other objectives (the 100x is made to tolerate oil).
+10. Clean the oil off the 100x objective with lens paper and 95% ethanol.
+
 <br>
 
-#### *Schistosoma mansoni* adults in the vertebrate definitive host
+#### *Schistosoma mansoni* adults
 
 Note that *Schistosoma*-infected mice were provided by the NIAID Schistosomiasis Resource Center for distribution through BEI Resources, NIH-NIAID Contract HHSN272201000005I (NIH: Schistosoma mansoni, Strain NMRI, Exposed Swiss Webster Mice, NR-21963).
 
@@ -1008,7 +1023,7 @@ Mice are great models for human schistosomiasis. Much of the schistosome-related
 
 <br>
 
-#### *Cercaria batillariae* larvae in the snail intermediate host
+#### *Cercaria batillariae* larvae
 
 <br>
 <center>
