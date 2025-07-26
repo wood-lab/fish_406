@@ -31,7 +31,9 @@ output:
 
 * R&J Chapters 1 & 2
 
-**In-class activity:** [Powerpoint file](lectures/in-class_activities/class_1.pptx)
+**In-class activity:** 
+
+* [Powerpoint file](lectures/in-class_activities/class_1.pptx)
 
 **UWCC:** 01.01, 01.02, 01.04, 01.05
 
