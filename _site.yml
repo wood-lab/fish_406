@@ -12,9 +12,11 @@ navbar:
       href: assignments.html
     - text: "Canvas"
       href: https://wood-lab.github.io/fish_406/
+    - text: "Instructor's corner"
+      href: https://wood-lab.github.io/fish_406/
     - text: ""
       icon: fab fa-github
-      href: https://wood-lab.github.io/fish_406/
+      href: https://github.com/wood-lab/fish_406
 output_dir: "docs"
 output:
   html_document:
