@@ -11,6 +11,9 @@ output:
 
 #
 
+This course is taught in an active-learning format, which means that students are responsible for reading or watching all of the materials below **before** the corresponding class. In active learning courses, students are involved in
+discussion, writing, problem-solving, and higher-order thinking during class time. The active learning activities that are planned for each class are shown in the Powerpoint files below.
+
 **Make sure to read, watch, or listen to all content on each tab before the corresponding class or lab!**
 
 
