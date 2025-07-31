@@ -11,7 +11,7 @@ navbar:
     - text: "Assignments"
       href: assignments.html
     - text: "Canvas"
-      href: https://wood-lab.github.io/fish_406/
+      href: https://canvas.uw.edu/courses/1829825
     - text: "Instructor's corner"
       href: https://wood-lab.github.io/fish_406/
     - text: ""

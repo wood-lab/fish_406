@@ -47,7 +47,7 @@ FISH 262B<br>
 
 # Course details
 
-**This website** will be your resource for all course content, but **we will use Canvas for announcements, submitting assignments and keeping track of grades.**
+**This website** will be your resource for all course content, but **we will use Canvas for announcements, submitting assignments, and keeping track of grades.**
 
 This class is conducted in person. Students are expected to participate in class to fully benefit from course activities and meet the course’s learning objectives. Students should only register for this class if they are able to attend in person.
 
