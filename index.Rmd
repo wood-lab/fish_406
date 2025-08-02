@@ -22,19 +22,18 @@ h3 {
 
 
 <p align="center">
-    <img src="images/trypanorhynch.jpg">
-    <em>Trypanorhynch tapeworm from a coral reef fish of the Line Islands archipelago, courtesy of Chelsea Wood</em>
+    <img src="images/angel_with_ascaris.jpg">
+    <center>*FISH 406 student measuring the length of a human roundworm, *Ascaris lumbricoides*, courtesy of Chelsea Wood*</center>
 </p>
 
-<br>
-
-<center>&copy; Chelsea Wood 2025</center>
 <br>
 <center>**This course is for everyone.** You might be taking it as a student enrolled in FISH 406 at the University of Washington, but these materials aren't just for enrolled students. This course is an [Open Educational Resource](https://en.wikipedia.org/wiki/Open_educational_resources). It's for the friends and family of FISH 406 students who want to follow along, for home-school educators looking for  teaching materials, for university-level instructors who want to teach their own Parasite Ecology course, and for anyone who wants to learn about parasites at their own pace. Please feel free to use the materials on this site for any educational purpose, subject to the [GPLv3](https://www.gnu.org/licenses/gpl-3.0.en.html) license. You can even reproduce and modify this entire website for your own use by [forking the code in GitHub](https://github.com/wood-lab/fish_406).
 
 <center>These materials are adapted from [Armand Kuris' Parasitology course (EEMB 111) at UC Santa Barbara](https://catalog.ucsb.edu/courses/EEMB%20111), with permission from Armand. Many labs are adapted from Kuris, Whitney, and McKenzie's *Parasitology Lab Exercises*. Videos featuring Chelsea Wood were designed, shot, and produced by Laura Swartley, Lissa Shaman, and Ian Lucero at the [University of Washington Continuum College](https://www.continuum.uw.edu). Many of the other videos come from [Parasites Without Borders](https://parasiteswithoutborders.com), which provides free parasite education resources from a medical perspective. The template code used to produce this website was written by [Mark Scheuerell](https://github.com/mdscheuerell).
 
-The production of these educational materials was made possible by a CAREER Award from the US National Science Foundation's Division of Environmental Biology ([NSF Grant Number 2141898](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2141898&HistoricalAwards=false)).
+The production of these educational materials was made possible by a CAREER Award from the US National Science Foundation's Division of Environmental Biology to Chelsea Wood ([NSF Grant Number 2141898](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2141898&HistoricalAwards=false)).
+
+**Questions?** Please contact the instructor of the course / creator of this website - [Chelsea Wood](www.chelsealwood.com).
 </center>
 
 <br>
