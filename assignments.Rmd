@@ -110,7 +110,7 @@ Weekly, open-book Canvas quizzes are designed (1) to help you check in with your
 
 ## Term project
 
-In FISH 406, you will have the opportunity to step into the role of a parasite ecologist, as you will conduct your very own independent research project (this is sometimes called a course-based undergraduate research experience or CURE)! By the end of the quarter, you will have chosen your research question, found an appropriate dataset with which to address that question, and conducted an analysis of that dataset. You will report your findings in a poster presentation and written report at the end of the quarter.
+In FISH 406, you will have the opportunity to step into the role of a parasite ecologist, as you will conduct your very own independent research project (this is sometimes called a course-based undergraduate research experience or CURE)! By the end of the quarter, you will have chosen your research question, found an appropriate dataset with which to address that question, and conducted an analysis of that dataset. You will report your findings in a poster presentation and written report at the end of the quarter. You will write your term paper in scientific format, using the style of the member journal of the Ecological Society of America, [*Frontiers in Ecology and the Environment*](https://esajournals.onlinelibrary.wiley.com/hub/journal/15409309/resources/author-guidelines-fee#reference-section). At the end of the quarter, you will give a poster presentation on your findings. The poster will also be in scientific format (i.e., introduction, methods, results, discussion, delivered in person during your lab section).
 
 Conducting a scientific research project is a big undertaking, but your colleagues, TAs, and professor are here to help you through the process! Readings from your required text, *How to Do Ecology*, will help you along the way. You will write your research paper in sections, with deadlines distributed throughout the quarter to ensure that you have sufficient time to write carefully and thoughtfully. For each section, you will receive feedback within one week from one of your TAs and your professor. You will integrate this feedback into each section. Once all sections are written, you will compile them into a first draft, which you will submit for peer review by one of your classmates. You will then integrate your classmates' feedback into the draft as you finalize the research paper for a final grade. You will have time to consult with your colleagues and TAs during lab, and you are always welcome to seek help from your TAs and professor outside of class and lab time. All scientific papers go through multiple, iterative rounds of review before they are published, and you will get to experience this process yourself. Our goal is provide you with all the support that you need to write a stellar manuscript, so don’t be afraid to reach out if you have questions or are struggling!
 
@@ -122,7 +122,7 @@ To help you start thinking about what scientific questions you might like to add
 
 - **Human schistosomiasis in Senegal:** We were interested in the most efficient ways to identify hotspots of schistosomiasis transmission in Senegal. We sampled humans and snails across several villages and [found that the presence of floating vegetation was a strong predictor of human infections](https://doi.org/10.1073/pnas.190369811); that's cool because floating vegetation can be measured by drones or even from satellites, making it easy to identify high-risk remote villages that could then be targeted for public health interventions. But there are lots of other questions that can be addressed in [this dataset](https://doi.org/10.5061/dryad.djh9w0vvt).
 
-- **Global Burden of Disease dataset:** The Institute for Health Metrics and Evaluation (IHME)
+- **Global Burden of Disease dataset:** The Institute for Health Metrics and Evaluation (IHME) compiles data on all causes of morbidity and mortality globally to produce the [Global Burden of Disease](https://www.healthdata.org/research-analysis/gbd-publications) dataset - the world's "largest and most comprehensive effort to quantify health loss across places and over time". This is a massive that spans many neglected tropical diseases from 1990 to present day. If you have questions about what factors contribute to the transmission of one or many NTDs, this is the dataset to check out.
 
 - **Global trends in sushi worms:** We wanted to know: is the problem of worms in sushi (i.e., nematodes in the family Anisakidae) getting better or worse through time? The answer is: [worse. A lot worse](https://doi.org/10.1111/gcb.15048). [This meta-analytic dataset](https://doi.org/10.5061/dryad.kwh70rz0z) brings together results from many other studies spanning several decades and could be used to address lots of other questions.
 
@@ -148,7 +148,7 @@ Here are some **exemplary papers** written by past generations of SAFS students,
 
 ### Select your question
 
-In Lab 4, we will get together to discuss your ideas for this project. **Come with an idea, any idea, for a research question you would be intersted in addressing and you will receive 1 point toward your final grade.** If you're having trouble coming up with research questions, go back to Chapters 1 and 2 of *How to Do Ecology* (required reading for Lab 4).
+In Lab 4, we will get together to discuss your ideas for this project. **Come with an idea, any idea, for a research question you would be interested in addressing and you will receive 1 point toward your final grade.** If you're having trouble coming up with research questions, go back to Chapters 1 and 2 of *How to Do Ecology* (required reading for Lab 4).
 
 Through discussion, we will discover which students have similar interests, and based on this information your TA will suggest teams. Remember: teams are permitted to pursue the same research question and conduct analyses together, but must turn in separate posters and research papers with no overlap in text.
 
@@ -184,7 +184,7 @@ Your Introduction section assignment should be at least four paragraphs and shou
 
 ### First draft
 
-Your first draft assignment should contain, an Introduction, Methods, Results (including at least one figure), and Discussion section.
+Your first draft assignment should contain an Introduction, Methods, Results (including at least one figure), and Discussion section.
 
 **You will receive 1 point merely for submitting this assignment,** but it is to your advantage to put a lot of effort into it. The further along your first draft is at this point in the quarter, the more your peer reviewers can help you move it down the field toward an A in the final term paper!
 
@@ -194,7 +194,7 @@ Your first draft assignment should contain, an Introduction, Methods, Results (i
 
 ### Peer review
 
-Peer review makes the scientific world go 'round! You will receive the first drafts of two classmates and your assignment is to make both better. You will not be providing line edits on your colleague's papers at this time, because your goal for this early draft is to engage with the content - not the grammar and spelling. THIS WORKSHEET is designed to help you think deeply about the questions, hypotheses, tests, inferences, and logic of your colleague's paper, and will help you provide feedback that is maximally useful to your colleagues.
+Peer review makes the scientific world go 'round! You will receive the first drafts of two classmates and your assignment is to make both better. You will not be providing line edits on your colleague's papers at this time, because your goal for this early draft is to engage with the content - not the grammar and spelling. [This worksheet](handouts/peer_review_worksheet.docx) is designed to help you think deeply about the questions, hypotheses, tests, inferences, and logic of your colleague's paper, and will help you provide feedback that is maximally useful to your colleagues.
 
 For this assignment, you will be scored on the quality of the two peer reviews you perform. Complete one worksheet for each of the two papers you are assigned. In addition to providing written feedback to your colleagues, you will also perform another vital service: you will score their first draft using the term paper rubric, the same rubric that I will use to score the final drafts at the end of the quarter. By seeing how their first draft is likely to score on each dimension of the rubric, your colleagues will know where to invest their efforts as the revise their paper. The score you provide will not be used to grade your colleague in any way, shape, or form - it is merely for your colleague's own information.
 
@@ -202,43 +202,44 @@ For this assignment, you will be scored on the quality of the two peer reviews y
 
 ### Second draft
 
-**You will be awarded 1 point toward your final grade for completing this assignment on time.** Your work on the term paper will not be graded until you submit the final version. This should give you the opportunity to put together a stellar paper, and lets you experience the iterative process of scientific writing.
+You will receive feedback from two classmates on your first draft and you'll have one week to incorporate their suggestions into your term paper and create a second draft. **You will be awarded 1 point toward your final grade for completing this assignment on time.** Your work on the term paper will not be graded until you submit the final version. This should give you the opportunity to put together a stellar paper, and lets you experience the iterative process of scientific writing.
 
 <br>
 
-### Poster presentation
+### Term paper requirements
 
-#### Presentation rubric
-
-FILL THIS IN
-
-<br>
-
-### Final term paper
-
-You will write your paper in scientific format, using the style of the flagship journal of the Ecological Society of America, *Ecology.* At the end of the quarter, you will give a poster presentation on your findings. The poster will also be in scientific format (i.e., introduction, methods, results, discussion, delivered in person during your lab section).
-
-Paper requirements:
-
-12-point, Times New Roman font, double-spaced with 1” margins
-At least 10 pages long (including references)
-At least 20 references to primary literature
-No references to sources other than the scientific literature (i.e., no Wikipedia, no encyclopedias, no textbooks) – a handful of websites (< 3) is okay if warranted
-Number your pages
-References formatted according to Reference Formatting Guidelines (end of this document)
-
-#### Reference formatting guidelines
-
-FILL THIS IN
+* 12-point, Times New Roman font, double-spaced with 1” margins
+* At least 10 pages long (including references)
+* At least 20 references to primary literature
+* No references to sources other than the scientific literature (i.e., no Wikipedia, no encyclopedias, no textbooks) – a handful of websites (< 3) is okay if warranted
+* Number your pages
+* References formatted according to Author Guidelines for the journal [*Frontiers in Ecology and the Environment*](https://esajournals.onlinelibrary.wiley.com/hub/journal/15409309/resources/author-guidelines-fee#reference-section).
 
 <br>
 
 #### Term paper grading rubric
 
-FILL THIS IN
+<p align="center">
+    <img src="handouts/term_paper_grading_rubric.jpg">
+    <center></center>
+</p>
 
 <br>
 
+### Poster presentation
+
+Your poster will be projected onto a screen and presented to your lab section. You'll upload your poster file (as .ppt, .pptx, or .pdf) to Canvas, and your TA will display it via projector. You'll stand alongside your poster and give a 5-minute overview as you might at a real poster session.
+
+<br>
+
+#### Poster rubric
+
+<p align="center">
+    <img src="handouts/poster_grading_rubric.jpg">
+    <center></center>
+</p>
+
+<br>
 
 ## Lab notebook
 
