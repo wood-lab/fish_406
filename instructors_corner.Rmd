@@ -1,0 +1,65 @@
+---
+title: "Instructor's corner"
+output:
+  html_document:
+    toc: true
+    toc_float: true
+    toc_depth: 4
+---
+
+<br>
+
+
+# Supplies needed for labs
+
+| Source | Number per student | Total number for FISH 406 | Item |
+| :------- | :------: | :------: | -------: |
+| general teaching supplies | 1 | 24 | stereomicroscope + illumination |
+| general teaching supplies | 0.5 | 12 | compound microscope |
+| general teaching supplies | 1 pair per class | several boxes of each size | nitrile gloves |
+| general teaching supplies | 1 | 24 | dissecting trays with wax |
+| general teaching supplies | many | several boxes | dissecting pins |
+| general teaching supplies | many | several boxes | microscope slides |
+| general teaching supplies | many | several boxes | cover slips |
+| general teaching supplies | 1 | 24 | scalpel handles |
+| general teaching supplies | 1 | several boxes | #10 scalpel blades |
+| general teaching supplies | 1 | 24 | coarse dissecting scissors |
+| general teaching supplies | 1 | 24 | fine dissecting scissors |
+| general teaching supplies | 2 | 48 | forceps |
+| general teaching supplies | 1 | 24 | probes |
+| general teaching supplies | 1 | 1 box | plastic pipettes |
+| general teaching supplies | 1 | 1 box | glass pipettes |
+| general teaching supplies | 1 | 24 | pipette bulbs |
+| general teaching supplies | 2 | 48 | Syracuse dishes (heavy-bottomed, shallow glass dishes) |
+| general teaching supplies | 2 | 48 | watch glasses |
+| general teaching supplies | 0.5 | 12 | glass dishes with divots for holding small specimens in fluid |
+| general teaching supplies | 1 | 24 | 12" rulers |
+| general teaching supplies | 1 | 24 | 6" rulers |
+| general teaching supplies | 0.5 | 12 | squeeze bottles |
+| general teaching supplies | shared | 1 for each lab table | spray bottle of bleach |
+| general teaching supplies | shared | 1 for each lab table | spray bottle of cleaning solution |
+| general teaching supplies | shared | 1 for each sink | hand soap |
+| general teaching supplies | shared | a bunch | paper towels |
+| general teaching supplies | shared | 4 | red biohazard bags |
+| obtained new each year | shared | a bucket | seawater |
+| obtained new each year | 1 | as many as requested | empty three-ring binders |
+| obtained new each year | shared | 1 ream | white printer paper |
+| obtained new each year | 0.5 | 24 | whole, ungutted, wild fish from the seafood market |
+| obtained new each year | 0.5 | 24 | 1 small can of wild salmon |
+| obtained new each year | shared | 2 | batch of 100 living termites from Carolina Biological Supply |
+| parasitology teaching supplies | shared | shared | three-hole punch |
+| parasitology teaching supplies | shared | a few boxes | colored pencils |
+| parasitology teaching supplies | shared | 500 mL | mammal Ringer's solution |
+| parasitology teaching supplies | shared | 500 mL | insect Ringer's solution |
+| parasitology teaching supplies | 1 | 24 | lunch trays |
+| parasitology teaching supplies | 2 | 48 | glass squash plates |
+| parasitology teaching supplies | 1 | 48 | preserved *Ascaris* spp. nematodes |
+| parasitology teaching supplies | 1 | 48 | fecalyzers |
+| parasitology teaching supplies | shared | 1 gallon | zinc sulfate solution for fecalyzers |
+| parasitology teaching supplies | shared | 1 container | mineral oil |
+| parasitology teaching supplies | shared | 4 | immersion oil |
+| parasitology teaching supplies | shared | 4 | hammer |
+
+<br>
+
+<center>*This site was last updated at `r format(Sys.time(), "%H:%M")` on `r format(Sys.Date(), "%d %b %Y")`*</center>
