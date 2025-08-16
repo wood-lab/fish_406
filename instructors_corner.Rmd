@@ -30,9 +30,11 @@ output:
 | general teaching supplies | 1 | 1 box | plastic pipettes |
 | general teaching supplies | 1 | 1 box | glass pipettes |
 | general teaching supplies | 1 | 24 | pipette bulbs |
+| general teaching supplies | 1 | 24 | small glass beakers |
 | general teaching supplies | 2 | 48 | Syracuse dishes (heavy-bottomed, shallow glass dishes) |
 | general teaching supplies | 2 | 48 | watch glasses |
 | general teaching supplies | 0.5 | 12 | glass dishes with divots for holding small specimens in fluid |
+| general teaching supplies | 1 | 24 | plastic calipers |
 | general teaching supplies | 1 | 24 | 12" rulers |
 | general teaching supplies | 1 | 24 | 6" rulers |
 | general teaching supplies | 0.5 | 12 | squeeze bottles |
@@ -41,12 +43,16 @@ output:
 | general teaching supplies | shared | 1 for each sink | hand soap |
 | general teaching supplies | shared | a bunch | paper towels |
 | general teaching supplies | shared | 4 | red biohazard bags |
-| obtained new each year | shared | a bucket | seawater |
 | obtained new each year | 1 | as many as requested | empty three-ring binders |
 | obtained new each year | shared | 1 ream | white printer paper |
+| obtained new each year | 0.5 | 24 | schistosome-infected mice from BRI Resources / NIH |
+| obtained new each year | shared | a bucket | seawater |
 | obtained new each year | 0.5 | 24 | whole, ungutted, wild fish from the seafood market |
 | obtained new each year | 0.5 | 24 | 1 small can of wild salmon |
+| obtained new each year | 1 | 48 | *Hemigrapsus oregonensis* and *H. nudus* collected from Tacoma Narrows, WA |
 | obtained new each year | shared | 2 | batch of 100 living termites from Carolina Biological Supply |
+| obtained new each year | shared | several | poop samples from several dog individuals (with metadata on dogs) |
+| obtained new each year | shared | several | poop samples from several elk/deer/cougar/otter individuals (with metadata on hosts) |
 | parasitology teaching supplies | shared | shared | three-hole punch |
 | parasitology teaching supplies | shared | a few boxes | colored pencils |
 | parasitology teaching supplies | shared | 500 mL | mammal Ringer's solution |
