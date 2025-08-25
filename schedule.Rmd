@@ -16,6 +16,8 @@ calendar(cal_data, navigation = TRUE, view="week", defaultDate = Sys.Date()) %>%
     startDayOfWeek  = 1, 
     workweek = TRUE
   )
+
+#cal_demo_data()
     
 ```
 
