@@ -16,7 +16,7 @@ output:
 
 | Type | Assessment | Proportion of your final grade |
 | :------- | :------: | -------: |
-| Admin | Qualtrics survey - Before FISH 406 | 0% |
+| Admin | [Qualtrics survey - Before FISH 406](https://uwsurvey.qualtrics.com/jfe/form/SV_6g7LcSJCR93c2LI) | 0% |
 | Admin | Qualtrics survey - After FISH 406 | 0% |
 | Exam | Midterm | 20% |
 | Exam | Final (partially cumulative) | 20% |
