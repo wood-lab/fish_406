@@ -16,7 +16,7 @@ discussion, writing, problem-solving, and higher-order thinking during class tim
 
 **Make sure to read, watch, or listen to all content on each tab before the corresponding class or lab!**
 
-If you are a FISH 406 student, this website will be your resource for all course content, but we will use [Canvas](https://canvas.uw.edu/courses/1829825) for announcements, submitting assignments, and keeping track of grades.
+If you are a FISH 406 student, this website will be your resource for all course content, but we will use Canvas for announcements, submitting assignments, and keeping track of grades.
 
 
 <br>
@@ -58,7 +58,7 @@ If you are a FISH 406 student, this website will be your resource for all course
 
 We define a **parasite** as any organism that lives in an intimate and durable relationship with a host, where that host suffers a fitness cost. But if we zoom out just a little bit, we can situate parasitism on a spectrum: the spectrum of **symbiosis**. Remember that fitness is the reproductive output of any organism - basically how many offspring a particular organism is able to produce in the course of its lifetime. (Another component of fitness is survival, but only because, the longer you survive, the more offspring you can produce.) When we think about symbiosis, we really have to think about fitness, because the fitness impact on the host is the key thing that distinguishes one kind of symbiont from another.
 
-We define a **symbiont** as any organism that lives in an intimate and durable relationship with a host. Symbionts can include **parasites** (which have a negative fitness effect on their host), but also **mutualists** (which have a positive fitness effect on their host), and **commensals** (which have no fitness effect on their host). We will apply the term *free-living** to any organism that **does not** live in an intimate and durable relationship with a host.
+We define a **symbiont** as any organism that lives in an intimate and durable relationship with a host. Symbionts can include **parasites** (which have a negative fitness effect on their host), but also **mutualists** (which have a positive fitness effect on their host), and **commensals** (which have no fitness effect on their host). We will apply the term **free-living** to any organism that **does not** live in an intimate and durable relationship with a host.
 
 We'll see plenty of examples of parasites through our time together; here are a few examples of the other symbionts:
 

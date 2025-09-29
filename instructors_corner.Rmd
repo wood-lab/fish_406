@@ -68,4 +68,23 @@ output:
 
 <br>
 
+# Class agendas
+
+## Class 1
+
+Agenda:
+
+* instructor introduces herself and any TAs
+* reminder about class meetings (labs, holidays) coming up this week
+* reminder to turn on Canvas notifications
+* instructor relays the story of how she got interested in parasites
+* instructor invites students to introduce themselves
+* instructor reviews course website
+* instructor reviews Canvas page
+* instructor reviews class norms
+* PollEverywhere questions
+* active-learning activity to situate parasites on the spectrum of symbiosis
+
+<br>
+
 <center>*This site was last updated at `r format(Sys.time(), "%H:%M")` on `r format(Sys.Date(), "%d %b %Y")`*</center>
