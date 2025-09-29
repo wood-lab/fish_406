@@ -53,9 +53,13 @@ This class is conducted in person. Students are expected to participate in class
 
 Science education research has demonstrated that students who take an active role in their learning learn more and retain that knowledge longer; therefore, it is in your best interest to prepare for and actively participate in class meetings – including small group activities and whole-class discussions. **One thing that may help you participate in class is bringing questions you have written out ahead of time.** I will sometimes use a random name generator to call on students at random.
 
+<br>
+
 ### Lecture
 
 MWF, 12:30pm–1:20pm in FISH 107
+
+<br>
 
 ### Lab
 
@@ -63,9 +67,13 @@ MWF, 12:30pm–1:20pm in FISH 107
 
    FISH 406AA – Tuesdays, 1:30pm–4:20pm in OTB 206
 
+<br>
+
 ### Pre-requisites 
 
 BIOL 180
+
+<br>
 
 ### Credits 
 
@@ -77,24 +85,30 @@ Note that, for 5 credits, the University of Washington expects students to devot
 * This course counts as an **elective toward the Marine Biology major**.
 * This course counts as an **elective toward the Microbiology major**.
 
+<br>
+
 ### Texts 
 
 * **Required:** [*How to Do Ecology*](https://press.princeton.edu/books/paperback/9780691245751/how-to-do-ecology?srsltid=AfmBOoqTQo77MnVjkuKlPdFi_9BWf8UTBMPoEb7a5x2r4tCu5HeFQmM4), Karban, Huntzinger, and Pearse
 * **Required:** additional reading material available as pdfs
 * **Optional:** For those students who wish to dive deeper, beyond the requirements of the course, I recommend readings from *Foundations of Parasitology* by Roberts and Janovy. Used copies are available on Amazon and an e-version of the book available for download [here](references/R&J.pdf). Optional readings from Roberts and Janovy are denoted with the abbreviation R&J.
 
+<br>
+
  
 ### Required equipment 
 
 This course involves writing, research, and data analysis and students will therefore need to make use of their personal computers. For students without access to a personal laptop, it is now possible to check out UW laptops for an entire quarter. Contact the Student Services office [iamsams@uw.edu](mailto:iamsams@uw.edu) for details.
 
+<br>
 
 ### Communication 
 
 All course communications will occur via Canvas, so please remember to update your notifications settings in Canvas so that you receive updates and announcements at least daily. You are always welcome to get in touch with Chelsea or your TAs via e-mail. We will respond to any e-mail from you within 24 hours during the week (might be longer over weekends).
  
+<br>
 
-### Responsibilities:
+### Responsibilities
 
 The responsibilities of the instructor and teaching assistant are to:
 
@@ -178,7 +192,7 @@ It is crucial that all students in this class have access to the full range of l
 
 * **Lecture**: the ability to learn from several in-person lectures per week; the ability to complete two written and timed exams; the ability to compose research papers; the ability to give an oral presentation
 
-* **Lab**: the ability to participate in weekly in-perosn lab sessions; the ability to participate in group discussions
+* **Lab**: the ability to participate in weekly in-person lab sessions; the ability to participate in group discussions
 
 If you anticipate or experience barriers to your learning or full participation in this course based on a physical, learning, or mental health disability, please immediately contact the instructor to discuss possible accommodation(s). A more complete description of the disability policy of the College of the Environment can be found [here](https://environment.uw.edu/intranet/academics/teaching/disability-accommodation/). If you have, or think you have, a temporary or permanent disability that impacts your participation in any course, please also contact Disability Resources for Students (DRS) at: 206-543-8924 V / 206-543-8925 TDD / [uwdss@uw.edu](mailto:uwdss@uw.edu) / [http://www.uw.edu/students/drs](http://www.uw.edu/students/drs).
 
