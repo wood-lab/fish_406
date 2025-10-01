@@ -83,8 +83,18 @@ Agenda:
 * instructor reviews Canvas page
 * instructor reviews class norms
 * PollEverywhere questions
-* active-learning activity to situate parasites on the spectrum of symbiosis
+* in-class activities shown in class_1.ppt
 
 <br>
+
+## Class 2
+
+Agenda:
+
+* summarize Lab 1
+* remind students to take Qualtrics survey
+* remind students about weekly quizzes via Canvas
+* in-class activities shown in class_2.ppt
+
 
 <center>*This site was last updated at `r format(Sys.time(), "%H:%M")` on `r format(Sys.Date(), "%d %b %Y")`*</center>
