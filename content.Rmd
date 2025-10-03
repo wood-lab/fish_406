@@ -145,15 +145,15 @@ We'll see plenty of examples of parasites through our time together; here are a 
 
 Let's learn just a little bit of what might be a new language for you: Latin. Latin is the language used to give species scientific names, and so learning just a smidge of Latin will make your life as a parasitologist a lot easier. 
 
-Let's begin with the way that the scientific names of the parasites are organized. All of life is organized into these  groups, which are hierarchicale the ones at the top Encompass the ones at the bottom:
+Let's begin with the way that the scientific names of the parasites are organized. All of life is organized into these  groups, which are hierarchical - the ones at the top encompass the ones at the bottom:
 
-Kingdom
-Phylum
-Class
-Order
-Family
-Genus
-Species
+Kingdom <br>
+Phylum <br>
+Class <br>
+Order <br>
+Family <br>
+Genus <br>
+Species <br>
 
 Knowing the order of these terms is going to be super helpful as you start to jot down the taxonomy of parasites in your lab notebook and as you start to learn your way around the parasite Tree of Life.
 
@@ -165,7 +165,7 @@ As we discuss the Latin/scientific names of parasites, you're going to come acro
 
 Family names usually end in the suffix -idae. If you're writing the proper name of the family, you'll want to make sure that family name is uppercase. But sometimes we want to refer to these families a little bit more colloquially and when we do we can add the suffix -id, so that we're just talking about a colloquial form of the name of the family - same rule as for other families, like the Family Canidae (dogs), which we sometimes refer to as canids:
 
-Family Echinostomatidae
+Family Echinostomatidae <br>
 echinostomatids
 
 As you're writing down Latin names, please remember that you should always italicize genus and species names:
@@ -174,13 +174,13 @@ As you're writing down Latin names, please remember that you should always itali
 
 If you're writing by hand, it's hard to write in italics, so you can instead underline genus and species names.
 
-If you're writing out um the abbreviation sp. or the abbreviation spp., which sometimes comes after a genus name to indicate that you're talking about a single species or multiple species within that genus, make sure that you're using sp. to indicate one species and spp. to indicate more than one species and remember that that sp. or spp. is never capitalized and it's also never italicized. As you're writing about any species, you can abbreviate the genus name after you spell it out once:
+If you're writing out  the abbreviation sp. or the abbreviation spp., which sometimes comes after a genus name to indicate that you're talking about a single species or multiple species within that genus, make sure that you're using sp. to indicate one species and spp. to indicate more than one species and remember that that sp. or spp. is never capitalized and it's also never italicized. As you're writing about any species, you can abbreviate the genus name after you spell it out once:
 
 *F. hepatica*
 
 As we go through the Latin names of these parasites, you might get a little overwhelmed by all of the terminology. Latin after all is not a language that many of you are likely to speak, but if you analyze the Latin names of parasites it can tell you a lot about what that parasite is and what it does and it can really be helpful as a mnemonic device, allowing you to connect the genus and species name to a life cycle or story that you've heard from these videos. Let's look at a couple of examples:
 
-* *Fasciola hepatica* - "hepatic" reminds me of hepatic, which refers to the liver - makes sense, because this is the liver fluke
+* *Fasciola hepatica* - "hepatica" reminds me of hepatic, which refers to the liver - makes sense, because this is the liver fluke
 
 * *Necator americanus* - "nec" reminds me of necropsy or necromancy, which refers to death and "americanus" reminds me of America - makes sense because this is the New World hookworm, long a killer of Americans
 
