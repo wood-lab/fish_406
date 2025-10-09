@@ -495,6 +495,8 @@ I encourage you to be really patient with yourself as you learn these terms - th
 
 * [Powerpoint file](lectures/in-class_activities/class_10.pptx)
 
+**Required videos:**
+
 <br>
 <center>
 [![Parasites Without Borders, Parasitic Diseases Lectures #24: Giant Intestinal Worm](https://img.youtube.com/vi/6AZ-1sE3y7E/0.jpg)](https://www.youtube.com/watch?v=6AZ-1sE3y7E)
@@ -518,6 +520,8 @@ I encourage you to be really patient with yourself as you learn these terms - th
 **In-class activity:** 
 
 * [Powerpoint file](lectures/in-class_activities/class_11.pptx)
+
+**Required videos:**
 
 <br>
 <center>
@@ -549,6 +553,8 @@ I encourage you to be really patient with yourself as you learn these terms - th
 
 * [Powerpoint file](lectures/in-class_activities/class_12.pptx)
 
+**Required videos:**
+
 <br>
 <center>
 [![Parasites Without Borders, Parasitic Diseases Lectures #28: Lymphatic filariasis](https://img.youtube.com/vi/rfvyAbPMgg8/0.jpg)](https://www.youtube.com/watch?v=rfvyAbPMgg8)
@@ -579,6 +585,8 @@ I encourage you to be really patient with yourself as you learn these terms - th
 
 * [Powerpoint file](lectures/in-class_activities/class_13.pptx)
 
+**Required videos:**
+
 <br>
 <center>
 [![Parasites Without Borders, Parasitic Diseases Lectures #29: Onchocercaiasis](https://img.youtube.com/vi/mUHVIHxQCC0/0.jpg)](https://www.youtube.com/watch?v=mUHVIHxQCC0)
@@ -595,7 +603,7 @@ I encourage you to be really patient with yourself as you learn these terms - th
 
 ## Class 14
 
-**Watch:**
+**Required videos:**
 
 * [*Accidental Host*](https://stream-mcintyre-ca.offcampus.lib.washington.edu/uwash/title/27444), a 53-minute documentary about rat lungworm disease
 
@@ -617,7 +625,7 @@ In this class, we will hold a live discussion of "Accidental Host" with a real-l
 
 * [Powerpoint file](lectures/in-class_activities/class_15.pptx)
 
-**UWCC:** 15.01, 15.02, 15.03, 15.04
+**Required videos:**
 
 REPLACE WITH UWCC 15.01:
 <br>
@@ -626,24 +634,21 @@ REPLACE WITH UWCC 15.01:
 </center>
 </br>
 
-REPLACE WITH UWCC 15.02:
 <br>
 <center>
-[![Lecture 15.2 - Arthropods as ectoparasites](https://img.youtube.com/vi/dPGTnyHLtfs/0.jpg)](https://www.youtube.com/watch?v=dPGTnyHLtfs)
+[![Arthropods as ectoparasites](https://img.youtube.com/vi/GDAhL_rhm_k/0.jpg)](https://www.youtube.com/watch?v=GDAhL_rhm_k)
 </center>
 </br>
 
-REPLACE WITH UWCC 15.03:
 <br>
 <center>
-[![Lecture 15.3 - Arthropods as Protelean parasites](https://img.youtube.com/vi/GWBrafeNIvU/0.jpg)](https://www.youtube.com/watch?v=GWBrafeNIvU)
+[![Arthropods as Protelean parasites](https://img.youtube.com/vi/eKiqPGeg7d8/0.jpg)](https://www.youtube.com/watch?v=eKiqPGeg7d8)
 </center>
 </br>
 
-REPLACE WITH UWCC 15.04:
 <br>
 <center>
-[![Lecture 15.4 - Arthropods as micropredators](https://img.youtube.com/vi/-FbgPtj6sco/0.jpg)](https://www.youtube.com/watch?v=-FbgPtj6sco)
+[![Arthropods as vectors](https://img.youtube.com/vi/s5KUCjoBMns/0.jpg)](https://www.youtube.com/watch?v=s5KUCjoBMns)
 </center>
 </br>
 
