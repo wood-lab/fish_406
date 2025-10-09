@@ -1202,7 +1202,8 @@ The digenetic trematodes have some of the most complicated life histories in the
 
 <p align="center">
     <img src="images/trem_lifecycle.jpg">
-    <em>[Photo credit: WikiMedia Creative Commons 3.0](https://commons.wikimedia.org/wiki/File:Life_cycle2.jpg)</em>
+    <em><br>[Image courtesy of Patrick05, Wikimedia Creative Commons 3.0](https://commons.wikimedia.org/wiki/File:Life_cycle2.jpg)</em>
+    <em></em>
 </p>
 
 <br>
@@ -1463,7 +1464,8 @@ Parasitology is a “blood and guts” subject. Dissection of freshly killed hos
 
 <p align="center">
     <img src="images/fish_internal_anatomy.png">
-    <em>[Photo credit: WikiMedia Creative Commons 3.0](https://commons.wikimedia.org/wiki/File:Internal_organs_of_a_fish.svg)</em>
+    <em>[Image courtesy of Pixelsquid, Wikimedia Creative Commons 3.0](https://commons.wikimedia.org/wiki/File:Internal_organs_of_a_fish.svg)</em>
+    <em></em>
 </p>
 
 <br>
@@ -1666,7 +1668,7 @@ One interesting factoid about cestodes is that they are shark parasites that hav
 
 <p align="center">
     <img src="images/cyclophyllidean_scolices.jpg">
-    <em>Scolices of tapeworms in the Order Cyclophyllidea curtosy of [WikiMedia](https://commons.wikimedia.org/wiki/File:Tapeworm_scolex_examples.jpg)</em>
+    <em>Scolices of tapeworms in the Order Cyclophyllidea, courtesy of CDC and Hubert Ludwig via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Tapeworm_scolex_examples.jpg)</em>
 </p>
 
 <br>
