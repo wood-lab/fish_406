@@ -122,5 +122,33 @@ Agenda:
 
 <br>
 
+## Class 5
+
+Agenda:
+
+* remind students to use nametags so that instructor can learn everyone's name
+* recap yesterday's lab, ask students which parasites they saw
+* remind students about weekly quizzes
+* remind students [where to find information about term project on the course website](https://wood-lab.github.io/fish_406/assignments.html#Term_project)
+* remind students that the *How to Do Ecology* readings will help them with the term project
+* take a survey of students' preferred podcasts and recommend [This Week in Parasitism](https://www.microbe.tv/twip/about) for review
+* introduce Chelsea's work on schistosomiasis in Senegal, explain the motivation (aquatic ecology in service of public health)
+* in-class activities shown in class_5.ppt
+
+<br>
+
+## Class 6
+
+Agenda:
+
+* show students the PLOT OF FEAR: fear_of_parasites ~ knowledge_of_parasites
+* remind students about week 2 quiz, due today at 11:59pm
+* review readings from last class: query students about historical ecology of parasitism (Wood et al. 2023) and parasite conservation (Carlson et al. 2020)
+* remind students that many of the [datasets available for their term project](https://wood-lab.github.io/fish_406/assignments.html#Term_project) pertain to long-term change in parasite populations
+* today's parasite taxa are a grab bag: flatworms (Turbellaria, Fecampiida, and Monogenea) and cnidarians (Myxozoa)
+* in-class activities shown in class_6.ppt
+
+<br>
+
 
 <center>*This site was last updated at `r format(Sys.time(), "%H:%M")` on `r format(Sys.Date(), "%d %b %Y")`*</center>
