@@ -155,6 +155,7 @@ Agenda:
 
 Agenda:
 
+* address William's question: why is *Kronborgia pugettensis* pink?
 * today we transition into the Class Cestoda
 * remind students about tomorrow's lab, which will focus on cestodes
 * remind students that they should be ready to present [a research question](https://wood-lab.github.io/fish_406/assignments.html#Term_project) in next week's lab (21 Oct)
