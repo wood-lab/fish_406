@@ -627,10 +627,9 @@ In this class, we will hold a live discussion of "Accidental Host" with a real-l
 
 **Required videos:**
 
-REPLACE WITH UWCC 15.01:
 <br>
 <center>
-[![Lecture 15.1 - Introduction to the arthropods](https://img.youtube.com/vi/KbmkhYU26Wc/0.jpg)](https://www.youtube.com/watch?v=KbmkhYU26Wc)
+[![Introduction to the arthropods](https://img.youtube.com/vi/FipuvOciXx8/0.jpg)](https://www.youtube.com/watch?v=FipuvOciXx8)
 </center>
 </br>
 
@@ -664,18 +663,18 @@ REPLACE WITH UWCC 15.01:
 
 * [Powerpoint file](lectures/in-class_activities/class_16.pptx)
 
-**UWCC:** NONE
+<br>
+
+**Required videos:**
 
 As we dive into the Phylum Arthropoda, I want you to consider one really important question: why are arthropods so successful? Why are they the most numerous phylum that exists on Earth, both in terms of species diversity (i.e., the number of species) and their abundance? There are 350,000 described species of beetles alone! As we discuss the arthropods, I want you to ponder this question, and we'll talk it through when we get together in person.
 
-NO REPLACEMENT - LEAVE OLD VIDEOS
 <br>
 <center>
 [![Lecture 16.2 - The ticks](https://img.youtube.com/vi/KmuR1O2g4UA/0.jpg)](https://www.youtube.com/watch?v=KmuR1O2g4UA)
 </center>
 </br>
 
-NO REPLACEMENT - LEAVE OLD VIDEOS
 <br>
 <center>
 [![Lecture 16.3 - The mites](https://img.youtube.com/vi/IHYjahvKPUM/0.jpg)](https://www.youtube.com/watch?v=IHYjahvKPUM)
@@ -696,7 +695,9 @@ NO REPLACEMENT - LEAVE OLD VIDEOS
 
 * [Powerpoint file](lectures/in-class_activities/class_17.pptx)
 
-**UWCC:** NONE
+<br>
+
+**Required videos:**
 
 It might be hard for you to imagine today, but arthropods were once a normal part of everyday life. Here's a little excerpt from a book called *Rats, Lice, and History*. The author Hans Zinsser writes,
 
@@ -718,21 +719,18 @@ The following videos cover the four orders within the class Insecta. We'll take 
                 Order Siphonaptera (fleas)
                 Order Diptera (flies)
 
-NO REPLACEMENT - LEAVE OLD VIDEO
 <br>
 <center>
 [![Lecture 17.2 - Lice](https://img.youtube.com/vi/Hkh-QfkJ_jI/0.jpg)](https://www.youtube.com/watch?v=Hkh-QfkJ_jI)
 </center>
 </br>
 
-NO REPLACEMENT - LEAVE OLD VIDEO
 <br>
 <center>
 [![Lecture 17.3 - Hemipteran micropredators](https://img.youtube.com/vi/PeDzCQrlR_s/0.jpg)](https://www.youtube.com/watch?v=PeDzCQrlR_s)
 </center>
 </br>
 
-NO REPLACEMENT - LEAVE OLD VIDEO
 <br>
 <center>
 [![Lecture 17.4 - Fleas](https://img.youtube.com/vi/UlhwzUheno8/0.jpg)](https://www.youtube.com/watch?v=UlhwzUheno8)
@@ -751,7 +749,7 @@ NO REPLACEMENT - LEAVE OLD VIDEO
 
 * [Powerpoint file](lectures/in-class_activities/class_18.pptx)
 
-**UWCC:** 18.04
+<br>
 
 On to the flies (Order Diptera)! Flies have a few distinguishing features. Here are the important ones to note: they have separate head, thorax, and abdomen. They have a pair of wings and right behind that pair of wings is a distinguishing feature called the halteres, which are vestigial wings that serve as balance organs - kind of like gyroscopes that help the fly to know how it is positioned in space. Remember that we've already covered a few flies because they serve as vectors of filarial nematodes - like the black flies that vector *Onchocerca volvulus* and the *Chrysops* sp. flies that vector *Loa loa*. We'll discuss other arthropod vectors when we get to the protozal parasites, like the sand flies that vector the *Leishmania* spp. protozoa, the tse-tse flies that vector *Trypanosoma* spp., and the mosquitoes that vector all kinds of protozoal and viral parasites.
 
@@ -762,24 +760,23 @@ On to the flies (Order Diptera)! Flies have a few distinguishing features. Here 
 
 <br>
 
-NO REPLACEMENT - LEAVE OLD VIDEO
+**Required videos:** 
+
 <br>
 <center>
 [![Lecture 18.2 - Sand flies](https://img.youtube.com/vi/_-I-WyBeLBw/0.jpg)](https://www.youtube.com/watch?v=_-I-WyBeLBw)
 </center>
 </br>
 
-NO REPLACEMENT - LEAVE OLD VIDEO
 <br>
 <center>
 [![Lecture 18.3 - Black flies and deer flies](https://img.youtube.com/vi/q1Zn1fiKbjM/0.jpg)](https://www.youtube.com/watch?v=q1Zn1fiKbjM)
 </center>
 </br>
 
-REPLACE WITH UWCC 18.04:
 <br>
 <center>
-[![Lecture 18.4 - Mosquitoes and mosquito control](https://img.youtube.com/vi/P31YZNf0RzM/0.jpg)](https://www.youtube.com/watch?v=P31YZNf0RzM)
+[![Mosquito micropredators](https://img.youtube.com/vi/wGO3Ahwqtiw/0.jpg)](https://www.youtube.com/watch?v=wGO3Ahwqtiw)
 </center>
 </br>
 
@@ -796,19 +793,17 @@ REPLACE WITH UWCC 18.04:
 
 * [Powerpoint file](lectures/in-class_activities/class_19.pptx)
 
-**UWCC:** 19.01, 19.02
+**Required videos:** 
 
-REPLACE WITH UWCC 19.01:
 <br>
 <center>
-[![Lecture 19.1 - Nematomorphs](https://img.youtube.com/vi/phBMNZoNflA/0.jpg)](https://www.youtube.com/watch?v=phBMNZoNflA)
+[![The nematomorphs](https://img.youtube.com/vi/rn_erlBzpSE/0.jpg)](https://www.youtube.com/watch?v=rn_erlBzpSE)
 </center>
 </br>
 
-REPLACE WITH UWCC 19.02:
 <br>
 <center>
-[![Lecture 19.2 - Acanthocephalans](https://img.youtube.com/vi/kH3lXDiyDOY/0.jpg)](https://www.youtube.com/watch?v=kH3lXDiyDOY)
+[![The acanthocephalans](https://img.youtube.com/vi/h9hmJb_Py-c/0.jpg)](https://www.youtube.com/watch?v=h9hmJb_Py-c)
 </center>
 </br>
 
@@ -827,12 +822,11 @@ REPLACE WITH UWCC 19.02:
 
 * [Powerpoint file](lectures/in-class_activities/class_20.pptx)
 
-**UWCC:** 20.01
+**Required videos:** 
 
-REPLACE WITH UWCC 20.01:
 <br>
 <center>
-[![Lecture 20.1 - Introduction to the Protozoa](https://img.youtube.com/vi/ntoBx2k5y2w/0.jpg)](https://www.youtube.com/watch?v=ntoBx2k5y2w)
+[![Introduction to the protozoa](https://img.youtube.com/vi/0RgXZJanB5A/0.jpg)](https://www.youtube.com/watch?v=0RgXZJanB5A)
 </center>
 </br>
 
