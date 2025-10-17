@@ -175,5 +175,18 @@ Agenda:
 
 <br>
 
+## Class 9
+
+Agenda:
+
+* remind students about week 3 quiz, due today at 11:59pm
+* remind students that they should be ready to present [a research question](https://wood-lab.github.io/fish_406/assignments.html#Term_project) in next week's lab (21 Oct)
+* today we make the transition to the nematodes
+* there are a lot of videos assigned for today, so make sure you're caught up!
+* finish up in-class activities shown in class_9.ppt
+* in-class activities shown in class_8.ppt
+
+<br>
+
 
 <center>*This site was last updated at `r format(Sys.time(), "%H:%M")` on `r format(Sys.Date(), "%d %b %Y")`*</center>
