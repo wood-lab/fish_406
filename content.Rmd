@@ -930,12 +930,17 @@ On to the flies (Order Diptera)! Flies have a few distinguishing features. Here 
 
 * [Powerpoint file](lectures/in-class_activities/class_22.pptx)
 
-**UWCC:** 22.02a, 22.02b
+**Required videos:**
 
-REPLACE WITH UWCC 22.02a and 22.02b:
 <br>
 <center>
-[![Lecture 22.1 - The apicomplexan Plasmodium - basics](https://img.youtube.com/vi/y8YYTtUW7Iw/0.jpg)](https://www.youtube.com/watch?v=y8YYTtUW7Iw)
+[![The Plasmodium life cycle - Part 1](https://img.youtube.com/vi/vu3dhoDNNMA/0.jpg)](https://www.youtube.com/watch?v=vu3dhoDNNMA)
+</center>
+</br>
+
+<br>
+<center>
+[![The Plasmodium life cycle - Part 2](https://img.youtube.com/vi/L7t1n38nwYE/0.jpg)](https://www.youtube.com/watch?v=L7t1n38nwYE)
 </center>
 </br>
 
@@ -963,9 +968,15 @@ REPLACE WITH UWCC 22.02a and 22.02b:
 
 * [Powerpoint file](lectures/in-class_activities/class_23.pptx)
 
-**UWCC:** 23.07
+**Required videos:**
 
-**Watch:** For this practical session, you are required to watch the movie Contagion. If you have a subscription to Hulu or HBO Max, you can watch it there. You can also rent the movie on Amazon Prime for $3.99.
+<br>
+<center>
+[![The global burden of human-infecting parasites](https://img.youtube.com/vi/sDN5xaBg1Us/0.jpg)](https://www.youtube.com/watch?v=sDN5xaBg1Us)
+</center>
+</br>
+
+For this practical session, you are ALSO required to watch the movie Contagion. If you have a subscription to Hulu or HBO Max, you can watch it there. You can also rent the movie on Amazon Prime for $3.99.
 
 Now we've made it through the Metazoa and the Protozoa, we have only a short time to discuss the bacteria and the viruses. I want you to remember: there's a whole world of parasitic bacteria and viruses out there, causing disease in human and wildlife hosts. We could spend multiple courses talking about these guys. This particular course focuses primarily on the Metazoa just sketchily covers the Protozoa and devotes a ridiculously short amount of time to the bacteria and to the viruses. Remember that there's a lot more out there than those we will cover.
 
@@ -1008,7 +1019,6 @@ Okay let's jump into the bacteria and viruses...
 </center>
 </br>
 
-KEEP OLD VIDEO
 <br>
 <center>
 [![Lecture 23.3 - Abridged bacteria and viruses - Buruli ulcer](https://img.youtube.com/vi/vGSM5EDZ16E/0.jpg)](https://www.youtube.com/watch?v=vGSM5EDZ16E)
@@ -1033,8 +1043,6 @@ KEEP OLD VIDEO
 </center>
 </br>
 
-ADD UWCC 23.07 (OUT OF AFRICA)
-
 <br>
 
 ## Class 24
@@ -1048,12 +1056,11 @@ ADD UWCC 23.07 (OUT OF AFRICA)
 
 * [Powerpoint file](lectures/in-class_activities/class_24.pptx)
 
-**UWCC:** 24.00
+**Required videos:**
 
-REPLACE WITH UWCC 24.00
 <br>
 <center>
-[![Lecture 24 - The ecological importance of parasites](https://img.youtube.com/vi/2AfDnkRSl10/0.jpg)](https://www.youtube.com/watch?v=2AfDnkRSl10)
+[![The ecological importance of parasites](https://img.youtube.com/vi/IsVLZsi127I/0.jpg)](https://www.youtube.com/watch?v=IsVLZsi127I)
 </center>
 </br>
 
