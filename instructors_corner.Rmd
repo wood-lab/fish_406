@@ -196,6 +196,7 @@ Agenda:
 * remind students that lab will be held in FISH 106 tomorrow
 * remind students that they should be ready to present [a research question](https://wood-lab.github.io/fish_406/assignments.html#Term_project) in TOMORROW'S lab (21 Oct)
 * today we continue into the Phylum Nematoda
+* define schmutzdecke (from Dickson's videos)
 * finish up in-class activities shown in class_9.ppt
 * in-class activities shown in class_10.ppt
 
