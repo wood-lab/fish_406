@@ -202,5 +202,19 @@ Agenda:
 
 <br>
 
+## Class 11
+
+Agenda:
+
+* review yesterday's lab sections, in which students presented their [research questions](https://wood-lab.github.io/fish_406/assignments.html#Term_project)
+* if you presented in lab, you will receive 1 point toward that assignment
+* review next week's lab assignment: [preliminary analysis](https://wood-lab.github.io/fish_406/assignments.html#Preliminary_analysis), due Tuesday, 28 Oct
+* remind students of late policy
+* remind students that the midterm is next week, Friday, 31 Oct
+* practice midterm will be posted this week
+* in-class activities shown in class_11.ppt
+
+<br>
+
 
 <center>*This site was last updated at `r format(Sys.time(), "%H:%M")` on `r format(Sys.Date(), "%d %b %Y")`*</center>
