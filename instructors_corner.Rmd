@@ -209,10 +209,22 @@ Agenda:
 * review yesterday's lab sections, in which students presented their [research questions](https://wood-lab.github.io/fish_406/assignments.html#Term_project)
 * if you presented in lab, you will receive 1 point toward that assignment
 * review next week's lab assignment: [preliminary analysis](https://wood-lab.github.io/fish_406/assignments.html#Preliminary_analysis), due Tuesday, 28 Oct
-* remind students of late policy
+* remind students of [late policy](https://wood-lab.github.io/fish_406/assignments.html#Policy_on_late_assignments)
 * remind students that the midterm is next week, Friday, 31 Oct
 * practice midterm will be posted this week
 * in-class activities shown in class_11.ppt
+
+<br>
+
+## Class 12
+
+Agenda:
+
+* remind students about week 4 quiz, due today at 11:59pm
+* remind students about next week's lab assignment: [preliminary analysis](https://wood-lab.github.io/fish_406/assignments.html#Preliminary_analysis), due Tuesday, 28 Oct at 11:59pm
+* remind students that the midterm is next week, Friday, 31 Oct
+* practice midterm [is posted](https://wood-lab.github.io/fish_406/assignments.html#Exams)
+* in-class activities shown in class_12.ppt
 
 <br>
 
