@@ -224,6 +224,7 @@ Agenda:
 * remind students about next week's lab assignment: [preliminary analysis](https://wood-lab.github.io/fish_406/assignments.html#Preliminary_analysis), due Tuesday, 28 Oct at 11:59pm
 * remind students that the midterm is next week, Friday, 31 Oct
 * practice midterm [is posted](https://wood-lab.github.io/fish_406/assignments.html#Exams)
+* remind students that Wednesday's class will be a conversation with a real-life rat lungworm patient
 * in-class activities shown in class_12.ppt
 
 <br>
