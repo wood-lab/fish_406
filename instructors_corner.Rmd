@@ -229,5 +229,18 @@ Agenda:
 
 <br>
 
+## Class 13
+
+Agenda:
+
+* remind students about the [preliminary analysis](https://wood-lab.github.io/fish_406/assignments.html#Preliminary_analysis) assignment **due tomorrow, 28 Oct at 11:59pm**
+* remind students that the midterm is **this week, Friday, 31 Oct**
+* clarify that there are no readings due on the day of the midterm (check the [Schedule](https://wood-lab.github.io/fish_406/schedule.html) tab to see which class number is assigned to which day)
+* practice midterm [is posted](https://wood-lab.github.io/fish_406/assignments.html#Exams)
+* remind students that Wednesday's class will be a conversation with a real-life rat lungworm patient and you [must watch the video ahead of time](https://wood-lab.github.io/fish_406/content.html#Class_14) - to access the video, you will need to either be on campus or use a VPN!
+* in-class activities shown in class_13.ppt
+
+<br>
+
 
 <center>*This site was last updated at `r format(Sys.time(), "%H:%M")` on `r format(Sys.Date(), "%d %b %Y")`*</center>
