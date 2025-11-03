@@ -243,5 +243,30 @@ Agenda:
 
 <br>
 
+## Class 14
+
+Agenda:
+
+* thank students for submitting [preliminary analysis](https://wood-lab.github.io/fish_406/assignments.html#Preliminary_analysis) and remind them of [late policy](https://wood-lab.github.io/fish_406/assignments.html#Policy_on_late_assignments)
+* remind students that the midterm is **this week, Friday, 31 Oct**
+* remind students of TA office hours posted [here](https://wood-lab.github.io/fish_406/syllabus.html#Instructors)
+* live discussion with a real-life rat lungworm patient!
+
+<br>
+
+## Class 15
+
+Agenda:
+
+* exams are being graded and will be returned to you soon
+* preliminary analysis assignments are in progress - you should already have received some feedback and you will soon receive more
+* review findings of face mites and *Portunion conformis* in last week's lab
+* ask that students send photos of lab findings - the best will be included on the course website (with attribution)
+* remind students about the [introduction section assignment](https://wood-lab.github.io/fish_406/assignments.html#Introduction_section) due **tomorrow, Tueday, 4 Nov**
+* remind students of the [late policy](https://wood-lab.github.io/fish_406/assignments.html#Policy_on_late_assignments)
+* remind students that TA office hours are cancelled this week, but Chelsea is here and happy to meet with you!
+* in-class activities shown in class_15.ppt
+
+<br>
 
 <center>*This site was last updated at `r format(Sys.time(), "%H:%M")` on `r format(Sys.Date(), "%d %b %Y")`*</center>
