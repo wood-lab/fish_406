@@ -269,4 +269,17 @@ Agenda:
 
 <br>
 
+## Class 16
+
+Agenda:
+
+* exams grades will be released today, graded exam returned in Friday's class
+* check out the feedback on your preliminary analysis assignment in Canvas
+* review of Introduction sections is happening, feedback done by next week
+* remind students about the [first draft assignment](https://wood-lab.github.io/fish_406/assignments.html#First_draft) due **Tuesday, 11 Nov**
+* remind students that TA office hours are cancelled this week, but Chelsea is here and happy to meet with you!
+* in-class activities shown in class_16.ppt
+
+<br>
+
 <center>*This site was last updated at `r format(Sys.time(), "%H:%M")` on `r format(Sys.Date(), "%d %b %Y")`*</center>
