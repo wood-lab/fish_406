@@ -1940,6 +1940,20 @@ The vast majority of adult humans host the human eyebrow mite, *Demodex follicul
 </p>
 <br>
 
+<br>
+<p align="center">
+    <img src="images/demodex_follicularum_cosand_1.jpg">
+    <em>*Demodex follicularum* from the face of Megan Cosand, a student in the 2025 offering of FISH 406</em>
+</p>
+<br>
+
+<br>
+<p align="center">
+    <img src="images/demodex_follicularum_cosand_2.jpg">
+    <em>*Demodex follicularum* from the face of Megan Cosand, a student in the 2025 offering of FISH 406</em>
+</p>
+<br>
+
 ## Lab 6 - Nematodes
 
 <p align="center">
@@ -2213,8 +2227,8 @@ Draw at least 5 of the following:
 </br>
 
 <p align="center">
-    <img src="images/ascaris_morphology.png">
-    <em>REDRAW AS THIS MATERIAL MAY BE COPYRIGHTED</em>
+    <img src="images/ascaris_morphology_cosand.jpg">
+    <em>Image courtesy of Megan Cosand, a student in the 2025 offering of FISH 406</em>
 </p>
 
 <br>
