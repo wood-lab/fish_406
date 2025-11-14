@@ -308,4 +308,15 @@ Agenda:
 
 <br>
 
+## Class 19
+
+Agenda:
+
+* remind students about the [peer-review assignment](https://wood-lab.github.io/fish_406/assignments.html#Peer_review) due **Tuesday, 18 Nov**
+* review upcoming deadlines as shown in [course schedule](https://wood-lab.github.io/fish_406/schedule.html): note final exam review is **Tuesday, 25 Nov** and poster presentations are **Tuesday, 2 December**
+* Bring dog poop to lab on Tuesday, 18 Nov!! (if you want) (ABSOLUTELY no cat or raccoon poop)
+* in-class activities shown in class_19.ppt
+
+<br>
+
 <center>*This site was last updated at `r format(Sys.time(), "%H:%M")` on `r format(Sys.Date(), "%d %b %Y")`*</center>
