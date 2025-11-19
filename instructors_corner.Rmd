@@ -331,4 +331,16 @@ Agenda:
 
 <br>
 
+## Class 21
+
+Agenda:
+
+* remind students that ALL course content is found in the videos; if you are not watching and taking notes on the videos, you are missing the most important part of the course!
+* remind students about the [second-draft assignment](https://wood-lab.github.io/fish_406/assignments.html#Second_draft) due **Tuesday, 25 Nov**
+* review this week's protozoa/poop lab
+* remind students of the two assigned readings for this class
+* in-class activities shown in class_21.ppt
+
+<br>
+
 <center>*This site was last updated at `r format(Sys.time(), "%H:%M")` on `r format(Sys.Date(), "%d %b %Y")`*</center>
