@@ -343,4 +343,16 @@ Agenda:
 
 <br>
 
+## Class 22
+
+Agenda:
+
+* remind students that ALL course content is found in the videos; if you are not watching and taking notes on the videos, you are missing the most important part of the course!
+* remind students about the [second-draft assignment](https://wood-lab.github.io/fish_406/assignments.html#Second_draft) due **Tuesday, 25 Nov**
+* big active day! We are going over the malaria life cycle, so make sure to take a look at it before class / if you miss class today!
+* use feedback you recieved on your drafts from classmates and/or Chelsea to improve your drafts for next Tuesday!
+* in-class activities shown in class_22.ppt
+
+<br>
+
 <center>*This site was last updated at `r format(Sys.time(), "%H:%M")` on `r format(Sys.Date(), "%d %b %Y")`*</center>
