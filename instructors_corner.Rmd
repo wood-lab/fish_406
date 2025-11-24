@@ -355,4 +355,17 @@ Agenda:
 
 <br>
 
+## Class 23
+
+Agenda:
+
+* remind students that ALL course content is found in the videos; if you are not watching and taking notes on the videos, you are missing the most important part of the course!
+* remind students about the [second-draft assignment](https://wood-lab.github.io/fish_406/assignments.html#Second_draft) due **tomorrow, Tuesday, 25 Nov**
+* tomorrow's **exam review lab** will be held in FISH 106 - please come with questions, especially ones about the [practice exam](https://wood-lab.github.io/fish_406/assignments.html#Exams)
+* next week: you will present your term project in the form of a poster, which is due **Monday (NOT TUESDAY), 1 Dec at 11:59pm**
+* next week: our final exam will be held **Friday, 5 Dec** during class time
+* in-class activities shown in class_23.ppt
+
+<br>
+
 <center>*This site was last updated at `r format(Sys.time(), "%H:%M")` on `r format(Sys.Date(), "%d %b %Y")`*</center>

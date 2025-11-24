@@ -999,7 +999,7 @@ Here are the examples we will explore in each domain:
 
 * rabies virus (genus *Lyssavirus*)
 
-There are so many more species than these out in the world! Notice that we have two Mycobacterium spp. on this list, which cause two very different diseases. There are also Mycobacterium that cause disease in other animals and Mycobacterium that live in your showerhead. There are tens of thousands of viruses in the world, some of which are responsible for oceanic carbon cycling because they infect plankton. We're not going to talk about any of that - I just want to give you a taste. Hopefully you'll be inspired to seek out a microbiology or virology course to expand your bacteria and virus knowledge. 
+There are so many more species than these out in the world! Notice that we have two *Mycobacterium* spp. on this list, which cause two very different diseases. There are also *Mycobacterium* that cause disease in other animals and *Mycobacterium* that live in your showerhead. There are tens of thousands of viruses in the world, some of which are responsible for oceanic carbon cycling because they infect plankton. We're not going to talk about any of that - I just want to give you a taste. Hopefully you'll be inspired to seek out a microbiology or virology course to expand your bacteria and virus knowledge. 
 
 As we're going through the bacteria and the viruses I want you to think about a couple of questions:
 
