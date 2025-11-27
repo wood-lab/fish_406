@@ -2292,6 +2292,16 @@ In this lab, we will examine coccidian apicomplexans. Current classification is 
 
 **Termite flagellate demonstration**
 
+<br>
+
+<p align="center">
+    <img src="images/termite_cosand.JPEG">
+    <em></em>
+</p>
+<center>Image courtesy of Megan Cosand, a student in the 2025 offering of FISH 406</center>
+
+<br>
+
 Termites and wood roaches share in common the habit of dining on wood. Most other insects and animals do not feed on wood because the dense, splintering cellulose matter is tough to digest and the enzyme cellulose is required. Termites and wood roaches share the same secret: they both have intestinal communities of flagellates that produce cellulose as a by-product of their own metabolic functions. This is a perfect example of a mutualism. The termite benefits by receiving the enzyme required to digest its food and the flagellates benefit by having a host to provide habitat with plenty of food. Without their intestinal flagellates, termites and wood roaches would starve.
 
 The communities of flagellates in the intestine of a single termite are staggering. Fourteen genera are known. Thousands of individuals of multiple species can infect a single termite. How the species interact is unknown. You will have the opportunity to examine one for yourself.
@@ -2305,6 +2315,14 @@ Each student should dissect two termites. You are looking for the flagellates lo
     <em></em>
 </p>
 <center>Image from [Brugerolle and Bordereau 2004](https://doi.org/10.1016/j.ejop.2004.05.001)</center>
+
+<br>
+
+<p align="center">
+    <img src="images/termite_protozoan_cosand_1.JPEG">
+    <em></em>
+</p>
+<center>Image courtesy of Megan Cosand, a student in the 2025 offering of FISH 406</center>
 
 <br>
 
