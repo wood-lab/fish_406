@@ -382,4 +382,17 @@ Agenda:
 
 <br>
 
+## Class 24
+
+Agenda:
+
+* tomorrow: you will present your term project in the form of a poster, which is due **today, Monday (NOT TUESDAY), 1 Dec at 11:59pm**
+* see the [course website](https://wood-lab.github.io/fish_406/assignments.html#Poster_presentation) for details on how to prepare your poster
+* [second-draft assignments](https://wood-lab.github.io/fish_406/assignments.html#Second_draft) will be returned with instructors' comments by Tuesday, 2 Dec
+* our final exam will be held **Friday, 5 Dec** during class time
+* if 90% of enrolled students complete these our two course evaluations, I will add a 5-point bonus question to the final! links are in [Canvas announcements](https://canvas.uw.edu/courses/1829825/discussion_topics/10126495?is_announcement=true)
+* in-class activities shown in class_25.ppt
+
+<br>
+
 <center>*This site was last updated at `r format(Sys.time(), "%H:%M")` on `r format(Sys.Date(), "%d %b %Y")`*</center>
