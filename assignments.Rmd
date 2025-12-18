@@ -137,7 +137,7 @@ To help you start thinking about what scientific questions you might like to add
 
 - **Lingcod parasites:** We tried to solve the mystery of the blue lingcod! In other species, color polymorphisms are intimately linked with host–parasite interactions, which led us to ask whether blue coloration in lingcod might be associated with parasitism, either as cause or effect. The [data suggest that the blue color polymorphism is linked to the nutrition of the host (and possibly associated with starvation)](https://doi.org/10.1371/journal.pone.0261202), but [this flexible dataset](https://datadryad.org/dataset/doi:10.5061/dryad.83bk3j9sr) can be used to pursue many other questions about lingcod parasite burden, because it contains counts of all metazoan parasites of 89 lingcod individuals collected across more than 26 degrees of latitude from Alaska, Washington, and California.
 
-- **Choose your own adventure:** The datasets above are ones that have been used in the past by our lab, but there are lots of other parasite datasets out there. If there is a specific topic that you are interested in that isn't represented by the datasets above, feel free to seek out another appropriate dataset. Good places to look are the data repositories Dryad, Zenodo, FigShare, etc. You will need to work closely with your TA to make sure that the data source you're choosing is reputable and of sufficient quality for analysis, so if you choose this path, make sure to touch base early and often! If you do choose your own adventure, you are **prohibited from performing a data synthesis** (i.e., bringing together >2 other datasets) and you are **required to provide direct links to the datasets that you are using**, so that your instructors can check your work.
+- **Choose your own adventure:** The datasets above are ones that have been used in the past by our lab, but there are lots of other parasite datasets out there. If there is a specific topic that you are interested in that isn't represented by the datasets above, feel free to seek out another appropriate dataset. Good places to look are the data repositories Dryad, Zenodo, FigShare, etc. You will need to work closely with your TA to make sure that the data source you're choosing is reputable and of sufficient quality for analysis, so if you choose this path, make sure to touch base early and often! If you do choose your own adventure, you are **prohibited from performing a data synthesis** (i.e., bringing together >2 datasets) and you are **required to provide direct links to the datasets that you are using**, so that your instructors can check your work.
 
 Here are some **exemplary papers** written by past generations of SAFS students, in response to a similar assignment. Note that these papers are not about parasites, but otherwise they are exactly what I want you to aim for!
 
@@ -170,7 +170,7 @@ We'll start by putting you in pairs. Each member of the pair will share their id
 Your preliminary analysis assignment should be a document containing preliminary answers to your research question. The document should include: 
 
 * what research question you want to address
-* a draft Methods section
+* a draft Methods section (including a valid hyperlink to the dataset you are using)
 * a draft Results section
 * at least one figure displaying your results
 * statistics that indicate whether your hypotheses are supported or not
@@ -187,17 +187,17 @@ Your preliminary analysis assignment should be a document containing preliminary
 
 ### Introduction section
 
-Your Introduction section assignment should be at least four paragraphs and should provide the background and context for your research question and preliminary analysis. Please include your draft Methods, Results, and figures in this document (that will help us provide advice on whether you are tackling the right topics in your Introduction).
+Your Introduction section assignment **should be at least four paragraphs** and should provide the background and context for your research question and preliminary analysis. **Include your draft Methods, Results, and figures in this document** (that will help us provide advice on whether you are tackling the right topics in your Introduction).
 
-**You will receive 1 point merely for submitting this assignment,** but it is to your advantage to put a lot of effort into it. The further along your Introduction is at this point in the quarter, the more your instructors can help you move it down the field toward an A in the final term paper!
+**You will receive 1 point merely for fulfilling the conditions above.** However, it is to your advantage to put a lot of effort into it. The further along your Introduction is at this point in the quarter, the more your instructors can help you move it down the field toward an A in the final term paper!
 
 <br>
 
 ### First draft
 
-Your first draft assignment should contain an Introduction, Methods, Results (including at least one figure), and Discussion section.
+Your first draft assignment should contain an **Introduction, Methods, Results (including at least one figure), and Discussion section**.
 
-**You will receive 1 point merely for submitting this assignment,** but it is to your advantage to put a lot of effort into it. The further along your first draft is at this point in the quarter, the more your peer reviewers can help you move it down the field toward an A in the final term paper!
+**You will receive 1 point merely for fulfilling the conditions above.** However, it is to your advantage to put a lot of effort into it. The further along your first draft is at this point in the quarter, the more your peer reviewers can help you move it down the field toward an A in the final term paper!
 
 **Running late?** Late first drafts will not receive the 1 point for this assignment. However, you should still submit your first draft even if it is late, because otherwise (1) you won't receive your classmates' first drafts to review, causing you to miss the 10 points for the peer review assignment and (2) you'll miss the opportunity to get peer feedback on your own first draft.
 
@@ -205,9 +205,9 @@ Your first draft assignment should contain an Introduction, Methods, Results (in
 
 ### Peer review
 
-Peer review makes the scientific world go 'round! You will receive the first drafts of two classmates and your assignment is to make both better. You will not be providing line edits on your colleague's papers at this time, because your goal for this early draft is to engage with the content - not the grammar and spelling. [This worksheet](handouts/peer_review_worksheet.docx) is designed to help you think deeply about the questions, hypotheses, tests, inferences, and logic of your colleague's paper, and will help you provide feedback that is maximally useful to your colleagues.
+Peer review makes the scientific world go 'round! You will receive the first drafts of two classmates and your assignment is to make both better. You will **not be providing line edits on your colleague's papers** at this time, because your goal for this early draft is to engage with the content - not the grammar and spelling. [This worksheet](handouts/peer_review_worksheet.docx) is designed to help you think deeply about the questions, hypotheses, tests, inferences, and logic of your colleague's paper, and will help you provide feedback that is maximally useful to your colleagues. **You must complete one worksheet for each of the two papers you receive to review** to receive credit for this assignment.
 
-For this assignment, you will be scored on the quality of the two peer reviews you perform. Complete one worksheet for each of the two papers you are assigned. In addition to providing written feedback to your colleagues, you will also perform another vital service: you will score their first draft using the term paper rubric, the same rubric that I will use to score the final drafts at the end of the quarter. By seeing how their first draft is likely to score on each dimension of the rubric, your colleagues will know where to invest their efforts as the revise their paper. The score you provide will not be used to grade your colleague in any way, shape, or form - it is merely for your colleague's own information.
+For this assignment, you will be scored on the quality of the two peer reviews you perform. In addition to providing written feedback to your colleagues, you will also perform another vital service: you will score their first draft using the term paper rubric, the same rubric that I will use to score the final drafts at the end of the quarter. By seeing how their first draft is likely to score on each dimension of the rubric, your colleagues will know where to invest their efforts as the revise their paper. The score you provide will not be used to grade your colleague in any way, shape, or form - it is merely for your colleague's own information.
 
 <br>
 
@@ -217,23 +217,37 @@ You will receive feedback from two classmates on your first draft and you'll hav
 
 <br>
 
-### Term paper requirements
+### Final term paper
 
+**Requirements:**
+
+* your paper must represent the results of an original analysis, where you have downloaded a dataset and used it to create your own graphs and perform your own statistics
+* your paper must contain valid hyperlinks to the datasets you used (so that your instructors can check your work)
+* you are **prohibited from performing a data synthesis** (i.e., bringing together >2 datasets)
+* you are **prohibited from replicating the analysis of a published paper**; you must pose your own original, novel research question
 * 12-point, Times New Roman font, double-spaced with 1” margins
-* At least 10 pages long (including references)
-* At least 20 references to primary literature
-* No references to sources other than the scientific literature (i.e., no Wikipedia, no encyclopedias, no textbooks) – a handful of websites (< 3) is okay if warranted
-* Number your pages
-* References formatted according to Author Guidelines for the journal [*Frontiers in Ecology and the Environment*](https://esajournals.onlinelibrary.wiley.com/hub/journal/15409309/resources/author-guidelines-fee#reference-section).
+* at least 10 pages long (including references)
+* at least 20 references to primary literature
+* no references to sources other than the scientific literature (i.e., no Wikipedia, no encyclopedias, no textbooks)
+* number your pages
+* references formatted according to Author Guidelines for the journal [*Frontiers in Ecology and the Environment*](https://esajournals.onlinelibrary.wiley.com/hub/journal/15409309/resources/author-guidelines-fee#reference-section).
 
 <br>
 
 #### Term paper grading rubric
 
-<p align="center">
-    <img src="handouts/term_paper_grading_rubric.jpg">
-    <center></center>
-</p>
+| Category | Exceeds expectations (9–10) | Meets expectations (7–8) | Nearly meets expectations (5–6) | Does not meet expectations (3–4) | Incomplete (0–1)
+| :------- | ------: | -------: | -------: | -------: | -------: |
+| Novelty of the research question | Research question is novel, interesting, and testable | Research question is novel, but trivial or untestable | Research question is novel, but both trivial and untestable | Research question is not novel | Research question is absent |
+| Introduction | The introduction successfully “funnels” by providing a broad context and narrowing in to the purpose of the paper | The introduction provides appropriate background context but does not “funnel” | The introduction states the main topic but does not provide appropriate background context | There is no clear introduction or main topic and no background context | Absent
+| Context | The introduction appropriately presents rich context from the literature, including ample references to prior research that informs the present study | The introduction presents a limited amount of context from the literature, including a few references to prior research that informs the present study | The introduction references only a handful of examples from the literature | Background information presented in the introduction is minimal | No references present in the Introduction |
+| Methods | Methods are reported clearly, accurately, and in logical order, and reflect an original analysis | Methods are reported mostly accurately and somewhat clearly, but may lack logical order or are difficult to follow | Methods are reported but do not accurately represent the steps of the study or are missing important pieces | Methods are missing or replicated from a published study | NA |
+| Results | Concise, clear, and accurate statement of results | Accurate statement of results | Statement of results included | No results included or results are replicated from a published study | NA |
+| Graphs | Clear, accurate graphs illustrate the results well and are labeled neatly and accurately | Clear, accurate graphs are included and labeled | Graphs are included and are labeled but may be missing important labels or have some inaccuracies | Graphs are missing or mostly inaccurate | NA |
+| Discussion | Writer demonstrates logical and subtle sequencing of ideas through well-developed paragraphs; transitions are used to enhance organization | Paragraph development present but not perfected | Logical organization; organization of ideas not fully developed | No evidence of structure or organization | NA |
+| Number of references | There are at least 20 references, all are legitimate and cited appropriately in the text of the paper | There are 15-19 legitimate references cited appropriately in the text of the paper | There are 10-14 legitimate references cited appropriately in the text of the paper | There are 5-9 legitimate references cited appropriately in the text of the paper | There are 0-4 legitimate references cited appropriately in the text of the paper |
+| Formatting of references | All references are cited in the correct format with no errors | Some references are cited in the correct format | Few references are cited in the correct format | No references are cited in the correct format | References are absent |
+| Mechanics | No errors in punctuation, capitalization, spelling, sentence structure, or word usage | Almost no errors in punctuation, capitalization, spelling, sentence structure, or word usage | Many errors in punctuation, capitalization, spelling, sentence structure, or word usage | Numerous and distracting errors in punctuation, capitalization, spelling, sentence structure, or word usage | NA |
 
 <br>
 
@@ -253,10 +267,18 @@ During your final lab section meeting, you will present your poster to the entir
 
 #### Poster rubric
 
-<p align="center">
-    <img src="handouts/poster_grading_rubric.jpg">
-    <center></center>
-</p>
+| Category | Exceeds expectations (9–10) | Meets expectations (7–8) | Nearly meets expectations (5–6) | Does not meet expectations (3–4) | Incomplete (0–1)
+| :------- | ------: | -------: | -------: | -------: | -------: |
+| Required elements present | Poster includes Introduction, Methods, Results (including figures), Discussion, and References sections | One of the aforementioned elements are missing | Two of the aforementioned elements are missing | Three of the aforementioned elements are missing | NA |
+| Novelty of the research question | Research question is novel, interesting, and testable | Research question is novel, but trivial or untestable | Research question is novel, but both trivial and untestable | Research question is not novel | Research question is absent |
+| Introduction | The introduction successfully “funnels” by providing a broad context and narrowing in to the purpose of the paper | The introduction provides appropriate background context but does not “funnel” | The introduction states the main topic but does not provide appropriate background context | There is no clear introduction or main topic and no background context | Absent |
+| Methods | Methods are reported clearly, accurately, and in logical order, and reflect an original analysis | Methods are reported mostly accurately and somewhat clearly, but may lack logical order or are difficult to follow | Methods are reported but do not accurately represent the steps of the study or are missing important pieces | Methods are missing or replicated from a published study | NA |
+| Results | Concise, clear, and accurate statement of results | Accurate statement of results | Statement of results included | No results included | NA |
+| Graphs | Clear, accurate graphs illustrate the results well and are labeled neatly and accurately | Clear, accurate graphs are included and labeled | Graphs are included and are labeled but may be missing important labels or have some inaccuracies | Graphs are missing or mostly inaccurate | NA |
+| Discussion | Speaker demonstrates logical and subtle sequencing of ideas; transitions are used to enhance organization | Logical development present but not perfected | Organization of ideas not fully developed | No evidence of structure or organization | NA |
+| References | Introduction and Discussion contain at least 5 references to the literature that are cited in the correct format | Introduction and Discussion contain at least 3 references to the literature that are cited in the correct format | No references are cited in the correct format | NA | NA |
+| Mechanics | Poster is visually appealing, organized, has minimal text, makes use of diagrams and plots to convey information instead of words | Poster is organized, but text-heavy. Points that could be made with plots of data are instead made with text or speech | Poster is disorganized, text-heavy, difficult to understand | Numerous and distracting errors in plots or text that make poster very difficult to understand | NA |
+| Preparation | Presentation indicates intensive preparation | Presentation indicates adequate preparation | Presentation indicates minimal preparation | Presentation indicates a lack of preparation | NA |
 
 <br>
 
