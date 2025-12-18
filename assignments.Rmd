@@ -39,8 +39,11 @@ output:
 
 You will be able to access your grades via Canvas. All graded material will be returned promptly - no more than 10 days after submission date. 
 
-**Regrade policy:** If you believe that an exam or assignment has been graded incorrectly, or that the grade entered is incorrect, please contact Chelsea within one week of when the assignment is returned to you.
+<br>
 
+## Regrade policy
+
+If you believe that an exam or assignment has been graded incorrectly, or that the grade entered is incorrect, please contact Chelsea within one week of when the assignment is returned to you.
 
 <br>
 
@@ -118,7 +121,7 @@ Conducting a scientific research project is a big undertaking, but your colleagu
 
 You are welcome to work on the analysis portion of this project solo or with a group; however, each student must create their own poster and paper, with no overlap in text between students. If text is repeated between students' posters or papers, it will be considered plagiarism and handled according to [course and university policies on academic integrity](https://wood-lab.github.io/fish_406/syllabus.html#Academic_integrity).
 
-To help you start thinking about what scientific questions you might like to address in your research paper and seminar,  next up is a brief overview of some **available datasets:**
+To help you start thinking about what scientific questions you might like to address in your research paper and seminar,  next up is a brief overview of some **available datasets**. Please note: each of these papers addresses a specific research question. **You are required to ask your own, novel research question,** and part of the grade for your poster and paper (see rubric below) will evaluate how novel, testable, and interesting your research question is.
 
 - **Puget Sound parasites:** We were interested in how the burden of parasites had changed in Puget Sound over time, so we dissected fish from the Burke Museum's Fish Collection and identified all of their metazoan parasites - arthropods, flatworms, roundworms, and more. We found [big changes](https://doi.org/10.1073/pnas.2211903120) in parasite burdens between 1880 and 2019, but there is still a lot more to discover in [this dataset](https://doi.org/10.5061/dryad.fqz612jwf).
 
@@ -134,7 +137,7 @@ To help you start thinking about what scientific questions you might like to add
 
 - **Lingcod parasites:** We tried to solve the mystery of the blue lingcod! In other species, color polymorphisms are intimately linked with host–parasite interactions, which led us to ask whether blue coloration in lingcod might be associated with parasitism, either as cause or effect. The [data suggest that the blue color polymorphism is linked to the nutrition of the host (and possibly associated with starvation)](https://doi.org/10.1371/journal.pone.0261202), but [this flexible dataset](https://datadryad.org/dataset/doi:10.5061/dryad.83bk3j9sr) can be used to pursue many other questions about lingcod parasite burden, because it contains counts of all metazoan parasites of 89 lingcod individuals collected across more than 26 degrees of latitude from Alaska, Washington, and California.
 
-- **Choose your own adventure:** The datasets above are ones that have been used in the past by our lab, but there are lots of other parasite datasets out there. If there is a specific topic that you are interested in that isn't represented by the datasets above, feel free to seek out another appropriate dataset. Good places to look are the data repositories Dryad, Zenodo, FigShare, etc. You will need to work closely with your TA to make sure that the data source you're choosing is reputable and of sufficient quality for analysis, so if you choose this path, make sure to touch base early and often!
+- **Choose your own adventure:** The datasets above are ones that have been used in the past by our lab, but there are lots of other parasite datasets out there. If there is a specific topic that you are interested in that isn't represented by the datasets above, feel free to seek out another appropriate dataset. Good places to look are the data repositories Dryad, Zenodo, FigShare, etc. You will need to work closely with your TA to make sure that the data source you're choosing is reputable and of sufficient quality for analysis, so if you choose this path, make sure to touch base early and often! If you do choose your own adventure, you are **prohibited from performing a data synthesis** (i.e., bringing together >2 other datasets) and you are **required to provide direct links to the datasets that you are using**, so that your instructors can check your work.
 
 Here are some **exemplary papers** written by past generations of SAFS students, in response to a similar assignment. Note that these papers are not about parasites, but otherwise they are exactly what I want you to aim for!
 
@@ -166,12 +169,13 @@ We'll start by putting you in pairs. Each member of the pair will share their id
 
 Your preliminary analysis assignment should be a document containing preliminary answers to your research question. The document should include: 
 
+* what research question you want to address
 * a draft Methods section
 * a draft Results section
 * at least one figure displaying your results
 * statistics that indicate whether your hypotheses are supported or not
 
-**You will receive 1 point merely for submitting this assignment,** but it is to your advantage to put a lot of effort into it. The further along your analysis is at this point in the quarter, the more your instructors can help you move it down the field toward an A in the final term paper!
+**You will receive 1 point merely for fulfilling the conditions above.** However, it is to your advantage to put a lot of effort into this assignment. The further along your analysis is at this point in the quarter, the more your instructors can help you move it down the field toward an A in the final term paper!
 
 **What should this look like?** [See the examples above](https://wood-lab.github.io/fish_406/assignments.html#Term_project) for inspiration.
 

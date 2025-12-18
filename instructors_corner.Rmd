@@ -411,9 +411,44 @@ Agenda:
 
 # Rules for TAs
 
+<br>
+
+## Preparing for the quarter
+
+In preparation to TA FISH 406, TAs should do the following:
+
+* take the appropriate training to obtain access the UW vivarium (talk to Chelsea about how to get this started)
+* familiarize yourself with all [course content](https://wood-lab.github.io/fish_406/content.html), including readings and videos
+* read Combes' [*Parasitism: The Ecology and Evolution of Intimate Interactions*](https://press.uchicago.edu/ucp/books/book/chicago/P/bo3634576.html)
+* read Karban, Huntzinger, and Pearse's [*How to Do Ecology: A Concise Handbook*](https://press.princeton.edu/books/paperback/9780691245751/how-to-do-ecology?srsltid=AfmBOoqDA_JF2dhFDKJevtALXsb9URJZm95La6d6NUBzs3Jn7xe7COaZ)
+* read Roberts and Janovy's [*Foundations of Parasitology*](references/R&J.pdf)
+* work with the SAFS Facilities Manager to move all [equipment and supplies](https://wood-lab.github.io/fish_406/instructors_corner.html#Supplies_needed_for_labs) into the teaching lab
+* check over the [stockpile of teaching supplies](https://wood-lab.github.io/fish_406/instructors_corner.html#Supplies_needed_for_labs) and let Chelsea know if we are running low on anything
+* prepare living materials for the first few labs (especially the living schistosome-infected mice that are used in Lab 1)
+* set up the lab so that it is ready for students (e.g., arrange benches, microscopes, dissection tools, slides)
+* tune up the microscopes so that they are ready for students (e.g., clean optics, tighten screws)
+* check the agreement between the course website and Canvas site, especially screening for date discrepancies
+* consider whether and which class sessions you would like to lead, and let Chelsea know
+
+<br>
+
+## Office hours
+
+Each TA is required to hold one regularly scheduled 60-minute office hour per week. Before the quarter starts, please tell Chelsea when you'd like to hold your office hour, and she will update the course website accordingly. If you must cancel your office hour (e.g., due to illness), you are required to hold a make-up office hour as soon as possible thereafter. When students are not available during regularly scheduled office hours, TAs are required to make themselves available for meetings by appointment.
+
+<br>
+
+## Instructional personnel meetings
+
+FISH 406 TAs are required to make themselves available for weekly 30-minute instructional personnel meetings, where we prepare for the coming week's labs, events, and assignments. Usually, these meetings are held in the 30 minutes following class every Friday (1:30-2pm).
+
+<br>
+
 ## Travel
 
 TAing FISH 406 is a commitment and we take our responsibility to students very seriously. FISH 406 TAs are therefore not permitted to engage, during the quarter of their TAship, in any travel that would interfere with their ability to attend lecture, lab sessions, or regularly scheduled office hours. This includes field work and conference travel in addition to personal travel. No vacation or holiday time may be taken when classes are in session during the quarter of a FISH 406 TAship. Outside of the weeks when classes are in session, vacation and holiday time requests will be approved only if these requests do not interfere with FISH 406 commitments (e.g., preparing laboratory space for the quarter, grading final exams). This allows the instructional staff of the course to dedicate the time and attention that our students deserve.
+
+<br>
 
 ## Grading
 
@@ -424,6 +459,14 @@ In FISH 406, TAs are empowered to contribute to grading (e.g., lab notebooks, ex
 * to point students to these policies when needed. 
 
 TAs are strictly forbidden from changing student grades without first consulting Chelsea; if it is discovered that a TA has changed a grade without first consulting Chelsea, Canvas gradebook privileges will be removed from all TAs and the TA who broke the rule will become ineligible for future FISH 406 TAships.
+
+<br>
+
+## Norming
+
+One of the most important duties of a FISH 406 TA is to provide feedback to students on their work: on exams, independent research projects, and presentations. To make sure that we are providing equal levels of support across students and grading by the same standards, the FISH 406 instructional team will periodically engage in "norming" exercises. When we "norm" our feedback for a given assignment, we will all get together to evaluate the same few assignments, compare our feedback, and discuss how to bring our feedback into alignment. We continue doing this until the instructor of record (Chelsea) is satisfied that every member of the instructional team is on the same page. This may be repeated for each exam/assignment. 
+
+<br>
 
 
 <center>*This site was last updated at `r format(Sys.time(), "%H:%M")` on `r format(Sys.Date(), "%d %b %Y")`*</center>
