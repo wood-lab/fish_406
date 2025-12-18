@@ -413,13 +413,13 @@ Agenda:
 
 ## Travel
 
-TAing FISH 406 is a commitment and we take our responsibility to students very seriously. FISH 406 TAs are therefore not permitted to engage, during the quarter of their TAship, in any travel that would interfere with their ability to attend lecture, lab sessions, or regularly scheduled office hours. This includes field work and conference travel in addition to personal travel. No vacation or holiday time may be taken during the quarter of a FISH 406 TAship.
+TAing FISH 406 is a commitment and we take our responsibility to students very seriously. FISH 406 TAs are therefore not permitted to engage, during the quarter of their TAship, in any travel that would interfere with their ability to attend lecture, lab sessions, or regularly scheduled office hours. This includes field work and conference travel in addition to personal travel. No vacation or holiday time may be taken when classes are in session during the quarter of a FISH 406 TAship. Outside of the weeks when classes are in session, vacation and holiday time requests will be approved only if these requests do not interfere with FISH 406 commitments (e.g., preparing laboratory space for the quarter, grading final exams). This allows the instructional staff of the course to dedicate the time and attention that our students deserve.
 
 ## Grading
 
 In FISH 406, TAs are empowered to contribute to grading (e.g., lab notebooks, exams), but final decision-making authority rests with the instructor of record (Chelsea). TAs are expected:
 
-* to be familiar with all course policies, especially those that [pertain to grading](https://wood-lab.github.io/fish_406/assignments.html#Grading)
+* to be familiar with all course policies, especially those that [pertain to grading](https://wood-lab.github.io/fish_406/assignments.html#Grading),
 * to avoid misinforming students about these policies, and 
 * to point students to these policies when needed. 
 
