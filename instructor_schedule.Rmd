@@ -6,7 +6,6 @@ output: html_document
 ```{r generate_calendar, eval = TRUE, echo=FALSE}
 ## load library
 library(toastui)
-library(tidyverse)
 
 ## data frame with dates & topics
 instructor_cal_data<-read.csv("instructor_calendar_data.csv")
