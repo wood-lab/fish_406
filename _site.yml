@@ -20,5 +20,5 @@ navbar:
 output_dir: "docs"
 output:
   html_document:
-    theme: cerulean
+    theme: journal
     highlight: textmate
