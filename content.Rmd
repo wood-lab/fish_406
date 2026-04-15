@@ -2229,7 +2229,7 @@ Draw at least 5 of the following:
 </br>
 
 <p align="center">
-    <img src="images/ascaris_morphology_cosand.jpg">
+    <img src="images/ascaris_morphology_cosand.jpg" alt="diagram of the anatomy of Ascaris lumbricoides">
     <em>Image courtesy of Megan Cosand, a student in the 2025 offering of FISH 406</em>
 </p>
 
