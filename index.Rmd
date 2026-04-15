@@ -22,7 +22,7 @@ h3 {
 
 
 <p align="center">
-    <img src="images/angel_with_ascaris.jpg">
+    <img src="images/angel_with_ascaris.jpg" alt = "FISH 406 student measuring the length of a human roundworm, Ascaris lumbricoides, courtesy of Chelsea Wood">
     <center>*FISH 406 student measuring the length of a human roundworm, *Ascaris lumbricoides*, courtesy of Chelsea Wood*</center>
 </p>
 
