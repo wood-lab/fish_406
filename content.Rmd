@@ -7,6 +7,8 @@ output:
     toc_depth: 4
 ---
 
+<html lang="en">
+
 <br>
 
 #
@@ -750,7 +752,7 @@ The following videos cover the four orders within the class Insecta. We'll take 
 On to the flies (Order Diptera)! Flies have a few distinguishing features. Here are the important ones to note: they have separate head, thorax, and abdomen. They have a pair of wings and right behind that pair of wings is a distinguishing feature called the halteres, which are vestigial wings that serve as balance organs - kind of like gyroscopes that help the fly to know how it is positioned in space. Remember that we've already covered a few flies because they serve as vectors of filarial nematodes - like the black flies that vector *Onchocerca volvulus* and the *Chrysops* sp. flies that vector *Loa loa*. We'll now discuss other arthropod vectors that carry protozal parasites, like the sand flies that vector the *Leishmania* spp. protozoa, the tse-tse flies that vector *Trypanosoma* spp., and the mosquitoes that vector all kinds of protozoal and viral parasites.
 
 <p align="center">
-    <img src="images/fly_anatomy.png">
+    <img src="images/fly_anatomy.png" alt="diagram of fly anatomy">
     <center>*Fly anatomy: I: head; II: thorax III: abdomen. — 1: prescutum 2: anterior spiracle 3: scutum 4: basicosta 5: calypters 6: scutellum 7: wing vein 8: wing 9: abdominal segment 10: haltere 11: posterior spiracle 12: femur 13: tibia 14: spur 15: tarsus 16: propleuron 17: prosternum 18: mesopleuron 19: mesosternum 20: metapleuron 21: metasternum 22: compound eye 23: arista 24: antenna 25: maxilary palps 26: labium 27: labellum 28: pseudotracheae 29: tip. Image courtesy of [Al2 via GNU Free Documentation License, Version 1.2](https://commons.wikimedia.org/wiki/File:Housefly_anatomy-key.svg)* </center>
 </p>
 
@@ -979,7 +981,7 @@ Now we've made it through the Metazoa and the Protozoa, we have only a short tim
 Recall that life is divided into three domains: Bacteria, Archaea, and Eukaryota. We've been in the Eukaryota until now, but we're going to adventure into the domain of Bacteria.
 
 <p align="center">
-    <img src="images/tree_of_life.png">
+    <img src="images/tree_of_life.png" alt="tree of life, spanning bacteria, archaea, and eukaryota">
     <center>*Image courtesy of [Crion via GNU Free Documentation License, Version 1.2](https://commons.wikimedia.org/wiki/File:Phylogenetic_Tree_of_Life.png)*</center>
 </p>
 
@@ -1147,7 +1149,7 @@ This year, I'll kick off our labs by throwing you into the deep end of the paras
 The platyhelminths are commonly referred to as "flatworms", since they are typically dorsoventrally flattened. This large and diverse phylum is comprised of four major classes (Turbellaria, Trematoda, Monogenea, and Cestoidea) that we will study in more depth throughout the next few labs. The hypothetical relationships of these major groups are shown in the cladogram below, which traces the common ancestry among the groups. The platyhelminths as a group provide an exciting introduction to parasitology because one can trace the evolution and specialization for parasitism throughout the group. While studying the flatworms, pay particular attention to the reproductive anatomy, reproductive capacity, adaptations for a parasitic life style, and transmission stages.
 
 <p align="center">
-    <img src="images/flatworm_cladogram.jpg">
+    <img src="images/flatworm_cladogram.jpg alt="flatworm cladogram, spanning Turbellaria to Cestoda">
 </p>
 
 <br>
@@ -1176,7 +1178,7 @@ The digenetic trematodes have some of the most complicated life histories in the
 <br>
 
 <p align="center">
-    <img src="images/trem_lifecycle.jpg">
+    <img src="images/trem_lifecycle.jpg" alt = "life cycle of a trematode, Clinostomum marginatum">
     <em><br>[Image courtesy of Patrick05, Wikimedia Creative Commons 3.0](https://commons.wikimedia.org/wiki/File:Life_cycle2.jpg)</em>
     <em></em>
 </p>
@@ -1216,7 +1218,7 @@ In the video below, you can see cercariae spilling out of burst sporocysts disse
 <br>
 
 <p align="center">
-    <img src="images/metacercaria.jpg">
+    <img src="images/metacercaria.jpg" alt="trematode metacercaria">
 </p>
 
 <br>
@@ -1232,7 +1234,7 @@ The Order Strigeiformes is pretty unique among the trematodes: instead of a thre
 <br>
 
 <p align="center">
-    <img src="images/schistosome_lc.jpg">
+    <img src="images/schistosome_lc.jpg" alt="schistosome life cycle">
     <em>Image courtesy of [CDC DPDx](https://www.cdc.gov/dpdx/schistosomiasis/index.html)</em>
 </p>
 
@@ -1243,7 +1245,7 @@ Schistosomes are long, thin worms, an adaptation to living in the small blood ve
 <br>
 
 <p align="center">
-    <img src="images/Sm_in_copula.jpeg">
+    <img src="images/Sm_in_copula.jpeg" alt="male and female schistosomes in copula>
     <em>Image from [Boissier et al. 2019](https://www.researchgate.net/publication/337592635_Schistosoma_spp#fullTextFileContent)</em>
 </p>
 
@@ -1334,7 +1336,7 @@ Mice are great models for human schistosomiasis. Much of the schistosome-related
 <br>
 
 <p align="center">
-    <img src="images/healthy_vs_schisto-infected_mouse.png">
+    <img src="images/healthy_vs_schisto-infected_mouse.png" alt="(left) healthy mouse (right) mouse infected with Schistosoma mansoni">
     <em>(left) healthy mouse (right) mouse infected with *Schistosoma mansoni*</em>
 </p>
 
@@ -1353,7 +1355,7 @@ The Japanese mud snail Batillaria attramentaria is native to Japan but was intro
 Please familiarize yourself with gastropod internal anatomy before you begin the dissection:
 
 <p align="center">
-    <img src="images/snail_anatomy.jpg">
+    <img src="images/snail_anatomy.jpg" alt="diagram of snail anatomy">
     <em></em>
 </p>
 
@@ -1392,7 +1394,7 @@ When I first started learning about parasites, I thought about them as "out ther
 To prove it to you, we're going to do some grocery store parasitology. 
 
 <p align="center">
-    <img src="images/grocery_store.jpg">
+    <img src="images/grocery_store.jpg" alt="fish displayed at a seafood market">
     <em></em>
 </p>
 
@@ -1417,7 +1419,7 @@ Parasitology is a “blood and guts” subject. Dissection of freshly killed hos
 <br>
 
 <p align="center">
-    <img src="images/fish_external.png">
+    <img src="images/fish_external.png" alt="diagram of fish anatomy">
     <em></em>
 </p>
 
@@ -1432,13 +1434,13 @@ Parasitology is a “blood and guts” subject. Dissection of freshly killed hos
 5. Examine the gill arches in situ. Remove the gill arches with scissors and examine the gill filaments carefully under the dissecting scope for monogenes.
 
 <p align="center">
-    <img src="images/fish_parasites.png">
+    <img src="images/fish_parasites.png" alt="diagram of the various parasites often encountered in fish dissections">
     <em></em>
 </p>
 
 
 <p align="center">
-    <img src="images/fish_internal_anatomy.png">
+    <img src="images/fish_internal_anatomy.png" alt="diagram of the internal anatomy of fish">
     <em>[Image courtesy of Pixelsquid, Wikimedia Creative Commons 3.0](https://commons.wikimedia.org/wiki/File:Internal_organs_of_a_fish.svg)</em>
     <em></em>
 </p>
@@ -1497,7 +1499,7 @@ You are welcome to take photos of what you see in lab if it helps you learn, und
 <br>
 
 <p align="center">
-    <img src="images/monogene_from_rockfish.jpg">
+    <img src="images/monogene_from_rockfish.jpg" alt="Monogenean parasite from gills of kinki rockfish (Sebastolobus alascanus)">
     <em>Monogenean parasite from gills of kinki rockfish (*Sebastolobus alascanus*)</em>
     <em></em>
 </p>
@@ -1505,7 +1507,7 @@ You are welcome to take photos of what you see in lab if it helps you learn, und
 <br>
 
 <p align="center">
-    <img src="images/monogene_opisthaptor.jpg">
+    <img src="images/monogene_opisthaptor.jpg" alt="Opisthaptor of monogenean parasite from gills of kinki rockfish (Sebastolobus alascanus)">
     <em>Opisthaptor of monogenean parasite from gills of kinki rockfish (*Sebastolobus alascanus*)</em>
     <em></em>
 </p>
@@ -1513,7 +1515,7 @@ You are welcome to take photos of what you see in lab if it helps you learn, und
 <br>
 
 <p align="center">
-    <img src="images/tapeworm_larva.jpg">
+    <img src="images/tapeworm_larva.jpg" alt="Tapeworm larva (plerocercoid) from intestine of kinki rockfish (Sebastolobus alascanus)">
     <em>Tapeworm larva (plerocercoid) from intestine of kinki rockfish (*Sebastolobus alascanus*)</em>
     <em></em>
 </p>
@@ -1521,7 +1523,7 @@ You are welcome to take photos of what you see in lab if it helps you learn, und
 <br>
 
 <p align="center">
-    <img src="images/nematode_larva.jpg">
+    <img src="images/nematode_larva.jpg" alt="Nematode larva from body cavity of kinki rockfish (Sebastolobus alascanus)">
     <em>Nematode larva from body cavity of kinki rockfish (*Sebastolobus alascanus*)</em>
     <em></em>
 </p>
@@ -1529,7 +1531,7 @@ You are welcome to take photos of what you see in lab if it helps you learn, und
 <br>
 
 <p align="center">
-    <img src="images/nematode_adult.jpg">
+    <img src="images/nematode_adult.jpg" alt="Nematode adult from intesine of kinki rockfish (Sebastolobus alascanus)">
     <em>Nematode adult from intesine of kinki rockfish (*Sebastolobus alascanus*)</em>
     <em></em>
 </p>
@@ -1537,7 +1539,7 @@ You are welcome to take photos of what you see in lab if it helps you learn, und
 <br>
 
 <p align="center">
-    <img src="images/copepod.jpg">
+    <img src="images/copepod.jpg" alt="Copepod parasite from gills of kinki rockfish (Sebastolobus alascanus)">
     <em>Copepod parasite from gills of kinki rockfish (*Sebastolobus alascanus*)</em>
     <em></em>
 </p>
@@ -1545,7 +1547,7 @@ You are welcome to take photos of what you see in lab if it helps you learn, und
 <br>
 
 <p align="center">
-    <img src="images/penellid_copepod.jpg">
+    <img src="images/penellid_copepod.jpg" alt="Copepod parasite (family Pennellidae) from gills of kinki rockfish (Sebastolobus alascanus)">
     <em>Copepod parasite (family Pennellidae) from gills of kinki rockfish (*Sebastolobus alascanus*), courtesy of Matt Wilson</em>
     <em></em>
 </p>
@@ -1557,7 +1559,7 @@ You are welcome to take photos of what you see in lab if it helps you learn, und
 </br>
 
 <p align="center">
-    <img src="images/acanthocephalan.jpg">
+    <img src="images/acanthocephalan.jpg" alt="Acanthocephalan parasite from intestines of kinki rockfish (Sebastolobus alascanus)">
     <em>Acanthocephalan parasite from intestines of kinki rockfish (*Sebastolobus alascanus*)</em>
     <em></em>
 </p>
@@ -1566,7 +1568,7 @@ You are welcome to take photos of what you see in lab if it helps you learn, und
 
 
 <p align="center">
-    <img src="images/acanthocephalan_proboscis.jpg">
+    <img src="images/acanthocephalan_proboscis.jpg" alt="Proboscis of acanthocephalan parasite from intestines of kinki rockfish (Sebastolobus alascanus)">
     <em>Proboscis of acanthocephalan parasite from intestines of kinki rockfish (*Sebastolobus alascanus*)</em>
     <em></em>
 </p>
@@ -1609,7 +1611,7 @@ Not only do the cestodes have super complex life cycles, but their body forms ar
 <br>
 
 <p align="center">
-    <img src="images/cestode_cladogram.jpg">
+    <img src="images/cestode_cladogram.jpg" alt="cladogram of the flatworms">
     <em></em>
 </p>
 
@@ -1626,7 +1628,7 @@ Morphologically, tapeworms have three distinct body regions. At the extreme ante
 <br>
 
 <p align="center">
-    <img src="images/cestode_morphology.gif">
+    <img src="images/cestode_morphology.gif" alt="diagram showing the morphology of cestodes">
     <em></em>
 </p>
 
@@ -1641,7 +1643,7 @@ One interesting factoid about cestodes is that they are shark parasites that hav
 <br>
 
 <p align="center">
-    <img src="images/cyclophyllidean_scolices.jpg">
+    <img src="images/cyclophyllidean_scolices.jpg" alt="scolices of tapeworms in the Order Cyclophyllidea">
     <em>Scolices of tapeworms in the Order Cyclophyllidea, courtesy of CDC and Hubert Ludwig via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Tapeworm_scolex_examples.jpg)</em>
 </p>
 
@@ -1661,7 +1663,7 @@ The life cycles of cyclophyllideans is different than many other cestode orders 
 
 <br>
 <p align="center">
-    <img src="images/taenia_saginata.jpg">
+    <img src="images/taenia_saginata.jpg" alt="life cycle of Taenia saginata">
     <em>Image courtesy of [CDC DPDx](https://www.cdc.gov/dpdx/taeniasis/index.html)</em>
 </p>
 <br>
@@ -1676,7 +1678,7 @@ The life cycles of cyclophyllideans is different than many other cestode orders 
 
 <br>
 <p align="center">
-    <img src="images/taenia_pisiformis.jpg">
+    <img src="images/taenia_pisiformis.jpg" alt="life cycle of Taenia pisiformis">
     <em>Image from [Pu et al. 2022](https://doi.org/10.1016/j.gene.2022.146650)</em>
 </p>
 <br>
@@ -1691,7 +1693,7 @@ The life cycles of cyclophyllideans is different than many other cestode orders 
 
 <br>
 <p align="center">
-    <img src="images/echinococcus_granulosus.jpg">
+    <img src="images/echinococcus_granulosus.jpg" alt="life cycle of Echinococcus granulosus">
     <em>Image courtesy of [CDC DPDx](https://www.cdc.gov/dpdx/echinococcosis/index.html)</em>
 </p>
 <br>
@@ -1706,7 +1708,7 @@ The life cycles of cyclophyllideans is different than many other cestode orders 
 
 <br>
 <p align="center">
-    <img src="images/diphyllobothrium_latum.jpg">
+    <img src="images/diphyllobothrium_latum.jpg" alt="life cycle of Diphyllobothrium latum">
     <em>Image courtesy of [CDC DPDx](https://www.cdc.gov/dpdx/diphyllobothriasis/index.html)</em>
 </p>
 <br>
@@ -1764,7 +1766,7 @@ This seal was stranded (found on shore either dead or near death) around the  Se
 
 <br>
 <p align="center">
-    <img src="images/intestine_scrape.png">
+    <img src="images/intestine_scrape.png" alt="diagram displaying how to scrape out the intestine">
     <em>Image courtesy of Connor Whalen</em>
 </p>
 <br>
@@ -1900,56 +1902,56 @@ The vast majority of adult humans host the human eyebrow mite, *Demodex follicul
 
 <br>
 <p align="center">
-    <img src="images/portunion_conformis_2.jpg">
+    <img src="images/portunion_conformis_2.jpg" alt="Adult female Portunion conformis">
     <em>Adult female *Portunion conformis*. Image courtesy of Chelsea Wood</em>
 </p>
 <br>
 
 <br>
 <p align="center">
-    <img src="images/portunion_conformis_3.jpg">
+    <img src="images/portunion_conformis_3.jpg" alt="Adult female Portunion conformis">
     <em>Adult female *Portunion conformis*. Image courtesy of Chelsea Wood</em>
 </p>
 <br>
 
 <br>
 <p align="center">
-    <img src="images/portunion_conformis_eggs.jpg">
+    <img src="images/portunion_conformis_eggs.jpg" alt = "Eggs of Portunion conformis">
     <em>Eggs of *Portunion conformis*. Image courtesy of Chelsea Wood</em>
 </p>
 <br>
 
 <br>
 <p align="center">
-    <img src="images/portunion_conformis_egg.jpg">
+    <img src="images/portunion_conformis_egg.jpg" alt = "Egg of Portunion conformis">
     <em>Egg of *Portunion conformis*. Image courtesy of Chelsea Wood</em>
 </p>
 <br>
 
 <br>
 <p align="center">
-    <img src="images/portunion_conformis_epicarida.jpg">
+    <img src="images/portunion_conformis_epicarida.jpg" alt = "Epicaridia (larvae) of Portunion conformis">
     <em>Epicaridia (larvae) of *Portunion conformis*. Image courtesy of Chelsea Wood</em>
 </p>
 <br>
 
 <br>
 <p align="center">
-    <img src="images/portunion_conformis_epicarida_2.jpg">
+    <img src="images/portunion_conformis_epicarida_2.jpg" alt = "Epicaridia (larvae) of Portunion conformis">
     <em>Epicaridia (larvae) of *Portunion conformis*. Image courtesy of Chelsea Wood</em>
 </p>
 <br>
 
 <br>
 <p align="center">
-    <img src="images/demodex_follicularum_cosand_1.jpg">
+    <img src="images/demodex_follicularum_cosand_1.jpg" alt = "*Demodex follicularum* from the face of Megan Cosand, a student in the 2025 offering of FISH 406">
     <em>*Demodex follicularum* from the face of Megan Cosand, a student in the 2025 offering of FISH 406</em>
 </p>
 <br>
 
 <br>
 <p align="center">
-    <img src="images/demodex_follicularum_cosand_2.jpg">
+    <img src="images/demodex_follicularum_cosand_2.jpg" alt = "*Demodex follicularum* from the face of Megan Cosand, a student in the 2025 offering of FISH 406">
     <em>*Demodex follicularum* from the face of Megan Cosand, a student in the 2025 offering of FISH 406</em>
 </p>
 <br>
@@ -1957,7 +1959,7 @@ The vast majority of adult humans host the human eyebrow mite, *Demodex follicul
 ## Lab 6 - Nematodes
 
 <p align="center">
-    <img src="images/handful_of_nematodes.jpg" width="400">
+    <img src="images/handful_of_nematodes.jpg" width="400" alt = "doctor with a handful of Ascaris lumbricoides">
     <center>*Image courtesy of [CDC DPDx](https://www.cdc.gov/dpdx/)*</center>
 </p>
 
@@ -1994,7 +1996,7 @@ The nematodes are an astoundingly large and speciose group of worms. Free-living
 <br>
 
 <p align="center">
-    <img src="images/nematode_morphology.jpg">
+    <img src="images/nematode_morphology.jpg" alt="diagram of nematode morphology">
     <em></em>
 </p>
 
@@ -2018,7 +2020,7 @@ Life cycles of parasitic nematodes vary among species. In some, there is no inte
 
 <br>
 <p align="center">
-    <img src="images/hookworm_life_cycle.gif">
+    <img src="images/hookworm_life_cycle.gif" alt="hookworm life cycle">
     <center>*Image courtesy of [CDC DPDx](https://www.cdc.gov/dpdx/hookworm/index.html)*</center>
 </p>
 <br>
@@ -2050,7 +2052,7 @@ Species of hookworms live in the intestine of their hosts, attaching to the muco
 
 <br>
 <p align="center">
-    <img src="images/ascaris_life_cycle.jpg">
+    <img src="images/ascaris_life_cycle.jpg" alt="life cycle of Ascaris lumbricoides">
     <center>*Image courtesy of [CDC DPDx](https://www.cdc.gov/dpdx/ascariasis/index.html)*</center>
 </p>
 <br>
@@ -2065,7 +2067,7 @@ The life cycle of *Ascaris* is similar to that of hookworms, except that hosts a
 
 <br>
 <p align="center">
-    <img src="images/pinworm_life_cycle.jpg">
+    <img src="images/pinworm_life_cycle.jpg" alt="life cycle of Enterobius vermicularis">
     <center>*Image courtesy of [CDC DPDx](https://www.cdc.gov/dpdx/enterobiasis/index.html)*</center>
 </p>
 <br>
@@ -2084,7 +2086,7 @@ The life cycle of *E. vermicularis* is direct but the females exhibit a particul
 
 <br>
 <p align="center">
-    <img src="images/whipworm_life_cycle.gif">
+    <img src="images/whipworm_life_cycle.gif alt="life cycle of Trichuris trichiura"">
     <center>*Image courtesy of [CDC DPDx](https://www.cdc.gov/dpdx/trichuriasis/index.html)*</center>
 </p>
 <br>
@@ -2105,7 +2107,7 @@ Examine sections of infected muscle tissue. The juveniles often are rolled up sp
 
 <br>
 <p align="center">
-    <img src="images/wuchereria_bancrofti_life_cycle.jpg">
+    <img src="images/wuchereria_bancrofti_life_cycle.jpg" alt="life cycle of Wuchereria bancrofti">
     <center>*Image courtesy of [CDC DPDx](https://www.cdc.gov/dpdx/lymphaticfilariasis/index.html)*</center>
 </p>
 <br>
@@ -2162,7 +2164,7 @@ Obtain an *Ascaris lumbricoides* or *Ascaris suum* worm for dissection. Wear glo
 **"Sushi worms" (family Anisakidae) in canned salmon**
 
 <p align="center">
-    <img src="images/canned_salmon.jpg">
+    <img src="images/canned_salmon.jpg" alt="canned salmon">
     <em>Image courtesy of [Susan Slater via CC-BY-SA-4.0](https://commons.wikimedia.org/wiki/Category:Canned_salmon#/media/File:Canned_salmon.jpg)</em>
 </p></em>
 </p>
@@ -2239,7 +2241,7 @@ Draw at least 5 of the following:
 
 <br>
 <p align="center">
-    <img src="images/puppy_host.jpg">
+    <img src="images/puppy_host.jpg" alt="cute puppy">
     <em>Image courtesy of [Hebrew Matio via CC-BY-SA-4.0](https://commons.wikimedia.org/wiki/File:Dog_Breeds.jpg)</em>
 </p>
 <br>
@@ -2264,7 +2266,7 @@ Most flagellates that are intestinal parasites have two life stages: trophozoite
 
 <br>
 <p align="center">
-    <img src="images/giardia.jpg">
+    <img src="images/giardia.jpg" alt="Giardia intestinalis">
     <em></em>
 </p>
 <center>Image courtesy of [Adrian Pan via Creative Commons Attribution-Noncommercial-No Derivative Works 2.0 Unported License](https://www.flickr.com/photos/phylomon/8662461983)</center>
@@ -2281,7 +2283,7 @@ In this lab, we will examine coccidian apicomplexans. Current classification is 
 
 <br>
 <p align="center">
-    <img src="images/coccidian_oocysts.jpg">
+    <img src="images/coccidian_oocysts.jpg" alt="coccidian oocysts">
     <em></em>
 </p>
 <center>Image courtesy of [Joel Mills via CC BY-SA 3.0](https://en.wikipedia.org/wiki/Coccidia#/media/File:Coccidia.JPG)</center>
@@ -2295,7 +2297,7 @@ In this lab, we will examine coccidian apicomplexans. Current classification is 
 <br>
 
 <p align="center">
-    <img src="images/termite_cosand.JPEG">
+    <img src="images/termite_cosand.JPEG" alt="termite flagellates">
     <em></em>
 </p>
 <center>Image courtesy of Megan Cosand, a student in the 2025 offering of FISH 406</center>
@@ -2311,7 +2313,7 @@ Each student should dissect two termites. You are looking for the flagellates lo
 <br>
 
 <p align="center">
-    <img src="images/termite_flagellates.jpg">
+    <img src="images/termite_flagellates.jpg" alt="termite flagellates">
     <em></em>
 </p>
 <center>Image from [Brugerolle and Bordereau 2004](https://doi.org/10.1016/j.ejop.2004.05.001)</center>
@@ -2319,7 +2321,7 @@ Each student should dissect two termites. You are looking for the flagellates lo
 <br>
 
 <p align="center">
-    <img src="images/termite_protozoan_cosand_1.JPEG">
+    <img src="images/termite_protozoan_cosand_1.JPEG" alt="termite protozoan">
     <em></em>
 </p>
 <center>Image courtesy of Megan Cosand, a student in the 2025 offering of FISH 406</center>
@@ -2365,14 +2367,14 @@ In this demo, we will survey the intestinal parasite fauna of some local mammal 
 <br>
 
 <p align="center">
-    <img src="images/cyst_comparison.jpg">
+    <img src="images/cyst_comparison.jpg" alt="size comparison of various cysts found in dog feces">
     <em>Image courtesy of the [University of Saskatchewan Western College of Veterinary Medicine](https://wcvm.usask.ca/learnaboutparasites/diagnostics/eggoocyst-comparison---canine-flotation.php)</em>
 </p>
 
 <br>
 
 <p align="center">
-    <img src="images/eggs_in_fecals.png">
+    <img src="images/eggs_in_fecals.png" alt="eggs commonly found in fecal floats">
     <em>Image courtesy of Knott and Elliott, [University of Queensland](https://shire.science.uq.edu.au/parasites/helminths/nematodes/faecal-floats.php)</em>
 </p>
 
