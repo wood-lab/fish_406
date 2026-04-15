@@ -14,7 +14,7 @@ navbar:
       href: https://canvas.uw.edu/courses/1829825
     - text: "Instructor's corner"
       href: instructors_corner.html
-    - text: ""
+    - text: "GitHub"
       icon: fab fa-github
       href: https://github.com/wood-lab/fish_406
 output_dir: "docs"
