@@ -16,8 +16,8 @@ cal_data<-read.csv("calendar_data.csv")
 calendar(cal_data, navigation = TRUE, view="week", defaultDate = Sys.Date()) %>%
   cal_week_options(
     startDayOfWeek  = 1, 
-    workweek = TRUE
-  )
+    workweek = TRUE)
+    
 
 # This dummy dataset shows you how things need to be formatted in order to produce a sensible calendar:
 # cal_demo_data()
