@@ -14,12 +14,21 @@ instructor_cal_data<-read.csv("instructor_calendar_data.csv")
 cal_data<-read.csv("calendar_data.csv")
 full_cal_data<-rbind.data.frame(cal_data,instructor_cal_data)
 
+## define your custom font color using native R list structure
+
+custom_theme <- list(
+  "common.color" = "#000000"
+  )
+
 ## display calendar
 calendar(full_cal_data, navigation = TRUE, defaultDate = Sys.Date()) %>%
   cal_month_options(
-    startDayOfWeek  = 0, 
-    narrowWeekend = TRUE
-  )
+  startDayOfWeek  = 0, 
+  narrowWeekend = TRUE,
+  useDetailPopup = TRUE,
+  useCreationPopup = TRUE
+) %>% 
+  cal_theme(custom_theme)
 
 # This dummy dataset shows you how things need to be formatted in order to produce a sensible calendar:
 # cal_demo_data()
