@@ -1401,6 +1401,7 @@ Please answer the following questions in your lab notebook:
 **In-lab activity:** 
 
 * [Powerpoint file](labs/lab_2.pptx)
+* [Lab data](https://docs.google.com/spreadsheets/d/1QBmqTrLwttPQ_8yiZudZHvwsHo6yU80yZZUjaGAVFLQ/edit?usp=sharing)
 
 Now that you’ve done a deep dive into the trematodes, let’s take a broader view: we’ll check out a diversity of parasites from marine and freshwater fishes, covering monogenes, trematodes, cestodes, nematodes, acanthocephalans, and crustaceans. 
 
@@ -1839,6 +1840,7 @@ This seal was stranded (found on shore either dead or near death) around the  Se
 * [Powerpoint file](labs/lab_5.pptx)
 * [Scientific writing tutorial](labs/lab_5_scientific_writing.pptx)
 * [Talking points](labs/lab_5_talking_points.docx)
+* [Lab data](https://docs.google.com/spreadsheets/d/10DcgqeAmWQ_k-U6NCopomakuGIbLaMbgQS9wBZgf9mE/edit?usp=sharing)
 
 <p align="center">
     <img src="images/handful_of_nematodes.jpg" width="400" alt = "doctor with a handful of Ascaris lumbricoides">
@@ -2125,6 +2127,7 @@ Draw at least 5 of the following:
 
 * [Powerpoint file](labs/lab_6.pptx)
 * [Talking points](labs/lab_6_talking_points.docx)
+* [Lab data](https://docs.google.com/spreadsheets/d/12qR3WJeYB0xSuoXGKmSF1PhcKUtCK9OzRQi7i1IHQYo/edit?usp=sharing)
 
 As we've traversed the parasite tree of life , we've so far focused primarily on vermiform parasites (i.e., wormy dudes). Today, you'll get to come face-to-face with a different group of parasites: the arthropods (i.e., crunchy dudes).
 
