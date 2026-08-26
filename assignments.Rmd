@@ -216,6 +216,38 @@ For this assignment, you will be scored on the quality of the two peer reviews y
 
 <br>
 
+### Poster presentation
+
+During your final lab section meeting, you will present your poster to the entire lab section! Your poster will be projected onto a screen and you'll stand alongside it to give a 5-minute overview of your research, just as you might in a real poster session. The day before lab meets, you will upload your poster file (as .ppt, .pptx, or .pdf file) to Canvas, which will allow your TA will display it via projector. There are no size or dimension specifications for your poster - because it will be presented with a projector (not printed), you can make it any size you want.
+
+**Unsure how to make a poster?** Check out these examples from previous generations of FISH 406 students:
+
+* Amelia Ehlers, "Effect of nutrient concentration and turbidity on the microhabitats of *S. haematobium* hosts" - [view poster](example_assignments/posters/ehlers.pdf), [watch poster presentation](https://youtu.be/UNFO1qqGyOc)
+* Zoey Harvey, "Dietary iron deficiency impact compared across anemia-inducing NTDs" - [view poster](example_assignments/posters/harvey.pdf), [watch poster presentation](https://youtu.be/Qp-l-9RYcSk)
+* Ahma Masselink, "Effects of intra-annual sea surface temperatures on parasite abundance in Puget Sound" - [view poster](example_assignments/posters/masselink.pdf), [watch poster presentation](https://youtu.be/xsdgYZchhq0)
+* Annika Nilsson, "Effect of increasing temperature on parasite diversity in Puget Sound" - [view poster](example_assignments/posters/nilsson.pdf), [watch poster presentation](https://youtu.be/BfBWtBbizrw)
+* Ari Paulik, "Historical poleward migration of parasite populations in Puget Sound" - [view poster](example_assignments/posters/ehlers.pdf), [watch poster presentation](https://youtu.be/WiJfckoQ5kI)
+* Emily Pinneo, "Change in marine fish parasite abundance across depth in Puget Sound" [view poster](example_assignments/posters/pinneo.pdf), [watch poster presentation](https://youtu.be/HJf8_3Zdud0)
+
+<br>
+
+#### Poster rubric
+
+| Category | Exceeds expectations (9–10) | Meets expectations (7–8) | Nearly meets expectations (5–6) | Does not meet expectations (3–4) | Incomplete (0–1)
+| :------- | ------: | -------: | -------: | -------: | -------: |
+| Required elements present | Poster includes Introduction, Methods, Results (including figures), Discussion, and References sections | One of the aforementioned elements are missing | Two of the aforementioned elements are missing | Three of the aforementioned elements are missing | NA |
+| Novelty of the research question | Research question is novel, interesting, and testable | Research question is novel, but trivial or untestable | Research question is novel, but both trivial and untestable | Research question is not novel | Research question is absent |
+| Introduction | The introduction successfully “funnels” by providing a broad context and narrowing in to the purpose of the paper | The introduction provides appropriate background context but does not “funnel” | The introduction states the main topic but does not provide appropriate background context | There is no clear introduction or main topic and no background context | Absent |
+| Methods | Methods are reported clearly, accurately, and in logical order, and reflect an original analysis | Methods are reported mostly accurately and somewhat clearly, but may lack logical order or are difficult to follow | Methods are reported but do not accurately represent the steps of the study or are missing important pieces | Methods are missing or replicated from a published study | NA |
+| Results | Concise, clear, and accurate statement of results | Accurate statement of results | Statement of results included | No results included | NA |
+| Graphs | Clear, accurate graphs illustrate the results well and are labeled neatly and accurately | Clear, accurate graphs are included and labeled | Graphs are included and are labeled but may be missing important labels or have some inaccuracies | Graphs are missing or mostly inaccurate | NA |
+| Discussion | Speaker demonstrates logical and subtle sequencing of ideas; transitions are used to enhance organization | Logical development present but not perfected | Organization of ideas not fully developed | No evidence of structure or organization | NA |
+| References | Introduction and Discussion contain at least 5 references to the literature that are cited in the correct format | Introduction and Discussion contain at least 3 references to the literature that are cited in the correct format | No references are cited in the correct format | NA | NA |
+| Mechanics | Poster is visually appealing, organized, has minimal text, makes use of diagrams and plots to convey information instead of words | Poster is organized, but text-heavy. Points that could be made with plots of data are instead made with text or speech | Poster is disorganized, text-heavy, difficult to understand | Numerous and distracting errors in plots or text that make poster very difficult to understand | NA |
+| Preparation | Presentation indicates intensive preparation | Presentation indicates adequate preparation | Presentation indicates minimal preparation | Presentation indicates a lack of preparation | NA |
+
+<br>
+
 ### Second draft
 
 You will receive feedback from two classmates on your first draft and you'll have one week to incorporate their suggestions into your term paper and create a second draft. **You will be awarded 1 point toward your final grade for completing this assignment on time.** Your work on the term paper will not be graded until you submit the final version. This should give you the opportunity to put together a stellar paper, and lets you experience the iterative process of scientific writing.
@@ -253,37 +285,6 @@ You will receive feedback from two classmates on your first draft and you'll hav
 | Number of references | There are at least 20 references, all are legitimate and cited appropriately in the text of the paper | There are 15-19 legitimate references cited appropriately in the text of the paper | There are 10-14 legitimate references cited appropriately in the text of the paper | There are 5-9 legitimate references cited appropriately in the text of the paper | There are 0-4 legitimate references cited appropriately in the text of the paper |
 | Formatting of references | All references are cited in the correct format with no errors | Some references are cited in the correct format | Few references are cited in the correct format | No references are cited in the correct format | References are absent |
 | Mechanics | No errors in punctuation, capitalization, spelling, sentence structure, or word usage | Almost no errors in punctuation, capitalization, spelling, sentence structure, or word usage | Many errors in punctuation, capitalization, spelling, sentence structure, or word usage | Numerous and distracting errors in punctuation, capitalization, spelling, sentence structure, or word usage | NA |
-
-<br>
-
-### Poster presentation
-
-During your final lab section meeting, you will present your poster to the entire lab section! Your poster will be projected onto a screen and you'll stand alongside it to give a 5-minute overview of your research, just as you might in a real poster session. The day before lab meets, you will upload your poster file (as .ppt, .pptx, or .pdf file) to Canvas, which will allow your TA will display it via projector. There are no size or dimension specifications for your poster - because it will be presented with a projector (not printed), you can make it any size you want.
-
-**Unsure how to make a poster?** Check out this helpful video from UW Undergraduate Academic Affairs:
-
-<br>
-<center>
-[![UW Undergraduate Research Symposium Poster Presentation Workshop](https://img.youtube.com/vi/u3u6ToXiWKs/0.jpg)](https://www.youtube.com/watch?v=u3u6ToXiWKs)
-</center>
-</br>
-
-<br>
-
-#### Poster rubric
-
-| Category | Exceeds expectations (9–10) | Meets expectations (7–8) | Nearly meets expectations (5–6) | Does not meet expectations (3–4) | Incomplete (0–1)
-| :------- | ------: | -------: | -------: | -------: | -------: |
-| Required elements present | Poster includes Introduction, Methods, Results (including figures), Discussion, and References sections | One of the aforementioned elements are missing | Two of the aforementioned elements are missing | Three of the aforementioned elements are missing | NA |
-| Novelty of the research question | Research question is novel, interesting, and testable | Research question is novel, but trivial or untestable | Research question is novel, but both trivial and untestable | Research question is not novel | Research question is absent |
-| Introduction | The introduction successfully “funnels” by providing a broad context and narrowing in to the purpose of the paper | The introduction provides appropriate background context but does not “funnel” | The introduction states the main topic but does not provide appropriate background context | There is no clear introduction or main topic and no background context | Absent |
-| Methods | Methods are reported clearly, accurately, and in logical order, and reflect an original analysis | Methods are reported mostly accurately and somewhat clearly, but may lack logical order or are difficult to follow | Methods are reported but do not accurately represent the steps of the study or are missing important pieces | Methods are missing or replicated from a published study | NA |
-| Results | Concise, clear, and accurate statement of results | Accurate statement of results | Statement of results included | No results included | NA |
-| Graphs | Clear, accurate graphs illustrate the results well and are labeled neatly and accurately | Clear, accurate graphs are included and labeled | Graphs are included and are labeled but may be missing important labels or have some inaccuracies | Graphs are missing or mostly inaccurate | NA |
-| Discussion | Speaker demonstrates logical and subtle sequencing of ideas; transitions are used to enhance organization | Logical development present but not perfected | Organization of ideas not fully developed | No evidence of structure or organization | NA |
-| References | Introduction and Discussion contain at least 5 references to the literature that are cited in the correct format | Introduction and Discussion contain at least 3 references to the literature that are cited in the correct format | No references are cited in the correct format | NA | NA |
-| Mechanics | Poster is visually appealing, organized, has minimal text, makes use of diagrams and plots to convey information instead of words | Poster is organized, but text-heavy. Points that could be made with plots of data are instead made with text or speech | Poster is disorganized, text-heavy, difficult to understand | Numerous and distracting errors in plots or text that make poster very difficult to understand | NA |
-| Preparation | Presentation indicates intensive preparation | Presentation indicates adequate preparation | Presentation indicates minimal preparation | Presentation indicates a lack of preparation | NA |
 
 <br>
 
