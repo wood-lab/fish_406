@@ -14,11 +14,19 @@ output:
 
 # Grading
 
+<br>
+
+## Policy on late assignments
+
+<u>**Late assignments are not accepted and will receive a grade of 0%.**</u> However, if you anticipate being unable to meet an assignment deadline, please shoot Chelsea an e-mail or speak to her **before the deadline**, as she is very happy to arrange accommodations for you in case of illness or other unexpected roadblocks.
+
+<br>
+
 ## Grading breakdown
 
 | Type | Assessment | Proportion of your final grade |
 | :------- | :------: | -------: |
-| Admin | [Qualtrics survey - Before FISH 406](https://uwsurvey.qualtrics.com/jfe/form/SV_6g7LcSJCR93c2LI) | 0% |
+| Admin | Qualtrics survey - Before FISH 406 | 0% |
 | Admin | Qualtrics survey - After FISH 406 | 0% |
 | Exam | Midterm | 20% |
 | Exam | Final (partially cumulative) | 20% |
@@ -49,11 +57,6 @@ If you believe that an exam or assignment has been graded incorrectly, or that t
 
 <br>
 
-## Policy on late assignments
-
-**Late assignments are not accepted and will receive a grade of 0%.** However, if you anticipate being unable to meet an assignment deadline, please shoot Chelsea an e-mail or speak to her **before the deadline**, as she is very happy to arrange accommodations for you in case of illness or other unexpected roadblocks.
-
-<br>
 
 ## Grading scale
 
