@@ -22,6 +22,12 @@ output:
 
 <br>
 
+## Policy on AI-based tools
+
+<u>**All artificial-intelligence-based tools are forbidden in FISH 406.**</u> This includes grammar tools, like Grammarly. For details, see the [course syllabus](https://wood-lab.github.io/fish_406/syllabus.html#AI-based_tools).
+
+<br>
+
 ## Grading breakdown
 
 | Type | Assessment | Proportion of your final grade |
@@ -210,7 +216,7 @@ Your first draft assignment should contain an **Introduction, Methods, Results (
 
 ### Peer review
 
-Peer review makes the scientific world go 'round! You will receive the first drafts of two classmates and your assignment is to make both better. You will **not be providing line edits on your colleague's papers** at this time, because your goal for this early draft is to engage with the content - not the grammar and spelling. [This worksheet](handouts/peer_review_worksheet.docx) is designed to help you think deeply about the questions, hypotheses, tests, inferences, and logic of your colleague's paper, and will help you provide feedback that is maximally useful to your colleagues. **You must complete one worksheet for each of the two papers you receive to review** to receive credit for this assignment.
+Peer review makes the scientific world go 'round! You will receive the first drafts of two classmates and your assignment is to make both better. You will **not be providing line edits on your colleague's papers** at this time, because your goal for this early draft is to engage with the content - not the grammar and spelling. [This worksheet](handouts/peer_review_worksheet.docx) is designed to help you think deeply about the questions, hypotheses, tests, inferences, and logic of your colleague's paper, and will help you provide feedback that is maximally useful to your colleagues. **You must complete one worksheet for each of the two papers you receive to review** to receive credit for this assignment. Upload one worksheet for each of your colleagues as prompted on Canvas (i.e., as a peer review, with the correct peer review worksheet attached to each colleague's assignment). Peer reviews must be submitted by the assignment deadline in order to receive credit.
 
 For this assignment, you will be scored on the quality of the two peer reviews you perform. In addition to providing written feedback to your colleagues, you will also perform another vital service: you will score their first draft using the term paper rubric, the same rubric that I will use to score the final drafts at the end of the quarter. By seeing how their first draft is likely to score on each dimension of the rubric, your colleagues will know where to invest their efforts as the revise their paper. The score you provide will not be used to grade your colleague in any way, shape, or form - it is merely for your colleague's own information.
 
