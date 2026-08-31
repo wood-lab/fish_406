@@ -138,7 +138,7 @@ To help you start thinking about what scientific questions you might like to add
 
 - **Human schistosomiasis in Senegal:** We were interested in the most efficient ways to identify hotspots of schistosomiasis transmission in Senegal. We sampled humans and snails across several villages and [found that the presence of floating vegetation was a strong predictor of human infections](https://doi.org/10.1073/pnas.190369811); that's cool because floating vegetation can be measured by drones or even from satellites, making it easy to identify high-risk remote villages that could then be targeted for public health interventions. But there are lots of other questions that can be addressed in [this dataset](https://doi.org/10.5061/dryad.djh9w0vvt).
 
-- **Global Burden of Disease dataset:** The Institute for Health Metrics and Evaluation (IHME) compiles data on all causes of morbidity and mortality globally to produce the [Global Burden of Disease](https://www.healthdata.org/research-analysis/gbd-publications) dataset - the world's "largest and most comprehensive effort to quantify health loss across places and over time". This is a massive that spans many neglected tropical diseases from 1990 to present day. If you have questions about what factors contribute to the transmission of one or many NTDs, this is the dataset to check out.
+- **Global Burden of Disease dataset:** The Institute for Health Metrics and Evaluation (IHME) compiles data on all causes of morbidity and mortality globally to produce the [Global Burden of Disease](https://www.healthdata.org/research-analysis/gbd-publications) dataset - the world's "largest and most comprehensive effort to quantify health loss across places and over time". This is a massive dataset that spans many neglected tropical diseases from 1990 to present day. If you have questions about what factors contribute to the transmission of one or many NTDs, this is the dataset to check out.
 
 - **Global trends in sushi worms:** We wanted to know: is the problem of worms in sushi (i.e., nematodes in the family Anisakidae) getting better or worse through time? The answer is: [worse. A lot worse](https://doi.org/10.1111/gcb.15048). [This meta-analytic dataset](https://doi.org/10.5061/dryad.kwh70rz0z) brings together results from many other studies spanning several decades and could be used to address lots of other questions.
 
@@ -149,6 +149,10 @@ To help you start thinking about what scientific questions you might like to add
 - **Lingcod parasites:** We tried to solve the mystery of the blue lingcod! In other species, color polymorphisms are intimately linked with host–parasite interactions, which led us to ask whether blue coloration in lingcod might be associated with parasitism, either as cause or effect. The [data suggest that the blue color polymorphism is linked to the nutrition of the host (and possibly associated with starvation)](https://doi.org/10.1371/journal.pone.0261202), but [this flexible dataset](https://datadryad.org/dataset/doi:10.5061/dryad.83bk3j9sr) can be used to pursue many other questions about lingcod parasite burden, because it contains counts of all metazoan parasites of 89 lingcod individuals collected across more than 26 degrees of latitude from Alaska, Washington, and California.
 
 - **Choose your own adventure:** The datasets above are ones that have been used in the past by our lab, but there are lots of other parasite datasets out there. If there is a specific topic that you are interested in that isn't represented by the datasets above, feel free to seek out another appropriate dataset. Good places to look are the data repositories Dryad, Zenodo, FigShare, etc. You will need to work closely with your TA to make sure that the data source you're choosing is reputable and of sufficient quality for analysis, so if you choose this path, make sure to touch base early and often! If you do choose your own adventure, you are **prohibited from performing a data synthesis** (i.e., bringing together >2 datasets) and you are **required to provide direct links to the datasets that you are using**, so that your instructors can check your work.
+
+<br>
+
+### Example papers
 
 Here are some **exemplary papers** written by past generations of SAFS students, in response to a similar assignment. Note that these papers are not about parasites, but otherwise they are exactly what I want you to aim for!
 
@@ -166,9 +170,25 @@ Here are some **exemplary papers** written by past generations of SAFS students,
 
 <br>
 
+### How to compose your paper
+
+As you know from the [course syllabus](https://wood-lab.github.io/fish_406/syllabus.html#AI-based_tools), <u>**all artificial-intelligence-based tools are forbidden in FISH 406.**</u> This includes grammar tools, like Grammarly. To ensure that no student improperly uses AI tools, all writing for the term paper assignment must occur in a dedicated Google Document, because Google Docs can track your version history. Your instructors will give you a link to your personal term paper Google Document at the beginning of the quarter. To submit each of the assignments below,
+
+1. Compose them in your personal term paper Google Document.
+2. **<u>DO NOT</u>** compose any text for your paper in another application. If you copy and paste from another application, it will set off AI alarm bells.
+3. When an assignment is due, go into your Google Doc, click File > Download > PDF Document (.pdf).
+4. Save the file with a useful name: "yourlastname_yourfirstname_assignmentname.pdf".
+5. Upload the pdf to the relevant assignment in Canvas.
+6. You will receive instructor feedback on your pdf in Canvas.
+7. At the same time, your instructor will screen your Google Document for signals of AI use.
+8. If you do not submit a pdf of your Google Doc by the Canvas assignment deadline, your assignment will be subject to the [course policy on late assignments](https://wood-lab.github.io/fish_406/assignments.html#Policy_on_late_assignments). **Completing the assignment in the Google Doc is not enough** - you must submit a pdf to the Canvas assignment by the deadline in order to receive credit for each assignment.
+9. If our software detects patterns in your Google Doc that are consistent with academic misconduct, [the case will be referred to the College of the Environment for a Student Conduct Process hearing](https://wood-lab.github.io/fish_406/syllabus.html#Academic_integrity).
+
+<br>
+
 ### Select your question
 
-In Lab 4, we will get together to discuss your ideas for this project. **Come with an idea, any idea, for a research question you would be interested in addressing and you will receive 1 point toward your final grade.** If you're having trouble coming up with research questions, go back to Chapters 1 and 2 of *How to Do Ecology* (required reading for Lab 4).
+In Lab 3, we will get together to discuss your ideas for this project. **Come with an idea, any idea, for a research question you would be interested in addressing and you will receive 1 point toward your final grade.** If you're having trouble coming up with research questions, go back to Chapters 1 and 2 of *How to Do Ecology* (required reading for Lab 3).
 
 Through discussion, we will discover which students have similar interests, and based on this information your TA will suggest teams. Remember: teams are permitted to pursue the same research question and conduct analyses together, but must turn in separate posters and research papers with no overlap in text.
 
