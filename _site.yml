@@ -14,10 +14,10 @@ navbar:
       href: https://canvas.uw.edu/courses/1918432
     - text: "Instructor's corner"
       href: instructors_corner.html
-    - text: "Test accessibility"
+    - text: "Accessibility"
       href: https://wave.webaim.org
     - text: "GitHub"
-      icon: fab fa-github
+      icon: fab fa-github     
       href: https://github.com/wood-lab/fish_406
 output_dir: "docs"
 output:
