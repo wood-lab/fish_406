@@ -1970,7 +1970,7 @@ The life cycle of *E. vermicularis* is direct but the females exhibit a particul
 
 <br>
 <p align="center">
-    <img src="images/whipworm_life_cycle.gif alt="life cycle of Trichuris trichiura"">
+    <img src="images/whipworm_life_cycle.gif" alt="life cycle of Trichuris trichiura">
     <center>*Image courtesy of [CDC DPDx](https://www.cdc.gov/dpdx/trichuriasis/index.html)*</center>
 </p>
 <br>
