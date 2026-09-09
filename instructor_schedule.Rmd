@@ -3,6 +3,17 @@ title: "Instructor schedule"
 output: html_document
 ---
 
+<style>
+.toastui-calendar-popup-container {
+  background-color: white !important;
+  color: black !important;
+}
+
+.toastui-calendar-popup-container * {
+  color: black !important;
+}
+</style>
+
 <html lang="en">
 
 ```{r generate_calendar, eval = TRUE, echo=FALSE}
@@ -16,10 +27,6 @@ full_cal_data<-rbind.data.frame(cal_data,instructor_cal_data)
 
 ## define your custom font color using native R list structure
 
-custom_theme <- list(
-  "common.color" = "#000000"
-  )
-
 ## display calendar
 calendar(full_cal_data, navigation = TRUE, defaultDate = Sys.Date()) %>%
   cal_month_options(
@@ -27,8 +34,7 @@ calendar(full_cal_data, navigation = TRUE, defaultDate = Sys.Date()) %>%
   narrowWeekend = TRUE,
   useDetailPopup = TRUE,
   useCreationPopup = TRUE
-) %>% 
-  cal_theme(custom_theme)
+) 
 
 # This dummy dataset shows you how things need to be formatted in order to produce a sensible calendar:
 # cal_demo_data()

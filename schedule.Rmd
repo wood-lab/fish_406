@@ -3,6 +3,17 @@ title: "Schedule"
 output: html_document
 ---
 
+<style>
+.toastui-calendar-popup-container {
+  background-color: white !important;
+  color: black !important;
+}
+
+.toastui-calendar-popup-container * {
+  color: black !important;
+}
+</style>
+
 <html lang="en">
 
 ```{r generate_calendar, eval = TRUE, echo=FALSE}
