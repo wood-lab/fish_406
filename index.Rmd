@@ -1,6 +1,6 @@
 ---
 title: "Parasite Ecology"
-subtitle: "FISH 406 &nbsp; &nbsp; University of Washington &nbsp; &nbsp; Fall 2025"
+subtitle: "FISH 406 &nbsp; &nbsp; University of Washington &nbsp; &nbsp; Fall 2026"
 output: html_document
 ---
 
