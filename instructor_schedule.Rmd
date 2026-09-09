@@ -40,6 +40,7 @@ calendar(full_cal_data, navigation = TRUE, defaultDate = Sys.Date()) %>%
 <br>
 </br>
 
+<center>For a fully accessible version of this calendar, download [the csv file](instructor_calendar_data.csv).</center>
 <center>Access the students' schedule [here](https://wood-lab.github.io/fish_406/schedule.html).</center>
 
 <br>
