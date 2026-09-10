@@ -51,7 +51,7 @@ output:
 | obtained new each year | shared | a bucket | seawater |
 | obtained new each year | 0.5 | 24 | whole, ungutted, wild fish from the seafood market |
 | obtained new each year | 0.5 | 24 | 1 small can of wild salmon |
-| obtained new each year | 1 | 48 | *Hemigrapsus oregonensis* and *H. nudus* collected from Tacoma Narrows, WA |
+| obtained new each year | 1 | 200 | *Hemigrapsus oregonensis* and *H. nudus* collected from Tacoma Narrows, WA |
 | obtained new each year | shared | 2 | batch of 100 living termites from Carolina Biological Supply |
 | obtained new each year | shared | several | poop samples from several dog individuals (with metadata on dogs) |
 | obtained new each year | shared | several | poop samples from several elk/deer/cougar/otter individuals (with metadata on hosts) |
