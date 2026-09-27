@@ -1639,15 +1639,15 @@ One of the things that you'll see in the above video is a tapeworm larva in the 
 
 Not only do the cestodes have super complex life cycles, but their body forms are wildly diverse, and they are just **heartbreakingly, staggeringly beautiful**. You'll get to see that for yourself in this lab. We'll have one species of cestodes for you to discover very much alive. I hope you'll come to love the tapeworms as much as I do.
 
+<br>    
 
-  Phylum Platyhelminthes
-    Class Cestoidea
-      Subclass Eucestoda
-        Order Cyclophyllidea
-          Family Hymenolepididae
-            *Hymenolepis diminuta*
+<p align="center">
+    <img src="images/tom_quinn_and_tapeworm.jpg" alt="Tom Quinn and tapeworm">
+    <em>SAFS professor Tom Quinn holding a broad fish tapeworm (*Diphyllobothrium latum*), after it was passed from the gut of a brown bear in Alaska. Bears that are passing these worms often use bushes in lieu of toilet paper, with the result that you'll find the worms strung up like party streamers along streamside vegetation. I can't think of a better reason to sign up for the [Alaska Salmon Program](https://alaskasalmonprogram.org)! Photo courtesy of Tom Quinn.</em>
+</p>
 
-<br>                                          
+<br>  
+
 
 ### The cestodes
 

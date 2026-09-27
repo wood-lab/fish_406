@@ -165,11 +165,11 @@ I don’t expect anyone in this class to engage in academic misconduct – paras
 
 ## AI-based tools
 
-Using an AI-based tool like ChatGPT on writing assignments like the FISH 406 term paper removes your opportunity to get to know the parasites, hurting you in a number of ways.
+AI-based tools (including generative AI such as ChatGPT, Claude, or Copilot; AI-assisted features in software you may already use; AI image generators; and AI-integrated search summaries) **may not be used at any stage of any assessment in this course**. Why? Because using an AI-based tool (especially on writing assignments like the FISH 406 term paper) removes your opportunity to get to know the parasites, hurting you in a number of ways.
 
 You might think, "I'm never gonna be a parasite ecologist, so what does it matter whether I do these assignments or let an AI do them for me?" Maybe you won't become a parasite ecologist. But *the skills that our assignments will teach you (writing, critical thinking, hypothesis development, creative problem-solving) are valuable across a range of professions*. If you let AI do assignments for you, you're missing a great opportunity to build those skills and make yourself marketable across a variety of fields.
 
-Not only that, but *AI is bad at a lot of stuff, and creativity is a particular weakness*. AI just vomits out what it has already seen in its training dataset. The FISH 406 term project asks you to think creatively. Your human brain can generate much better ideas than a robot brain.
+Not only that, but *AI is bad at a lot of stuff, and creativity is a particular weakness*. AI just vomits out what it has already seen in its training dataset. The FISH 406 term project asks you to think creatively. Your human brain can generate much better ideas than a robot brain can.
 
 Here are some tips for avoiding the temptation to use AI-based tools:
 
