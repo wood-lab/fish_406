@@ -83,7 +83,6 @@ Agenda:
 * instructor invites students to introduce themselves
 * instructor reviews course website
 * instructor reviews Canvas page
-* instructor reviews class norms
 * PollEverywhere questions
 * in-class activities shown in class_1.ppt
 
