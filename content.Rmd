@@ -1159,8 +1159,9 @@ This year, I'll kick off our labs by throwing you into the deep end of the paras
 
 The platyhelminths are commonly referred to as "flatworms", since they are typically dorsoventrally flattened. This large and diverse phylum is comprised of four major classes (Turbellaria, Trematoda, Monogenea, and Cestoidea) that we will study in more depth throughout the next few labs. The hypothetical relationships of these major groups are shown in the cladogram below, which traces the common ancestry among the groups. The platyhelminths as a group provide an exciting introduction to parasitology because one can trace the evolution and specialization for parasitism throughout the group. While studying the flatworms, pay particular attention to the reproductive anatomy, reproductive capacity, adaptations for a parasitic life style, and transmission stages.
 
+<br>
 <p align="center">
-    <img src="images/flatworm_cladogram.jpg alt="flatworm cladogram, spanning Turbellaria to Cestoda">
+    <img src="images/flatworm_cladogram.jpg" alt = "flatworm cladogram, spanning Turbellaria to Cestoda">
 </p>
 
 <br>
@@ -1256,8 +1257,8 @@ Schistosomes are long, thin worms, an adaptation to living in the small blood ve
 <br>
 
 <p align="center">
-    <img src="images/Sm_in_copula.jpeg" alt="male and female schistosomes in copula>
-    <em>Image from [Boissier et al. 2019](https://www.researchgate.net/publication/337592635_Schistosoma_spp#fullTextFileContent)</em>
+    <img src="images/Sm_in_copula.jpeg" alt="male and female schistosomes in copula">
+    <br><em>Image from [Boissier et al. 2019](https://www.researchgate.net/publication/337592635_Schistosoma_spp#fullTextFileContent)</em>
 </p>
 
 <br>
@@ -1326,6 +1327,13 @@ Note that *Schistosoma*-infected mice were provided by the NIAID Schistosomiasis
 <br>
 <center>
 [![Dissection of a mouse (Mus musculus) infected with Schistosoma mansoni](https://img.youtube.com/vi/5od_IPQ_nvU/0.jpg)](https://www.youtube.com/watch?v=5od_IPQ_nvU)
+</center>
+</br>
+
+<br>
+<center>
+[![Adult schistosomes visualized under a microscope](https://img.youtube.com/vi/EtcmTNyOKHA/0.jpg)](https://www.youtube.com/watch?v=EtcmTNyOKHA)
+<br><em>Video courtesy of Jaelle Oliver, a student in the 2026 offering of FISH 406</em>
 </center>
 </br>
 
