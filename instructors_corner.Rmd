@@ -130,11 +130,9 @@ Agenda:
 Agenda:
 
 * remind students to use nametags so that instructor can learn everyone's name
-* recap yesterday's lab, ask students which parasites they saw
-* remind students about weekly quizzes
 * remind students [where to find information about term project on the course website](https://wood-lab.github.io/fish_406/assignments.html#Term_project)
 * remind students that the *How to Do Ecology* readings will help them with the term project
-* take a survey of students' preferred podcasts and recommend [This Week in Parasitism](https://www.microbe.tv/twip/about) for review
+* recommend [This Week in Parasitism](https://www.microbe.tv/twip/about) for review
 * introduce Chelsea's work on schistosomiasis in Senegal, explain the motivation (aquatic ecology in service of public health)
 * in-class activities shown in class_5.ppt
 
