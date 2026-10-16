@@ -1591,6 +1591,24 @@ You are welcome to take photos of what you see in lab if it helps you learn, und
 <br>
 
 
+<div style="display: flex; justify-content: center;
+            margin: 0; padding: 0;">
+  <iframe
+    src="https://www.youtube-nocookie.com/embed/vGkerTAUl6w"
+    title="YouTube Short"
+    width="280"
+    height="400"
+    style="display: block; border: none;
+           border-radius: 12px; margin: 0; padding: 0;"
+    loading="lazy"
+    allow="accelerometer; autoplay; clipboard-write;
+           encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen>
+  </iframe>
+</div>
+
+<br>
+
 <p align="center">
     <img src="images/acanthocephalan_proboscis.jpg" alt="Proboscis of acanthocephalan parasite from intestines of kinki rockfish (Sebastolobus alascanus)">
     <em>Proboscis of acanthocephalan parasite from intestines of kinki rockfish (*Sebastolobus alascanus*)</em>
