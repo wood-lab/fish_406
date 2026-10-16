@@ -154,9 +154,9 @@ Agenda:
 
 Agenda:
 
+* remember that week 2 quiz is due tonight!
+* remind students that they should be ready to present [a research question](https://wood-lab.github.io/fish_406/assignments.html#Term_project) in next week's lab (20 Oct)
 * today we transition into the Class Cestoda
-* remind students about tomorrow's lab, which will focus on cestodes
-* remind students that they should be ready to present [a research question](https://wood-lab.github.io/fish_406/assignments.html#Term_project) in next week's lab (21 Oct)
 * finish up in-class activities shown in class_6.ppt
 * in-class activities shown in class_7.ppt
 
@@ -464,6 +464,26 @@ TAs are strictly forbidden from changing student grades without first consulting
 ## Norming
 
 One of the most important duties of a FISH 406 TA is to provide feedback to students on their work: on exams, independent research projects, and presentations. To make sure that we are providing equal levels of support across students and grading by the same standards, the FISH 406 instructional team will periodically engage in "norming" exercises. When we "norm" our feedback for a given assignment, we will all get together to evaluate the same few assignments, compare our feedback, and discuss how to bring our feedback into alignment. We continue doing this until the instructor of record (Chelsea) is satisfied that every member of the instructional team is on the same page. This may be repeated for each exam/assignment. 
+
+<br>
+
+## Animal care rules
+
+* It is our responsibility to avoid causing pain and distress in all the live animals we use in our labs - vertebrate and invertebrate alike.
+* Aquatic animals (e.g., snails, crab) should be kept in appropriate conditions at all times. Animals should never be allowed to suffer from low oxygen, high temperature, or desiccation.
+* Mice should be euthanized according to the IACUC protocol, their dissected carcasses placed in a red biohazard bag, and the biohazard bag placed in biohazard waste in the freezer of the Foege vivarium.
+* If you have unwanted invertebrates remaining at the end of labs, check with SAFS Facilities to see if they have a use for them. If not, they should be euthanized by freezing in the OTB 206 freezer, and then properly disposed of.
+* Non-biohazardous animal carcasses (e.g., crabs, snails) should be bagged and placed in the dumpster behind SAFS (to avoid causing unpleasant smells inside the building).
+
+<br>
+
+## SAFS truck rules
+
+* The SAFS truck is managed by UW Fleet Services and its use is therefore subject to [Fleet Services rules](https://transportation.uw.edu/getting-around/fleet-services/policies).
+* Please note that using the SAFS truck for any purpose "[other than official business may invalidate the University’s insurance coverage and may make the driver, renter and/or controlling department responsible for damages](https://transportation.uw.edu/getting-around/fleet-services/policies)."
+* TAs [with the appropriate credentials](https://transportation.uw.edu/getting-around/fleet-services/vehicle-rental-ucar) may use the SAFS truck for collections (e.g., of *Hemigrapsus* crabs).
+* Make sure to reserve the truck with the SAFS front desk staff.
+* The SAFS truck must stay at SAFS unless it is actively being used for field collections; that means that the truck cannot be parked at your residence. If you are sampling a nighttime low tide, you must transport yourself to SAFS ahead of your field trip, pick up the SAFS truck on your way to the field site, and drop the SAFS truck off at SAFS when you are done.
 
 <br>
 
