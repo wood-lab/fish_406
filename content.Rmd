@@ -1606,6 +1606,8 @@ You are welcome to take photos of what you see in lab if it helps you learn, und
 
 ## Lab 3 - Projects
 
+TEST
+
 **Readings**: *How to Do Ecology* Chapter 2, [the description of the term project on the Assignments page](https://wood-lab.github.io/fish_406/assignments.html#Term_project)
 
 
