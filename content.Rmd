@@ -1791,64 +1791,46 @@ The life cycles of cyclophyllideans is different than many other cestode orders 
 
 ### Demonstration instructions
 
-Harbor seal (*Phoca vitulina*) |  Coyote (*Canis latrans*)
-:-------------------------:|:-------------------------:
-![](images/harbor_seal.jpg)  |  ![](images/coyote.jpg)
+Part 1: Dissections 
 
-We will dissect the gastrointestinal tracts of both a coyote and a harbor seal to find out what parasites live in these animals. Coyotes and harbor seals are generalist carnivores, meaning they eat a wide variety of prey. This makes it possible for them to be host to a wide range of parasites, including cestodes, trematodes, nematodes, acanthocephalans, and protozoans. 
+Parasites are everywhere! Today we have a lot of wild animals to evaluate for parasite infections. We don't know if we will find cestodes but we will most likely still find parasites. We will be on the lookout for cestodes, since we will still be looking at intestinal tracks, which is where cestodes love to be. 
 
-**Part 1: Coyote dissection**
+There are previous grad schools who have worked on coyotes and seals and reported cestodes. Yasmine Hentati is a student who worked on dissecting coyotes and other urban carnivores, and made a scary detection: [Echinococcus multilocularis is present here in the Puget Sound!](https://doi.org/10.1371/journal.pntd.0013502)
 
-We will observe this dissection, as these animals can be host to a potentially very dangerous human pathogen, *Echinococcus multilocularis*. If a human were to become infected by *E. multilocularis*, the parasite would form multilocular cysts inside the heart, lungs, liver, and brain, which, if ruptured, can lead to a strong host immune response and potentially cause anaphylaxis and/or death. *E. multilocularis* has both sylvatic (involving wild animals) and pastoral (involving domestic animals) transmission cycles. The sylvatic transmission cycle occurs between a canid definitive host, usually a wolf, and a rodent intermediate host, while pastoral transmission involves a domestic dog definitive host. Intermediate hosts of *E. multilocularis* often suffer serious pathology. To prevent you from becoming an intermediate host, these GI tracts have been frozen at -80 degrees C for 5 days, to ensure that anything inside is dead. Still, you can never be too careful! We will have a chance to look at *E. multilocularis* on the scope. Other parasites we can expect to find include *Taenia pisiformis*, Strongylid hookworms (*Uncinaria stenocephala* and *Ancylostoma caninum*), and *Toxocara canis*. 
+If a human were to become infected by E. multilocularis, the parasite would form multilocular cysts inside the heart, lungs, liver, and brain, which, if ruptured, can lead to a strong host immune response and potentially cause anaphylaxis and/or death. E. multilocularis has both sylvatic (involving wild animals) and pastoral (involving domestic animals) transmission cycles. The sylvatic transmission cycle occurs between a canid definitive host, usually a wolf, and a rodent intermediate host, while pastoral transmission involves a domestic dog definitive host. Intermediate hosts of E. multilocularis often suffer serious pathology. 
 
-As you are looking at the parasites within coyotes, think about how often you see coyotes in your urban environment. Are any of these parasites able to be transmitted between canids from ingesting feces? If so, what does that mean for the thousands of Seattle residents who have pet dogs? Do those dogs have a chance of contracting any parasitic disease by crossing paths with coyote feces?
+Unfortunately, we are not working on Yasmine’s samples, but today we have a variety of wild animals to examine: songbirds, small mammals, and waterbirds! These digestive tracks were sourced from a local wildlife rehabilitation center of animals that unfortunately did not survive. We also sourced some ducks from a local hunting group, [Hunters of Color](https://huntersofcolor.org/), who were kind enough to donate some GI tracks of ducks they took.
 
-1. Gather fecal sample for fecal float parasite analysis
-2. pen the stomach and determine what the diet could have been. Do you see anything recognizable in the stomach contents?
-3. Gather stomach lining swab for DNA and diet analysis
-4. Open intestinal lining and squeeze out contents, conducting 3 passes over the tissue to make sure everything is removed from the tissue
-5. Run the intestinal contents through a double sieve (1mm, 150 uL)
-6. Identify any parasites in the two groupings. What sorts of things get caught by the 1mm sieve? By the 150uL sieve? What about things that are smaller than 150uL?
-7. Place all parasites and gut contents that are left in the sieve into a container in 70% ethanol for later counting
-8. Make sure you take a look at the coyote parasites we brought as well! What types do you see? 
- 
-**Part 2: Harbor seal dissection**
 
-We now will have a chance to practice our dissection abilities with a harbor seal intestine. These animals, like coyotes, are generalists. As a result, we can expect to find a wide variety of parasites in their GI tracts, including anisakid nematodes, diphylloborthiid spp. tapeworms, *Corynosoma* spp. acanthocephalans, and *Pricetrema* spp. trematodes. Some things you might see could be new to our lab, so keep your eyes open! These animals are not known to have any parasites that can be particularly harmful to humans, but we should still practice our best PPE and personal safety precautions. In many cases, the reason these animals died is unknown, so we should treat them as if they are potentially dangerous to us. 
-
-This seal was stranded (found on shore either dead or near death) around the  Seattle area. As a protected marine mammal, seal necropsies are conducted primarily by a government-approved agency like NOAA, WDFW, Cascadia Research Collective, or the Whale Museum in Friday Harbor. Your TA, Connor, has a special permit from NOAA that allows him (and by proxy, you) to possess and handle marine mammal tissues for parasitological examination. In order to respect that permit and the animal we are working with, please, absolutely no photos can be taken and shared of this animal. However, you are welcome to take pictures of the parasites we find inside. 
-
-1. Begin by identifying the different parts of the GI tract. Can you find: 
-    a. Esophagus
-    b. Duodenum
-    c. Stomach
-    d. Colon
-    e. Rectum
-    f. Large/small intestine
-    g. Mesentery tissue
-    h. Lymph nodes
-2. Collect a fecal sample from the rectum and place into a labeled 15mL conical tube.
-3. Cut the mesentery connections to elongate the intestine. How many inches long is the total intestine? How does this length compare to the overall length of the animal itself? Why might these different lengths be present?
-4. Separate the GI tract into the aforementioned segments
-5. Open up the stomach and empty its contents into a container. What do the contents look like?
-    a. Go back over the stomach tissue and identify any other remaining parasites. Are there any irregularities on the stomach lining that you notice?  
-    b. Can you determine what the diet of the seal was by looking at stomach contents?
-6. Take the intestine and perform a lengthwise cut of the entire intestine. Once cut, squeeze the contents of the intestine into a container (be sure not to spill or lose any of the intestinal contents). Once the contents have been squeezed out into a container, go back over the entire tissue and look for parasites that are attached to the lining. Do you notice any irregularities?
+For those who have the whole animal, like the squirrel or the ducks, make an incision (with the animal belly up) from the anus to the throat. Once you cut the skin, additional steps will be followed depending on if you have a mammal or a bird. For birds you need to remove the keel by pulling it up to expose the organs and then extract the intestinal track; for a mammal you need to cut the sternum to expose the organs and then extract the intestinal tract.
 
 <br>
 <p align="center">
-    <img src="images/intestine_scrape.png" alt="diagram displaying how to scrape out the intestine">
-    <em>Image courtesy of Connor Whalen</em>
+    <img src="images/duck intestines.png" alt="duck intestine anatomy">
+    <img src="images/small mammal intestines.png" alt="small mammal intestine anatomy">
+    <em>Image courtesy of Diana Perales Macedo</em>
+    How dissection should look when looking for the GI tracks of a duck or raccoon/other small mammals. 
 </p>
 <br>
 
-7. Repeat that same procedure for the colon, rectum, duodenum, and esophagus. Are all these parts present? If not, why not?
-8. Once all the contents of the GI tract have been removed and the tissues examined, place all tissues into a biohazard bag (labeled). 
-9. Examine a subset of the contents of the containers. What parasites are present that you can see? 
-    a. Take a small amount of each of the different parts of the GI tract to examine (about 1mL at a time). 
-    b. Make sure you don’t lose track of what part you have – all samples need to be returned to their original location! 
-10. Are there any trends in the different kinds of parasites that you find and the location you find them in? Are there differences in the sizes of parasites you find? 
-11. Once you have examined all the contents, return the samples to their home containers.
+1. Open the stomach and determine what the diet could have been. Do you see anything recognizable in the stomach contents?
+2. Begin by identifying the different parts of the GI tract. Can you find:
+- Esophagus
+- Duodenum
+- Stomach
+- Colon
+- Rectum
+- Large/small intestine
+- Mesentery tissue
+- Lymph nodes
+3. Cut the mesentery connections to elongate the intestine. How many inches long is the total intestine? How does this length compare to the overall length of the animal itself? Why might these different lengths be present?
+4. Separate the GI tract into the aforementioned segments
+Open up the stomach and empty its contents into a container. What do the contents look like?
+5. Go back over the stomach tissue and identify any other remaining parasites. Are there any irregularities on the stomach lining that you notice?
+6. Can you determine what the diet was by looking at stomach contents?
+Take the intestine and perform a lengthwise cut of the entire intestine. Once cut, squeeze the contents of the intestine into a container (be sure not to spill or lose any of the intestinal contents). Once the contents have been squeezed out into a container, go back over the entire tissue and look for parasites that are attached to the lining. Do you notice any irregularities?
+7. As you go along the intestinal track for parasite evaluation, identify the parasites found, amount, and in what section of the intestinal tract were they found. This should be added to your lab notebook. 
+
 
 <br>
 
