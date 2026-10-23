@@ -166,10 +166,7 @@ Agenda:
 
 Agenda:
 
-* ask students to recap yesterday's lab
-* address William's question: why is *Kronborgia pugettensis* pink?
-* remind students that they should be ready to present [a research question](https://wood-lab.github.io/fish_406/assignments.html#Term_project) in next week's lab (21 Oct)
-* finish up in-class activities shown in class_7.ppt
+* remind students that they should be ready to present [a research question](https://wood-lab.github.io/fish_406/assignments.html#Term_project) in tomorrow's lab (20 Oct)
 * in-class activities shown in class_8.ppt
 
 <br>
@@ -178,11 +175,11 @@ Agenda:
 
 Agenda:
 
-* remind students about week 3 quiz, due today at 11:59pm
-* remind students that they should be ready to present [a research question](https://wood-lab.github.io/fish_406/assignments.html#Term_project) in next week's lab (21 Oct)
+* review yesterday's lab sections, in which students presented their [research questions](https://wood-lab.github.io/fish_406/assignments.html#Term_project)
+* if you presented a question in lab, you will receive 1 point toward that assignment
+* review next week's lab assignment: [preliminary analysis](https://wood-lab.github.io/fish_406/assignments.html#Preliminary_analysis), due Tuesday, 27 Oct
 * today we make the transition to the nematodes
 * there are a lot of videos assigned for today, so make sure you're caught up!
-* finish up in-class activities shown in class_8.ppt
 * in-class activities shown in class_9.ppt
 
 <br>
@@ -191,9 +188,8 @@ Agenda:
 
 Agenda:
 
-* notify students of Canvas outage and remind them that they can access info about the course on this website, anytime
-* remind students that lab will be held in FISH 106 tomorrow
-* remind students that they should be ready to present [a research question](https://wood-lab.github.io/fish_406/assignments.html#Term_project) in TOMORROW'S lab (21 Oct)
+* remind students about next week's lab assignment: [preliminary analysis](https://wood-lab.github.io/fish_406/assignments.html#Preliminary_analysis), due Tuesday, 27 Oct
+* heads-up: the midterm is on Monday, 2 Nov
 * today we continue into the Phylum Nematoda
 * define schmutzdecke (from Dickson's videos)
 * finish up in-class activities shown in class_9.ppt
