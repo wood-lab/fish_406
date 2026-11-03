@@ -1,0 +1,802 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<meta charset="utf-8" />
+<meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
+
+
+
+
+<title>Welcome to Parasite Ecology!</title>
+
+<script src="site_libs/header-attrs-2.31/header-attrs.js"></script>
+<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/darkly.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<style>h1 {font-size: 34px;}
+       h1.title {font-size: 38px;}
+       h2 {font-size: 30px;}
+       h3 {font-size: 24px;}
+       h4 {font-size: 18px;}
+       h5 {font-size: 16px;}
+       h6 {font-size: 12px;}
+       code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
+       pre:not([class]) { background-color: white }</style>
+<script src="site_libs/jqueryui-1.13.2/jquery-ui.min.js"></script>
+<link href="site_libs/tocify-1.9.1/jquery.tocify.css" rel="stylesheet" />
+<script src="site_libs/tocify-1.9.1/jquery.tocify.js"></script>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/highlightjs-9.12.0/textmate.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+<link href="site_libs/font-awesome-6.5.2/css/all.min.css" rel="stylesheet" />
+<link href="site_libs/font-awesome-6.5.2/css/v4-shims.min.css" rel="stylesheet" />
+
+<style type="text/css">
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
+
+<style type="text/css">code{white-space: pre;}</style>
+<script type="text/javascript">
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
+}
+</script>
+
+
+
+
+
+
+
+
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+img {
+  max-width:100%;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+summary {
+  display: list-item;
+}
+details > summary > p:only-child {
+  display: inline;
+}
+pre code {
+  padding: 0;
+}
+</style>
+
+
+<style type="text/css">
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #adb5bd;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
+}
+</style>
+
+<script type="text/javascript">
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
+
+  // Navbar adjustments
+  var navHeight = $(".navbar").first().height() + 15;
+  var style = document.createElement('style');
+  var pt = "padding-top: " + navHeight + "px; ";
+  var mt = "margin-top: -" + navHeight + "px; ";
+  var css = "";
+  // offset scroll position for anchor links (for fixed navbar)
+  for (var i = 1; i <= 6; i++) {
+    css += ".section h" + i + "{ " + pt + mt + "}\n";
+  }
+  style.innerHTML = "body {" + pt + "padding-bottom: 40px; }\n" + css;
+  document.head.appendChild(style);
+});
+</script>
+
+<!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "\e258";
+  font-family: 'Glyphicons Halflings';
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+  background-color: transparent;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
+<!-- code folding -->
+
+
+
+<style type="text/css">
+
+#TOC {
+  margin: 25px 0px 20px 0px;
+}
+@media (max-width: 768px) {
+#TOC {
+  position: relative;
+  width: 100%;
+}
+}
+
+@media print {
+.toc-content {
+  /* see https://github.com/w3c/csswg-drafts/issues/4434 */
+  float: right;
+}
+}
+
+.toc-content {
+  padding-left: 30px;
+  padding-right: 40px;
+}
+
+div.main-container {
+  max-width: 1200px;
+}
+
+div.tocify {
+  width: 20%;
+  max-width: 260px;
+  max-height: 85%;
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  div.tocify {
+    width: 25%;
+  }
+}
+
+@media (max-width: 767px) {
+  div.tocify {
+    width: 100%;
+    max-width: none;
+  }
+}
+
+.tocify ul, .tocify li {
+  line-height: 20px;
+}
+
+.tocify-subheader .tocify-item {
+  font-size: 0.90em;
+}
+
+.tocify .list-group-item {
+  border-radius: 0px;
+}
+
+
+</style>
+
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
+
+
+<!-- setup 3col/9col grid for toc_float and main content  -->
+<div class="row">
+<div class="col-xs-12 col-sm-4 col-md-3">
+<div id="TOC" class="tocify">
+</div>
+</div>
+
+<div class="toc-content col-xs-12 col-sm-8 col-md-9">
+
+
+
+
+<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html">FISH 406</a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        <li>
+  <a href="syllabus.html">Welcome and resources</a>
+</li>
+<li>
+  <a href="schedule.html">Schedule</a>
+</li>
+<li>
+  <a href="content.html">Course content</a>
+</li>
+<li>
+  <a href="assignments.html">Assignments</a>
+</li>
+<li>
+  <a href="https://canvas.uw.edu/courses/1918432">Canvas</a>
+</li>
+<li>
+  <a href="instructors_corner.html">Instructor's corner</a>
+</li>
+<li>
+  <a href="https://wave.webaim.org">Accessibility</a>
+</li>
+<li>
+  <a href="https://github.com/wood-lab/fish_406">
+    <span class="fab fa-github"></span>
+     
+    GitHub
+  </a>
+</li>
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div id="header">
+
+
+
+<h1 class="title toc-ignore">Welcome to Parasite Ecology!</h1>
+
+</div>
+
+
+<html lang="en">
+<p><br></p>
+<div id="section" class="section level1">
+<h1></h1>
+<p><strong>You’re in for a wild ride.</strong> Parasites are all around
+you, every day, hidden and unnoticed but ubiquitous. And yet it is
+entirely possible (even likely!) that you’ve never before encountered
+parasites in your biology education. This makes for an explosive
+combination: you’re about to learn about a secret world hidden under
+everything that is familiar to you, a world of organisms with
+adaptations so weird, so grotesque, so elaborate, that their existence
+defies belief. But I assure you - parasites are very, very real.</p>
+<p>Never hesitate to reach out if you have questions, concerns, or just
+want to chat. You can reach me at <a
+href="mailto:chelwood@uw.edu">chelwood@uw.edu</a>.</p>
+<p>Can’t wait to dive in!</p>
+<p>-Chelsea</p>
+<p><br></p>
+</div>
+<div id="instructors" class="section level1">
+<h1>Instructors</h1>
+<p><a href="https://fish.uw.edu/faculty/chelsea-wood/"><strong>Chelsea
+Wood</strong></a><br />
+Associate Professor, School of Aquatic &amp; Fishery Sciences<br />
+FISH 318B<br> <a href="mailto:chelwood@uw.edu">chelwood@uw.edu</a><br>
+<strong>Office hours:</strong> Mondays 1:30-2:30pm in FISH 318B</p>
+<p><a href="https://chelsealwood.com/people/"><strong>Gabby
+Commisso</strong></a><br />
+Teaching Assistant, School of Aquatic &amp; Fishery Sciences<br />
+FISH 262B<br> <a href="mailto:gcom@uw.edu">gcom@uw.edu</a><br>
+<strong>Office hours:</strong> Thursdays, 10:00-11:00am in FISH 262B</p>
+<p><a href="https://chelsealwood.com/people/"><strong>Diana Perales
+Macedo</strong></a><br />
+Teaching Assistant, School of Aquatic &amp; Fishery Sciences<br />
+FISH 262C<br> <a href="mailto:dmbp@uw.edu">dmbp@uw.edu</a><br>
+<strong>Office hours:</strong> Thursdays 1:30-2:30pm in FISH 262C</p>
+<p><br></p>
+</div>
+<div id="course-details" class="section level1">
+<h1>Course details</h1>
+<p><strong>This website</strong> will be your resource for all course
+content, but <strong>we will use Canvas for announcements, submitting
+assignments, and keeping track of grades.</strong></p>
+<p>This class is conducted in person. Students are expected to
+participate in class to fully benefit from course activities and meet
+the course’s learning objectives. Students should only register for this
+class if they are able to attend in person.</p>
+<p>Science education research has demonstrated that students who take an
+active role in their learning learn more and retain that knowledge
+longer; therefore, it is in your best interest to prepare for and
+actively participate in class meetings – including small group
+activities and whole-class discussions. <strong>One thing that may help
+you participate in class is bringing questions you have written out
+ahead of time.</strong> I will sometimes use a random name generator to
+call on students at random.</p>
+<p><br></p>
+<div id="lecture" class="section level3">
+<h3>Lecture</h3>
+<p>MWF, 12:30pm–1:20pm in FISH 107</p>
+<p><br></p>
+</div>
+<div id="lab" class="section level3">
+<h3>Lab</h3>
+<p>   FISH 406AB – Tuesdays, 9:30am–12:20pm in OTB 206</p>
+<p>   FISH 406AA – Tuesdays, 1:30pm–4:20pm in OTB 206</p>
+<p><br></p>
+</div>
+<div id="pre-requisites" class="section level3">
+<h3>Pre-requisites</h3>
+<p>BIOL 180</p>
+<p><br></p>
+</div>
+<div id="credits" class="section level3">
+<h3>Credits</h3>
+<p>5 credits</p>
+<p>Note that, for 5 credits, the University of Washington expects
+students to devote 15 hours per week to this course [1 credit = 3 hours
+per week].</p>
+<ul>
+<li>This course counts toward the <strong>UW Additional Writing (W)
+requirement</strong>.</li>
+<li>This course counts as an <strong>elective toward the Marine Biology
+major</strong>.</li>
+<li>This course counts as an <strong>elective toward the Microbiology
+major</strong>.</li>
+</ul>
+<p><br></p>
+</div>
+<div id="texts" class="section level3">
+<h3>Texts</h3>
+<ul>
+<li><strong>Required:</strong> <a
+href="https://press.princeton.edu/books/paperback/9780691245751/how-to-do-ecology?srsltid=AfmBOoqTQo77MnVjkuKlPdFi_9BWf8UTBMPoEb7a5x2r4tCu5HeFQmM4"><em>How
+to Do Ecology</em></a>, Karban, Huntzinger, and Pearse</li>
+<li><strong>Required:</strong> additional reading material available as
+pdfs</li>
+<li><strong>Optional:</strong> For those students who wish to dive
+deeper, beyond the requirements of the course, I recommend readings from
+<em>Foundations of Parasitology</em> by Roberts and Janovy. Used copies
+are available on Amazon and an e-version of the book available for
+download <a href="references/R&amp;J.pdf">here</a>. Optional readings
+from Roberts and Janovy are denoted with the abbreviation R&amp;J.</li>
+</ul>
+<p><br></p>
+</div>
+<div id="required-equipment" class="section level3">
+<h3>Required equipment</h3>
+<p>This course involves writing, research, and data analysis and
+students will therefore need to make use of their personal computers.
+For students without access to a personal laptop, it is now possible to
+check out UW laptops for an entire quarter. Contact the Student Services
+office <a href="mailto:iamsams@uw.edu">iamsams@uw.edu</a> for
+details.</p>
+<p><br></p>
+</div>
+<div id="communication" class="section level3">
+<h3>Communication</h3>
+<p>All course communications will occur via Canvas, so please remember
+to update your notifications settings in Canvas so that you receive
+updates and announcements at least daily. You are always welcome to get
+in touch with Chelsea or your TAs via e-mail. We will respond to any
+e-mail from you within 24 hours during the week (might be longer over
+weekends).</p>
+<p><br></p>
+</div>
+<div id="responsibilities" class="section level3">
+<h3>Responsibilities</h3>
+<p>The responsibilities of the instructor and teaching assistant are
+to:</p>
+<ul>
+<li>present important, relevant information and concepts in a
+stimulating manner,</li>
+<li>organize laboratory experiences that expand and enhance course
+topics,</li>
+<li>teach students to synthesize data and concepts into papers in
+scientific format.</li>
+</ul>
+<p>The responsibilities of the students are to:</p>
+<ul>
+<li>attend and participate in all class and laboratory sessions, to the
+extent that you are able,</li>
+<li>hand in assignments on time,</li>
+<li>conform with University policies regarding academic integrity (see
+below).</li>
+</ul>
+<p><br></p>
+</div>
+</div>
+<div id="course-description" class="section level1">
+<h1>Course description</h1>
+<p>Parasites are ubiquitous: no ecosystem exists without them, and among
+all of Earth’s species, parasites outnumber non-parasites. But because
+they are usually small and hidden within their hosts, parasites can be
+easy to overlook. This course will introduce students to these rarely
+studied creatures, which span the entire tree of life, occupy all of
+Earth’s habitats, and influence many ecological processes.</p>
+<p>Our material will survey all metazoan parasites, most protozoa, and
+some bacteria and viruses, addressing their distribution, ecology, and
+physiological effects on human and wildlife hosts. Because this is an
+ecology course, we will survey parasite diversity in light of
+evolutionary diversification. Phylogenetic relationships within and
+among groups will provide the framework for the course.</p>
+<p>Within this phylogenetic framework, the bulk of our time will be
+spent exploring general disease ecology theory through relatable case
+studies of individual taxa. We will explore fundamental principles of
+parasite populations and communities. We will investigate the effects of
+parasites on host populations (e.g., host population regulation),
+communities (e.g., parasite-mediated competition), and ecosystems (e.g.,
+nutrient availability). We will strive to put parasites into a food-web
+context, assessing the impacts of parasites on food webs (e.g.,
+connectance, nestedness, energy flow, biomass, food chain length) and of
+food webs on parasites (e.g., dilution effect hypothesis,
+biodiversity-begets-biodiversity hypothesis). Finally, we will use our
+accumulated knowledge to make predictions for how disease transmission
+might respond to human impacts like biodiversity loss, climate change,
+and urbanization and will evaluate the interventions available for
+wildlife and human disease control (e.g., vaccination, culling,
+environmental modification, biological control).</p>
+<p><br></p>
+</div>
+<div id="learning-goals" class="section level1">
+<h1>Learning goals</h1>
+<p>By the end of the quarter, I expect you will be able to:</p>
+<ul>
+<li>recognize each of the major groups of parasites and describe their
+basic life cycles</li>
+<li>analyze and critically evaluate graphical representations of
+data</li>
+<li>analyze and interpret parasitological data</li>
+<li>interpret, evaluate, and synthesize primary literature in parasite
+ecology (accomplished via writing assignment and presentation)</li>
+<li>critique your colleagues’ ideas respectfully yet substantively</li>
+<li>communicate ideas effectively, in writing and speech</li>
+</ul>
+<p><br></p>
+</div>
+<div id="incompletes" class="section level1">
+<h1>Incompletes</h1>
+<p>From UW’s Faculty Resource on Grading: “An Incomplete is given only
+when the student has been in attendance and has done satisfactory work
+until within two weeks of the end of the quarter and has furnished proof
+satisfactory to the instructor that the work cannot be completed because
+of illness or other circumstances beyond the student’s control… To
+obtain credit for the course, an undergraduate student must convert an
+Incomplete into a passing grade no later than the last day of the next
+quarter… An Incomplete grade not made up by the end of the next quarter
+is converted to the grade of 0.0 by the Office of the University
+Registrar… An Incomplete grade does not count for registered hours nor
+in computation of grade-point averages.”</p>
+<p><br></p>
+</div>
+<div id="academic-integrity" class="section level1">
+<h1>Academic integrity</h1>
+<p>Students at the University of Washington are expected to maintain the
+highest standards of academic conduct, professional honesty, and
+personal integrity. Plagiarism, cheating, and other misconduct are
+serious violations of the University of Washington Student Conduct Code
+(WAC 478-120). I expect you to know and follow the university’s policies
+on cheating and plagiarism. Any suspected cases of academic misconduct
+will be handled according to University of Washington regulations. For
+more information, see the University of Washington Community Standards
+and Student Conduct website.</p>
+<p>I don’t expect anyone in this class to engage in academic misconduct
+– parasite ecology is a window into a new and exciting world, and
+cheating robs the cheater of the opportunity to explore and know that
+world. But just in case, I will state up front my policy for addressing
+academic misconduct: if you are caught cheating, falsifying data,
+plagiarizing, collaborating on assignments in a manner that is
+prohibited, or committing any other kind of academic misconduct as
+defined in the Student Conduct Code, you will receive an automatic zero
+on the assignment and the case will be referred to the College of the
+Environment for a Student Conduct Process hearing. If you are caught
+twice, you will receive a zero in the course and the case will be
+referred for an additional hearing.</p>
+<p><br></p>
+<div id="ai-based-tools" class="section level2">
+<h2>AI-based tools</h2>
+<p>AI-based tools (including generative AI such as ChatGPT, Claude, or
+Copilot; AI-assisted features in software you may already use; AI image
+generators; and AI-integrated search summaries) <strong>may not be used
+at any stage of any assessment in this course</strong>. Why? Because
+using an AI-based tool (especially on writing assignments like the FISH
+406 term paper) removes your opportunity to get to know the parasites,
+hurting you in a number of ways.</p>
+<p>You might think, “I’m never gonna be a parasite ecologist, so what
+does it matter whether I do these assignments or let an AI do them for
+me?” Maybe you won’t become a parasite ecologist. But <em>the skills
+that our assignments will teach you (writing, critical thinking,
+hypothesis development, creative problem-solving) are valuable across a
+range of professions</em>. If you let AI do assignments for you, you’re
+missing a great opportunity to build those skills and make yourself
+marketable across a variety of fields.</p>
+<p>Not only that, but <em>AI is bad at a lot of stuff, and creativity is
+a particular weakness</em>. AI just vomits out what it has already seen
+in its training dataset. The FISH 406 term project asks you to think
+creatively. Your human brain can generate much better ideas than a robot
+brain can.</p>
+<p>Here are some tips for avoiding the temptation to use AI-based
+tools:</p>
+<ul>
+<li><strong>Are you struggling? Good, that means you’re
+learning!</strong> You might think AI is a way to avoid struggle, but if
+you do that you are robbing yourself of the opportunity to learn. Lean
+on your classmates, your TAs, and on me and together we will make sure
+that you are able to use your own human brain to create something
+remarkable.</li>
+<li><strong>How do you eat an elephant? One bite at a time.</strong>
+Your term project is scaffolded. We have designed it so that you are
+forced to tackle it only in bite-sized chunks and with tons of support
+from your colleagues and instructors. If you submit all of the
+assignments along the way, you should never have more than a few bites
+of elephant to eat at a time.</li>
+</ul>
+<p>My policy is: <strong>if I discover that you have turned in
+AI-generated work, I will give a grade of 0% for that
+assignment</strong>. But that shouldn’t be your primary deterrent.
+Remember that using AI will leave you with fewer skills than you
+otherwise might have. Don’t let AI take away your opportunity to learn
+and grow!</p>
+<p><br></p>
+</div>
+</div>
+<div id="classroom-climate" class="section level1">
+<h1>Classroom climate</h1>
+<p>Diverse backgrounds, embodiments, and experiences are essential to
+the critical thinking endeavor at the heart of higher education. I
+expect you to follow the UW Student Conduct Code in your interactions
+with your colleagues and me in this course by respecting the many social
+and cultural differences among us, which may include, but are not
+limited to: age, cultural background, disability, ethnicity, family
+status, gender identity and presentation, citizenship and immigration
+status, national origin, race, religious and political beliefs, sex,
+sexual orientation, socioeconomic status, and veteran status. Please
+talk with me right away if you experience disrespect in this class, and
+I will work to address it. <a
+href="mailto:DCinfo@uw.edu">DCinfo@uw.edu</a> is a resource for students
+with classroom climate concerns.</p>
+<p><br></p>
+</div>
+<div id="access-and-accommodations" class="section level1">
+<h1>Access and accommodations…</h1>
+<div id="for-persons-with-disabilities" class="section level3">
+<h3>…for persons with disabilities</h3>
+<p>It is crucial that all students in this class have access to the full
+range of learning experiences. At the University of Washington, it is
+policy and practice to create inclusive and accessible learning
+environments consistent with federal and state law. Full participation
+in this course requires the following types of engagement:</p>
+<ul>
+<li><p><strong>Lecture</strong>: the ability to learn from several
+in-person lectures per week; the ability to complete two written and
+timed exams; the ability to compose research papers; the ability to give
+an oral presentation</p></li>
+<li><p><strong>Lab</strong>: the ability to participate in weekly
+in-person lab sessions; the ability to participate in group
+discussions</p></li>
+</ul>
+<p>If you anticipate or experience barriers to your learning or full
+participation in this course based on a physical, learning, or mental
+health disability, please immediately contact the instructor to discuss
+possible accommodation(s). A more complete description of the disability
+policy of the College of the Environment can be found <a
+href="https://environment.uw.edu/intranet/academics/teaching/disability-accommodation/">here</a>.
+If you have, or think you have, a temporary or permanent disability that
+impacts your participation in any course, please also contact Disability
+Resources for Students (DRS) at: 206-543-8924 V / 206-543-8925 TDD / <a
+href="mailto:uwdss@uw.edu">uwdss@uw.edu</a> / <a
+href="http://www.uw.edu/students/drs">http://www.uw.edu/students/drs</a>.</p>
+<p><strong>Roles and responsibilities</strong></p>
+<ul>
+<li><strong>Student</strong>: inform the instructor no later than the
+first week of the quarter of any accommodation(s) you will or may
+potentially require.</li>
+<li><strong>Instructor and TA</strong>: maintain strict confidentiality
+of any student’s disability and accommodation(s); help all students meet
+the learning objectives of this course.</li>
+</ul>
+</div>
+<div id="for-religious-observances" class="section level3">
+<h3>…for religious observances</h3>
+<p>Washington State law requires that UW develop a policy for
+accommodation of student absences or significant hardship due to reasons
+of faith or conscience, or for organized religious activities. The UW’s
+policy, including more information about how to request an
+accommodation, is available at <a
+href="https://registrar.washington.edu/staff-faculty/religious-accommodations-policy/">Religious
+Accommodations Policy</a>. Accommodations must be requested within the
+first two weeks of this course using the <a
+href="https://registrar.washington.edu/students/religious-accommodations-request/">Religious
+Accommodations Request form</a>.</p>
+<p><br></p>
+<center>
+<em>This site was last updated at 14:35 on 30 Oct 2026</em>
+</center>
+</div>
+</div>
+
+
+
+</div>
+</div>
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open');
+  });
+});
+</script>
+
+<!-- code folding -->
+
+<script>
+$(document).ready(function ()  {
+
+    // temporarily add toc-ignore selector to headers for the consistency with Pandoc
+    $('.unlisted.unnumbered').addClass('toc-ignore')
+
+    // move toc-ignore selectors from section div to header
+    $('div.section.toc-ignore')
+        .removeClass('toc-ignore')
+        .children('h1,h2,h3,h4,h5').addClass('toc-ignore');
+
+    // establish options
+    var options = {
+      selectors: "h1,h2,h3",
+      theme: "bootstrap3",
+      context: '.toc-content',
+      hashGenerator: function (text) {
+        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_');
+      },
+      ignoreSelector: ".toc-ignore",
+      scrollTo: 0
+    };
+    options.showAndHide = true;
+    options.smoothScroll = true;
+
+    // tocify
+    var toc = $("#TOC").tocify(options).data("toc-tocify");
+});
+</script>
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>
