@@ -640,6 +640,7 @@ In this class, we will hold a live discussion of "Accidental Host" with a real-l
 <br>
 <center>
 [![Copepod ectoparasites of fishes](https://img.youtube.com/vi/-jtxGQi3BDU/0.jpg)](https://youtube.com/shorts/-jtxGQi3BDU?feature=share)
+<p><em>Parasitic copepod sucking blood from a goby</em></p>
 </center>
 </br>
 
@@ -648,6 +649,15 @@ In this class, we will hold a live discussion of "Accidental Host" with a real-l
 [![Arthropods as Protelean parasites](https://img.youtube.com/vi/eKiqPGeg7d8/0.jpg)](https://www.youtube.com/watch?v=eKiqPGeg7d8)
 </center>
 </br>
+
+<center>
+  <a href="https://vimeo.com/116518067" target="_blank">
+    <img src="images/botfly.jpg"
+         alt="Human botfly Dermatobia hominis"
+         width="560">
+  </a>
+  <p><em>Human botfly</em> Dermatobia hominis</p>
+</center>
 
 <br>
 <center>
