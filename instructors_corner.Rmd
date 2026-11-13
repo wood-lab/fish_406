@@ -284,8 +284,10 @@ Agenda:
 Agenda:
 
 * graded exams will be returned at the end of class
-* review of Introduction sections is happening, feedback done by next week
-* remind students about the [first draft assignment](https://wood-lab.github.io/fish_406/assignments.html#First_draft) due **Tuesday, 11 Nov**
+* check out the feedback on your introduction assignment in Canvas
+* remind students about the [peer-review assignment](https://wood-lab.github.io/fish_406/assignments.html#Peer_review) due **Tuesday, 17 Nov**
+* remind students that [peer-review assignment](https://wood-lab.github.io/fish_406/assignments.html#Peer_review) must be submitted as two complete worksheets, each uploaded to your colleague's assignment in Canvas
+* remind students of [course policy on AI-based tools](https://wood-lab.github.io/fish_406/syllabus.html#AI-based_tools)
 * in-class activities shown in class_17.ppt
 
 <br>
