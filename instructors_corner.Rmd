@@ -297,10 +297,11 @@ Agenda:
 Agenda:
 
 * if you have not yet picked up your graded exam, please see Chelsea
-* review of Introduction sections is done, see Canvas for comments
-* remind students about the [peer-review assignment](https://wood-lab.github.io/fish_406/assignments.html#Peer_review) due **Tuesday, 18 Nov**
+* remind students about the [peer-review assignment](https://wood-lab.github.io/fish_406/assignments.html#Peer_review) due tomorrow, **Tuesday, 17 Nov**
+* remind students about the [poster assignment](https://wood-lab.github.io/fish_406/assignments.html#Poster_presentation) due next week, **Tuesday, 24 Nov**
+* remind students of [course policy on AI-based tools](https://wood-lab.github.io/fish_406/syllabus.html#AI-based_tools)
 * review upcoming deadlines as shown in [course schedule](https://wood-lab.github.io/fish_406/schedule.html)
-* Gabby will be leading class this Friday, 14 Nov!
+* preview tomorrow's lab on protozoans
 * in-class activities shown in class_18.ppt
 
 <br>
