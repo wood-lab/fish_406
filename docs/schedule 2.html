@@ -1,0 +1,384 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<meta charset="utf-8" />
+<meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
+
+
+
+
+<title>Schedule</title>
+
+<script src="site_libs/header-attrs-2.31/header-attrs.js"></script>
+<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/darkly.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<style>h1 {font-size: 34px;}
+       h1.title {font-size: 38px;}
+       h2 {font-size: 30px;}
+       h3 {font-size: 24px;}
+       h4 {font-size: 18px;}
+       h5 {font-size: 16px;}
+       h6 {font-size: 12px;}
+       code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
+       pre:not([class]) { background-color: white }</style>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/highlightjs-9.12.0/textmate.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+<link href="site_libs/htmltools-fill-0.5.9/fill.css" rel="stylesheet" />
+<script src="site_libs/htmlwidgets-1.6.4/htmlwidgets.js"></script>
+<script src="site_libs/calendar-binding-0.4.0/calendar.js"></script>
+<link href="site_libs/bttn-0.2.4/bttn.min.css" rel="stylesheet" />
+<link href="site_libs/font-awesome-6.5.2/css/all.min.css" rel="stylesheet" />
+<link href="site_libs/font-awesome-6.5.2/css/v4-shims.min.css" rel="stylesheet" />
+
+<style type="text/css">
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
+
+<style type="text/css">code{white-space: pre;}</style>
+<script type="text/javascript">
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
+}
+</script>
+
+
+
+
+
+
+
+
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+img {
+  max-width:100%;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+summary {
+  display: list-item;
+}
+details > summary > p:only-child {
+  display: inline;
+}
+pre code {
+  padding: 0;
+}
+</style>
+
+
+<style type="text/css">
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #adb5bd;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
+}
+</style>
+
+<script type="text/javascript">
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
+
+  // Navbar adjustments
+  var navHeight = $(".navbar").first().height() + 15;
+  var style = document.createElement('style');
+  var pt = "padding-top: " + navHeight + "px; ";
+  var mt = "margin-top: -" + navHeight + "px; ";
+  var css = "";
+  // offset scroll position for anchor links (for fixed navbar)
+  for (var i = 1; i <= 6; i++) {
+    css += ".section h" + i + "{ " + pt + mt + "}\n";
+  }
+  style.innerHTML = "body {" + pt + "padding-bottom: 40px; }\n" + css;
+  document.head.appendChild(style);
+});
+</script>
+
+<!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "\e258";
+  font-family: 'Glyphicons Halflings';
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+  background-color: transparent;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
+<!-- code folding -->
+
+
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
+
+
+
+
+<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html">FISH 406</a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        <li>
+  <a href="syllabus.html">Welcome and resources</a>
+</li>
+<li>
+  <a href="schedule.html">Schedule</a>
+</li>
+<li>
+  <a href="content.html">Course content</a>
+</li>
+<li>
+  <a href="assignments.html">Assignments</a>
+</li>
+<li>
+  <a href="https://canvas.uw.edu/courses/1918432">Canvas</a>
+</li>
+<li>
+  <a href="instructors_corner.html">Instructor's corner</a>
+</li>
+<li>
+  <a href="https://wave.webaim.org">Accessibility</a>
+</li>
+<li>
+  <a href="https://github.com/wood-lab/fish_406">
+    <span class="fab fa-github"></span>
+     
+    GitHub
+  </a>
+</li>
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div id="header">
+
+
+
+<h1 class="title toc-ignore">Schedule</h1>
+
+</div>
+
+
+<style>
+.toastui-calendar-popup-container {
+  background-color: white !important;
+  color: black !important;
+}
+
+.toastui-calendar-popup-container * {
+  color: black !important;
+}
+</style>
+<html lang="en">
+<div class="toastui-calendar calendar html-widget html-fill-item" style="width:100%;height:600px;">
+<div id="htmlwidget-65ac0696d447373aa58c_menu">
+<span id="htmlwidget-65ac0696d447373aa58c_menu_navi">
+<button type="button" class="btn bttn-no-outline action-button" id="htmlwidget-65ac0696d447373aa58c_today">Today</button>
+<button type="button" class="btn bttn-no-outline action-button" id="htmlwidget-65ac0696d447373aa58c_prev">
+<i class="fa fa-chevron-left"></i>
+</button>
+<button type="button" class="btn bttn-no-outline action-button" id="htmlwidget-65ac0696d447373aa58c_next">
+<i class="fa fa-chevron-right"></i>
+</button>
+</span>
+<span id="htmlwidget-65ac0696d447373aa58c_renderRange" class="render-range"></span>
+</div>
+<br/>
+<div id="htmlwidget-65ac0696d447373aa58c" style="width:100%;height:600px;" class="calendar html-widget" width="100%" height="600px"></div>
+</div>
+<script type="application/json" data-for="htmlwidget-65ac0696d447373aa58c">{"x":{"options":{"defaultView":"week","useDetailPopup":true,"useFormPopup":false,"isReadOnly":true,"usageStatistics":false,"week":{"startDayOfWeek":1,"workweek":true,"eventView":true,"taskView":false}},"schedules":[{"category":"time","dueDateClass":"","id":"schedule42bc1a0b15de9af88d8865ac","calendarId":"1","title":"Class 1","body":"https://wood-lab.github.io/fish_406/content.html#Class_1","recurrenceRule":null,"start":"2026-09-30 12:30:00","end":"2026-09-30 13:20:00","location":"FISH 107","backgroundColor":"#3A9AB2","color":"white","borderColor":null},{"category":"time","dueDateClass":"","id":"schedule0696d447373aa58cce59c409","calendarId":"1","title":"CLASS CANCELLED","body":"","recurrenceRule":null,"start":"2026-10-02 12:30:00","end":"2026-10-02 13:20:00","location":"FISH 107","backgroundColor":"#3A9AB2","color":"white","borderColor":null},{"category":"time","dueDateClass":"","id":"schedulee8293ac2cc0ce41741301288","calendarId":"1","title":"Class 2","body":"https://wood-lab.github.io/fish_406/content.html#Class_2","recurrenceRule":null,"start":"2026-10-05 12:30:00","end":"2026-10-05 13:20:00","location":"FISH 107","backgroundColor":"#3A9AB2","color":"white","borderColor":null},{"category":"time","dueDateClass":"","id":"schedule468400f998226878e19ed99e","calendarId":"2","title":"Lab 1 - Section AB","body":"https://wood-lab.github.io/fish_406/content.html#Lab_1_-_The_deep_end","recurrenceRule":null,"start":"2026-10-06 09:30:00","end":"2026-10-06 12:20:00","location":"OTB 206","backgroundColor":"#91BAB6","color":"white","borderColor":null},{"category":"time","dueDateClass":"","id":"schedule6a899f66a219fab293adecd0","calendarId":"2","title":"Lab 1 - Section AA","body":"https://wood-lab.github.io/fish_406/content.html#Lab_1_-_The_deep_end","recurrenceRule":null,"start":"2026-10-06 13:30:00","end":"2026-10-06 16:20:00","location":"OTB 206","backgroundColor":"#91BAB6","color":"white","borderColor":null},{"category":"time","dueDateClass":"","id":"scheduleeae8c28e721c3086d20f7543","calendarId":"1","title":"Class 3","body":"https://wood-lab.github.io/fish_406/content.html#Class_3","recurrenceRule":null,"start":"2026-10-07 12:30:00","end":"2026-10-07 13:20:00","location":"FISH 107","backgroundColor":"#3A9AB2","color":"white","borderColor":null},{"category":"time","dueDateClass":"","id":"schedule12662c94fbdca14a4af93849","calendarId":"1","title":"Class 4","body":"https://wood-lab.github.io/fish_406/content.html#Class_4","recurrenceRule":null,"start":"2026-10-09 12:30:00","end":"2026-10-09 13:20:00","location":"FISH 107","backgroundColor":"#3A9AB2","color":"white","borderColor":null},{"category":"time","dueDateClass":"","id":"schedule9c8702c2e6bc392c35945b72","calendarId":"1","title":"Class 5","body":"https://wood-lab.github.io/fish_406/content.html#Class_5","recurrenceRule":null,"start":"2026-10-12 12:30:00","end":"2026-10-12 13:20:00","location":"FISH 107","backgroundColor":"#3A9AB2","color":"white","borderColor":null},{"category":"time","dueDateClass":"","id":"schedule5857b859f522b4201ccf3c81","calendarId":"2","title":"Lab 2 - Section AB","body":"https://wood-lab.github.io/fish_406/content.html#Lab_2_-_The_shallow_end","recurrenceRule":null,"start":"2026-10-13 09:30:00","end":"2026-10-13 12:20:00","location":"OTB 206","backgroundColor":"#91BAB6","color":"white","borderColor":null},{"category":"time","dueDateClass":"","id":"schedule7f34d3a9ffd155dfb83f89f2","calendarId":"2","title":"Lab 2 - Section AA","body":"https://wood-lab.github.io/fish_406/content.html#Lab_2_-_The_shallow_end","recurrenceRule":null,"start":"2026-10-13 13:30:00","end":"2026-10-13 16:20:00","location":"OTB 206","backgroundColor":"#91BAB6","color":"white","borderColor":null},{"category":"time","dueDateClass":"","id":"schedule18bcbec79338135fa764094e","calendarId":"1","title":"Class 6","body":"https://wood-lab.github.io/fish_406/content.html#Class_6","recurrenceRule":null,"start":"2026-10-14 12:30:00","end":"2026-10-14 13:20:00","location":"FISH 107","backgroundColor":"#3A9AB2","color":"white","borderColor":null},{"category":"time","dueDateClass":"","id":"schedule81fc1fcab109987975673e53","calendarId":"1","title":"Class 7","body":"https://wood-lab.github.io/fish_406/content.html#Class_7","recurrenceRule":null,"start":"2026-10-16 12:30:00","end":"2026-10-16 13:20:00","location":"FISH 107","backgroundColor":"#3A9AB2","color":"white","borderColor":null},{"category":"time","dueDateClass":"","id":"schedule6a4cc75311596c1c6f520265","calendarId":"1","title":"Class 8","body":"https://wood-lab.github.io/fish_406/content.html#Class_8","recurrenceRule":null,"start":"2026-10-19 12:30:00","end":"2026-10-19 13:20:00","location":"FISH 107","backgroundColor":"#3A9AB2","color":"white","borderColor":null},{"category":"time","dueDateClass":"","id":"schedule20f4b17e118f8293f0e05e43","calendarId":"2","title":"Lab 3 - Section AB","body":"https://wood-lab.github.io/fish_406/content.html#Lab_3_-_Cestodes","recurrenceRule":null,"start":"2026-10-20 09:30:00","end":"2026-10-20 12:20:00","location":"OTB 206","backgroundColor":"#91BAB6","color":"white","borderColor":null},{"category":"time","dueDateClass":"","id":"schedule484843e7e4cabc2931b3681a","calendarId":"2","title":"Lab 3 - Section AA","body":"https://wood-lab.github.io/fish_406/content.html#Lab_3_-_Cestodes","recurrenceRule":null,"start":"2026-10-20 13:30:00","end":"2026-10-20 16:20:00","location":"OTB 206","backgroundColor":"#91BAB6","color":"white","borderColor":null},{"category":"time","dueDateClass":"","id":"schedulea0a06b07df7cbd7336ce053a","calendarId":"1","title":"Class 9","body":"https://wood-lab.github.io/fish_406/content.html#Class_9","recurrenceRule":null,"start":"2026-10-21 12:30:00","end":"2026-10-21 13:20:00","location":"FISH 107","backgroundColor":"#3A9AB2","color":"white","borderColor":null},{"category":"time","dueDateClass":"","id":"schedule65c3330c014fa9eeeaf5803f","calendarId":"1","title":"Class 10","body":"https://wood-lab.github.io/fish_406/content.html#Class_10","recurrenceRule":null,"start":"2026-10-23 12:30:00","end":"2026-10-23 13:20:00","location":"FISH 107","backgroundColor":"#3A9AB2","color":"white","borderColor":null},{"category":"time","dueDateClass":"","id":"schedule9d66ec06a7105bba44bc388e","calendarId":"1","title":"Class 11","body":"https://wood-lab.github.io/fish_406/content.html#Class_11","recurrenceRule":null,"start":"2026-10-26 12:30:00","end":"2026-10-26 13:20:00","location":"FISH 107","backgroundColor":"#3A9AB2","color":"white","borderColor":null},{"category":"time","dueDateClass":"","id":"schedule2ed34d0de0a817c1a9549c86","calendarId":"2","title":"Lab 4 - Section AB","body":"https://wood-lab.github.io/fish_406/content.html#Lab_4_-_Projects","recurrenceRule":null,"start":"2026-10-27 09:30:00","end":"2026-10-27 12:20:00","location":"OTB 206","backgroundColor":"#91BAB6","color":"white","borderColor":null},{"category":"time","dueDateClass":"","id":"schedule03a2d144da0e779eeda72265","calendarId":"2","title":"Lab 4 - Section AA","body":"https://wood-lab.github.io/fish_406/content.html#Lab_4_-_Projects","recurrenceRule":null,"start":"2026-10-27 13:30:00","end":"2026-10-27 16:20:00","location":"OTB 206","backgroundColor":"#91BAB6","color":"white","borderColor":null},{"category":"time","dueDateClass":"","id":"schedule27da19c3c68323d544e63dc2","calendarId":"1","title":"Class 12","body":"https://wood-lab.github.io/fish_406/content.html#Class_12","recurrenceRule":null,"start":"2026-10-28 12:30:00","end":"2026-10-28 13:20:00","location":"FISH 107","backgroundColor":"#3A9AB2","color":"white","borderColor":null},{"category":"time","dueDateClass":"","id":"schedule2f1fb659735f6cca1f8ad856","calendarId":"1","title":"Class 13","body":"https://wood-lab.github.io/fish_406/content.html#Class_13","recurrenceRule":null,"start":"2026-10-30 12:30:00","end":"2026-10-30 13:20:00","location":"FISH 107","backgroundColor":"#3A9AB2","color":"white","borderColor":null},{"category":"time","dueDateClass":"","id":"schedulef5cdafb57a024b53fbb9d700","calendarId":"1","title":"Midterm Exam","body":"https://wood-lab.github.io/fish_406/assignments.html#Midterm_exam","recurrenceRule":null,"start":"2026-11-02 12:30:00","end":"2026-11-02 13:20:00","location":"FISH 107","backgroundColor":"#E3B710","color":"white","borderColor":null},{"category":"time","dueDateClass":"","id":"schedule2510653c7ba21c20c06ab0de","calendarId":"2","title":"Lab 5 - Section AB","body":"https://wood-lab.github.io/fish_406/content.html#Lab_5_-_Arthropods","recurrenceRule":null,"start":"2026-11-03 09:30:00","end":"2026-11-03 12:20:00","location":"OTB 206","backgroundColor":"#91BAB6","color":"white","borderColor":null},{"category":"time","dueDateClass":"","id":"schedule2c1e1858c9fe73866da7c1b2","calendarId":"2","title":"Lab 5 - Section AA","body":"https://wood-lab.github.io/fish_406/content.html#Lab_5_-_Arthropods","recurrenceRule":null,"start":"2026-11-03 13:30:00","end":"2026-11-03 16:20:00","location":"OTB 206","backgroundColor":"#91BAB6","color":"white","borderColor":null},{"category":"time","dueDateClass":"","id":"schedule87bb27219ececc1cc7cb969e","calendarId":"1","title":"Class 14","body":"https://wood-lab.github.io/fish_406/content.html#Class_14","recurrenceRule":null,"start":"2026-11-04 12:30:00","end":"2026-11-04 13:20:00","location":"FISH 107","backgroundColor":"#3A9AB2","color":"white","borderColor":null},{"category":"time","dueDateClass":"","id":"schedulebdbb4d1c7ff45068f72a9864","calendarId":"3","title":"Class 15","body":"https://wood-lab.github.io/fish_406/content.html#Class_15","recurrenceRule":null,"start":"2026-11-06 12:30:00","end":"2026-11-06 13:20:00","location":"FISH 107","backgroundColor":"#3A9AB2","color":"white","borderColor":null},{"category":"time","dueDateClass":"","id":"scheduleca749d8b44af234c0fb892d0","calendarId":"1","title":"Class 16","body":"https://wood-lab.github.io/fish_406/content.html#Class_16","recurrenceRule":null,"start":"2026-11-09 12:30:00","end":"2026-11-09 13:20:00","location":"FISH 107","backgroundColor":"#3A9AB2","color":"white","borderColor":null},{"category":"time","dueDateClass":"","id":"schedule38415a66ed98b26d9843a3bf","calendarId":"2","title":"Lab 6 - Section AB","body":"https://wood-lab.github.io/fish_406/content.html#Lab_6_-_Nematodes","recurrenceRule":null,"start":"2026-11-10 09:30:00","end":"2026-11-10 12:20:00","location":"OTB 206","backgroundColor":"#91BAB6","color":"white","borderColor":null},{"category":"time","dueDateClass":"","id":"scheduleb423402d954823572e9cc97a","calendarId":"2","title":"Lab 6 - Section AA","body":"https://wood-lab.github.io/fish_406/content.html#Lab_6_-_Nematodes","recurrenceRule":null,"start":"2026-11-10 13:30:00","end":"2026-11-10 16:20:00","location":"OTB 206","backgroundColor":"#91BAB6","color":"white","borderColor":null},{"category":"time","dueDateClass":"","id":"schedule27950b29bc695cb0fd3baacc","calendarId":"1","title":"CLASS CANCELLED","body":"","recurrenceRule":null,"start":"2026-11-11 12:30:00","end":"2026-11-11 13:20:00","location":"FISH 107","backgroundColor":"#3A9AB2","color":"white","borderColor":null},{"category":"time","dueDateClass":"","id":"scheduled5b65f52e356ef2702cc8799","calendarId":"1","title":"Class 17","body":"https://wood-lab.github.io/fish_406/content.html#Class_17","recurrenceRule":null,"start":"2026-11-13 12:30:00","end":"2026-11-13 13:20:00","location":"FISH 107","backgroundColor":"#3A9AB2","color":"white","borderColor":null},{"category":"time","dueDateClass":"","id":"schedule5a3b38855f66b9c252aabd0c","calendarId":"1","title":"Class 18","body":"https://wood-lab.github.io/fish_406/content.html#Class_18","recurrenceRule":null,"start":"2026-11-16 12:30:00","end":"2026-11-16 13:20:00","location":"FISH 107","backgroundColor":"#3A9AB2","color":"white","borderColor":null},{"category":"time","dueDateClass":"","id":"schedule3a9b8c3a1e87f7dac060083f","calendarId":"2","title":"Lab 7 - Section AB","body":"https://wood-lab.github.io/fish_406/content.html#Lab_7_-_Protozoa","recurrenceRule":null,"start":"2026-11-17 09:30:00","end":"2026-11-17 12:20:00","location":"OTB 206","backgroundColor":"#91BAB6","color":"white","borderColor":null},{"category":"time","dueDateClass":"","id":"scheduleca91208913644d4afef09dfc","calendarId":"2","title":"Lab 7 - Section AA","body":"https://wood-lab.github.io/fish_406/content.html#Lab_7_-_Protozoa","recurrenceRule":null,"start":"2026-11-17 13:30:00","end":"2026-11-17 16:20:00","location":"OTB 206","backgroundColor":"#91BAB6","color":"white","borderColor":null},{"category":"time","dueDateClass":"","id":"schedulecc66708fb70e70d9c322acd6","calendarId":"1","title":"Class 19","body":"https://wood-lab.github.io/fish_406/content.html#Class_19","recurrenceRule":null,"start":"2026-11-18 12:30:00","end":"2026-11-18 13:20:00","location":"FISH 107","backgroundColor":"#3A9AB2","color":"white","borderColor":null},{"category":"time","dueDateClass":"","id":"schedulec4c44ded27c372707a0401ba","calendarId":"1","title":"Class 20","body":"https://wood-lab.github.io/fish_406/content.html#Class_20","recurrenceRule":null,"start":"2026-11-20 12:30:00","end":"2026-11-20 13:20:00","location":"FISH 107","backgroundColor":"#3A9AB2","color":"white","borderColor":null},{"category":"time","dueDateClass":"","id":"schedulefdb0aa1c9d760159500349c4","calendarId":"1","title":"Class 21","body":"https://wood-lab.github.io/fish_406/content.html#Class_21","recurrenceRule":null,"start":"2026-11-23 12:30:00","end":"2026-11-23 13:20:00","location":"FISH 107","backgroundColor":"#3A9AB2","color":"white","borderColor":null},{"category":"time","dueDateClass":"","id":"schedulefa8e433b3435cba0ed5d7c55","calendarId":"2","title":"Lab 8 - Section AB","body":"https://wood-lab.github.io/fish_406/content.html#Lab_8_-_Posters","recurrenceRule":null,"start":"2026-11-24 09:30:00","end":"2026-11-24 12:20:00","location":"OTB 206","backgroundColor":"#91BAB6","color":"white","borderColor":null},{"category":"time","dueDateClass":"","id":"scheduleedb5e355a28a90c625deed76","calendarId":"2","title":"Lab 8 - Section AA","body":"https://wood-lab.github.io/fish_406/content.html#Lab_8_-_Posters","recurrenceRule":null,"start":"2026-11-24 13:30:00","end":"2026-11-24 16:20:00","location":"OTB 206","backgroundColor":"#91BAB6","color":"white","borderColor":null},{"category":"time","dueDateClass":"","id":"schedulecb230ba5bb4a332d628797da","calendarId":"1","title":"CLASS CANCELLED","body":"","recurrenceRule":null,"start":"2026-11-25 12:30:00","end":"2026-11-25 13:20:00","location":"FISH 107","backgroundColor":"#3A9AB2","color":"white","borderColor":null},{"category":"time","dueDateClass":"","id":"schedule2f46f692a4290aa7f6486881","calendarId":"1","title":"CLASS CANCELLED","body":"","recurrenceRule":null,"start":"2026-11-27 12:30:00","end":"2026-11-27 13:20:00","location":"FISH 107","backgroundColor":"#3A9AB2","color":"white","borderColor":null},{"category":"time","dueDateClass":"","id":"schedule742a6ab84df454cd79fa82d4","calendarId":"1","title":"Class 22","body":"https://wood-lab.github.io/fish_406/content.html#Class_22","recurrenceRule":null,"start":"2026-11-30 12:30:00","end":"2026-11-30 13:20:00","location":"FISH 107","backgroundColor":"#3A9AB2","color":"white","borderColor":null},{"category":"time","dueDateClass":"","id":"schedule9d4ef9c1ce8dba59d27c8c3c","calendarId":"2","title":"LAB CANCELLED","body":"","recurrenceRule":null,"start":"2026-12-01 09:30:00","end":"2026-12-01 12:20:00","location":"OTB 206","backgroundColor":"#91BAB6","color":"white","borderColor":null},{"category":"time","dueDateClass":"","id":"scheduleabbacde75fb68340d47e3da4","calendarId":"2","title":"LAB CANCELLED","body":"","recurrenceRule":null,"start":"2026-12-01 13:30:00","end":"2026-12-01 16:20:00","location":"OTB 206","backgroundColor":"#91BAB6","color":"white","borderColor":null},{"category":"time","dueDateClass":"","id":"scheduleb476dfa7a039c0d922d3726d","calendarId":"1","title":"Class 23","body":"https://wood-lab.github.io/fish_406/content.html#Class_23","recurrenceRule":null,"start":"2026-12-02 12:30:00","end":"2026-12-02 13:20:00","location":"FISH 107","backgroundColor":"#3A9AB2","color":"white","borderColor":null},{"category":"time","dueDateClass":"","id":"scheduled3190367794655a4fc2b6043","calendarId":"1","title":"Class 24","body":"https://wood-lab.github.io/fish_406/content.html#Class_24","recurrenceRule":null,"start":"2026-12-04 12:30:00","end":"2026-12-04 13:20:00","location":"FISH 107","backgroundColor":"#3A9AB2","color":"white","borderColor":null},{"category":"time","dueDateClass":"","id":"schedule748d5b58a2446677949cb483","calendarId":"1","title":"Class 25","body":"https://wood-lab.github.io/fish_406/content.html#Class_25","recurrenceRule":null,"start":"2026-12-07 12:30:00","end":"2026-12-07 13:20:00","location":"FISH 107","backgroundColor":"#3A9AB2","color":"white","borderColor":null},{"category":"time","dueDateClass":"","id":"schedule032139fc66a72691be328dd1","calendarId":"2","title":"Lab 9 - Section AB","body":"https://wood-lab.github.io/fish_406/content.html#Lab_9_-_Exam_review","recurrenceRule":null,"start":"2026-12-08 09:30:00","end":"2026-12-08 12:20:00","location":"OTB 206","backgroundColor":"#91BAB6","color":"white","borderColor":null},{"category":"time","dueDateClass":"","id":"schedulea77b81a291a02092c49bddf3","calendarId":"2","title":"Lab 9 - Section AA","body":"https://wood-lab.github.io/fish_406/content.html#Lab_9_-_Exam_review","recurrenceRule":null,"start":"2026-12-08 13:30:00","end":"2026-12-08 16:20:00","location":"OTB 206","backgroundColor":"#91BAB6","color":"white","borderColor":null},{"category":"time","dueDateClass":"","id":"scheduleadc0a3e05b6fdfc606ef750e","calendarId":"1","title":"Class 26","body":"https://wood-lab.github.io/fish_406/content.html#Class_26","recurrenceRule":null,"start":"2026-12-09 12:30:00","end":"2026-12-09 13:20:00","location":"FISH 107","backgroundColor":"#3A9AB2","color":"white","borderColor":null},{"category":"time","dueDateClass":"","id":"scheduleddc9c8c9c6ca0272c650f35d","calendarId":"3","title":"Final Exam","body":"https://wood-lab.github.io/fish_406/assignments.html#Final_exam","recurrenceRule":null,"start":"2026-12-11 12:30:00","end":"2026-12-11 13:20:00","location":"FISH 107","backgroundColor":"#E3B710","color":"white","borderColor":null},{"category":"allday","dueDateClass":"","id":"schedule32c5bdc362682205f2ab57f5","calendarId":"3","title":"Week 1 quiz due","body":"","recurrenceRule":null,"start":"2026-10-09 00:00:00","end":"2026-10-09 00:00:00","location":"","backgroundColor":"#E79805","color":"white","borderColor":null},{"category":"allday","dueDateClass":"","id":"schedule4ab0d9279714183fb5878ef0","calendarId":"3","title":"Week 2 quiz due","body":"","recurrenceRule":null,"start":"2026-10-16 00:00:00","end":"2026-10-16 00:00:00","location":"","backgroundColor":"#E79805","color":"white","borderColor":null},{"category":"allday","dueDateClass":"","id":"schedule488adbd74eb98b850933375e","calendarId":"3","title":"Week 3 quiz due","body":"","recurrenceRule":null,"start":"2026-10-23 00:00:00","end":"2026-10-23 00:00:00","location":"","backgroundColor":"#E79805","color":"white","borderColor":null},{"category":"allday","dueDateClass":"","id":"schedulecef53607e373f15f76f84a4d","calendarId":"3","title":"Week 4 quiz due","body":"","recurrenceRule":null,"start":"2026-10-30 00:00:00","end":"2026-10-30 00:00:00","location":"","backgroundColor":"#E79805","color":"white","borderColor":null},{"category":"allday","dueDateClass":"","id":"schedule757bbe6ff736dbd09fcce915","calendarId":"3","title":"Week 5 quiz due","body":"","recurrenceRule":null,"start":"2026-11-06 00:00:00","end":"2026-11-06 00:00:00","location":"","backgroundColor":"#E79805","color":"white","borderColor":null},{"category":"allday","dueDateClass":"","id":"schedule0eb92c4f9f73edb419552f73","calendarId":"3","title":"Week 6 quiz due","body":"","recurrenceRule":null,"start":"2026-11-13 00:00:00","end":"2026-11-13 00:00:00","location":"","backgroundColor":"#E79805","color":"white","borderColor":null},{"category":"allday","dueDateClass":"","id":"schedule2b1c4d5db083c3557b3d5e2b","calendarId":"3","title":"Week 7 quiz due","body":"","recurrenceRule":null,"start":"2026-11-20 00:00:00","end":"2026-11-20 00:00:00","location":"","backgroundColor":"#E79805","color":"white","borderColor":null},{"category":"allday","dueDateClass":"","id":"schedule3eeee5a44fec6d6118dfd358","calendarId":"3","title":"Week 8 quiz due","body":"","recurrenceRule":null,"start":"2026-11-27 00:00:00","end":"2026-11-27 00:00:00","location":"","backgroundColor":"#E79805","color":"white","borderColor":null},{"category":"allday","dueDateClass":"","id":"schedulee9131d64907f716da8ac9056","calendarId":"3","title":"Week 9 quiz due","body":"","recurrenceRule":null,"start":"2026-12-04 00:00:00","end":"2026-12-04 00:00:00","location":"","backgroundColor":"#E79805","color":"white","borderColor":null},{"category":"allday","dueDateClass":"","id":"scheduleb485564818a526b5a920b8b7","calendarId":"3","title":"Week 10 quiz due","body":"","recurrenceRule":null,"start":"2026-12-11 00:00:00","end":"2026-12-11 00:00:00","location":"","backgroundColor":"#E79805","color":"white","borderColor":null},{"category":"allday","dueDateClass":"","id":"schedule6e43774c7eec9591172a51c1","calendarId":"3","title":"Week 11 quiz due","body":"","recurrenceRule":null,"start":"2026-12-18 00:00:00","end":"2026-12-18 00:00:00","location":"","backgroundColor":"#E79805","color":"white","borderColor":null},{"category":"allday","dueDateClass":"","id":"schedulee85608f8d49cf60b09b02203","calendarId":"3","title":"Submit your lab notebook","body":"","recurrenceRule":null,"start":"2026-12-08 00:00:00","end":"2026-12-08 00:00:00","location":"","backgroundColor":"#E79805","color":"white","borderColor":null},{"category":"allday","dueDateClass":"","id":"schedule5953db429997f1956aab68c1","calendarId":"3","title":"Submit your research question","body":"","recurrenceRule":null,"start":"2026-10-20 00:00:00","end":"2026-10-20 00:00:00","location":"","backgroundColor":"#E79805","color":"white","borderColor":null},{"category":"allday","dueDateClass":"","id":"schedule684bbf0b0d6536fc85d2bad1","calendarId":"3","title":"Submit your preliminary analysis","body":"","recurrenceRule":null,"start":"2026-10-27 00:00:00","end":"2026-10-27 00:00:00","location":"","backgroundColor":"#E79805","color":"white","borderColor":null},{"category":"allday","dueDateClass":"","id":"schedule546cff013518517691ea289c","calendarId":"3","title":"Submit your introduction section","body":"","recurrenceRule":null,"start":"2026-11-03 00:00:00","end":"2026-11-03 00:00:00","location":"","backgroundColor":"#E79805","color":"white","borderColor":null},{"category":"allday","dueDateClass":"","id":"schedule6f0e73b4018cebe0dc58c8b6","calendarId":"3","title":"Submit your first draft","body":"","recurrenceRule":null,"start":"2026-11-10 00:00:00","end":"2026-11-10 00:00:00","location":"","backgroundColor":"#E79805","color":"white","borderColor":null},{"category":"allday","dueDateClass":"","id":"schedule19f425087de42ffd8b57f654","calendarId":"3","title":"Peer review your colleagues' first drafts","body":"","recurrenceRule":null,"start":"2026-11-17 00:00:00","end":"2026-11-17 00:00:00","location":"","backgroundColor":"#E79805","color":"white","borderColor":null},{"category":"allday","dueDateClass":"","id":"schedule422a716712b502cc1e1c0202","calendarId":"3","title":"Submit second draft for instructors' comments","body":"","recurrenceRule":null,"start":"2026-12-01 00:00:00","end":"2026-12-01 00:00:00","location":"","backgroundColor":"#E79805","color":"white","borderColor":null},{"category":"allday","dueDateClass":"","id":"schedule705db6bfb94c2bdd2de3beda","calendarId":"3","title":"Poster presentation","body":"","recurrenceRule":null,"start":"2026-11-24 00:00:00","end":"2026-11-24 00:00:00","location":"","backgroundColor":"#E79805","color":"white","borderColor":null},{"category":"allday","dueDateClass":"","id":"schedule5753f25ef3dab98c237ee4b3","calendarId":"3","title":"Final term paper","body":"","recurrenceRule":null,"start":"2026-12-17 00:00:00","end":"2026-12-17 00:00:00","location":"","backgroundColor":"#E79805","color":"white","borderColor":null},{"category":"allday","dueDateClass":"","id":"schedule2cd293c777ea9f42457c4b49","calendarId":"4","title":"Veteran's Day","body":"","recurrenceRule":null,"start":"2026-11-11 00:00:00","end":"2026-11-11 00:00:00","location":"","backgroundColor":"#F03801","color":"white","borderColor":null},{"category":"allday","dueDateClass":"","id":"schedulebc525b861faafb7648ca0c90","calendarId":"4","title":"Thanksgiving Day","body":"","recurrenceRule":null,"start":"2026-11-26 00:00:00","end":"2026-11-26 00:00:00","location":"","backgroundColor":"#F03801","color":"white","borderColor":null},{"category":"allday","dueDateClass":"","id":"schedule7c759773121f03f8b148f08c","calendarId":"4","title":"Federal holiday","body":"","recurrenceRule":null,"start":"2026-11-27 00:00:00","end":"2026-11-27 00:00:00","location":"","backgroundColor":"#F03801","color":"white","borderColor":null},{"category":"allday","dueDateClass":"","id":"schedulec64672691c5b017e6c2b2fc1","calendarId":"4","title":"Finals week","body":"","recurrenceRule":null,"start":"2026-12-14 00:00:00","end":"2026-12-18 00:00:00","location":"","backgroundColor":"#F03801","color":"white","borderColor":null}],"navigation":true,"defaultDate":"2026-11-16","events":[],"navigationOptions":{"today_label":"Today","prev_label":"<svg xmlns=\"http://www.w3.org/2000/svg\" viewbox=\"0 0 256 256\" class=\"phosphor-svg\" height=\"1.33em\" fill=\"currentColor\" style=\"vertical-align:-0.25em;\">\n  <path d=\"M164.24,203.76a6,6,0,1,1-8.48,8.48l-80-80a6,6,0,0,1,0-8.48l80-80a6,6,0,0,1,8.48,8.48L88.49,128Z\"><\/path>\n  <title>caret-left-light<\/title>\n<\/svg>","next_label":"<svg xmlns=\"http://www.w3.org/2000/svg\" viewbox=\"0 0 256 256\" class=\"phosphor-svg\" height=\"1.33em\" fill=\"currentColor\" style=\"vertical-align:-0.25em;\">\n  <path d=\"M180.24,132.24l-80,80a6,6,0,0,1-8.48-8.48L167.51,128,91.76,52.24a6,6,0,0,1,8.48-8.48l80,80A6,6,0,0,1,180.24,132.24Z\"><\/path>\n  <title>caret-right-light<\/title>\n<\/svg>","class":" bttn-bordered bttn-sm bttn-primary","fmt_date":"YYYY-MM-DD","sep_date":" ~ "}},"evals":[],"jsHooks":[]}</script>
+<br> </br>
+<center>
+For a fully accessible version of this calendar, download <a
+href="calendar_data.csv">the csv file</a>.
+</center>
+<center>
+Access the course instructor’s schedule <a
+href="https://wood-lab.github.io/fish_406/instructor_schedule.html">here</a>.
+</center>
+<br> </br>
+<center>
+<em>This site was last updated at 14:16 on 16 Nov 2026</em>
+</center>
+
+
+
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open');
+  });
+});
+</script>
+
+<!-- code folding -->
+
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>
